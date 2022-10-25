@@ -13,9 +13,18 @@ We also do the structure-based drug design.
 
 ### Emacs related
 - [latex-emacs](https://github.com/MooersLab/latex-emacs) A configuration file supporting the use of LaTeX in Emacs.
-- [slideshowTemplateInLaTeX](https://github.com/MooersLab/slideshowTemplateLaTeX)
+- [slideshowTemplateInLaTeX](https://github.com/MooersLab/slideshowTemplateLaTeX) Slideshow template in Beamer makes slides that do not look like they were made in LaTeX.
 - [posterInLaTeX](https://github.com/MooersLab/posterInLaTeX) Uses beamer to make a poster via a simple design. Enables whipping together a poster a few hours. It is much easier than using powerpoint.
-- 
+- [LaTeX manuscript template](https://github.com/MooersLab/manuscriptInLaTeX/edit/main/README.md) Generic template for the first submission as a PDF.
+- [Writing log template in LaTeX](https://github.com/MooersLab/writingLogTemplate) Place to track progress and plans behind a manuscript.
+- [Annotated bibliography Template in LaTeX](https://github.com/MooersLab/annotatedBibliography) Every writing project needs one of these.
+- [Diary for 2022 in LaTeX](https://github.com/MooersLab/diary2022inLaTeX) Each day is a section. Each month is a chapter. Has an index.
+- [Diary for 2023 in LaTeX](https://github.com/MooersLab/diary2023inLaTeX) 
+- [snippets for latex-mode in Emacs](https://github.com/MooersLab/snippet-latex-mode) My LaTeX code snippets for yasnippets.
+- [Quizzes about Emacs to improve recall of keybindings](https://github.com/MooersLab/qemacs) Ten minutes boosting your recall on a particular topic can save 10 hours of Google searches.
+- [Slides from talk about GhostText, Data Science Workshop, July 2022](https://github.com/MooersLab/DSW22ghosttext) GhostTexT rocks!
+- [Video link to talk about GhostText, Data Science Workshop, July 2022](https://mediasite.ouhsc.edu/Mediasite/Channel/python/watch/4da0872f028c4255ae12935655e911321d)
+- [The writer's creed](https://github.com/MooersLab/thewriterslaw) Guidelines for greater productivity.
 
 ### Molecular Graphics related
 
