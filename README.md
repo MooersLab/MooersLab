@@ -16,7 +16,9 @@ We also do the structure-based drug design.
 ### Molecular Graphics related
 
 #### PyMOL
-[pymolsnips](https://github.com/MooersLab/pymolsnips) Contains extensive instructions on installing 19 text editors.
+- [pymolsnips](https://github.com/MooersLab/pymolsnips) Contains extensive instructions on installing 19 text editors.
+- [pymolshortcuts](https://github.com/MooersLab/pymolshortcuts) Very useful for non-coders.
+- [pymolshortcuts](https://github.com/MooersLab/easypymol) 
 
 ### Structure-based Drug Design
 
