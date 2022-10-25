@@ -5,21 +5,21 @@ My lab determines the structures of biomolecular molecules and their complexes u
 We also do the structure-based drug design.
 
 
-## Index of repositories
+# Index of repositories
 
-### Bash related
+## Bash related
 - [Bash functions for Schooner at OSCER](https://github.com/MooersLab/bashFunctions4oscer)
 
 
-### Blog
+## Blog
 - [Lab website with blog posts](https://mooerslab.github.io/)
 
 
-### Crystallographic computing
+## Crystallographic computing
 - [Jupyterlab cctbx snippets](https://github.com/MooersLab/jupyterlabcctbxsnips) CCTBX snippets for JupyterLab with the jupyterlab-snippets extension or the jupyterlab-snippets-mutlimenus extension.
 - [Colab cctbx snippets](https://github.com/MooersLab/colabcctbxsnips) Colab snippets.
 
-### Emacs related
+## Emacs related
 - [Writing log template in Org-mode](https://github.com/MooersLab/writingLogTemplateInOrg)
 - [Org-mode manuscript template](https://github.com/MooersLab/manuscriptInOrg/edit/main/README.md)
 - [latex-emacs](https://github.com/MooersLab/latex-emacs) A configuration file supporting the use of LaTeX in Emacs.
@@ -27,12 +27,12 @@ We also do the structure-based drug design.
 - [Quizzes about Emacs to improve recall of keybindings](https://github.com/MooersLab/qemacs) Ten minutes boosting your recall on a particular topic can save 10 hours of Google searches.
 - [Slides from talk about GhostText, Data Science Workshop, July 2022](https://github.com/MooersLab/DSW22ghosttext) GhostTexT rocks!
 - [Video link to talk about GhostText, Data Science Workshop, July 2022](https://mediasite.ouhsc.edu/Mediasite/Channel/python/watch/4da0872f028c4255ae12935655e911321d)
-- [The writer's creed](https://github.com/MooersLab/thewriterslaw) Guidelines for greater productivity.
 
 
 
 
-### LaTeX related
+
+## LaTeX related
 - [latex-emacs](https://github.com/MooersLab/latex-emacs) A configuration file supporting the use of LaTeX in Emacs.
 - [slideshowTemplateInLaTeX](https://github.com/MooersLab/slideshowTemplateLaTeX) Slideshow template in Beamer makes slides that do not look like they were made in LaTeX.
 - [posterInLaTeX](https://github.com/MooersLab/posterInLaTeX) Uses beamer to make a poster via a simple design. Enables whipping together a poster a few hours. It is much easier than using powerpoint.
@@ -45,9 +45,10 @@ We also do the structure-based drug design.
 - [The writer's creed](https://github.com/MooersLab/thewriterslaw) Guidelines for greater productivity.
 
 
-### Molecular Graphics related
+## Molecular Graphics related
 
 #### PyMOL
+- [pymolrc](https://github.com/MooersLab/pymolrc) My pymolrc file.
 - [pymolsnips](https://github.com/MooersLab/pymolsnips) Contains extensive instructions on installing 19 text editors.
 - [pymolshortcuts](https://github.com/MooersLab/pymolshortcuts) Very useful for non-coders.
 - [EasyPyMOL](https://github.com/MooersLab/EasyPyMOL) Support for horizontal scripting.
@@ -59,11 +60,14 @@ We also do the structure-based drug design.
 - [colabPyMOLpySnips](https://github.com/MooersLab/colabPyMOLpySnips) PyMOL Python snippets for use in Colab with the incentive PyMOL.
 - [PyMOL wall hangings](https://github.com/MooersLab/PyMOLwallhangings) Protocol for making oversized images to be framed and hung on the wall.
 
-### Structure-based Drug Design
+<!--
+## Structure-based Drug Design
+-->
 
-### Supercomputing related
+## Supercomputing related
 - [Bash functions for Schooner at OSCER](https://github.com/MooersLab/bashFunctions4oscer)
-
+- [Emacs configuration file for schooner supercomputer](https://github.com/MooersLab/emacs4oscer)
+- [Vim configuration file for schooner supercomputer](https://github.com/MooersLab/vimrc4oscer) 
 
 <!--
 **MooersLab/MooersLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
