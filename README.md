@@ -12,7 +12,8 @@ We also do the structure-based drug design.
 
 
 ### Crystallographic computing
-- 
+- [Jupyterlab cctbx snippets](https://github.com/MooersLab/jupyterlabcctbxsnips) CCTBX snippets for JupyterLab with the jupyterlab-snippets extension or the jupyterlab-snippets-mutlimenus extension.
+- [Colab cctbx snippets](https://github.com/MooersLab/colabcctbxsnips) Colab snippets.
 
 ### Emacs related
 - [Writing log template in Org-mode](https://github.com/MooersLab/writingLogTemplateInOrg)
