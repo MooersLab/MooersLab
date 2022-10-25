@@ -12,13 +12,19 @@ We also do the structure-based drug design.
 ### LaTeX related
 
 ### Emacs related
+- [latex-emacs](https://github.com/MooersLab/latex-emacs) A configuration file supporting the use of LaTeX in Emacs.
+- [slideshowTemplateInLaTeX](https://github.com/MooersLab/slideshowTemplateLaTeX)
+- [posterInLaTeX](https://github.com/MooersLab/posterInLaTeX) Uses beamer to make a poster via a simple design. Enables whipping together a poster a few hours. It is much easier than using powerpoint.
+- 
 
 ### Molecular Graphics related
 
 #### PyMOL
 - [pymolsnips](https://github.com/MooersLab/pymolsnips) Contains extensive instructions on installing 19 text editors.
 - [pymolshortcuts](https://github.com/MooersLab/pymolshortcuts) Very useful for non-coders.
-- [pymolshortcuts](https://github.com/MooersLab/easypymol) 
+- [EasyPyMOL](https://github.com/MooersLab/EasyPyMOL) Support for horizontal scripting.
+
+
 
 ### Structure-based Drug Design
 
