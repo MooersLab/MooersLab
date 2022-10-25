@@ -7,11 +7,12 @@ We also do the structure-based drug design.
 
 ## Index of repositories
 
-
+### Bash related
+- [Bash functions for Schooner at OSCER](https://github.com/MooersLab/bashFunctions4oscer)
 
 
 ### Crystallographic computing
-
+- 
 
 ### Emacs related
 - [Writing log template in Org-mode](https://github.com/MooersLab/writingLogTemplateInOrg)
