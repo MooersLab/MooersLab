@@ -64,6 +64,10 @@ We also do the structure-based drug design.
 ## Structure-based Drug Design
 -->
 
+## Statistical Computing
+- [JointProb: group D ](https://github.com/MooersLab/jointprob1D) Rmarkdown notebooks for the JointProb study group.
+
+
 ## Supercomputing related
 - [Bash functions for Schooner at OSCER](https://github.com/MooersLab/bashFunctions4oscer)
 - [Emacs configuration file for schooner supercomputer](https://github.com/MooersLab/emacs4oscer)
