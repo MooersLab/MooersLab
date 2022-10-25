@@ -51,7 +51,7 @@ We also do the structure-based drug design.
 ### Structure-based Drug Design
 
 ### Supercomputing related
-
+- [Bash functions for Schooner at OSCER](https://github.com/MooersLab/bashFunctions4oscer)
 
 
 <!--
