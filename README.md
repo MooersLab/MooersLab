@@ -47,7 +47,12 @@ We also do the structure-based drug design.
 - [pymolsnips](https://github.com/MooersLab/pymolsnips) Contains extensive instructions on installing 19 text editors.
 - [pymolshortcuts](https://github.com/MooersLab/pymolshortcuts) Very useful for non-coders.
 - [EasyPyMOL](https://github.com/MooersLab/EasyPyMOL) Support for horizontal scripting.
-
+- [orgpymolpysnips](https://github.com/MooersLab/orgpymolpysnips) Support for literate programming in org-mode with PyMOL.
+- [rstudiopymolpysnips](https://github.com/MooersLab/rstudiopymolpysnips) Support for literate programming in Rstuido with PyMOL.
+- [taggedpymolpysnips](https://github.com/MooersLab/taggedpymolpysnips) Support for literate programming in JupyterLab with tagged snippets with the elyra-snippets extension and with PyMOL.
+- [jupyterlabpymolpysnips](https://github.com/MooersLab/jupyterlabpymolpysnips) PyMOL Python snippets for use in JupyterLab with the jupyterlab-snippets extension.
+- [colabOpenSourcePyMOLpySnips](https://github.com/MooersLab/colabOpenSourcePyMOLpySnips) PyMOL Python snippets for use in Colab with open source PyMOL.
+- [colabPyMOLpySnips](https://github.com/MooersLab/colabPyMOLpySnips) PyMOL Python snippets for use in Colab with the incentive PyMOL.
 
 
 ### Structure-based Drug Design
