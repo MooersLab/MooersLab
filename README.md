@@ -20,9 +20,9 @@ We also do the structure-based drug design.
 - [Colab cctbx snippets](https://github.com/MooersLab/colabcctbxsnips) Colab snippets.
 
 ## Emacs related
-- [Writing log template in Org-mode](https://github.com/MooersLab/writingLogTemplateInOrg)
-- [Org-mode manuscript template](https://github.com/MooersLab/manuscriptInOrg/edit/main/README.md)
-- [latex-emacs](https://github.com/MooersLab/latex-emacs) A configuration file supporting the use of LaTeX in Emacs.
+- [Writing log template in Org-mode](https://github.com/MooersLab/writingLogTemplateInOrg) Template for tracking your actions, decisions, and plans for any serious writing project that takes more than one session to finish. The LaTeX version is listed in the LaTeX section for use on Overleaf or in Emacs.
+- [Org-mode manuscript template](https://github.com/MooersLab/manuscriptInOrg/edit/main/README.md) The manuscript will be exported to PDF after being run through LaTeX. This is for the first submission. This is for the lovers of org-mode. The export from org to PDF is fast and painless in Emacs.
+- [latex-emacs](https://github.com/MooersLab/latex-emacs) A configuration file enhancing the use of LaTeX in Emacs. Includes org-mode configuration.
 - [snippets for latex-mode in Emacs](https://github.com/MooersLab/snippet-latex-mode) My LaTeX code snippets for yasnippets.
 - [Quizzes about Emacs to improve recall of keybindings](https://github.com/MooersLab/qemacs) Ten minutes boosting your recall on a particular topic can save 10 hours of Google searches.
 - [Slides from talk about GhostText, Data Science Workshop, July 2022](https://github.com/MooersLab/DSW22ghosttext) GhostTexT rocks!
