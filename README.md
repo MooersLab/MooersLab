@@ -72,6 +72,7 @@ We also do the structure-based drug design.
 - [Bash functions for Schooner at OSCER](https://github.com/MooersLab/bashFunctions4oscer)
 - [Emacs configuration file for schooner supercomputer](https://github.com/MooersLab/emacs4oscer)
 - [Vim configuration file for schooner supercomputer](https://github.com/MooersLab/vimrc4oscer) 
+- [Vim configuration file for SSRL SMB cluster](https://github.com/MooersLab/vimrc4ssrl)
 
 <!--
 **MooersLab/MooersLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
