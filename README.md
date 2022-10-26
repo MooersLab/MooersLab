@@ -74,6 +74,14 @@ We also do the structure-based drug design.
 - [Vim configuration file for schooner supercomputer](https://github.com/MooersLab/vimrc4oscer) 
 - [Vim configuration file for SSRL SMB cluster](https://github.com/MooersLab/vimrc4ssrl)
 
+
+## Vim (and Neovim)
+- [Vim configuration file](https://github.com/MooersLab/vimrc) Current vimrc file for Mac OSX 10.15
+- [Vim configuration file for schooner supercomputer](https://github.com/MooersLab/vimrc4oscer) 
+- [Vim configuration file for SSRL SMB cluster](https://github.com/MooersLab/vimrc4ssrl)
+- [Neovim configuration file](https://github.com/MooersLab/neovim-init-file)
+- [qvim](https://github.com/MooersLab/qvim) Quiz about Vim.
+
 <!--
 **MooersLab/MooersLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
