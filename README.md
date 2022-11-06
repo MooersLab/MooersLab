@@ -25,6 +25,7 @@ We also do the structure-based drug design.
 - [Colab cctbx snippets](https://github.com/MooersLab/colabcctbxsnips) Colab snippets.
 
 ## Emacs related
+- [crafted-emacs user config](https://github.com/MooersLab/crafted-emacs-config) My user configuration file (config.el) for the crafted-emacs profile. I did install use-package and used it to install several packages. The base profile has the Doom theme, Vertico completion stack, and eglot. I add my org-agenda config and my favorite key bindings. I am currently luvin it. 
 - [latex-emacs](https://github.com/MooersLab/latex-emacs) A configuration file enhancing the use of LaTeX in Emacs. Includes org-mode configuration.
 - [scimax user.el](https://github.com/MooersLab/scimax) Scimax is the Emacs configuration that John Kitchin is developing to support reproducible research by scientists with Emacs. The *user.el*.  file for scimax enables scimax users to add keybindings and packages. I added features from latex-emacs and config.org.
 - [config.org](https://github.com/MooersLab/config) My default configuration file for GNU Emacs.
