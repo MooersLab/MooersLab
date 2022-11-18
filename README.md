@@ -77,7 +77,7 @@ This is a very cool way of extending Emacs to websites with weaker editors.
 - [JointProb: group D ](https://github.com/MooersLab/jointprob1D) Rmarkdown notebooks for the JointProb study group.
 
 
-## Supercomputing related
+## Supercomputing related (includes HPC, cluster computing, cloud computing)
 - [Bash functions for Schooner at OSCER](https://github.com/MooersLab/bashFunctions4oscer)
 - [Emacs configuration file for schooner supercomputer](https://github.com/MooersLab/emacs4oscer)
 - [Vim configuration file for schooner supercomputer](https://github.com/MooersLab/vimrc4oscer) 
