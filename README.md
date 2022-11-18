@@ -82,6 +82,7 @@ This is a very cool way of extending Emacs to websites with weaker editors.
 - [Emacs configuration file for schooner supercomputer](https://github.com/MooersLab/emacs4oscer)
 - [Vim configuration file for schooner supercomputer](https://github.com/MooersLab/vimrc4oscer) 
 - [Vim configuration file for SSRL SMB cluster](https://github.com/MooersLab/vimrc4ssrl)
+- [Tutorial for biologists on using the supercomputer at OU-Norman](https://github.com/MooersLab/oscer-supercomputer-tutorial)
 
 
 ## Vim (and Neovim)
