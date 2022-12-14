@@ -36,6 +36,8 @@ We also do the structure-based drug design.
 - [Quizzes about Emacs to improve recall of keybindings](https://github.com/MooersLab/qemacs) Ten minutes boosting your recall on a particular topic can save 10 hours of Google searches.
 - [Slides from talk about GhostText, Data Science Workshop, July 2022](https://github.com/MooersLab/DSW22ghosttext) GhostTexT rocks! It enables the editing of textboxes on web sites with Emacs. You can use GhostText to bring the full power of Emacs to Overleaf.
 - [Video link to talk about GhostText, Data Science Workshop, July 2022](https://mediasite.ouhsc.edu/Mediasite/Channel/python/watch/4da0872f028c4255ae12935655e911321d)
+- [emacsconf 2021 talk about molecular graphics in org](https://emacsconf.org/2021/talks/molecular/)
+- [emacsconf 2022 talk about using Emacs to edit Jupyter cells](https://emacsconf.org/2022/talks/jupyter/)
 
 ## LaTeX related
 Note that I currently write alot in Emacs on 750words.com via GhostText. I configured atomicchrome to go to LaTeX mode when GhostText connects to 750words. I can also use Emacs to write and edit text in Overleaf via atomicchrome and GhostText.
