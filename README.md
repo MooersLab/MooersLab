@@ -25,19 +25,20 @@ We also do the structure-based drug design.
 - [Colab cctbx snippets](https://github.com/MooersLab/colabcctbxsnips) Colab snippets.
 
 ## Emacs related
-- [crafted-emacs user config](https://github.com/MooersLab/crafted-emacs-config) My user configuration file (config.el) for the crafted-emacs profile. I did install use-package and used it to install several packages. The base profile has the Doom theme, Vertico completion stack, and eglot. I add my org-agenda config and my favorite key bindings. I am currently luvin it. 
-- [latex-emacs](https://github.com/MooersLab/latex-emacs) A configuration file enhancing the use of LaTeX in Emacs. Includes org-mode configuration.
-- [scimax user.el](https://github.com/MooersLab/scimax) Scimax is the Emacs configuration that John Kitchin is developing to support reproducible research by scientists with Emacs. The *user.el*.  file for scimax enables scimax users to add keybindings and packages. I added features from latex-emacs and config.org.
-- [config.org](https://github.com/MooersLab/config) My default configuration file for GNU Emacs.
+- [crafted-emacs user config](https://github.com/MooersLab/crafted-emacs-config) My user configuration file (config.el) for the crafted-emacs profile. I did install use-package and used it to install several packages. The base profile has the Doom theme, Vertico completion stack, and eglot. I added my org-agenda config and my favorite key bindings. I am currently *luvin* it. 
+- [latex-emacs configuration](https://github.com/MooersLab/latex-emacs) A configuration file enhancing the use of LaTeX in Gnu Emacs. Includes org-mode configuration.
+- [latex-emacs28 configuration](https://github.com/MooersLab/latexemacs28/blob/main/README.md) Similar to above but for Gnu Emacs version 28.
+- [scimax user.el](https://github.com/MooersLab/scimax) Scimax is the Emacs configuration that John Kitchin is developing to support reproducible research by scientists with Gnu Emacs. The *user.el* file for scimax enables scimax users to add keybindings and packages. I added features from latex-emacs and config.org.
+- [config.org](https://github.com/MooersLab/config) My default configuration file for GNU Emacs version 30.
 - [Writing log template in Org-mode](https://github.com/MooersLab/writingLogTemplateInOrg) Template for tracking your actions, decisions, and plans for any serious writing project that takes more than one session to finish. The LaTeX version is listed in the LaTeX section for use on Overleaf or in Emacs.
 - [Org-mode manuscript template](https://github.com/MooersLab/manuscriptInOrg/edit/main/README.md) The manuscript will be exported to PDF after being run through LaTeX. This is for the first submission. This is for the lovers of org-mode. The export from org to PDF is fast and painless in Emacs.
-- [Slides about workflow in LaTeX](https://github.com/MooersLab/BerlinEmacsAugust2022) presented to the Berlin Emacs Meetup August 2022. Not recorded. It was a 90-minute lecture.
+- [Slides about workflow in LaTeX](https://github.com/MooersLab/BerlinEmacsAugust2022) presented to the Berlin Emacs Meetup August 2022. Not recorded. It was a 90-minute presentation.
 - [snippets for latex-mode in Emacs](https://github.com/MooersLab/snippet-latex-mode) My LaTeX code snippets for yasnippets.
-- [Quizzes about Emacs to improve recall of keybindings](https://github.com/MooersLab/qemacs) Ten minutes boosting your recall on a particular topic can save 10 hours of Google searches.
-- [Slides from talk about GhostText, Data Science Workshop, July 2022](https://github.com/MooersLab/DSW22ghosttext) GhostTexT rocks! It enables the editing of textboxes on web sites with Emacs. You can use GhostText to bring the full power of Emacs to Overleaf.
-- [Video link to talk about GhostText, Data Science Workshop, July 2022](https://mediasite.ouhsc.edu/Mediasite/Channel/python/watch/4da0872f028c4255ae12935655e911321d)
-- [emacsconf 2021 talk about molecular graphics in org](https://emacsconf.org/2021/talks/molecular/)
-- [emacsconf 2022 talk about using Emacs to edit Jupyter cells](https://emacsconf.org/2022/talks/jupyter/)
+- [Quizzes about Emacs to improve recall of keybindings](https://github.com/MooersLab/qemacs) Ten minutes boosting your recall on a particular topic can save 10, 100, or 1000 hours of Google searches, espcially if you are prone to getting side-tracked in the Google-verse.
+- [Slides from talk about GhostText, Data Science Workshop, July 2022](https://github.com/MooersLab/DSW22ghosttext) GhostTexT rocks! It enables the editing of textboxes on web sites with Emacs. You can use GhostText to bring the full power of Emacs to Overleaf (*Important:*  use the legacy version rendering of the text area in Overleaf to get text impoted into a LaTeX buffer).
+- [Video link to talk about GhostText, Oklahoma Data Science Workshop, July 2022](https://mediasite.ouhsc.edu/Mediasite/Channel/python/watch/4da0872f028c4255ae12935655e911321d)
+- [emacsconf 2021 talk about rendering molecular graphics with PyMOL in org literate programming files](https://emacsconf.org/2021/talks/molecular/)
+- [emacsconf 2022 talk about using Emacs to edit Jupyter cells via GhostText and atomic-chrome](https://emacsconf.org/2022/talks/jupyter/)
 
 ## LaTeX related
 Note that I currently write alot in Emacs on 750words.com via GhostText. I configured atomicchrome to go to LaTeX mode when GhostText connects to 750words. I can also use Emacs to write and edit text in Overleaf via atomicchrome and GhostText.
@@ -70,7 +71,6 @@ This is a very cool way of extending Emacs to websites with weaker editors.
 - [colabOpenSourcePyMOLpySnips](https://github.com/MooersLab/colabOpenSourcePyMOLpySnips) PyMOL Python snippets for use in Colab with open source PyMOL.
 - [colabPyMOLpySnips](https://github.com/MooersLab/colabPyMOLpySnips) PyMOL Python snippets for use in Colab with the incentive PyMOL.
 - [PyMOL wall hangings](https://github.com/MooersLab/PyMOLwallhangings) Protocol for making oversized images to be framed and hung on the wall.
-
 <!--
 ## Structure-based Drug Design
 -->
