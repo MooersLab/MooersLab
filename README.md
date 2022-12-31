@@ -17,7 +17,7 @@ We also do structure-based drug design using supercomputers.
 
 
 ## Blog
-- [Lab website with blog posts](https://mooerslab.github.io/)
+- [Lab website with blog posts](https://mooerslab.github.io/year-archive/)
 
 
 ## Crystallographic computing
