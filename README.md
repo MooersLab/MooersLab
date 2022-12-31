@@ -51,8 +51,8 @@ This is a very cool way of extending Emacs to websites with weaker editors.
 - [LaTeX manuscript template](https://github.com/MooersLab/manuscriptInLaTeX/edit/main/README.md) Generic template for the first submission as a PDF.
 - [Writing log template in LaTeX](https://github.com/MooersLab/writingLogTemplate) Place to track progress and plans behind a manuscript.
 - [Annotated bibliography Template in LaTeX](https://github.com/MooersLab/annotatedBibliography) Every writing project needs one of these.
-- [Diary for 2022 in LaTeX](https://github.com/MooersLab/diary2022inLaTeX) Each day is a section. Each month is a chapter. Has an index.
-- [Diary for 2023 in LaTeX](https://github.com/MooersLab/diary2023inLaTeX) 
+- [Diary for 2022 in LaTeX](https://github.com/MooersLab/diary2022inLaTeX) Each day is a section. Each month is a chapter. Has an index (something that some markdowns cannot generate). Very feature-rich and ready to use.
+- [Diary for 2023 in LaTeX](https://github.com/MooersLab/diary2023inLaTeX) Same as above but reformatted for 2023
 - [snippets for latex-mode in Emacs](https://github.com/MooersLab/snippet-latex-mode) My LaTeX code snippets for yasnippets.
 - [The writer's creed](https://github.com/MooersLab/thewriterslaw) Guidelines for greater productivity.
 
@@ -94,8 +94,9 @@ This is a very cool way of extending Emacs to websites with weaker editors.
 - [Neovim configuration file](https://github.com/MooersLab/neovim-init-file)
 - [qvim](https://github.com/MooersLab/qvim) Quiz about Vim commands to improve your recall of the commands after a break from using Vim.
 
+**MooersLab/MooersLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on his GitHub profile 👋.
+
 <!--
-**MooersLab/MooersLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
