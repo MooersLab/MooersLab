@@ -2,8 +2,8 @@
 
 This site contains the public repositories of the Dr. Blaine Mooers Lab, Department of Biochemistry and Molecular Biology, College of Medicine, University of Oklahoma Health Sciences Center, Oklahoma City, Oklahoma, USA.
 My lab determines the structures of biomolecular molecules and their complexes with drugs using mostly X-ray crystallography and sometimes small angle X-ray scattering. 
-We also do the structure-based drug design.
-
+We grow crytals using advanced methods and collect X-ray data inhouse and frequently at the Stanford Synchrotron Radiation LightSource.
+We also do structure-based drug design using supercomputers.
 
 # Index of repositories
 
