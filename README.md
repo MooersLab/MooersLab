@@ -11,10 +11,9 @@ We also do structure-based drug design using supercomputers.
 - [ACA2021](https://github.com/MooersLab/ACA2021)
 - [ACA2022](https://github.com/MooersLab/ACA2022)
 
-
 ## Bash related
 - [Bash functions for Schooner at OSCER](https://github.com/MooersLab/bashFunctions4oscer)
-
+- [Multiple file transfer](https://github.com/MooersLab/multipleFileTransfer)
 
 ## Blog
 - [Lab website with blog posts](https://mooerslab.github.io/year-archive/)
@@ -82,6 +81,7 @@ This is a very cool way of extending Emacs to websites with weaker editors.
 ## Supercomputing related (includes HPC, cluster computing, cloud computing)
 - [Bash functions for Schooner at OSCER](https://github.com/MooersLab/bashFunctions4oscer)
 - [Emacs configuration file for schooner supercomputer](https://github.com/MooersLab/emacs4oscer)
+- [Multiple file transfer](https://github.com/MooersLab/multipleFileTransfer)
 - [Vim configuration file for schooner supercomputer](https://github.com/MooersLab/vimrc4oscer) 
 - [Vim configuration file for SSRL SMB cluster](https://github.com/MooersLab/vimrc4ssrl)
 - [Tutorial for biologists on using the supercomputer at OU-Norman](https://github.com/MooersLab/oscer-supercomputer-tutorial)
