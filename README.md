@@ -15,6 +15,9 @@ We also do structure-based drug design using supercomputers.
 - [Bash functions for Schooner at OSCER](https://github.com/MooersLab/bashFunctions4oscer)
 - [Multiple file transfer](https://github.com/MooersLab/multipleFileTransfer)
 
+## Bayeisan Data Analysis
+- [JointProb](https://github.com/MooersLab/jointprob1D) Rmarkdown and jupyer notebooks for the JointProb study group.
+
 ## Blog
 - [Lab website with blog posts](https://mooerslab.github.io/year-archive/)
 
@@ -74,8 +77,6 @@ This is a very cool way of extending Emacs to websites with weaker editors.
 ## Structure-based Drug Design
 -->
 
-## Statistical Computing
-- [JointProb: group D ](https://github.com/MooersLab/jointprob1D) Rmarkdown notebooks for the JointProb study group.
 
 
 ## Supercomputing related (includes HPC, cluster computing, cloud computing)
