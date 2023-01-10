@@ -1,9 +1,19 @@
 # MooersLab
 
 This site contains the public repositories of the Dr. Blaine Mooers Lab, Department of Biochemistry and Molecular Biology, College of Medicine, University of Oklahoma Health Sciences Center, Oklahoma City, Oklahoma, USA.
-My lab determines the structures of biomolecular molecules and their complexes with drugs using mostly X-ray crystallography and sometimes small angle X-ray scattering. 
-We grow crytals using advanced methods and collect X-ray data inhouse and frequently at the Stanford Synchrotron Radiation LightSource.
+My lab determines the structures of biomolecular molecules and their complexes with drugs using mostly [X-ray crystallography](https://en.wikipedia.org/wiki/X-ray_crystallography#Biological_macromolecular_crystallography) and sometimes [small angle X-ray scattering](https://en.wikipedia.org/wiki/Small-angle_X-ray_scattering), a method that does not require crystals. 
+We grow crytals using advanced experimental design methods and collect X-ray diffraction data inhouse and frequently at the [Stanford Synchrotron Radiation LightSource](https://www-ssrl.slac.stanford.edu/content/) and sometimes at the four other major LightSources in the US.
 We also do structure-based drug design using supercomputers.
+
+We are not computer scientists, but we do write a little code.
+We have made some software tools to ease the writing of PyMOL scrpts for making molecular images.
+These tools are available for the top 20 text editors and Jupyter and Colab notebooks. 
+
+<!--
+(PS The ultimate text editor for writing prose and code is Emacs.
+All paths through text editors lead to Emacs.
+Some people get stuck all too long in Vim or NeoVim, which are great editors.)
+-->
 
 # Index of repositories
 
