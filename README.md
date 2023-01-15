@@ -38,8 +38,9 @@ Some people get stuck all too long in Vim or NeoVim, which are great editors.)
 
 ## Emacs related
 - [crafted-emacs user config](https://github.com/MooersLab/crafted-emacs-config) My user configuration file (config.el) for the crafted-emacs profile. I did install use-package and used it to install several packages. The base profile has the Doom theme, Vertico completion stack, and eglot. I added my org-agenda config and my favorite key bindings. I am currently *luvin* it. 
-- [latex-emacs configuration](https://github.com/MooersLab/latex-emacs) A configuration file enhancing the use of LaTeX in Gnu Emacs. Includes org-mode configuration.
+- [latex-emacs configuration](https://github.com/MooersLab/latex-emacs) A configuration file enhancing the use of LaTeX in Gnu Emacs version 29.0.5. Includes org-mode configuration.
 - [latex-emacs28 configuration](https://github.com/MooersLab/latexemacs28/blob/main/README.md) Similar to above but for Gnu Emacs version 28.
+- [latex-emacs28 configuration](https://github.com/MooersLab/latexemacs28/blob/main/README.md) Similar to above but for Gnu Emacs version 30.
 - [scimax user.el](https://github.com/MooersLab/scimax) Scimax is the Emacs configuration that John Kitchin is developing to support reproducible research by scientists with Gnu Emacs. The *user.el* file for scimax enables scimax users to add keybindings and packages. I added features from latex-emacs and config.org.
 - [config.org](https://github.com/MooersLab/config) My default configuration file for GNU Emacs version 30.
 - [Writing log template in Org-mode](https://github.com/MooersLab/writingLogTemplateInOrg) Template for tracking your actions, decisions, and plans for any serious writing project that takes more than one session to finish. The LaTeX version is listed in the LaTeX section for use on Overleaf or in Emacs.
