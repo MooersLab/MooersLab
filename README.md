@@ -110,10 +110,10 @@ This is a very cool way of extending Emacs to websites with weaker editors.
 
 ## Writing productivity
 - [The writer's creed](https://github.com/MooersLab/thewriterslaw) Guidelines for greater productivity.
+- [Writing Progress tracker by project for 2023 in Excel and Libre Office](https://github.com/MooersLab/writingProgess2023)
 - [Writing Log template in LaTeX](https://github.com/MooersLab/writingLogTemplate). LaTeX beginers can use this document easily on Overleaf without any configuration.
 - [Writing Log template in Org-mode](https://github.com/MooersLab/writingLogTemplateInOrg) Org-mode is a powerful analog of markdown that can interpret LaTeX code blocks. It is vastly superior to markdown. It is best edited in Emacs (Sorry, Oveleaf cannot yet work with Org-mode), but VS Code has some support for org-mode files.
 - [Emacsconf 2022 talk about GhostText on YouTube, December 2022](https://www.youtube.com/watch?v=2NPUDYAOgW0&t=3s) Includes demostration of using Emacs to edit a document in Overleaf.
-- 
 **MooersLab/MooersLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on his GitHub profile 👋.
 
 <!--
