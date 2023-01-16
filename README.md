@@ -108,6 +108,10 @@ This is a very cool way of extending Emacs to websites with weaker editors.
 - [Neovim configuration file](https://github.com/MooersLab/neovim-init-file)
 - [qvim](https://github.com/MooersLab/qvim) Quiz about Vim commands to improve your recall of the commands after a break from using Vim.
 
+## Writing productivity
+- [The writer's creed](https://github.com/MooersLab/thewriterslaw) Guidelines for greater productivity.
+- [ ]()
+
 **MooersLab/MooersLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on his GitHub profile 👋.
 
 <!--
