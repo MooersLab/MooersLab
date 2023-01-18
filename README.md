@@ -54,7 +54,7 @@ Some people get stuck all too long in Vim or NeoVim, which are great editors.)
 - [emacsconf 2022 talk about using Emacs to edit Jupyter cells via GhostText and atomic-chrome](https://emacsconf.org/2022/talks/jupyter/)
 
 ## LaTeX related
-Note that I currently write alot in Emacs on 750words.com via GhostText. I configured atomicchrome to go to LaTeX mode when GhostText connects to 750words. I can also use Emacs to write and edit text in Overleaf via atomicchrome and GhostText.
+Note that I currently write alot in Emacs on 750words.com via GhostText. I configured atomicchrome to go to LaTeX mode when GhostText connects to 750words. I can also use Emacs to write and edit text in Overleaf via atomic-chrome and GhostText.
 This is a very cool way of extending Emacs to websites with weaker editors.
 
 - [latex-emacs29 configuration](https://github.com/MooersLab/latex-emacs) A configuration file enhancing the use of LaTeX in Gnu Emacs version 29.0.5. This is the current release version of Gnu Emacs. Includes org-mode configuration.
@@ -66,10 +66,9 @@ This is a very cool way of extending Emacs to websites with weaker editors.
 - [LaTeX manuscript template](https://github.com/MooersLab/manuscriptInLaTeX/edit/main/README.md) Generic template for the first submission as a PDF.
 - [Writing log template in LaTeX](https://github.com/MooersLab/writingLogTemplate) Place to track progress and plans behind a manuscript.
 - [Annotated bibliography Template in LaTeX](https://github.com/MooersLab/annotatedBibliography) Every writing project needs one of these.
-- [Diary for 2022 in LaTeX](https://github.com/MooersLab/diary2022inLaTeX) Each day is a section. Each month is a chapter. Has an index (something that some markdowns cannot generate). Very feature-rich and ready to use.
-- [Diary for 2023 in LaTeX](https://github.com/MooersLab/diary2023inLaTeX) Same as above but reformatted for 2023
+- [Diary for 2023 in LaTeX](https://github.com/MooersLab/diary2023inLaTeX) Each day is a section. Each month is a chapter. Has an automatically generated index (something that some markdowns cannot generate). Very feature-rich and ready to use.
 - [snippets for latex-mode in Emacs](https://github.com/MooersLab/snippet-latex-mode) My LaTeX code snippets for yasnippets.
-- [The writer's creed](https://github.com/MooersLab/thewriterslaw) Guidelines for greater productivity.
+- [The writer's creed](https://github.com/MooersLab/thewriterslaw) Guidelines for greater productivity as a writer.
 
 
 ## Molecular Graphics related
