@@ -7,7 +7,7 @@ We also do structure-based drug design using supercomputers.
 
 We are not computer scientists, but we do write a little code.
 We have made some software tools to ease the writing of PyMOL scrpts for making molecular images.
-These tools are available for the top 20 text editors and Jupyter and Colab notebooks. 
+These tools are available for the top 19 text editors and for the Jupyter, Colab, and Rmardown notebooks. 
 
 <!--
 (PS The ultimate text editor for writing prose and code is Emacs.
