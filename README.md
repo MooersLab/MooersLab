@@ -91,6 +91,9 @@ This is a very cool way of extending Emacs to websites with weaker editors.
 
 ## Molecular Graphics related
 
+[Collection of links for a 15-hour course on Molecular Graphics](https://mooerslab.github.io/MolecularGraphicsLinks/index.html)
+
+
 #### PyMOL
 - [pymolrc](https://github.com/MooersLab/pymolrc) My pymolrc file.
 - [pymolsnips](https://github.com/MooersLab/pymolsnips) Contains extensive instructions on installing 19 text editors.
@@ -107,6 +110,10 @@ Lab with tagged snippets with the elyra-snippets extension and with PyMOL.
 <!--
 ## Structure-based Drug Design
 -->
+
+## Small Angle Scattering
+
+
 
 ## Supercomputing related (includes HPC, cluster computing, cloud computing)
 - [Bash functions for Schooner at OSCER](https://github.com/MooersLab/bashFunctions4oscer)
