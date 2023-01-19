@@ -60,7 +60,6 @@ Some people get stuck all too long in Vim or NeoVim, which are great editors.)
 - [emacsconf 2022 talk about using Emacs to edit Jupyter cells via GhostText and atomic-chrome](https://emacsconf.org/2022/talks/jupyter/)
 
 ## Jupyter and Colab related
-
 - [taggedpymolpysnips](https://github.com/MooersLab/taggedpymolpysnips) Support for literate programming in JuptyerLab
 Lab with tagged snippets with the elyra-snippets extension and with PyMOL.
 - [jupyterlabpymolpysnips](https://github.com/MooersLab/jupyterlabpymolpysnips) PyMOL Python snippets for use in JupyterLab with the jupyterlab-snippets extension.
@@ -90,7 +89,6 @@ This is a very cool way of extending Emacs to websites with weaker editors.
 
 
 ## Molecular Graphics related
-
 [Collection of links for a 15-hour course on Molecular Graphics](https://mooerslab.github.io/MolecularGraphicsLinks/index.html)
 
 
@@ -111,7 +109,12 @@ Lab with tagged snippets with the elyra-snippets extension and with PyMOL.
 ## Structure-based Drug Design
 -->
 
+## R statistial program
+- [rstudiopymolpysnips](https://github.com/MooersLab/rstudiopymolpysnips) Support for literate programming in Rstuido with PyMOL.
+
+
 ## Small Angle Scattering
+[SmallAngleScatteringWebpage](https://mooerslab.github.io/SmallAngleScatteringWebpage/index.html)
 
 
 
