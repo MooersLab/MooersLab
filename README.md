@@ -114,7 +114,7 @@ Lab with tagged snippets with the elyra-snippets extension and with PyMOL.
 
 
 ## Small Angle Scattering
-[SmallAngleScatteringWebpage](https://mooerslab.github.io/SmallAngleScatteringWebpage/index.html)
+- [SmallAngleScatteringWebpage](https://mooerslab.github.io/SmallAngleScatteringWebpage/index.html)
 
 
 
