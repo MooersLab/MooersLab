@@ -71,6 +71,7 @@ Lab with tagged snippets with the elyra-snippets extension and with PyMOL.
 
 ### CCTBX specific
 - [Jupyterlab cctbx snippets](https://github.com/MooersLab/jupyterlabcctbxsnips) CCTBX snippets for JupyterLab with the jupyterlab-snippets extension or the jupyterlab-snippets-mutlimenus extension.
+- [Jupyterlab cctbx snippets](https://github.com/MooersLab/jupyterlabcctbxsnipsplus)
 - [Colab cctbx snippets](https://github.com/MooersLab/colabcctbxsnips) Colab snippets.
 
 
