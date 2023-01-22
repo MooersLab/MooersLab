@@ -121,7 +121,8 @@ Lab with tagged snippets with the elyra-snippets extension and with PyMOL.
 ## Small Angle Scattering
 - [SmallAngleScatteringWebpage](https://mooerslab.github.io/SmallAngleScatteringWebpage/index.html)
 
-
+## Time management
+- [TimeSpent](https://github.com/MooersLab/timeSpent) Time tracking by project with Google Sheets.
 
 ## Supercomputing related (includes HPC, cluster computing, cloud computing)
 - [Bash functions for Schooner at OSCER](https://github.com/MooersLab/bashFunctions4oscer)
