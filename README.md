@@ -43,7 +43,8 @@ Some people get stuck all too long in Vim or NeoVim, which are great editors.)
 - [Jupyterlab cctbx plus snippets](https://github.com/MooersLab/jupyterlabcctbxsnipsplus) The variant of the jupyterlabcctbxsnips library with comments to guide editing of the snippets.
 - [Colab cctbx snippets](https://github.com/MooersLab/colabcctbxsnips) Colab snippets.
 - [cctbxsnips-Emacs](https://github.com/MooersLab/cctbxsnips-Emacs) CCTBX snippets for the yasnippet snippet system in for Emacs.
-- 
+- [cctbxsnips-ST3](https://github.com/MooersLab/cctbxsnips-ST3)CCTBX snippets for Sublime Text 3 (ST3).
+- [cctbxsnips-VSC](https://github.com/MooersLab/cctbxsnips-VSC) CCTBX snippets for Visual Studio Code (VSC).
 
 ## Curvefiting software
 - [List of curve-fitting software](https://github.com/MooersLab/Curve-fitting-software) This list includes both proprietary and free software.
