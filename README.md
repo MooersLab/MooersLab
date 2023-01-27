@@ -81,7 +81,7 @@ Lab with tagged snippets with the elyra-snippets extension and with PyMOL.
 - [Jupyterlab cctbx snippets](https://github.com/MooersLab/jupyterlabcctbxsnips) CCTBX snippets for JupyterLab with the jupyterlab-snippets extension or the jupyterlab-snippets-mutlimenus extension.
 - [Jupyterlab cctbx plus snippets](https://github.com/MooersLab/jupyterlabcctbxsnipsplus) The variant of the jupyterlabcctbxsnips library with comments to guide editing of the snippets.
 - [Colab cctbx snippets](https://github.com/MooersLab/colabcctbxsnips) Colab snippets.
-- [Sublime Text 3 cctbx snippets](https://github.com/MooersLab/cctbxsnips-SublimeText3)
+
 
 ## LaTeX related
 Note that I currently write alot in Emacs on 750words.com via GhostText. I configured atomicchrome to go to LaTeX mode when GhostText connects to 750words. I can also use Emacs to write and edit text in Overleaf via atomic-chrome and GhostText.
