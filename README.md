@@ -42,12 +42,14 @@ Some people get stuck all too long in Vim or NeoVim, which are great editors.)
 
 ### CCTBX related
 
-#### For use in notebooks
+<a id="cctbxsnips-for-notebooks"><h4>For use in notebooks</h4></a>
+
 - [Jupyterlab cctbx snippets](https://github.com/MooersLab/jupyterlabcctbxsnips) CCTBX snippets for JupyterLab with the jupyterlab-snippets extension or the jupyterlab-snippets-mutlimenus extension.
 - [Jupyterlab cctbx plus snippets](https://github.com/MooersLab/jupyterlabcctbxsnipsplus) The variant of the jupyterlabcctbxsnips library with comments to guide editing of the snippets.
 - [Colab cctbx snippets](https://github.com/MooersLab/colabcctbxsnips) Colab snippets.
 
-#### For use in text [editors](https://github.com/MooersLab/MooersLab/blob/main/README.md#editors)
+<a id="cctbxsnips-for-editors"><h4>For use in text editors</h4></a>
+
 - [cctbxsnips-Emacs](https://github.com/MooersLab/cctbxsnips-Emacs) CCTBX snippets for the yasnippet snippet system in for Emacs.
 - [cctbxsnips-SublimeText3](https://github.com/MooersLab/cctbxsnips-SublimeText3) CCTBX snippets for Sublime Text 3 (ST3).
 - [cctbxsnips-VSC](https://github.com/MooersLab/cctbxsnips-VSC) CCTBX snippets for Visual Studio Code (VSC).
