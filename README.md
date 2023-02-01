@@ -5,8 +5,8 @@ My lab determines the structures of biomolecular molecules and their complexes w
 We grow crytals using advanced experimental design methods and collect X-ray diffraction data inhouse and frequently at the [Stanford Synchrotron Radiation LightSource](https://www-ssrl.slac.stanford.edu/content/) and sometimes at the four other major light sources in the US.
 We also do structure-based drug design using supercomputers.
 
-We are not computer scientists, but we do write a little code from time-to-time.
-We have made some software tools to ease the writing of PyMOL scrpts for making molecular images.
+We are not computer scientists, but we do write some code from time-to-time.
+We made some software tools to ease the writing of PyMOL scrpts for making molecular images.
 These tools are available for the top 19 text editors and for the Jupyter, Colab, and Rmarkdown notebooks. 
 All of these text editors can make your work lighter and have many wonderful features, but Emacs is our favorite because it is by far the most customizable thanks to Emacs Lisp.
 
@@ -97,8 +97,10 @@ Lab with tagged snippets with the elyra-snippets extension and with PyMOL.
 
 
 ## LaTeX related
-Note that I currently write alot in Emacs on 750words.com via GhostText. I configured atomicchrome to go to LaTeX mode when GhostText connects to 750words. I can also use Emacs to write and edit text in Overleaf via atomic-chrome and GhostText.
-This is a very cool way of extending Emacs to websites with weaker editors.
+Note that I currently write alot in Emacs on 750words.com via GhostText. 
+I configured the atomic-chrome package for Emacs to go into LaTeX mode when GhostText connects to 750words. 
+I can also use Emacs to write and edit text in Overleaf via atomic-chrome and GhostText.
+This is a very cool way of extending Emacs to websites that have weaker support for editing text.
 
 - [latex-emacs29 configuration](https://github.com/MooersLab/latex-emacs) A configuration file enhancing the use of LaTeX in Gnu Emacs version 29.0.5. This is the current release version of Gnu Emacs. Includes org-mode configuration.
 - [latex-emacs28 configuration](https://github.com/MooersLab/latexemacs28/blob/main/README.md) Similar to above but for Gnu Emacs version 28.
@@ -109,7 +111,7 @@ This is a very cool way of extending Emacs to websites with weaker editors.
 - [LaTeX manuscript template](https://github.com/MooersLab/manuscriptInLaTeX/edit/main/README.md) Generic template for the first submission as a PDF.
 - [Writing log template in LaTeX](https://github.com/MooersLab/writingLogTemplate) Place to track progress and plans behind a manuscript.
 - [Annotated bibliography Template in LaTeX](https://github.com/MooersLab/annotatedBibliography) Every writing project needs one of these.
-- [Diary for 2023 in LaTeX](https://github.com/MooersLab/diary2023inLaTeX) Each day is a section. Each month is a chapter. Has an automatically generated index (something that some markdowns cannot generate). Very feature-rich and ready to use.
+- [Diary for 2023 in LaTeX](https://github.com/MooersLab/diary2023inLaTeX) Each day is a section. Each month is a chapter. Has an automatically generated index (most markdowns cannot generate indices). Very feature-rich and ready to use.
 - [snippets for latex-mode in Emacs](https://github.com/MooersLab/snippet-latex-mode) My LaTeX code snippets for yasnippets.
 - [The writer's creed](https://github.com/MooersLab/thewriterslaw) Guidelines for greater productivity as a writer.
 
@@ -120,23 +122,23 @@ This is a very cool way of extending Emacs to websites with weaker editors.
 
 #### PyMOL
 - [pymolrc](https://github.com/MooersLab/pymolrc) My pymolrc file.
-- [pymolsnips](https://github.com/MooersLab/pymolsnips) Contains extensive instructions on installing 19 text editors.
-- [pymolshortcuts](https://github.com/MooersLab/pymolshortcuts) Very useful for non-coders.
-- [EasyPyMOL](https://github.com/MooersLab/EasyPyMOL) Support for horizontal scripting.
+- [pymolsnips](https://github.com/MooersLab/pymolsnips) A large collection of PyMOL macro language (pml) code snippets. Contains link to a webpage with extensive instructions on installing 19 text editors.
+- [pymolshortcuts](https://github.com/MooersLab/pymolshortcuts) A large collection of functions mapped to aliases or shortcuts. This colleciton of functions is very useful for non-coders.
+- [EasyPyMOL](https://github.com/MooersLab/EasyPyMOL) Support for horizontal scripting in PyMOL.
 - [orgpymolpysnips](https://github.com/MooersLab/orgpymolpysnips) Support for literate programming in org-mode with PyMOL.
 - [rstudiopymolpysnips](https://github.com/MooersLab/rstudiopymolpysnips) Support for literate programming in Rstuido with PyMOL.
 - [taggedpymolpysnips](https://github.com/MooersLab/taggedpymolpysnips) Support for literate programming in JuptyerLab
 Lab with tagged snippets with the elyra-snippets extension and with PyMOL.
 - [jupyterlabpymolpysnips](https://github.com/MooersLab/jupyterlabpymolpysnips) PyMOL Python snippets for use in JupyterLab with the jupyterlab-snippets extension.
 - [colabOpenSourcePyMOLpySnips](https://github.com/MooersLab/colabOpenSourcePyMOLpySnips) PyMOL Python snippets for use in Colab with open source PyMOL.
-- [colabPyMOLpySnips](https://github.com/MooersLab/colabPyMOLpySnips) PyMOL Python snippets for use in Colab with the incentive PyMOL.
-- [PyMOL wall hangings](https://github.com/MooersLab/PyMOLwallhangings) Protocol for making oversized images to be framed and hung on the wall.
+- [colabPyMOLpySnips](https://github.com/MooersLab/colabPyMOLpySnips) PyMOL Python snippets for use in Colab with the incentive version of PyMOL.
+- [PyMOL wall hangings](https://github.com/MooersLab/PyMOLwallhangings) Protocol for making oversized images to be framed and hung on a wall.
 <!--
 ## Structure-based Drug Design
 -->
 
 ## R statistial program
-- [rstudiopymolpysnips](https://github.com/MooersLab/rstudiopymolpysnips) Support for literate programming in Rstuido with PyMOL.
+- [rstudiopymolpysnips](https://github.com/MooersLab/rstudiopymolpysnips) Support for literate programming in Rstuido with python code for PyMOL.
 
 
 ## Small Angle Scattering
@@ -145,14 +147,13 @@ Lab with tagged snippets with the elyra-snippets extension and with PyMOL.
 ## Time management
 - [TimeSpent](https://github.com/MooersLab/timeSpent) Time tracking by project with Google Sheets.
 
-## Supercomputing related (includes HPC, cluster computing, cloud computing)
+## Supercomputing related (includes high performance computing (HPC), cluster computing, cloud computing)
 - [Bash functions for Schooner at OSCER](https://github.com/MooersLab/bashFunctions4oscer)
 - [Emacs configuration file for schooner supercomputer](https://github.com/MooersLab/emacs4oscer)
-- [Multiple file transfer](https://github.com/MooersLab/multipleFileTransfer)
-- [Vim configuration file for schooner supercomputer](https://github.com/MooersLab/vimrc4oscer) 
+- [Multiple file transfer with sshpass and scp](https://github.com/MooersLab/multipleFileTransfer)
+- [Vim configuration file for the schooner supercomputer at OU-Norman](https://github.com/MooersLab/vimrc4oscer) 
 - [Vim configuration file for SSRL SMB cluster](https://github.com/MooersLab/vimrc4ssrl)
 - [Tutorial for biologists on using the supercomputer at OU-Norman](https://github.com/MooersLab/oscer-supercomputer-tutorial)
-
 
 ## Vim (and Neovim)
 - [Vim configuration file](https://github.com/MooersLab/vimrc) Current vimrc file for Mac OSX 10.15
@@ -167,8 +168,8 @@ Lab with tagged snippets with the elyra-snippets extension and with PyMOL.
 - [Writing contract template](https://github.com/MooersLab/writingContract) This contract is in Microsoft Word, markdown, LaTeX, and org-mode.
 - [Writing Log template in LaTeX](https://github.com/MooersLab/writingLogTemplate). LaTeX beginers can use this document easily on Overleaf without any configuration.
 - [Writing Log template in Org-mode](https://github.com/MooersLab/writingLogTemplateInOrg) Org-mode is a powerful analog of markdown that can interpret LaTeX code blocks. It is vastly more capable than markdown. Org-mode is best edited in Emacs (Sorry, Oveleaf cannot yet work with Org-mode), but VS Code has some support for org-mode files.
-- [Emacsconf 2022 talk about GhostText on YouTube, December 2022](https://www.youtube.com/watch?v=2NPUDYAOgW0&t=3s) Includes demostration of using Emacs to edit a document in Overleaf.
-- [TimeSpent](https://github.com/MooersLab/timeSpent) Time tracking by project with Google Sheets.
+- [Emacsconf 2022 talk about GhostText on YouTube, December 2022](https://www.youtube.com/watch?v=2NPUDYAOgW0&t=3s) Includes demonstration of using Emacs to edit a document in Overleaf.
+- [TimeSpent](https://github.com/MooersLab/timeSpent) Hourly time tracking by project with Google Sheets. This is useful for making monthly time reports.
 
 
 **MooersLab/MooersLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on his GitHub profile 👋.
