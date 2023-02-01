@@ -137,7 +137,7 @@ Lab with tagged snippets with the elyra-snippets extension and with PyMOL.
 ## Structure-based Drug Design
 -->
 
-## R statistial program
+## R statistical program
 - [rstudiopymolpysnips](https://github.com/MooersLab/rstudiopymolpysnips) Support for literate programming in Rstuido with python code for PyMOL.
 
 
