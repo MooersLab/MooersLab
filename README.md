@@ -32,7 +32,7 @@ Some people get stuck all too long in Vim or NeoVim, which are great editors.)
 - [Multiple file transfer](https://github.com/MooersLab/multipleFileTransfer)
 
 ## Bayeisan Data Analysis
-- [JointProb](https://github.com/MooersLab/jointprob1D) Rmarkdown and jupyer notebooks for the JointProb study group.
+- [JointProb](https://github.com/MooersLab/jointprob1D) Rmarkdown and jupyer notebooks for the Saturday JointProb study group.
 
 ## Blog
 - [Lab website with blog posts](https://mooerslab.github.io/year-archive/)
