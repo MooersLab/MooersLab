@@ -14,7 +14,7 @@ The repositories are grouped by category.
 Some repositories are listed in several categories.
 This listing is still a work in progress. 
 Many repositories have yet to be added.
-About a quarter are forks to other people's repositories.
+Seventeen repos are forks to other people's repositories.
 Go to the [repositories tab](https://github.com/MooersLab?tab=repositories) to see the full list of repositories.
 
 <!--
