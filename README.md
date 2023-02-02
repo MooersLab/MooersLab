@@ -174,6 +174,15 @@ Lab with tagged snippets with the elyra-snippets extension and with PyMOL.
 - [TimeSpent](https://github.com/MooersLab/timeSpent) Hourly time tracking by project with Google Sheets. This is useful for making monthly time reports.
 
 
+## YouTube Videos of relevance to these repos
+
+<ul>
+ <li><a href="https://www.youtube.com/watch?v=LjJvhfJvla4">Snippets in Jupyter Notebooks, OKC Python, 10 May 2019</a></li>
+ <li><a href="https://www.youtube.com/watch?v=sZNCAwW5dYg&amp;t=11s">Why develop a snippet library for Jupyter in your subject domain? JupyterConn 2020</a></li>
+ <li><a href="https://www.youtube.com/watch?v=ZTocGPS-Uqk&amp;t=2s">Reproducible molecular graphics with Org-mode, EmacsConf 2021 </a></li>
+ <li><a href="https://www.youtube.com/watch?v=2NPUDYAOgW0">Edit live Jupyter notebook cells with Emacs, EmacsConf 2022 </a></li>
+</ul>
+
 **MooersLab/MooersLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on his GitHub profile 👋.
 
 <!--
