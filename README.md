@@ -173,15 +173,11 @@ Lab with tagged snippets with the elyra-snippets extension and with PyMOL.
 - [Emacsconf 2022 talk about GhostText on YouTube, December 2022](https://www.youtube.com/watch?v=2NPUDYAOgW0&t=3s) Includes demonstration of using Emacs to edit a document in Overleaf.
 - [TimeSpent](https://github.com/MooersLab/timeSpent) Hourly time tracking by project with Google Sheets. This is useful for making monthly time reports.
 
-
 ## YouTube Videos of relevance to these repos
-
-<ul>
- <li><a href="https://www.youtube.com/watch?v=LjJvhfJvla4"></a>Snippets in Jupyter Notebooks, OKC Python, 10 May 2019</li>
- <li><a href="https://www.youtube.com/watch?v=sZNCAwW5dYg&amp;t=11s"></a>Why develop a snippet library for Jupyter in your subject domain? JupyterConn 2020</li>
- <li><a href="https://www.youtube.com/watch?v=ZTocGPS-Uqk&amp;t=2s"></a>Reproducible molecular graphics with Org-mode, EmacsConf 2021 </li>
- <li><a href="https://www.youtube.com/watch?v=2NPUDYAOgW0"></a>Edit live Jupyter notebook cells with Emacs, EmacsConf 2022 </li>
-</ul>
+- [Snippets in Jupyter Notebooks](https://www.youtube.com/watch?v=LjJvhfJvla4), OKC Python, 10 May 2019
+- [Why develop a snippet library for Jupyter in your subject domain?](https://www.youtube.com/watch?v=sZNCAwW5dYg&amp;t=11s)  JupyterConn 2020
+- [Reproducible molecular graphics with Org-mode](href="https://www.youtube.com/watch?v=ZTocGPS-Uqk&amp;t=2s), EmacsConf 2021 
+- [Edit live Jupyter notebook cells with Emac](https://www.youtube.com/watch?v=2NPUDYAOgW0), EmacsConf 2022
 
 **MooersLab/MooersLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on his GitHub profile 👋.
 
