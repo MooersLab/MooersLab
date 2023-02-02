@@ -176,7 +176,7 @@ Lab with tagged snippets with the elyra-snippets extension and with PyMOL.
 ## YouTube Videos of relevance to these repos
 - [Snippets in Jupyter Notebooks](https://www.youtube.com/watch?v=LjJvhfJvla4), OKC Python, 10 May 2019
 - [Why develop a snippet library for Jupyter in your subject domain?](https://www.youtube.com/watch?v=sZNCAwW5dYg&amp;t=11s)  JupyterConn 2020
-- [Reproducible molecular graphics with Org-mode](href="https://www.youtube.com/watch?v=ZTocGPS-Uqk&amp;t=2s), EmacsConf 2021 
+- [Reproducible molecular graphics with Org-mode](https://www.youtube.com/watch?v=ZTocGPS-Uqk&amp;t=2s), EmacsConf 2021 
 - [Edit live Jupyter notebook cells with Emac](https://www.youtube.com/watch?v=2NPUDYAOgW0), EmacsConf 2022
 
 **MooersLab/MooersLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on his GitHub profile 👋.
