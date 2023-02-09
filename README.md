@@ -39,6 +39,9 @@ Some people get stuck all too long in Vim or NeoVim, which are great editors.)
 ## Blog
 - [Lab website with blog posts](https://mooerslab.github.io/year-archive/)
 
+## Clojure
+- [quizzes about clojure](https://github.com/MooersLab/qclj) These are useful for improving commmand recall after a break in using Clojure for several months.
+
 
 ## Crystallographic computing
 
