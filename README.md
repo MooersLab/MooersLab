@@ -123,7 +123,7 @@ This is a very cool way of extending Emacs to websites that have weaker support 
 - [Diary for 2023 in LaTeX](https://github.com/MooersLab/diary2023inLaTeX) Each day is a section. Each month is a chapter. Has an automatically generated index (most markdowns cannot generate indices). Very feature-rich and ready to use.
 - [snippets for latex-mode in Emacs](https://github.com/MooersLab/snippet-latex-mode) My LaTeX code snippets for yasnippets.
 - [The writer's creed](https://github.com/MooersLab/thewriterslaw) Guidelines for greater productivity as a writer.
-- [bib2item](https://github.com/MooersLab/bib2item3) Python script to convert bibtex citation to bibitems. bibitems are required by some publishers. They are a pain to create manually.
+- [bib2item3](https://github.com/MooersLab/bib2item3) Python script to convert bibtex.bib file to bibitems in tex file format. Bibitems are required by some publishers. They are a pain to create manually.
 
 ## Molecular Graphics related
 [Collection of links for a 15-hour course on Molecular Graphics](https://mooerslab.github.io/MolecularGraphicsLinks/index.html)
