@@ -2,13 +2,13 @@
 
 This site contains the public repositories of the Dr. Blaine Mooers Lab, Department of Biochemistry and Molecular Biology, College of Medicine, University of Oklahoma Health Sciences Center, Oklahoma City, Oklahoma, USA.
 My lab determines the structures of biomolecular molecules and their complexes with drugs using mostly [X-ray crystallography](https://en.wikipedia.org/wiki/X-ray_crystallography#Biological_macromolecular_crystallography) and sometimes [small angle X-ray scattering](https://en.wikipedia.org/wiki/Small-angle_X-ray_scattering), a method that does not require crystals. 
-We grow crytals using advanced experimental design methods and collect X-ray diffraction data inhouse and frequently at the [Stanford Synchrotron Radiation LightSource](https://www-ssrl.slac.stanford.edu/content/) and sometimes at the four other major light sources in the US.
+We grow crystals using advanced experimental design methods and collect X-ray diffraction data in-house and frequently at the [Stanford Synchrotron Radiation LightSource](https://www-ssrl.slac.stanford.edu/content/) and sometimes at the four other major light sources in the US.
 We also do structure-based drug design using supercomputers.
 
 We are not computer scientists, but we do write some code from time-to-time.
-We made some software tools to ease the writing of PyMOL scrpts for making molecular images.
-These tools are available for the top 19 text editors and for the Jupyter, Colab, and Rmarkdown notebooks. 
-All of these text editors can make your work lighter and have many wonderful features, but Emacs is our favorite because it is by far the most customizable thanks to Emacs Lisp.
+We made some software tools to ease the writing of PyMOL scripts for making molecular images.
+These tools are available for the top 19 text editors and for the Jupyter, Colab, and R Markdown notebooks. 
+All of these text editors can make your work lighter and have many wonderful features, but Emacs is our favorite because it is by far the most customizable, thanks to Emacs Lisp.
 
 The repositories are grouped by category.
 Some repositories are listed in several categories.
@@ -34,13 +34,13 @@ Some people get stuck all too long in Vim or NeoVim, which are great editors.)
 - [Multiple file transfer](https://github.com/MooersLab/multipleFileTransfer)
 
 ## Bayeisan Data Analysis
-- [JointProb](https://github.com/MooersLab/jointprob1D) Rmarkdown and jupyer notebooks for the Saturday JointProb study group.
+- [JointProb](https://github.com/MooersLab/jointprob1D) R Markdown and jupyter notebooks for the Saturday JointProb study group.
 
 ## Blog
 - [Lab website with blog posts](https://mooerslab.github.io/year-archive/)
 
 ## Clojure
-- [quizzes about clojure](https://github.com/MooersLab/qclj) These are useful for improving commmand recall after a break in using Clojure for several months.
+- [quizzes about clojure](https://github.com/MooersLab/qclj) These are useful for improving command recall after a break in using Clojure for several months.
 
 
 ## Crystallographic computing
@@ -49,13 +49,13 @@ Some people get stuck all too long in Vim or NeoVim, which are great editors.)
 
 <a id="cctbxsnips-for-notebooks"><h4>For use in notebooks</h4></a>
 
-- [Jupyterlab cctbx snippets](https://github.com/MooersLab/jupyterlabcctbxsnips) CCTBX snippets for JupyterLab with the jupyterlab-snippets extension or the jupyterlab-snippets-mutlimenus extension.
-- [Jupyterlab cctbx plus snippets](https://github.com/MooersLab/jupyterlabcctbxsnipsplus) The variant of the jupyterlabcctbxsnips library with comments to guide editing of the snippets.
+- [Jupyterlab cctbx snippets](https://github.com/MooersLab/jupyterlabcctbxsnips) CCTBX snippets for JupyterLab with the *jupyterlab-snippets* extension or the jupyterlab-snippets-mutlimenus extension.
+- [Jupyterlab cctbx plus snippets](https://github.com/MooersLab/jupyterlabcctbxsnipsplus) The variant of the *jupyterlabcctbxsnips* library with comments to guide editing of the snippets.
 - [Colab cctbx snippets](https://github.com/MooersLab/colabcctbxsnips) Colab snippets.
 
 <a id="cctbxsnips-for-editors"><h4>For use in text editors</h4></a>
 
-- [cctbxsnips-Emacs](https://github.com/MooersLab/cctbxsnips-Emacs) CCTBX snippets for the yasnippet snippet system in for Emacs.
+- [cctbxsnips-Emacs](https://github.com/MooersLab/cctbxsnips-Emacs) CCTBX snippets for the *yasnippet* snippet system in for Emacs.
 - [cctbxsnips-SublimeText3](https://github.com/MooersLab/cctbxsnips-SublimeText3) CCTBX snippets for Sublime Text 3 (ST3).
 - [cctbxsnips-VSC](https://github.com/MooersLab/cctbxsnips-VSC) CCTBX snippets for Visual Studio Code (VSC).
 - [cctbxsnips-UltiSnips](https://github.com/MooersLab/cctbxsnips-Ultisnips) CCTBX snippets for Vim or NeoVim via UltiSnips plugin.
