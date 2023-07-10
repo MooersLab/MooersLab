@@ -17,6 +17,10 @@ Many repositories have yet to be added.
 Seventeen repos are forks to other people's repositories.
 Go to the [repositories tab](https://github.com/MooersLab?tab=repositories) to see the full list of repositories.
 
+In the spring of 2023, I started a [MooersLab](https://codeberg.org/MooersLab) site on Codeberg.
+Codeberg run by a foundation and has 13 years of funding.
+Most of my new repositories will be found on Codeberg.
+
 <!--
 (PS The ultimate text editor for writing prose and code is Emacs.
 All paths through text editors lead to Emacs.
