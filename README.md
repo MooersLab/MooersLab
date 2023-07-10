@@ -41,6 +41,7 @@ Some people get stuck all too long in Vim or NeoVim, which are great editors.)
 - [Lab website with blog posts](https://mooerslab.github.io/year-archive/)
 
 ## Clojure
+- [ClojConj 2023 talk about protein structure superposition via probabilistic programming in Clojure](https://www.youtube.com/watch?v=lDweOPGHLB8&t=51s)
 - [quizzes about clojure](https://github.com/MooersLab/qclj) These are useful for improving command recall after a break in using Clojure for several months.
 
 
