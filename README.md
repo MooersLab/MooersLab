@@ -123,6 +123,7 @@ I configured the atomic-chrome package for Emacs to go into LaTeX mode when Ghos
 I can also use Emacs to write and edit text in Overleaf via atomic-chrome and GhostText.
 This is a very cool way of extending Emacs to websites that have weaker support for editing text.
 
+- [LaTeX bare bones template file](https://github.com/MooersLab/barebonesLaTeX/tree/main) This template is for those people want make a simple document without a lot of bells-and-whitsles.
 - [LaTeX tips](https://github.com/MooersLab/latextips)
 - [Configuration for Emacs30 to support structured editing](https://github.com/MooersLab/emacs30venturatreesitterconfig)
 - [latex-emacs29 configuration](https://github.com/MooersLab/latex-emacs) A configuration file enhancing the use of LaTeX in Gnu Emacs version 29.0.5. This is the current release version of Gnu Emacs. Includes org-mode configuration.
