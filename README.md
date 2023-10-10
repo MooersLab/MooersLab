@@ -1,14 +1,29 @@
 # MooersLab
 
-This site contains the public repositories of the Dr. Blaine Mooers Lab, Department of Biochemistry and Molecular Biology, College of Medicine, University of Oklahoma Health Sciences Center, Oklahoma City, Oklahoma, USA.
-My lab determines the structures of biomolecular molecules and their complexes with drugs using mostly [X-ray crystallography](https://en.wikipedia.org/wiki/X-ray_crystallography#Biological_macromolecular_crystallography) and sometimes [small angle X-ray scattering](https://en.wikipedia.org/wiki/Small-angle_X-ray_scattering), a method that does not require crystals. 
+This site contains the public repositories of the Dr. Blaine Mooers Lab, Department of Biochemistry and Physiology, College of Medicine, University of Oklahoma Health Sciences Center, Oklahoma City, Oklahoma, USA.
+My lab determines the structures of biomolecular molecules and their complexes with drugs, using mostly [X-ray crystallography](https://en.wikipedia.org/wiki/X-ray_crystallography#Biological_macromolecular_crystallography) and sometimes [small angle X-ray scattering](https://en.wikipedia.org/wiki/Small-angle_X-ray_scattering), a method that does not require crystals. 
 We grow crystals using advanced experimental design methods and collect X-ray diffraction data in-house and frequently at the [Stanford Synchrotron Radiation LightSource](https://www-ssrl.slac.stanford.edu/content/) and sometimes at the four other major light sources in the US.
 We also do structure-based drug design using supercomputers.
 
-We are not computer scientists, but we do write some code from time-to-time.
+We are not computer scientists, but we do write some code from time-to-time to help advance our science and the science of others.
 We made some software tools to ease the writing of PyMOL scripts for making molecular images.
 These tools are available for the top 19 text editors and for the Jupyter, Colab, and R Markdown notebooks. 
 All of these text editors can make your work lighter and have many wonderful features, but Emacs is our favorite because it is by far the most customizable, thanks to Emacs Lisp.
+However, take a disciplined approach to Emacs because it is a tinker's paradise.
+
+We are big fans of LaTeX.
+We use Overleaf alot to write manuscripts, grant applications, slideshows, posters, and lab notebooks in LaTeX.
+All of the alternatives are too inflexible due too many limitations.
+We know; we spent five years trying the alternatives.
+This was before Overleaf which has made learning and working with LaTeX so much easier.
+Some of our LaTeX templates can be found here.
+
+We are also big fans of Jupyter Notebooks.
+We have developed tools for working in Jupyter with PyMOL and CCTBX.
+Jupyter Notebooks may frustrating for those without some formal training in computing.
+You have to always conscience of the state of your computer or at least the state that you expected it to be in.
+
+We code in mainly in Python but often in Bash, R, Clojure, Elisp, Julia, Fortran, and C/C++.
 
 The repositories are grouped by category.
 Some repositories are listed in several categories.
@@ -18,7 +33,7 @@ Seventeen repos are forks to other people's repositories.
 Go to the [repositories tab](https://github.com/MooersLab?tab=repositories) to see the full list of repositories.
 
 In the spring of 2023, I started a [MooersLab](https://codeberg.org/MooersLab) site on Codeberg.
-Codeberg run by a foundation and has 13 years of funding.
+Codeberg is run by a foundation and has 13 years of funding.
 Most of my new repositories will be found on Codeberg.
 
 If you like a repository, please click on the star in the upper right.
