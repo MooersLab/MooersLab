@@ -34,7 +34,7 @@ Go to the [repositories tab](https://github.com/MooersLab?tab=repositories) to s
 
 In the spring of 2023, I started a [MooersLab](https://codeberg.org/MooersLab) site on Codeberg.
 Codeberg is run by a foundation and has 13 years of funding.
-Most of my new repositories will be found on Codeberg.
+Some of the GitHub repository might wind up being mirrored on the Codeberg.
 
 If you like a repository, please click on the star in the upper right.
 
