@@ -141,7 +141,7 @@ PyMOL Python snippets for use in JupyterLab with the jupyterlab-snippets extensi
 Lab with tagged snippets with the elyra-snippets extension and with PyMOL.
 - [taggedpymolpysnipspymolpysnipsplus](coming soon)
   
-#### Snippet libraries externnal editors of Jupyter notebooks
+#### Snippet libraries externnal editors of Jupyter notebooks (work via GhostText browser plugin)
 
 - [jupyter-vsc-pymolpysnips](https://github.com/MooersLab/jupytervsc-pymolpysnips)
 - [jupyter-st3-pymolpysnips](https://github.com/MooersLab/jupyter-st3-pymolpysnips)
@@ -151,7 +151,8 @@ Lab with tagged snippets with the elyra-snippets extension and with PyMOL.
 - [jupyter-neosnippets-pymolpysnips](https://github.com/MooersLab/jupyter-neosnippets-pymolpysnips)
 - [jupyter-atom-pymolpysnips](https://github.com/MooersLab/jupyter-atom-pymolpysnips)
   
-##### Demos
+##### Demo of GhostText with Jupyter and Emacs
+
 - [emacsconf 2022 talk about using Emacs to edit Jupyter cells via GhostText and atomic-chrome](https://emacsconf.org/2022/talks/jupyter/)
 
 ### Colab and PyMOL
