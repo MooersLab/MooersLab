@@ -11,30 +11,29 @@ These tools are available for the top 19 text editors and for the Jupyter, Colab
 All of these text editors can make your work lighter and have many wonderful features, but Emacs is our favorite because it is by far the most customizable, thanks to Emacs Lisp.
 However, take a disciplined approach to Emacs because it is a tinker's paradise.
 
-We are big fans of LaTeX.
 We use Overleaf alot to write manuscripts, grant applications, slideshows, posters, and lab notebooks in LaTeX.
-All of the alternatives are too inflexible due too many limitations.
-We know; we spent five years trying the alternatives.
-This was before Overleaf which has made learning and working with LaTeX so much easier.
-Some of our LaTeX templates can be found here.
+All of the alternatives Markup languages are too inflexible due too many limitations.
+We spent five years trying the alternatives.
+This was before Overleaf, which made working with LaTeX so much easier.
+Some of our LaTeX templates are in repos found here.
 
-We are also big fans of Jupyter Notebooks.
+We are also fans of Jupyter Notebooks.
 We have developed tools for working in Jupyter with PyMOL and CCTBX.
 Jupyter Notebooks may frustrating for those without some formal training in computing.
-You have to always conscience of the state of your computer or at least the state that you expected it to be in.
+You have to be always aware of the state of your computer or at least the state that you expected it to be in.
 
 We code in mainly in Python but often in Bash, R, Clojure, Elisp, Julia, Fortran, and C/C++.
 
 The repositories are grouped by category.
 Some repositories are listed in several categories.
 This listing is still a work in progress. 
-Many repositories have yet to be added.
+Some repositories have yet to be added.
 Seventeen repos are forks to other people's repositories.
 Go to the [repositories tab](https://github.com/MooersLab?tab=repositories) to see the full list of repositories.
 
 In the spring of 2023, I started a [MooersLab](https://codeberg.org/MooersLab) site on Codeberg.
 Codeberg is run by a foundation and has 13 years of funding.
-Some of the GitHub repository might wind up being mirrored on the Codeberg.
+Some of the repos on GitHub get mirrored on the Codeberg.
 
 If you like a repository, please click on the star in the upper right.
 
@@ -135,10 +134,14 @@ PyMOL Python snippets for use in the Classic Jupyter Notebook with the `snippets
 ##### JupyterLab
 
 PyMOL Python snippets for use in JupyterLab with the jupyterlab-snippets extension.
+
 - [jupyterlabpymolpysnips](https://github.com/MooersLab/jupyterlabpymolpysnips) PyMOL Python snippets for use in JupyterLab with the jupyterlab-snippets extension.
 - [jupyternbclassicpymolpysnipsplus] (coming soon)
-- [taggedpymolpysnips](https://github.com/MooersLab/taggedpymolpysnips) Support for literate programming in JuptyerLab
-Lab with tagged snippets with the elyra-snippets extension and with PyMOL.
+
+PyMOL Python snippets for use with the elyra-snippets extension and with PyMOL.
+This snippets can be retrieved with tags in the elyra-snippet GUI.
+
+- [taggedpymolpysnips](https://github.com/MooersLab/taggedpymolpysnips) 
 - [taggedpymolpysnipspymolpysnipsplus](coming soon)
   
 #### Snippet libraries externnal editors of Jupyter notebooks (work via GhostText browser plugin)
