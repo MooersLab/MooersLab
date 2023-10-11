@@ -119,10 +119,22 @@ Some people get stuck all too long in Vim or NeoVim, which are great editors.)
 ## Jupyter and Colab related
 
 ### Jupyter and PyMOL
+
+#### Snippet libraries for direct use in Jupyter
+
+##### Classics Notebook
 - [jupyternbclassicpymolpysnips](https://github.com/MooersLab/jupyternbclassicpymolpysnips) PyMOL Python snippets for use in the Classic Jupyter Notebook with the snippets_menu.
+- [jupyternbclassicpymolpysnipsplus]
+
+##### JupyterLab
 - [jupyterlabpymolpysnips](https://github.com/MooersLab/jupyterlabpymolpysnips) PyMOL Python snippets for use in JupyterLab with the jupyterlab-snippets extension.
+- [jupyternbclassicpymolpysnipsplus] 
 - [taggedpymolpysnips](https://github.com/MooersLab/taggedpymolpysnips) Support for literate programming in JuptyerLab
 Lab with tagged snippets with the elyra-snippets extension and with PyMOL.
+- [taggedpymolpysnipspymolpysnipsplus]
+  
+#### Snippet libraries externnal editors of Jupyter notebooks
+
 - [jupyter-vsc-pymolpysnips](https://github.com/MooersLab/jupytervsc-pymolpysnips)
 - [jupyter-st3-pymolpysnips](https://github.com/MooersLab/jupyter-st3-pymolpysnips)
 - [jupyter-emacs-pymolpysnips](https://github.com/MooersLab/jupyter-emacs-pymolpysnips)
@@ -130,6 +142,8 @@ Lab with tagged snippets with the elyra-snippets extension and with PyMOL.
 - [jupyter-snipmate-pymolpysnips](https://github.com/MooersLab/jupyter-snipmate-pymolpysnips)
 - [jupyter-neosnippets-pymolpysnips](https://github.com/MooersLab/jupyter-neosnippets-pymolpysnips)
 - [jupyter-atom-pymolpysnips](https://github.com/MooersLab/jupyter-atom-pymolpysnips)
+  
+##### Demos
 - [emacsconf 2022 talk about using Emacs to edit Jupyter cells via GhostText and atomic-chrome](https://emacsconf.org/2022/talks/jupyter/)
 
 ### Colab and PyMOL
