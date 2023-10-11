@@ -122,16 +122,24 @@ Some people get stuck all too long in Vim or NeoVim, which are great editors.)
 
 #### Snippet libraries for direct use in Jupyter
 
+Jupyter notebooks do not support tab stops.
+The libraries with `plus` at the end of their name have a second copy of the code in a comment.
+This copy is marked with the sites of the 
+
 ##### Classics Notebook
-- [jupyternbclassicpymolpysnips](https://github.com/MooersLab/jupyternbclassicpymolpysnips) PyMOL Python snippets for use in the Classic Jupyter Notebook with the snippets_menu.
-- [jupyternbclassicpymolpysnipsplus]
+PyMOL Python snippets for use in the Classic Jupyter Notebook with the `snippets_menu` notebook extension.
+
+- [jupyternbclassicpymolpysnips](https://github.com/MooersLab/jupyternbclassicpymolpysnips) 
+- [jupyternbclassicpymolpysnipsplus](https://github.com/MooersLab/jupyterlabpymolpysnipsplus) 
 
 ##### JupyterLab
+
+PyMOL Python snippets for use in JupyterLab with the jupyterlab-snippets extension.
 - [jupyterlabpymolpysnips](https://github.com/MooersLab/jupyterlabpymolpysnips) PyMOL Python snippets for use in JupyterLab with the jupyterlab-snippets extension.
-- [jupyternbclassicpymolpysnipsplus] 
+- [jupyternbclassicpymolpysnipsplus] (coming soon)
 - [taggedpymolpysnips](https://github.com/MooersLab/taggedpymolpysnips) Support for literate programming in JuptyerLab
 Lab with tagged snippets with the elyra-snippets extension and with PyMOL.
-- [taggedpymolpysnipspymolpysnipsplus]
+- [taggedpymolpysnipspymolpysnipsplus](coming soon)
   
 #### Snippet libraries externnal editors of Jupyter notebooks
 
