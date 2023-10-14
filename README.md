@@ -136,13 +136,13 @@ PyMOL Python snippets for use in the Classic Jupyter Notebook with the `snippets
 PyMOL Python snippets for use in JupyterLab with the jupyterlab-snippets extension.
 
 - [jupyterlabpymolpysnips](https://github.com/MooersLab/jupyterlabpymolpysnips) PyMOL Python snippets for use in JupyterLab with the jupyterlab-snippets extension.
-- [jupyternbclassicpymolpysnipsplus] (coming soon)
+- [jupyternbclassicpymolpysnipsplus](https://github.com/MooersLab/jupyternbclassicpymolpysnipsplus)
 
 PyMOL Python snippets for use with the elyra-snippets extension and with PyMOL.
 This snippets can be retrieved with tags in the elyra-snippet GUI.
 
 - [taggedpymolpysnips](https://github.com/MooersLab/taggedpymolpysnips) 
-- [taggedpymolpysnipspymolpysnipsplus](coming soon)
+- [taggedpymolpysnipspymolpysnipsplus](https://github.com/MooersLab/taggedpymolpysnipspymolpysnipsplus)
   
 #### Snippet libraries externnal editors of Jupyter notebooks (work via GhostText browser plugin)
 
