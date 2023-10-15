@@ -139,7 +139,7 @@ PyMOL Python snippets for use in JupyterLab with the jupyterlab-snippets extensi
 - [jupyternbclassicpymolpysnipsplus](https://github.com/MooersLab/jupyternbclassicpymolpysnipsplus)
 
 PyMOL Python snippets for use with the elyra-snippets extension and with PyMOL.
-This snippets can be retrieved with tags in the elyra-snippet GUI.
+These snippets can be retrieved with tags in the elyra-snippet GUI.
 
 - [taggedpymolpysnips](https://github.com/MooersLab/taggedpymolpysnips) 
 - [taggedpymolpysnipspymolpysnipsplus](https://github.com/MooersLab/taggedpymolpysnipspymolpysnipsplus)
