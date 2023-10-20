@@ -119,11 +119,14 @@ Some people get stuck all too long in Vim or NeoVim, which are great editors.)
 
 ### Jupyter and PyMOL
 
+PyMOL can be run in Jupyter via PyMOL's Python API.
+
 #### Snippet libraries for direct use in Jupyter
 
-Jupyter notebooks do not support tab stops.
+There are multiple extensions for Jupyter that support the use of snippets.
+However, the support does not include tab stops nor tab triggers, two common features of snippet support in modern text editors.
 The libraries with `plus` at the end of their name have a second copy of the code in a comment.
-This copy is marked with the sites of the 
+This copy is marked with the sites of the tab stops where you might want to change the paramter value from its default value.
 
 ##### Classics Notebook
 PyMOL Python snippets for use in the Classic Jupyter Notebook with the `snippets_menu` notebook extension.
