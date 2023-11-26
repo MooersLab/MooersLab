@@ -173,10 +173,15 @@ These snippets can be retrieved with tags in the elyra-snippet GUI.
 
 
 ## LaTeX related
-Note that I currently write alot in Emacs on 750words.com via GhostText. 
+Until recently, I wrote a lot in Emacs on 750words.com via GhostText. 
 I configured the atomic-chrome package for Emacs to go into LaTeX mode when GhostText connects to 750words. 
-I can also use Emacs to write and edit text in Overleaf via atomic-chrome and GhostText.
-This is a very cool way of extending Emacs to websites that have weaker support for editing text.
+I can also use Emacs to write and edit text in Overleaf via atomic-chrome and GhostText. 
+This is a very cool way to extend Emacs to websites that have weaker support for editing text.
+
+Now I use voice-to-text to dictate in 750words.com or Overleaf.
+I use voice commands to insert snippets containing LaTeX code.
+See the voice computing section below.
+
 
 - [LaTeX bare bones template file](https://github.com/MooersLab/barebonesLaTeX/tree/main) This template is for those people want make a simple document without a lot of bells-and-whitsles.
 - [LaTeX tips](https://github.com/MooersLab/latextips)
