@@ -247,17 +247,21 @@ See the [voice computing](https://github.com/MooersLab/MooersLab/blob/main/READM
 - [qvim](https://github.com/MooersLab/qvim) Quiz about Vim commands to improve your recall of the commands after a break from using Vim.
 
 ## Voice computing for enchanced productivity
-The voice computing can be defined into speach-to-text (dictation), speach-to-commands, and speach-to-code.
+The voice computing can be divided into speach-to-text (dictation), speach-to-commands, and speach-to-code.
 The first is the easiest to master.
 Voice Typing is widely available through Google Docs.
 Comparable accuracy is found with Voice In Plus with the addition of custom commands and less frequent crashes.
-I use the latter every day.
+I use the latter every day for dictation for first drafts.
+I do the rewriting using the keyboard.
 
 All three activities are supported by Talon Voice, but the accuracy of speech-to-text lags behind Voice Typing and Voice In Plus in my experience.
 I am currently using Talon Voice for the last two activities.
-I hope to use it for dictation someday.
-Talon Voice has a bit of a learning curve because it is easily customizable by the user.
-However, you do not have to be a coder to write useful TalonScript files.
+I hope to gradually increase my use of Talon Voice for dictation.
+Talon Voice has a bit of a learning curve because it is so highly customizable by the user.
+There are more moving parts, but the software is designed to be used by noncoders.
+For example, you can do a lot of customization just using the TalonScript files and without writing any Python code.
+TalonScript as a syntax that is a tiny subset of Python.
+
 
 Voice Computing supports extending your productivity when you get tired of typing.
 Voice Computing also supports issuing commands and dictating text while standing.
