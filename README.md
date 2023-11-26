@@ -5,37 +5,38 @@ My lab determines the structures of biomolecular molecules and their complexes w
 We grow crystals using advanced experimental design methods and collect X-ray diffraction data in-house and frequently at the [Stanford Synchrotron Radiation LightSource](https://www-ssrl.slac.stanford.edu/content/) and sometimes at the four other major light sources in the US.
 We also do structure-based drug design using supercomputers.
 
-We are not computer scientists, but we do write some code from time-to-time to help advance our science and the science of others.
-We made some software tools to ease the writing of PyMOL scripts for making molecular images.
+We are not computer scientists; we leave the heavy-duty coding to the professionals.
+However, we do write code from time to time to help advance our science and the science of others.
+We have developed some software tools to ease the writing of PyMOL scripts to make molecular images.
 These tools are available for the top 19 text editors and for the Jupyter, Colab, and R Markdown notebooks. 
-All of these text editors can make your work lighter and have many wonderful features, but Emacs is our favorite because it is by far the most customizable, thanks to Emacs Lisp.
+All of these text editors can make your work lighter and have many wonderful features, but Emacs is our favorite because it is by far the most customizable text editor thanks to Emacs Lisp.
 However, take a disciplined approach to Emacs because it is a tinker's paradise.
 
-We use Overleaf alot to write manuscripts, grant applications, slideshows, posters, and lab notebooks in LaTeX.
-All of the alternatives Markup languages are too inflexible due too many limitations.
+We use Overleaf a lot to write manuscripts, grant applications, slideshows, posters, and lab notebooks in LaTeX.
+All the alternative Markup languages are too inflexible for our needs.
 We spent five years trying the alternatives.
 This was before Overleaf, which made working with LaTeX so much easier.
 Some of our LaTeX templates are in repos found here.
 
 We are also fans of Jupyter Notebooks.
-We have developed tools for working in Jupyter with PyMOL and CCTBX.
-Jupyter Notebooks may frustrating for those without some formal training in computing.
-You have to be always aware of the state of your computer or at least the state that you expected it to be in.
+We have developed tools for working on Jupyter with PyMOL and CCTBX.
+Jupyter Notebooks may be frustrating for those without some formal training in computing.
+You have to always be aware of the state of your computer, or at least the state in which you expected it to be in.
 
 We code in mainly in Python but often in Bash, R, Clojure, Elisp, Julia, Fortran, and C/C++.
 
-The repositories are grouped by category.
+Repositories are grouped by category.
 Some repositories are listed in several categories.
 This listing is still a work in progress. 
-Some repositories have yet to be added.
+Some repositories have not yet been added to this page.
 Seventeen repos are forks to other people's repositories.
-Go to the [repositories tab](https://github.com/MooersLab?tab=repositories) to see the full list of repositories.
+Visit the [repositories tab](https://github.com/MooersLab?tab=repositories) to see the full list of repositories.
 
 In the spring of 2023, I started a [MooersLab](https://codeberg.org/MooersLab) site on Codeberg.
 Codeberg is run by a foundation and has 13 years of funding.
-Some of the repos on GitHub get mirrored on the Codeberg.
+Some repos on GitHub get mirrored on Codeberg.
 
-If you like a repository, please click on the star in the upper right.
+If you like a repository, click on the star in the upper right.
 
 <!--
 (PS The ultimate text editor for writing prose and code is Emacs.
