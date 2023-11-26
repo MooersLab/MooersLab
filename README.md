@@ -243,8 +243,9 @@ This is a very cool way of extending Emacs to websites that have weaker support 
 ## Voice computing for enchanced productivity
 
 ### Voice In Plus files
+- [Library of 94 English contractions for Voice In Plus](https://github.com/MooersLab/voice-in-plus-contractions)
 - [Full library of commands for Voice In Plus](https://github.com/MooersLab/voice-in-plus-commands)
-- [Library of English contractions for Voice In Plus](https://github.com/MooersLab/voice-in-plus-contractions)
+
 
 ### Voice Typing files
 -
