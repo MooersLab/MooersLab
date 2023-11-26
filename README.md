@@ -242,13 +242,18 @@ This is a very cool way of extending Emacs to websites that have weaker support 
 
 ## Voice computing for enchanced productivity
 
-### Voice In files
+### Voice In Plus files
+- [Full library of commands for Voice In Plus](https://github.com/MooersLab/voice-in-plus-commands)
+- [Library of English contractions for Voice In Plus](https://github.com/MooersLab/voice-in-plus-contractions)
 
 ### Voice Typing files
+-
 
 ### Talon Voice files
 - [Expand dictated contractions automatically](https://github.com/MooersLab/talon-contractions)
-- [Open favorite web pages by voice command](https://github.com/MooersLab/talon-webpages)
+- [Open favorite web pages by voice commands](https://github.com/MooersLab/talon-webpages)
+- [Master Talon Voice phonetic alphabet with interactive quiz]()
+
 
 ## Writing productivity tools
 - [The writer's creed](https://github.com/MooersLab/thewriterslaw) Guidelines for greater productivity.
