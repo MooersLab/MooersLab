@@ -266,6 +266,8 @@ You can bark commands at your computer while standing 20 ft away from it and loo
 You can give your butt a break from sitting and your eyes a break from the computer screen at the same time while still remaining productive.
 I have seen a three-fold increase in the number of words captured in text per day.
 It is too early to tell how this will translate into an increase in the number of final products.
+I did not expect a 300% increase in productivity, but even a 20% increase would be significant and welcomed.
+
 
 ### Voice In Plus files
 - [Library of 94 English contractions for Voice In Plus](https://github.com/MooersLab/voice-in-plus-contractions)
