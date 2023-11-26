@@ -19,9 +19,11 @@ This was before Overleaf, which made working with LaTeX so much easier.
 Some of our LaTeX templates are in repos found here.
 
 We are also fans of Jupyter Notebooks.
+There is something inexplicable about Jupyter Notebooks that making coding in them so fun.
 We have developed tools for working on Jupyter with PyMOL and CCTBX.
-Jupyter Notebooks may be frustrating for those without some formal training in computing.
+Jupyter Notebooks may be frustrating for those without at least some formal training in computing.
 You have to always be aware of the state of your computer, or at least the state in which you expected it to be in.
+Those who lack this awareness will run into a lot of trouble.
 
 We code in mainly in Python but often in Bash, R, Clojure, Elisp, Julia, Fortran, and C/C++.
 
@@ -95,6 +97,8 @@ Some people get stuck all too long in Vim or NeoVim, which are great editors.)
 
 
 ## Emacs related
+Today's Emacs is not your grandfather's Emacs. The median age of an emacs user is 32, not 77 as you might expect for an editor that is about 45 years old. This is due to a very active community of young users centered around several YouTube channels, to elisp being well designed to customize Emacs, to an on-line annual conference, the popularity of org-mode, and a very welcoming community of developers. The project is open source and run by volunteers. According to the Lindy effect, it is quite likely that this program will remain in use for another 45 years. Exposure to elisp coding in Emacs leads some to pick up other languages in the Lisp family, including Clojure. This in turn leads them to understand programming more deeply.
+
 - [Configuration for Emacs30 to support structured editing](https://github.com/MooersLab/emacs30venturatreesitterconfig)
 - [Some simple hydras in Codeberg repo](https://codeberg.org/MooersLab/emacs-hydra-examples)
 - [Compiling Emacs30 on Ventura (macOS 13.2) with tree-sitter](https://github.com/MooersLab/emacs30macos13treesitter) This protocol compiles Emacs from source with tree-sitter support for structured editing of computer code on macOS.
@@ -148,7 +152,8 @@ These snippets can be retrieved with tags in the elyra-snippet GUI.
 - [taggedpymolpysnips](https://github.com/MooersLab/taggedpymolpysnips) 
 - [taggedpymolpysnipspymolpysnipsplus](https://github.com/MooersLab/taggedpymolpysnipspymolpysnipsplus)
   
-#### Snippet libraries externnal editors of Jupyter notebooks (work via GhostText browser plugin)
+#### Snippet libraries for using external editors of Jupyter notebooks 
+These editors work in Jupyter Notebooks via the GhostText browser plugin.
 
 - [jupyter-vsc-pymolpysnips](https://github.com/MooersLab/jupyter-vsc-pymolpysnips)
 - [jupyter-st3-pymolpysnips](https://github.com/MooersLab/jupyter-st3-pymolpysnips)
