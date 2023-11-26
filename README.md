@@ -247,7 +247,8 @@ This is a very cool way of extending Emacs to websites that have weaker support 
 ### Voice Typing files
 
 ### Talon Voice files
-
+- [Expand dictated contractions automatically](https://github.com/MooersLab/talon-contractions)
+- [Open favorite web pages by voice command](https://github.com/MooersLab/talon-webpages)
 
 ## Writing productivity tools
 - [The writer's creed](https://github.com/MooersLab/thewriterslaw) Guidelines for greater productivity.
