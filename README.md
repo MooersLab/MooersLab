@@ -247,11 +247,29 @@ See the [voice computing](https://github.com/MooersLab/MooersLab/blob/main/READM
 - [qvim](https://github.com/MooersLab/qvim) Quiz about Vim commands to improve your recall of the commands after a break from using Vim.
 
 ## Voice computing for enchanced productivity
+The voice computing can be defined into speach-to-text (dictation), speach-to-commands, and speach-to-code.
+The first is the easiest to master.
+Voice Typing is widely available through Google Docs.
+Comparable accuracy is found with Voice In Plus with the addition of custom commands and less frequent crashes.
+I use the latter every day.
+
+All three activities are supported by Talon Voice, but the accuracy of speech-to-text lags behind Voice Typing and Voice In Plus in my experience.
+I am currently using Talon Voice for the last two activities.
+I hope to use it for dictation someday.
+Talon Voice has a bit of a learning curve because it is easily customizable by the user.
+However, you do not have to be a coder to write useful TalonScript files.
+
+Voice Computing supports extending your productivity when you get tired of typing.
+Voice Computing also supports issuing commands and dictating text while standing.
+Voice computing could be a cure for the envy of standing desks.
+You can bark commands at your computer while standing 20 ft away from it and looking out the window.
+You can give your butt a break from sitting and your eyes a break from the computer screen at the same time while still remaining productive.
+I have seen a three-fold increase in the number of words captured in text per day.
+It is too early to tell how this will translate into an increase in the number of final products.
 
 ### Voice In Plus files
 - [Library of 94 English contractions for Voice In Plus](https://github.com/MooersLab/voice-in-plus-contractions)
 - [Full library of commands for Voice In Plus](https://github.com/MooersLab/voice-in-plus-commands)
-
 
 ### Voice Typing in Google Docs
 - [Master Vocie Typing commands with interactive quiz](https://github.com/MooersLab/voice-typing-quiz)
