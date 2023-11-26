@@ -180,7 +180,7 @@ This is a very cool way to extend Emacs to websites that have weaker support for
 
 Now I use voice-to-text to dictate in 750words.com or Overleaf.
 I use voice commands to insert snippets containing LaTeX code.
-See the voice computing section below.
+See the [voice computing](https://github.com/MooersLab/MooersLab/blob/main/README.md#voice-computing-for-enchanced-productivity) section below.
 
 
 - [LaTeX bare bones template file](https://github.com/MooersLab/barebonesLaTeX/tree/main) This template is for those people want make a simple document without a lot of bells-and-whitsles.
