@@ -247,8 +247,8 @@ This is a very cool way of extending Emacs to websites that have weaker support 
 - [Full library of commands for Voice In Plus](https://github.com/MooersLab/voice-in-plus-commands)
 
 
-### Voice Typing files
--
+### Voice Typing in Google Docs
+- [Master Vocie Typing commands with interactive quiz](https://github.com/MooersLab/voice-typing-quiz)
 
 ### Talon Voice files
 - [Expand dictated contractions automatically](https://github.com/MooersLab/talon-contractions)
