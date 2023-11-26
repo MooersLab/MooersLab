@@ -240,6 +240,15 @@ This is a very cool way of extending Emacs to websites that have weaker support 
 - [Neovim configuration file](https://github.com/MooersLab/neovim-init-file)
 - [qvim](https://github.com/MooersLab/qvim) Quiz about Vim commands to improve your recall of the commands after a break from using Vim.
 
+## Voice computing for enchanced productivity
+
+### Voice In files
+
+### Voice Typing files
+
+### Talon Voice files
+
+
 ## Writing productivity tools
 - [The writer's creed](https://github.com/MooersLab/thewriterslaw) Guidelines for greater productivity.
 - [Writing Progress tracker by project for 2023 in Excel and Libre Office](https://github.com/MooersLab/writingProgess2023)
