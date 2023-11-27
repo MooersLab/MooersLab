@@ -252,7 +252,7 @@ See the [voice computing](https://github.com/MooersLab/MooersLab/blob/main/READM
 - [qvim](https://github.com/MooersLab/qvim) Quiz about Vim commands to improve your recall of the commands after a break from using Vim.
 
 ## Voice computing for enchanced productivity
-The voice computing can be divided into speach-to-text (dictation), speach-to-commands, and speach-to-code.
+The voice computing can be divided into three activities: speach-to-text (dictation), speach-to-commands, and speach-to-code.
 The first is the easiest to master.
 Voice Typing is widely available through Google Docs.
 Comparable accuracy is found with Voice In Plus with the addition of custom commands and less frequent crashes.
@@ -267,43 +267,51 @@ There are more moving parts, but the software is designed to be used by noncoder
 For example, you can do a lot of customization just using the TalonScript files and without writing any Python code.
 TalonScript as a syntax that is a tiny subset of Python.
 
-Voice Computing supports extending your productivity when you get tired of typing.
-Voice Computing also supports issuing commands and dictating text while standing.
+Voice computing supports extending your productivity when you get tired of typing.
+Voice computing also supports issuing commands and dictating text while standing.
 Voice computing could be a cure for the envy of standing desks.
-You can bark commands at your computer while standing 20 ft away from it and looking out the window.
-You can give your butt a break from sitting and your eyes a break from the computer screen at the same time while still remaining productive.
+You can speak commands to your computer while standing 20 ft away from it and looking out the window.
+You can give your body a break from sitting and your eyes a break from the computer screen at the same time while still remaining productive.
+
 I have seen a three-fold increase in the number of words captured in text per day.
 It is too early to tell how this will translate into an increase in the number of final products.
-I did not expect a 300% increase in productivity, but even a 20% increase would be significant and welcomed.
+I do not expect a 300% increase in productivity, but even a 10% increase would be significant return investment.
+
+Below are links to programming tools to aid the adoption of voice computing.
 
 
-### Voice In Plus files
+### Voice In Plus related
 - [Library of 94 English contractions for Voice In Plus](https://github.com/MooersLab/voice-in-plus-contractions)
 - [Full library of commands for Voice In Plus](https://github.com/MooersLab/voice-in-plus-commands)
 
-### Voice Typing in Google Docs
-- [Master Voicce Typing commands with interactive quiz](https://github.com/MooersLab/voice-typing-quiz)
+### Voice Typing in Google Docs related
+- [Master Voice Typing commands with interactive quiz](https://github.com/MooersLab/voice-typing-quiz)
 
-### Talon Voice files
+
+### Talon Voice related
 - [Expand dictated contractions automatically](https://github.com/MooersLab/talon-contractions)
 - [Open favorite web pages by voice commands](https://github.com/MooersLab/talon-webpages)
 - [Master Talon Voice phonetic alphabet with interactive quiz written in Python](https://github.com/MooersLab/talon-voice-quizzes)
 - [Master Talon Voice with interactive quiz written in elisp for Emacs](https://github.com/MooersLab/talon-voice-quiz.el)
 
+
 ## Writing productivity tools
+These are some programming tools designed to support greater producitivity. 
+
 - [The writer's creed](https://github.com/MooersLab/thewriterslaw) Guidelines for greater productivity.
 - [Writing Progress tracker by project for 2023 in Excel and Libre Office](https://github.com/MooersLab/writingProgess2023)
-- [Writing contract template](https://github.com/MooersLab/writingContract) This contract is in Microsoft Word, markdown, LaTeX, and org-mode.
+- [Writing contract template](https://github.com/MooersLab/writingContract) This contract is in Microsoft Word, markdown, LaTeX, and org-mode. This accountability system works only if your partner has a similar commitment level.
 - [Writing Log template in LaTeX](https://github.com/MooersLab/writingLogTemplate). LaTeX beginers can use this document easily on Overleaf without any configuration.
 - [Writing Log template in Org-mode](https://github.com/MooersLab/writingLogTemplateInOrg) Org-mode is a powerful analog of markdown that can interpret LaTeX code blocks. It is vastly more capable than markdown. Org-mode is best edited in Emacs (Sorry, Oveleaf cannot yet work with Org-mode), but VS Code has some support for org-mode files.
 - [Emacsconf 2022 talk about GhostText on YouTube, December 2022](https://www.youtube.com/watch?v=2NPUDYAOgW0&t=3s) Includes demonstration of using Emacs to edit a document in Overleaf.
-- [TimeSpent](https://github.com/MooersLab/timeSpent) Hourly time tracking by project with Google Sheets. This is useful for making monthly time reports.
+- [TimeSpent](https://github.com/MooersLab/timeSpent) Hourly time tracking by project with Google Sheets. This is useful for making monthly time reports and learning how much various writing projects actually take.
 
-## YouTube Videos of relevance to these repos
-- [Snippets in Jupyter Notebooks](https://www.youtube.com/watch?v=LjJvhfJvla4), OKC Python Meetup, 10 May 2019
-- [Why develop a snippet library for Jupyter in your subject domain?](https://www.youtube.com/watch?v=sZNCAwW5dYg&amp;t=11s)  JupyterConn 2020
-- [Reproducible molecular graphics with Org-mode](https://www.youtube.com/watch?v=ZTocGPS-Uqk&amp;t=2s), EmacsConf 2021 
-- [Edit live Jupyter notebook cells with Emac](https://www.youtube.com/watch?v=2NPUDYAOgW0), EmacsConf 2022
+
+## YouTube Videos related to these repos
+- [Snippets in Jupyter Notebooks](https://www.youtube.com/watch?v=LjJvhfJvla4), OKC Python Meetup, 10 May 2019.
+- [Why develop a snippet library for Jupyter in your subject domain?](https://www.youtube.com/watch?v=sZNCAwW5dYg&amp;t=11s)  JupyterConn 2020.
+- [Reproducible molecular graphics with Org-mode](https://www.youtube.com/watch?v=ZTocGPS-Uqk&amp;t=2s), EmacsConf 2021.
+- [Edit live Jupyter notebook cells with Emacs](https://www.youtube.com/watch?v=2NPUDYAOgW0), EmacsConf 2022.
 
 **MooersLab/MooersLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on his GitHub profile 👋.
 
