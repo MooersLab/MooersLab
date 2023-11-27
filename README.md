@@ -267,7 +267,6 @@ There are more moving parts, but the software is designed to be used by noncoder
 For example, you can do a lot of customization just using the TalonScript files and without writing any Python code.
 TalonScript as a syntax that is a tiny subset of Python.
 
-
 Voice Computing supports extending your productivity when you get tired of typing.
 Voice Computing also supports issuing commands and dictating text while standing.
 Voice computing could be a cure for the envy of standing desks.
@@ -288,7 +287,7 @@ I did not expect a 300% increase in productivity, but even a 20% increase would 
 ### Talon Voice files
 - [Expand dictated contractions automatically](https://github.com/MooersLab/talon-contractions)
 - [Open favorite web pages by voice commands](https://github.com/MooersLab/talon-webpages)
-- [Master Talon Voice phonetic alphabet with interactive quiz]()
+- [Master Talon Voice phonetic alphabet with interactive quiz--coming soon]()
 
 
 ## Writing productivity tools
