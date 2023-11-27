@@ -288,7 +288,7 @@ I did not expect a 300% increase in productivity, but even a 20% increase would 
 - [Expand dictated contractions automatically](https://github.com/MooersLab/talon-contractions)
 - [Open favorite web pages by voice commands](https://github.com/MooersLab/talon-webpages)
 - [Master Talon Voice phonetic alphabet with interactive quiz written in Python](https://github.com/MooersLab/talon-voice-quizzes)
-- [Master Talon Voice with interactive quiz written in elisp](https://github.com/MooersLab/talon-voice-quiz.el)
+- [Master Talon Voice with interactive quiz written in elisp for Emacs](https://github.com/MooersLab/talon-voice-quiz.el)
 
 ## Writing productivity tools
 - [The writer's creed](https://github.com/MooersLab/thewriterslaw) Guidelines for greater productivity.
