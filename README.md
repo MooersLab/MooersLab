@@ -282,7 +282,7 @@ I did not expect a 300% increase in productivity, but even a 20% increase would 
 - [Full library of commands for Voice In Plus](https://github.com/MooersLab/voice-in-plus-commands)
 
 ### Voice Typing in Google Docs
-- [Master Vocie Typing commands with interactive quiz](https://github.com/MooersLab/voice-typing-quiz)
+- [Master Voicce Typing commands with interactive quiz](https://github.com/MooersLab/voice-typing-quiz)
 
 ### Talon Voice files
 - [Expand dictated contractions automatically](https://github.com/MooersLab/talon-contractions)
