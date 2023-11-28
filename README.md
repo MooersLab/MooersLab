@@ -236,7 +236,9 @@ See the [voice computing](https://github.com/MooersLab/MooersLab/blob/main/READM
 ## Time management
 - [TimeSpent](https://github.com/MooersLab/timeSpent) Time tracking by project with Google Sheets.
 
-## Supercomputing related (includes high performance computing (HPC), cluster computing, cloud computing)
+## Supercomputing related 
+Includes high performance computing (HPC), cluster computing, and cloud computing.
+
 - [Bash functions for Schooner at OSCER](https://github.com/MooersLab/bashFunctions4oscer)
 - [Emacs configuration file for schooner supercomputer](https://github.com/MooersLab/emacs4oscer)
 - [Multiple file transfer with sshpass and scp](https://github.com/MooersLab/multipleFileTransfer)
