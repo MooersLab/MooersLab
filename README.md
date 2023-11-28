@@ -281,6 +281,7 @@ Below are links to programming tools to aid the adoption of voice computing.
 
 
 ### Voice In Plus related
+- [Master basic Voice In commands with interactive quiz](https://github.com/MooersLab/voice-in-basics-quiz)
 - [Library of 94 English contractions for Voice In Plus](https://github.com/MooersLab/voice-in-plus-contractions)
 - [Full library of commands for Voice In Plus](https://github.com/MooersLab/voice-in-plus-commands)
 
