@@ -253,7 +253,7 @@ Includes high performance computing (HPC), cluster computing, and cloud computin
 - [Neovim configuration file](https://github.com/MooersLab/neovim-init-file)
 - [qvim](https://github.com/MooersLab/qvim) Quiz about Vim commands to improve your recall of the commands after a break from using Vim.
 
-## Voice computing for enchanced productivity
+## Voice computing
 The voice computing can be divided into three activities: speach-to-text (dictation), speach-to-commands, and speach-to-code.
 The first is the easiest to master.
 Voice Typing is widely available through Google Docs.
