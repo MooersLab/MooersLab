@@ -279,6 +279,8 @@ I have seen a three-fold increase in the number of words captured in text per da
 It is too early to tell how this will translate into an increase in the number of final products.
 I do not expect a 300% increase in productivity, but even a 10% increase would be significant return investment.
 
+<p align="center"><img src="./images/words4.png" alt="HTML5 Icon" style="width:612px;height:312px;"></p>
+
 Below are links to programming tools to aid the adoption of voice computing.
 
 
