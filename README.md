@@ -275,7 +275,7 @@ Voice computing could be a cure for the envy of standing desks.
 You can speak commands to your computer while standing 20 ft away from it and looking out the window.
 You can give your body a break from sitting and your eyes a break from the computer screen at the same time while still remaining productive.
 
-I have seen a three-fold increase in the number of words captured in text per day.
+I have seen a three-fold increase in the total number of words captured in September and October 2023 compared to June and July 2023 before I took up speech-to-voice in mid August 2023.
 It is too early to tell how this will translate into an increase in the number of final products.
 I do not expect a 300% increase in productivity, but even a 10% increase would be significant return investment.
 
