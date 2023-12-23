@@ -292,6 +292,7 @@ Below are links to programming tools to aid the adoption of voice computing.
 - [Library of 94 English contractions for Voice In Plus](https://github.com/MooersLab/voice-in-plus-contractions)
 - [Full library of commands for Voice In Plus](https://github.com/MooersLab/voice-in-plus-commands)
 - [Org-mode Voice In custom commands](https://github.com/MooersLab/org-mode-voice-in/tree/main)
+- [Biological crystallography Voice In custom commands](https://github.com/MooersLab/biological-crystallography-voice-in)
 
 
 ### Voice Typing in Google Docs related
