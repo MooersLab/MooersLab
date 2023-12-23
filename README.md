@@ -291,8 +291,8 @@ Below are links to programming tools to aid the adoption of voice computing.
 - [Master basic Voice In commands with interactive quiz in Emacs](https://github.com/MooersLab/voice-in-basics-quiz.el)
 - [Library of 94 English contractions for Voice In Plus](https://github.com/MooersLab/voice-in-plus-contractions)
 - [Full library of commands for Voice In Plus](https://github.com/MooersLab/voice-in-plus-commands)
-- [Org-mode Voice In Plus custom commands](https://github.com/MooersLab/org-mode-voice-in/tree/main)
-- [Biological crystallography Voice In Plus custom commands](https://github.com/MooersLab/biological-crystallography-voice-in)
+- [Org-mode custom commands Voice In Plus](https://github.com/MooersLab/org-mode-voice-in/tree/main)
+- [Biological crystallography  custom commands Voice In Plus](https://github.com/MooersLab/biological-crystallography-voice-in)
 
 
 ### Voice Typing in Google Docs related
