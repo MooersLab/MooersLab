@@ -278,8 +278,14 @@ You can give your body a break from sitting and your eyes a break from the compu
 
 I have seen a three-fold increase in the total number of words captured in September and October 2023 compared to June and July 2023 before I took up speech-to-voice in mid August 2023.
 This two periods had the same amount of out-of-town business travel, which can disrupt writing habits.
-It is too early to tell how this will translate into an increase in the number of final products.
-I do not expect a 300% increase in productivity, but even a 10% increase would be significant return investment.
+
+On the day after Thanksgiving, I generated almost 12,000 words.
+I made a concerted effort to try to generate at least 5,000 words a day from that point to just before Christmas.
+I then had family obligations that led to a reduction my dialy word generation.
+Overall, it seems that a 5 fold increase in productivity may be possible, but perhaps not realistically sustainable.
+
+It is too early to tell how this will translate into an increase in the number of published products.
+I do not expect a 300% increase in productivity, but even a 30% increase would be significant return investment.
 
 <p align="center"><img src="./images/words5.png" alt="HTML5 Icon" style="width:612px;height:312px;"></p>
 
