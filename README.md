@@ -10,6 +10,7 @@
 - [SAXS](https://github.com/MooersLab#small-angle-scattering)
 - [supercomputing](https://github.com/MooersLab#supercomputing-related)
 - [vim](https://github.com/MooersLab/MooersLab/blob/main/README.md#vim-and-neovim)
+- [writing tools](https://github.com/MooersLab/MooersLab/blob/main/README.md#writing-productivity-tools)
 - [Voice Computing](https://github.com/MooersLab#voice-computing)
 
 
