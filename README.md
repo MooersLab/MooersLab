@@ -1,9 +1,11 @@
 # MooersLab
 
 ## Quick Links
-- [Emacs](https://github.com/MooersLab#voice-computing)
-- [LaTeX](https://github.com/MooersLab#voice-computing) 
-- [PyMOL](https://github.com/MooersLab#pymol)
+- [cctbx](https://github.com/MooersLab#cctbx-related)
+- [Emacs](https://github.com/MooersLab#emacs-related)
+- [Jupyter and Colab](https://github.com/MooersLab#jupyter-and-colab-related)
+- [LaTeX](https://github.com/MooersLab#latex-related) 
+- [PyMOL](https://github.com/MooersLab#pymol-related)
 - [Voice Computing](https://github.com/MooersLab#voice-computing)
 
 
