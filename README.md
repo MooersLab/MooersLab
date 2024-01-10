@@ -1,5 +1,13 @@
 # MooersLab
 
+## Quick Links
+- [Emacs](https://github.com/MooersLab#voice-computing)
+- [LaTeX](https://github.com/MooersLab#voice-computing) 
+- [PyMOL](https://github.com/MooersLab#pymol)
+- [Voice Computing](https://github.com/MooersLab#voice-computing)
+
+
+## Introduction
 This site contains the public repositories of the Dr. Blaine Mooers Lab, Department of Biochemistry and Physiology, College of Medicine, University of Oklahoma Health Sciences Center, Oklahoma City, Oklahoma, USA.
 My lab determines the structures of biomolecular molecules and their complexes with drugs, using mostly [X-ray crystallography](https://en.wikipedia.org/wiki/X-ray_crystallography#Biological_macromolecular_crystallography) and sometimes [small angle X-ray scattering](https://en.wikipedia.org/wiki/Small-angle_X-ray_scattering), a method that does not require crystals. 
 We grow crystals using advanced experimental design methods and collect X-ray diffraction data in-house and frequently at the [Stanford Synchrotron Radiation LightSource](https://www-ssrl.slac.stanford.edu/content/) and sometimes at the four other major light sources in the US.
