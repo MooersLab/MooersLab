@@ -1,11 +1,13 @@
 # MooersLab
 
 ## Quick Links
+- [bash for supercomputing](https://github.com/MooersLab#bash-related)
 - [cctbx](https://github.com/MooersLab#cctbx-related)
 - [Emacs](https://github.com/MooersLab#emacs-related)
 - [Jupyter and Colab](https://github.com/MooersLab#jupyter-and-colab-related)
 - [LaTeX](https://github.com/MooersLab#latex-related) 
-- [PyMOL](https://github.com/MooersLab#pymol-related)
+- [PyMOL](https://github.com/MooersLab#pymol)
+- [SAXS](https://github.com/MooersLab#small-angle-scattering)
 - [Voice Computing](https://github.com/MooersLab#voice-computing)
 
 
