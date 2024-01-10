@@ -9,9 +9,10 @@
 - [PyMOL](https://github.com/MooersLab#pymol)
 - [SAXS](https://github.com/MooersLab#small-angle-scattering)
 - [supercomputing](https://github.com/MooersLab#supercomputing-related)
-- [vim](https://github.com/MooersLab/MooersLab/blob/main/README.md#vim-and-neovim)
+- [vim/neovim](https://github.com/MooersLab/MooersLab/blob/main/README.md#vim-and-neovim)
 - [writing tools](https://github.com/MooersLab/MooersLab/blob/main/README.md#writing-productivity-tools)
-- [Voice Computing](https://github.com/MooersLab#voice-computing)
+- [voice computing](https://github.com/MooersLab#voice-computing)
+- [videos](https://github.com/MooersLab#videos-related-to-these-repos)
 
 
 ## Introduction
