@@ -327,12 +327,12 @@ Below are links to programming tools to aid the adoption of voice computing.
 - [Master Talon Voice phonetic alphabet with interactive quiz written in Python](https://github.com/MooersLab/talon-voice-quizzes)
 - [Master Talon Voice with interactive quiz written in elisp for Emacs](https://github.com/MooersLab/talon-voice-quiz.el)
 
-I have given two talks on this topic including one to the 
+I have given two talks on this topic: one at the regional level and one at the international level.
 
 ### Related talks
+- [Data Science Workshop talk on speech-to-text, 2023 Nov. 16](https://mediasite.ouhsc.edu/Mediasite/Channel/python/watch/21e8b9a65d044d01a264df1f19db261b1d)
 - [emacsconf23 talk speech-to-text and speech-to-commands, 2023 Dec. 2 on YouTube](https://www.youtube.com/watch?v=Z7l1ImjXOWM)
 - [ditto but on the emacsonf.org website](https://emacsconf.org/2023/talks/voice/)
-- [Data Science Workshop talk on speech-to-text, 2023 Nov. 16](https://mediasite.ouhsc.edu/Mediasite/Channel/python/watch/21e8b9a65d044d01a264df1f19db261b1d)
 
 
 ## Writing productivity tools
