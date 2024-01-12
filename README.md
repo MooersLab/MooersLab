@@ -338,11 +338,11 @@ I have given two talks on this topic: one at the regional level and one at the i
 
 
 ## Writing productivity tools
-These are some programming tools designed to support greater producitivity. 
+These are some programming tools designed to support greater writing producitivity. 
 - [LaTeX manuscript template](https://github.com/MooersLab/manuscriptInLaTeX) Generic template for the first submission as a PDF.
 - [Writing log template in LaTeX](https://github.com/MooersLab/writingLogTemplate) Place to track progress and plans behind a manuscript.
 - [Annotated bibliography Template in LaTeX](https://github.com/MooersLab/annotatedBibliography) Every writing project needs one of these.
-
+- [bib2item3](https://github.com/MooersLab/bib2item3) Python script to convert bibtex.bib file to bibitems in tex file format. Bibitems are required by some publishers. They are a pain to create manually.
 - [The writer's creed](https://github.com/MooersLab/thewriterslaw) Guidelines for greater productivity.
 - [Writing Progress tracker by project for 2023 in Excel and Libre Office](https://github.com/MooersLab/writingProgess2023)
 - [Writing contract template](https://github.com/MooersLab/writingContract) This contract is in Microsoft Word, markdown, LaTeX, and org-mode. This accountability system works only if your partner has a similar level of commitment to daily writing. I had a good run of four years with one person from out-of-state. I would consider doing this again.
