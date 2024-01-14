@@ -144,10 +144,10 @@ PyMOL can be run in Jupyter via PyMOL's Python API.
 
 #### Snippet libraries for direct use in Jupyter
 
-There are multiple extensions for Jupyter that support the use of snippets.
-However, the support does not include tab stops nor tab triggers, two common features of snippet support in modern text editors.
+Multiple extensions for Jupyter support the use of snippets.
+However, the support does not include tab stops nor tab triggers, two standard features of snippet support in modern text editors.
 The libraries with `plus` at the end of their name have a second copy of the code in a comment.
-This copy is marked with the sites of the tab stops where you might want to change the paramter value from its default value.
+This copy is marked with the sites of the tab stops where you might want to change the parameter value from its default value.
 
 ##### Classics Notebook
 PyMOL Python snippets for use in the Classic Jupyter Notebook with the `snippets_menu` notebook extension.
@@ -272,37 +272,35 @@ Includes high performance computing (HPC), cluster computing, and cloud computin
 - [qvim](https://github.com/MooersLab/qvim) Quiz about Vim commands to improve your recall of the commands after a break from using Vim.
 
 ## Voice computing
-The voice computing can be divided into three activities: speach-to-text (dictation), speach-to-commands, and speach-to-code.
+The voice computing can be divided into three activities: speech-to-text (dictation), speech-to-commands, and speech-to-code.
 The first is the easiest to master.
 Voice Typing is widely available through Google Docs.
-Comparable accuracy is found with Voice In Plus with the addition of custom commands and less frequent crashes.
-I use the latter every day for dictation for first drafts.
+Voice In Plus has comparable accuracy with the addition of custom commands. I use the latter every day for dictation for first drafts.
 I do the rewriting using the keyboard.
 
-All three activities are supported by Talon Voice, but the accuracy of speech-to-text lags behind Voice Typing and Voice In Plus in my experience.
+Talon Voice supports all three activities, but speech-to-text accuracy lags behind Voice Typing and Voice In Plus in my experience.
 I am currently using Talon Voice for the last two activities.
-I hope to gradually increase my use of Talon Voice for dictation.
-Talon Voice has a bit of a learning curve because it is so highly customizable by the user.
-There are more moving parts, but the software is designed to be used by noncoders.
-For example, you can do a lot of customization just using the TalonScript files and without writing any Python code.
-TalonScript as a syntax that is a tiny subset of Python.
+I hope to increase my use of Talon Voice for dictation gradually.
+Talon Voice has a bit of a learning curve because it is highly customizable by the user, but the software is designed to be used by noncoders.
+For example, you can do a lot of customization using the TalonScript files and without writing any Python code.
+Talonscript has a syntax that is a tiny subset of Python.
 
 Voice computing supports extending your productivity when you get tired of typing.
 Voice computing also supports issuing commands and dictating text while standing.
 Voice computing could be a cure for the envy of standing desks.
-You can speak commands to your computer while standing 20 ft away from it and looking out the window.
-You can give your body a break from sitting and your eyes a break from the computer screen at the same time while still remaining productive.
+You can speak commands to your computer while standing 20 feet away from it and looking out the window.
+You can give your body a break from sitting and your eyes a break from the computer screen at the same time while remaining productive.
 
-I have seen a three-fold increase in the total number of words captured in September and October 2023 compared to June and July 2023 before I took up speech-to-voice in mid August 2023.
-This two periods had the same amount of out-of-town business travel, which can disrupt writing habits.
+I have seen a three-fold increase in the total number of words captured in September and October 2023 compared to June and July 2023 before I took up speech-to-voice in mid-August 2023.
+ I have had the same amount of out-of-town business travel during the first two periods.
 
 On the day after Thanksgiving, I generated almost 12,000 words.
-I made a concerted effort to try to generate at least 5,000 words a day from that point to just before Christmas.
-I then had family obligations that led to a reduction my dialy word generation.
-Overall, it seems that a 5 fold increase in productivity may be possible, but perhaps not realistically sustainable.
+I made a concerted effort to generate at least 5,000 words a day from that point to just before Christmas.
+I then had family obligations that reduced my daily word generation.
+Overall, it seems that a 5-fold increase in productivity may be possible but perhaps not realistically sustainable.
 
-It is too early to tell how this will translate into an increase in the number of published products.
-I do not expect a 300% increase in productivity, but even a 30% increase would be significant return investment.
+It is too early to tell how this will translate into increased published products.
+I do not expect a 300% increase in productivity, but even a 30% increase would be a significant return investment.
 
 <p align="center"><img src="./images/words5.png" alt="HTML5 Icon" style="width:612px;height:312px;"></p>
 
