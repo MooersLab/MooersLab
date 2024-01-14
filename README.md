@@ -308,6 +308,12 @@ I do not expect a 300% increase in productivity, but even a 30% increase would b
 
 Below are links to programming tools to aid the adoption of voice computing.
 
+### Talon Voice related
+- [Expand dictated contractions automatically](https://github.com/MooersLab/talon-contractions)
+- [Open favorite web pages by voice commands](https://github.com/MooersLab/talon-webpages)
+- [Master Talon Voice phonetic alphabet with interactive quiz written in Python](https://github.com/MooersLab/talon-voice-quizzes)
+- [Master Talon Voice with interactive quiz written in elisp for Emacs](https://github.com/MooersLab/talon-voice-quiz.el)
+
 
 ### Voice In Plus related
 - [Master basic Voice In commands with interactive Python quiz](https://github.com/MooersLab/voice-in-basics-quiz)
@@ -319,29 +325,27 @@ Below are links to programming tools to aid the adoption of voice computing.
 - [Artificial intelligence](https://github.com/MooersLab/artificial-intelligence-voice-in)
 - [NIH grants](https://github.com/MooersLab/nih-grants-voice-in)
 - [LaTeX](https://github.com/MooersLab/latex-voice-in)
-- [Bash function to transcribe audio files with whisper](https://github.com/MooersLab/bash-whisper-transcription) 
 
 
 ### Voice Typing in Google Docs related
 - [Master Voice Typing commands with interactive quiz](https://github.com/MooersLab/voice-typing-quiz)
 
 
-### Talon Voice related
-- [Expand dictated contractions automatically](https://github.com/MooersLab/talon-contractions)
-- [Open favorite web pages by voice commands](https://github.com/MooersLab/talon-webpages)
-- [Master Talon Voice phonetic alphabet with interactive quiz written in Python](https://github.com/MooersLab/talon-voice-quizzes)
-- [Master Talon Voice with interactive quiz written in elisp for Emacs](https://github.com/MooersLab/talon-voice-quiz.el)
+### Whisper related
+- [Bash function to transcribe audio files with whisper](https://github.com/MooersLab/bash-whisper-transcription) 
 
-I have given two talks on this topic: one at the regional level and one at the international level.
 
 ### Related talks
+I have given two talks on this topic: one at the regional level and one at the international level.
+
 - [Data Science Workshop talk on speech-to-text, 2023 Nov. 16](https://mediasite.ouhsc.edu/Mediasite/Channel/python/watch/21e8b9a65d044d01a264df1f19db261b1d)
 - [emacsconf23 talk speech-to-text and speech-to-commands, 2023 Dec. 2 on YouTube](https://www.youtube.com/watch?v=Z7l1ImjXOWM)
 - [ditto but on the emacsonf.org website](https://emacsconf.org/2023/talks/voice/)
 
 
 ## Writing productivity tools
-These are some programming tools designed to support greater writing producitivity. 
+These are some programming tools designed to support greater writing producitivity.
+
 - [LaTeX manuscript template](https://github.com/MooersLab/manuscriptInLaTeX) Generic template for the first submission as a PDF.
 - [Writing log template in LaTeX](https://github.com/MooersLab/writingLogTemplate) Place to track progress and plans behind a manuscript.
 - [Annotated bibliography Template in LaTeX](https://github.com/MooersLab/annotatedBibliography) Every writing project needs one of these.
@@ -354,6 +358,7 @@ These are some programming tools designed to support greater writing producitivi
 - [Emacsconf 2022 talk about GhostText on YouTube, December 2022](https://www.youtube.com/watch?v=2NPUDYAOgW0&t=3s) Includes demonstration of using Emacs to edit a document in Overleaf.
 - [TimeSpent](https://github.com/MooersLab/timeSpent) Hourly time tracking by project with Google Sheets. This is useful for making monthly time reports and learning how much various writing projects actually take.
 - [LaTeX Voice In Plus library of speech-to-text commands](https://github.com/MooersLab/latex-voice-in)
+
 
 ## Videos related to these repos
 - [Snippets in Jupyter Notebooks](https://www.youtube.com/watch?v=LjJvhfJvla4), OKC Python Meetup, 10 May 2019.
