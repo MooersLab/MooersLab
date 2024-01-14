@@ -319,6 +319,8 @@ Below are links to programming tools to aid the adoption of voice computing.
 - [Artificial intelligence](https://github.com/MooersLab/artificial-intelligence-voice-in)
 - [NIH grants](https://github.com/MooersLab/nih-grants-voice-in)
 - [LaTeX](https://github.com/MooersLab/latex-voice-in)
+- [Bash function to transcribe audio files with whisper](https://github.com/MooersLab/bash-whisper-transcription) 
+
 
 ### Voice Typing in Google Docs related
 - [Master Voice Typing commands with interactive quiz](https://github.com/MooersLab/voice-typing-quiz)
