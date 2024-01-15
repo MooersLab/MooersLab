@@ -274,33 +274,51 @@ Includes high performance computing (HPC), cluster computing, and cloud computin
 ## Voice computing
 The voice computing can be divided into three activities: speech-to-text (dictation), speech-to-commands, and speech-to-code.
 The first is the easiest to master.
+
 Voice Typing is widely available through Google Docs.
-Voice In Plus has comparable accuracy with the addition of custom commands. I use the latter every day for dictation for first drafts.
+It is more accurate than the Voice Control that comes with the Mac and MS Word.
+Voice Typing supports almost 100 voice commands, but it does not support custom commands.
+
+Voice In Plus has similar accuracy to Voice Typing with the addition of custom commands. 
+I use the latter every day for dictation for first drafts.
 I do the rewriting using the keyboard.
+
+OpenAI's whisper may be an order of magnitude more accurate.
+It has a latency issue so live transcription and interactive editing are not easy.
+It is also not easy to fine tune with custom commands.
+My main use for is for transcribing audio files.
+
+The superwhisper.app for the Mac is interesting.
+It supports dication in e-mail and elsewhere.
+Its support for custom commands is very limited; it does not yet support including bulk uploading of text replacements.
 
 Talon Voice supports all three activities, but speech-to-text accuracy lags behind Voice Typing and Voice In Plus in my experience.
 I am currently using Talon Voice for the last two activities.
 I hope to increase my use of Talon Voice for dictation gradually.
 Talon Voice has a bit of a learning curve because it is highly customizable by the user, but the software is designed to be used by noncoders.
-For example, you can do a lot of customization using the TalonScript files and without writing any Python code.
-Talonscript has a syntax that is a tiny subset of Python.
+For example, you can do a lot of customization using the Talonscript files and without writing any Python code.
+Talonscript has a syntax that is a tiny subset of Python's syntax.
 
 Voice computing supports extending your productivity when you get tired of typing.
 Voice computing also supports issuing commands and dictating text while standing.
 Voice computing could be a cure for the envy of standing desks.
 You can speak commands to your computer while standing 20 feet away from it and looking out the window.
-You can give your body a break from sitting and your eyes a break from the computer screen at the same time while remaining productive.
+You can give your body a break from sitting and your eyes a break from staring at the computer screen while remaining productive.
 
 I have seen a three-fold increase in the total number of words captured in September and October 2023 compared to June and July 2023 before I took up speech-to-voice in mid-August 2023.
- I have had the same amount of out-of-town business travel during the first two periods.
+I have had the same amount of out-of-town business travel during the first two periods.
+I had not made a conscious effort to capture more words per day.
 
 On the day after Thanksgiving, I generated almost 12,000 words.
 I made a concerted effort to generate at least 5,000 words a day from that point to just before Christmas.
-I then had family obligations that reduced my daily word generation.
-Overall, it seems that a 5-fold increase in productivity may be possible but perhaps not realistically sustainable.
+Then family obligations that reduced my daily word generation.
+Nonetheless, I had a five-fold increase in the total word count for November and December.
+I think a that six-seven fold increase may be possible.
+Overall, it seems that a 5-fold increase in word count may be more sustainable if you make a conscious effort.
+I expect that a three-fold increase is more realistic with all of the disruptions from doing experiments, administration, teaching, service and travel.
 
-It is too early to tell how this will translate into increased published products.
-I do not expect a 300% increase in productivity, but even a 30% increase would be a significant return investment.
+It is too early to tell how the increased word counts will translate into increased published products.
+I do not expect a 300% increase in publications, but even a 30% increase would be a good return investment.
 
 <p align="center"><img src="./images/words5.png" alt="HTML5 Icon" style="width:612px;height:312px;"></p>
 
