@@ -1,3 +1,5 @@
+![Version](https://img.shields.io/static/v1?label=mooerslab&message=0.2&color=brightcolor)
+
 # MooersLab
 
 ## Quick Links
