@@ -1,4 +1,5 @@
 ![Version](https://img.shields.io/static/v1?label=mooerslab&message=0.2&color=brightcolor)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 # MooersLab
 
