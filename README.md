@@ -218,11 +218,6 @@ See the [voice computing](https://github.com/MooersLab/MooersLab/blob/main/READM
 - [posterInLaTeX](https://github.com/MooersLab/posterInLaTeX) Uses beamer to make a poster via a simple design. Enables whipping together a poster a few hours. It is much easier than using powerpoint.
 - [LaTeX manuscript template](https://github.com/MooersLab/manuscriptInLaTeX) Generic template for the first submission as a PDF.
 - [Writing log template in LaTeX](https://github.com/MooersLab/writingLogTemplate) Place to track progress and plans behind a manuscript.
-- [Writing log template in Org-mode](https://github.com/MooersLab/writingLogTemplateInOrg)
-- [Writing log template in reStructuredText](https://github.com/MooersLab/writing-log-rst)
-- [Writing log template in ODT](https://github.com/MooersLab/writing-log-odt)
-- [Writing log template in DOCX for MS Word](https://github.com/MooersLab/writing-log-docx)
-- [Writing log template in Markdown](https://github.com/MooersLab/writing-log-md)
 - [Annotated bibliography Template in LaTeX](https://github.com/MooersLab/annotatedBibliography) Every writing project needs one of these.
 - [Diary for 2023 in LaTeX](https://github.com/MooersLab/diary2023inLaTeX) Designed for use on Overleaf.com but can compile locally. Each day is a section. Each month is a chapter. Has an automatically generated index (most markdowns cannot generate indices). Very feature-rich and ready to use.  Makes a great electronic scientific notebook because it is searchable and indexed. >1000 page document at end of years compiles to PDF in under a minute on overleaf. 
 - [Diary for 2024 n LaTeX](https://github.com/MooersLab/diary2024inLaTeX) Designed for use on Overleaf.com but can compile locally. Each day is a section. Each month is a chapter. Has an automatically generated index (most markdowns cannot generate indices). Very feature-rich and ready to use. Makes a great electronic scientific notebook because it is searchable and indexed. >1000 page document at end of years compiles to PDF in under a minute on overleaf. 
@@ -373,6 +368,11 @@ These are some programming tools designed to support greater writing producitivi
 - [Track writing progress in 2024 and 2025](https://github.com/MooersLab/writing-progress-2024-25)
 - [LaTeX manuscript template](https://github.com/MooersLab/manuscriptInLaTeX) Generic template for the first submission as a PDF.
 - [Writing log template in LaTeX](https://github.com/MooersLab/writingLogTemplate) Place to track progress and plans behind a manuscript.
+- [Writing log template in Org-mode](https://github.com/MooersLab/writingLogTemplateInOrg)
+- [Writing log template in reStructuredText](https://github.com/MooersLab/writing-log-rst)
+- [Writing log template in ODT](https://github.com/MooersLab/writing-log-odt)
+- [Writing log template in DOCX for MS Word](https://github.com/MooersLab/writing-log-docx)
+- [Writing log template in Markdown](https://github.com/MooersLab/writing-log-md)
 - [Annotated bibliography Template in LaTeX](https://github.com/MooersLab/annotatedBibliography) Every writing project needs one of these.
 - [bib2item3](https://github.com/MooersLab/bib2item3) Python script to convert bibtex.bib file to bibitems in tex file format. Bibitems are required by some publishers. They are a pain to create manually.
 - [The writer's creed](https://github.com/MooersLab/thewriterslaw) Guidelines for greater productivity.
