@@ -341,6 +341,7 @@ Below are links to programming tools to aid the adoption of voice computing.
 - [Org-mode](https://github.com/MooersLab/org-mode-voice-in/tree/main)
 - [Biological crystallography](https://github.com/MooersLab/biological-crystallography-voice-in)
 - [Artificial intelligence](https://github.com/MooersLab/artificial-intelligence-voice-in)
+- [Bayesian Data Analysis](https://github.com/MooersLab/bayesian-data-analysis-voice-in/blob/main/README.md)
 - [NIH grants](https://github.com/MooersLab/nih-grants-voice-in)
 - [LaTeX](https://github.com/MooersLab/latex-voice-in)
 - [Generate new writing project commands](https://github.com/MooersLab/new-writing-project-voice-in)
