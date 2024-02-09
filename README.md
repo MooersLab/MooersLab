@@ -363,16 +363,22 @@ I have given two talks on this topic: one at the regional level and one at the i
 
 
 ## Writing productivity tools
-These are some programming tools designed to support greater writing producitivity.
+These are some programming tools designed to support greater writing productivity. There are three elements: progress tracking, support for manuscript writing in LaTeX, and the writing log. The last might be the most tool for organizing and managing a writing project. It is analogous to a project specific laboratory notebook.
+
+### Progress tracking
+For writing tasks that cannot be completed in one seating, progress tracking can support momentum and enthusiasm for the project.
 
 - [Track writing progress in 2024 and 2025](https://github.com/MooersLab/writing-progress-2024-25)
+- [The writer's creed](https://github.com/MooersLab/thewriterslaw) Guidelines for greater productivity.
+- [Writing contract template](https://github.com/MooersLab/writingContract) This contract is in Microsoft Word, markdown, LaTeX, and org-mode. This accountability system works only if your partner has a similar level of commitment to daily writing. I had a good run of four years with one person from out-of-state. I would consider doing this again.
+- [TimeSpent](https://github.com/MooersLab/timeSpent) Hourly time tracking by project with Google Sheets. This is useful for making monthly time reports and learning how much various writing projects actually take.
+
+### Manuscript writing support
 - [LaTeX manuscript template](https://github.com/MooersLab/manuscriptInLaTeX) Generic template for the first submission as a PDF.
 - [Annotated bibliography Template in LaTeX](https://github.com/MooersLab/annotatedBibliography) Every writing project needs one of these.
 - [bib2item3](https://github.com/MooersLab/bib2item3) Python script to convert bibtex.bib file to bibitems in tex file format. Bibitems are required by some publishers. They are a pain to create manually.
-- [The writer's creed](https://github.com/MooersLab/thewriterslaw) Guidelines for greater productivity.
-- [Writing contract template](https://github.com/MooersLab/writingContract) This contract is in Microsoft Word, markdown, LaTeX, and org-mode. This accountability system works only if your partner has a similar level of commitment to daily writing. I had a good run of four years with one person from out-of-state. I would consider doing this again.
 - [Emacsconf 2022 talk about GhostText on YouTube, December 2022](https://www.youtube.com/watch?v=2NPUDYAOgW0&t=3s) Includes demonstration of using Emacs to edit a document in Overleaf.
-- [TimeSpent](https://github.com/MooersLab/timeSpent) Hourly time tracking by project with Google Sheets. This is useful for making monthly time reports and learning how much various writing projects actually take.
+
 - [LaTeX Voice In Plus library of speech-to-text commands](https://github.com/MooersLab/latex-voice-in)
 
 ### Writing log for planning manuscripts
@@ -389,7 +395,8 @@ These are some programming tools designed to support greater writing producitivi
 - [Reproducible molecular graphics with Org-mode](https://www.youtube.com/watch?v=ZTocGPS-Uqk&amp;t=2s), EmacsConf 2021.
 - [Edit live Jupyter notebook cells with Emacs](https://www.youtube.com/watch?v=2NPUDYAOgW0), EmacsConf 2022.
 - [Enhancing productivity with voice computing](https://emacsconf.org/2023/talks/voice/), EmacsConf 2023.
-
+- [Managing multiple writing projects]([https://emacsconf.org/2023/talks/voice/](https://mediasite.ouhsc.edu/Mediasite/Channel/python/browse/null/most-recent/null/0/null)), Data Science Workshop Jan, 2024.
+  
 **MooersLab/MooersLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on his GitHub profile 👋.
 
 <!--
