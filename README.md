@@ -395,7 +395,7 @@ For writing tasks that cannot be completed in one seating, progress tracking can
 - [Reproducible molecular graphics with Org-mode](https://www.youtube.com/watch?v=ZTocGPS-Uqk&amp;t=2s), EmacsConf 2021.
 - [Edit live Jupyter notebook cells with Emacs](https://www.youtube.com/watch?v=2NPUDYAOgW0), EmacsConf 2022.
 - [Enhancing productivity with voice computing](https://emacsconf.org/2023/talks/voice/), EmacsConf 2023.
-- [Managing multiple writing projects]([https://emacsconf.org/2023/talks/voice/](https://mediasite.ouhsc.edu/Mediasite/Channel/python/browse/null/most-recent/null/0/null)), Data Science Workshop Jan, 2024.
+- [Managing multiple writing projects](https://mediasite.ouhsc.edu/Mediasite/Channel/python/watch/bc2777b248ff4fa4959b9bfed9b0e84a1d), Data Science Workshop, Jan. 2024.
   
 **MooersLab/MooersLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on his GitHub profile 👋.
 
