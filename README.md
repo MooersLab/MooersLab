@@ -334,19 +334,28 @@ Below are links to programming tools to aid the adoption of voice computing.
 
 
 ### Voice In Plus related
+#### Generic
 - [Master basic Voice In commands with interactive Python quiz](https://github.com/MooersLab/voice-in-basics-quiz)
 - [Master basic Voice In commands with interactive quiz in Emacs](https://github.com/MooersLab/voice-in-basics-quiz.el)
 - [Library of 94 English contractions](https://github.com/MooersLab/voice-in-plus-contractions)
 - [Full library of commands for Voice In Plus](https://github.com/MooersLab/voice-in-plus-commands)
 - [Org-mode](https://github.com/MooersLab/org-mode-voice-in/tree/main)
-- [Biological crystallography (MX)](https://github.com/MooersLab/biological-crystallography-voice-in)
-- [Cryogenics electron microscopy (CryoEM and CryoET)](https://github.com/MooersLab/cryoem-voice-in)
-- [Artificial intelligence (AI)](https://github.com/MooersLab/artificial-intelligence-voice-in)
-- [Design of Experiments (DoE)](https://github.com/MooersLab/design-of-experiments-voice-in)
-- [Bayesian Data Analysis (BDA)](https://github.com/MooersLab/bayesian-data-analysis-voice-in/blob/main/README.md)
-- [NIH grants](https://github.com/MooersLab/nih-grants-voice-in)
 - [LaTeX](https://github.com/MooersLab/latex-voice-in)
 - [Generate new writing project commands](https://github.com/MooersLab/new-writing-project-voice-in)
+  
+#### Structural biology method
+- [Biological crystallography (MX)](https://github.com/MooersLab/biological-crystallography-voice-in)
+- [Cryogenic electron microscopy (CryoEM and CryoET)](https://github.com/MooersLab/cryoem-voice-in)
+- [Small Angle Scattering (SAS)](https://github.com/MooersLab/sas-voice-in)
+- [Artificial intelligence (AI)](https://github.com/MooersLab/artificial-intelligence-voice-in)
+
+#### Data analysis
+- [Design of Experiments (DoE)](https://github.com/MooersLab/design-of-experiments-voice-in)
+- [Bayesian Data Analysis (BDA)](https://github.com/MooersLab/bayesian-data-analysis-voice-in/blob/main/README.md)
+
+##### Funding agency
+- [NIH grants](https://github.com/MooersLab/nih-grants-voice-in)
+
 
 ### Voice Typing in Google Docs related
 - [Master Voice Typing commands with interactive quiz](https://github.com/MooersLab/voice-typing-quiz)
