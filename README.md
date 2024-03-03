@@ -311,18 +311,31 @@ I have seen a three-fold increase in the total number of words captured in Septe
 I have had the same amount of out-of-town business travel during the first two periods.
 I had not made a conscious effort to capture more words per day.
 
-On the day after Thanksgiving, I generated almost 12,000 words.
+On the day after Thanksgiving in 2023, I generated almost 12,000 words.
 I made a concerted effort to generate at least 5,000 words a day from that point to just before Christmas.
 Then family obligations that reduced my daily word generation.
 Nonetheless, I had a five-fold increase in the total word count for November and December.
 I think a that six-seven fold increase may be possible.
 Overall, it seems that a 5-fold increase in word count may be more sustainable if you make a conscious effort.
-I expect that a three-fold increase is more realistic with all of the disruptions from doing experiments, administration, teaching, service and travel.
+I expect that a three-fold increase is more realistic with all of the disruptions from doing experiments, administration, teaching, service, and travel.
+
+The slight decrease in word count after the new year may reflect a shift in my focus towards turning more of my writing into publishable products.
+This decrease may reflect more effort going into editing text. 
+
+I was surprise that there was not a larger descrease, but I started to use a digital voice recorder (DVR) in mid-January.
+I use this during commuting. 
+Much of my mutterings are rubbish, but I do harvest a some useful thoughts occasionally.
+The DVR has extended my generative writing time.
+
+I expect a further decline in word count as my focus on rewriting and publishing intensifies.
+After the new year, I started to reuse the writing progress tracker in Google Sheets to track my progress by project.
 
 It is too early to tell how the increased word counts will translate into increased published products.
 I do not expect a 300% increase in publications, but even a 30% increase would be a good return investment.
 
-<p align="center"><img src="./images/words5.png" alt="HTML5 Icon" style="width:612px;height:312px;"></p>
+
+
+<p align="center"><img src="./images/words6.png" alt="HTML5 Icon" style="width:612px;height:312px;"></p>
 
 Below are links to programming tools to aid the adoption of voice computing.
 
