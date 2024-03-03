@@ -319,21 +319,33 @@ I think a that six-seven fold increase may be possible.
 Overall, it seems that a 5-fold increase in word count may be more sustainable if you make a conscious effort.
 I expect that a three-fold increase is more realistic with all of the disruptions from doing experiments, administration, teaching, service, and travel.
 
-The slight decrease in word count after the new year may reflect a shift in my focus towards turning more of my writing into publishable products.
+The slight decrease in word count after the new year may reflect a shift in my focus toward turning more of my writing into publishable products.
 This decrease may reflect more effort going into editing text. 
 
-I was surprise that there was not a larger descrease, but I started to use a digital voice recorder (DVR) in mid-January 2024.
-I use this during commuting. 
-Much of my mutterings are rubbish, but I do harvest a some useful thoughts occasionally.
-The DVR has extended my generative writing time.
+I was surprised that there was not a more significant decrease.
+I may have compensated by staring the use of a digital voice recorder (DVR) in mid-January 2024 during my commutes to my office. 
+Much of my mutterings are rubbish, but I occasionally harvest useful thoughts.
+The DVR has extended my generative writing time by 30-60 minutes daily.
 
-I expect a further decline in word count as my focus on rewriting and publishing intensifies.
-After the new year, I started to reuse the writing progress tracker in Google Sheets to track my progress by project.
+Spending more time on rewriting will lead to fewer new words generated if the time spent on writing is constant.
+Rewriting is very time-consuming; can you say take as much time as the time spent generating the text initially.
+Text written for grant applications and articles will take even more time because I need to be highly polished.
+Sufficient time has to be scheduled for it.
+I plan to spend more time on rewriting, so you can expect the next bimonthly report to have a further reduction in new words generated.
 
-It is too early to tell how the increased word counts will translate into increased published products.
-I do not expect a 300% increase in publications, but even a 30% increase would be a good return investment.
+I have been further honing my customizations of the Voice-In plugin to the point that I have been doing most of my generative writing by dictation using the Voice-In.
+I have used the dictated text transcribed by Whisper to a much lesser extent during my morning commutes.
+There is often a lot of garbage text that Whisper inserts during long pauses while there is a lot of noise outside my car, especially when I am coming in during a normal commute time versus coming in very early in the morning when I share the road with few other vehicles.
 
+It generally takes a lot of effort to parse the transcribed text.
+It is easier to redo the dictation via Voice In and make corrections as you go.
+The exercise of carrying out the dictation initially during the commute is generating a verbal rough draft in my mind.
+Once the initial draft has been composed, it is easier to redo it with better word choices.
 
+On several occasions, my digital voice recorder turned off accidentally when placed in my shirt pocket at the start of my commute.
+To my dismay, I discovered upon arrival at my office that I needed to record what I had dictated.
+Nonetheless, I could recapitulate much of what I had dictated just a half hour earlier.
+The transcribed text is more valuable as a backup to trigger your memory rather than as a rough draft.
 
 <p align="center"><img src="./images/words6.png" alt="HTML5 Icon" style="width:612px;height:312px;"></p>
 
