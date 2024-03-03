@@ -345,7 +345,9 @@ Once the initial draft has been composed, it is easier to redo it with better wo
 On several occasions, my digital voice recorder turned off accidentally when placed in my shirt pocket at the start of my commute.
 To my dismay, I discovered upon arrival at my office that I needed to record what I had dictated.
 Nonetheless, I could recapitulate much of what I had dictated just a half hour earlier.
-The transcribed text is more valuable as a backup to trigger your memory rather than as a rough draft.
+The text transcribed by whisper is more valuable as a backup to trigger my memory rather than as a rough draft.
+I have not tried to feed the transcribed text from whisper to ChatGPT with the instructions to parse it.
+
 
 <p align="center"><img src="./images/words6.png" alt="HTML5 Icon" style="width:612px;height:312px;"></p>
 
