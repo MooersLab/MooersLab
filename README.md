@@ -374,11 +374,11 @@ Below are links to programming tools to aid the adoption of voice computing.
 - [Biological crystallography (MX)](https://github.com/MooersLab/biological-crystallography-voice-in)
 - [Cryogenic electron microscopy (CryoEM and CryoET)](https://github.com/MooersLab/cryoem-voice-in)
 - [Small Angle Scattering (SAS)](https://github.com/MooersLab/sas-voice-in)
-- [Artificial intelligence (AI)](https://github.com/MooersLab/artificial-intelligence-voice-in)
 
 #### Data analysis
 - [Design of Experiments (DoE)](https://github.com/MooersLab/design-of-experiments-voice-in)
 - [Bayesian Data Analysis (BDA)](https://github.com/MooersLab/bayesian-data-analysis-voice-in/blob/main/README.md)
+- [Artificial intelligence (AI)](https://github.com/MooersLab/artificial-intelligence-voice-in)
 
 ##### Funding agency
 - [NIH grants](https://github.com/MooersLab/nih-grants-voice-in)
