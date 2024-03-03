@@ -322,7 +322,7 @@ I expect that a three-fold increase is more realistic with all of the disruption
 The slight decrease in word count after the new year may reflect a shift in my focus towards turning more of my writing into publishable products.
 This decrease may reflect more effort going into editing text. 
 
-I was surprise that there was not a larger descrease, but I started to use a digital voice recorder (DVR) in mid-January.
+I was surprise that there was not a larger descrease, but I started to use a digital voice recorder (DVR) in mid-January 2024.
 I use this during commuting. 
 Much of my mutterings are rubbish, but I do harvest a some useful thoughts occasionally.
 The DVR has extended my generative writing time.
