@@ -118,6 +118,7 @@ Some people get stuck all too long in Vim or NeoVim, which are great editors.)
 ## Emacs related
 Today's Emacs is not your grandfather's Emacs. The median age of an emacs user is 32, not 77, as you might expect for an editor about 45 years old. This is due to a very active community of young users centered around several YouTube channels, elisp being well-designed to customize Emacs, an online annual conference, the popularity of org-mode, and a very welcoming community of developers. The project is open-source and run by volunteers. According to the Lindy effect, it is pretty likely that this program will remain in use for another 45 years. Exposure to elisp coding in Emacs leads some to pick up other languages in the Lisp family, including Clojure. This, in turn, leads them to understand programming more deeply.
 
+- [Popup menus of commands you want to master](https://github.com/MooersLab/emacs-learning-spiral-hydra)
 - [Configuration for Emacs30 to support structured editing](https://github.com/MooersLab/emacs30venturatreesitterconfig)
 - [Some simple hydras in Codeberg repo](https://codeberg.org/MooersLab/emacs-hydra-examples)
 - [Compiling Emacs30 on Ventura (macOS 13.2) with tree-sitter](https://github.com/MooersLab/emacs30macos13treesitter) This protocol compiles Emacs from source with tree-sitter support for structured editing of computer code on macOS.
