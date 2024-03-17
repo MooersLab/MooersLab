@@ -335,9 +335,9 @@ Voice computing could be a cure for the envy of those colleagues who are using s
 You can speak commands to your computer while standing 20 feet away from it and looking out the window.
 You can give your body a break from sitting and your eyes a break from staring at the computer screen while remaining productive.
 
-I have seen a three-fold increase in the total number of words captured in September and October 2023 compared to June and July 2023 before I took up speech-to-voice in mid-August 2023.
-I have had the same amount of out-of-town business travel during the first two periods.
-I had not made a conscious effort to capture more words per day.
+I have seen a three-fold increase in the total number of words captured in September and October 2023 compared to June and July 2023 before I took up speech-to-text in mid-August 2023.
+I have had the same amount of out-of-town travel during the first two periods.
+I did not make a conscious effort to capture more words per day.
 
 On the day after Thanksgiving in 2023, I generated almost 12,000 words.
 I made a concerted effort to generate at least 5,000 words a day from that point to just before Christmas.
@@ -356,12 +356,18 @@ Much of my mutterings are rubbish, but I occasionally harvest useful thoughts.
 The DVR has extended my generative writing time by 30-60 minutes daily.
 
 Spending more time on rewriting will lead to fewer new words generated if the time spent on writing is constant.
-Rewriting is very time-consuming; can you say take as much time as the time spent generating the text initially.
-Text written for grant applications and articles will take even more time because I need to be highly polished.
+Rewriting is very time-consuming; rewriting can take as much or more time as the time spent generating the text initially.
+Text written for grant applications and articles will take even more time because it needs to be highly polished.
 Sufficient time has to be scheduled for it.
-I plan to spend more time on rewriting, so you can expect the next bimonthly report to have a further reduction in new words generated.
+I plan to spend more time on rewriting, so you can expect the next bimonthly report to have a further reduction in the number of new words generated.
 
 I have been further honing my customizations of the Voice-In plugin to the point that I have been doing most of my generative writing by dictation using the Voice-In.
+The providers of this service seem to be blindly relying on an external language model for dication and transcription that was recently upgraded.
+I noticed on March 16, 2024 that the dictated sentences were no longer starting with capital letters.
+This causes subsequent manual editing that is expensive.
+This degradation of service reflects the vulnerability of relying on language model that is subject to upgrades that are out of your control.
+The only safeguard is to use multiple independent language models.
+
 I have used the dictated text transcribed by Whisper to a much lesser extent during my morning commutes.
 There is often a lot of garbage text that Whisper inserts during long pauses while there is a lot of noise outside my car, especially when I am coming in during a normal commute time versus coming in very early in the morning when I share the road with few other vehicles.
 
@@ -371,10 +377,10 @@ The exercise of carrying out the dictation initially during the commute is gener
 Once the initial draft has been composed, it is easier to redo it with better word choices.
 
 On several occasions, my digital voice recorder turned off accidentally when placed in my shirt pocket at the start of my commute.
-To my dismay, I discovered upon arrival at my office that I needed to record what I had dictated.
+To my dismay, I discovered upon arrival at my office that I needed to repeat what I had dictated.
 Nonetheless, I could recapitulate much of what I had dictated just a half hour earlier.
-The text transcribed by whisper is more valuable as a backup to trigger my memory rather than as a rough draft.
-I have not tried to feed the transcribed text from whisper to ChatGPT with the instructions to parse it.
+The text transcribed by Whisper is more valuable as a backup to trigger my memory rather than as a rough draft.
+I have not yet tried to feed the transcribed text from Whisper to ChatGPT with the instructions to parse it.
 
 
 <p align="center"><img src="./images/words6.png" alt="HTML5 Icon" style="width:612px;height:312px;"></p>
