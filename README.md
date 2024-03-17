@@ -435,7 +435,10 @@ I have given two talks on this topic: one at the regional level and one at the i
 
 
 ## Writing productivity tools
-These are some programming tools designed to support greater writing productivity. There are three elements: progress tracking, support for manuscript writing in LaTeX, and the writing log. The last might be the most tool for organizing and managing a writing project. It is analogous to a project specific laboratory notebook.
+These are some programming tools designed to support greater writing productivity.
+There are three elements: progress tracking, support for manuscript writing in LaTeX, and the writing log.
+The last might be the most important tool for organizing and managing a writing project.
+It is analogous to a project-specific laboratory notebook.
 
 ### Progress tracking
 For writing tasks that cannot be completed in one seating, progress tracking can support momentum and enthusiasm for the project.
@@ -450,17 +453,17 @@ For writing tasks that cannot be completed in one seating, progress tracking can
 - [LaTeX manuscript template](https://github.com/MooersLab/manuscriptInLaTeX) Generic template for the first submission as a PDF.
 - [Annotated bibliography Template in LaTeX](https://github.com/MooersLab/annotatedBibliography) Every writing project needs one of these.
 - [bib2item3](https://github.com/MooersLab/bib2item3) Python script to convert bibtex.bib file to bibitems in tex file format. Bibitems are required by some publishers. They are a pain to create manually.
-- [Emacsconf 2022 talk about GhostText on YouTube, December 2022](https://www.youtube.com/watch?v=2NPUDYAOgW0&t=3s) Includes demonstration of using Emacs to edit a document in Overleaf.
+- [Emacsconf 2022 talk about GhostText on YouTube, December 2022](https://www.youtube.com/watch?v=2NPUDYAOgW0&t=3s) Includes demonstration of using Emacs to edit a document stored in Overleaf.
 - [LaTeX Voice In Plus library of speech-to-text commands](https://github.com/MooersLab/latex-voice-in)
 
 ### Writing log for planning manuscripts
 
 - [Writing Log template in LaTeX](https://github.com/MooersLab/writingLogTemplate). The favored format. LaTeX beginers can use this document easily on Overleaf without any configuration.
-- [Writing log template in Org-mode](https://github.com/MooersLab/writingLogTemplateInOrg) Has all of the features of the LaTeX variant. Favored by many Emacs users. Org-mode is a powerful analog of markdown that can interpret LaTeX code blocks. It is vastly more capable than markdown. It even supports literate programming.
+- [Writing log template in Org-mode](https://github.com/MooersLab/writingLogTemplateInOrg) Has all of the features of the LaTeX variant. Favored by many Emacs users. Org-mode is a powerful analog of markdown that can interpret LaTeX code blocks. Org-mode is vastly more capable than markdown. The coolest feature are tables that act like spreadsheets. If you are already comfortable with LaTeX, org-mode will be a step backwards for writing documents. Nonetheless, it is still useful for literate programming (or interactive computational narratives) but the interactive display of large images has to be done in in separate buffers. Org-roam is useful for knowledge base management, although Obsidian provides a cleaner experience. I still have trouble with org-agenda. Few people seem to have mastered it.
 - [Writing log template in reStructuredText](https://github.com/MooersLab/writing-log-rst) reStructuredText is used by programmers for documentation.
-- [Writing log template in Markdown](https://github.com/MooersLab/writing-log-md) Markdown variant. Read and rendered to PDF by most good text editors.
-- [Writing log template in ODT](https://github.com/MooersLab/writing-log-odt) ODT can be read by Open Office, LibreOffice and MS Word.
-- [Writing log template in DOCX for MS Word](https://github.com/MooersLab/writing-log-docx) MS Word variant. Probably the least suitable format for this task.
+- [Writing log template in Markdown](https://github.com/MooersLab/writing-log-md) Markdown variant. Rendered to PDF by most good text editors.
+- [Writing log template in ODT](https://github.com/MooersLab/writing-log-odt) ODT can be read by Open Office, LibreOffice, and MS Word.
+- [Writing log template in DOCX for MS Word](https://github.com/MooersLab/writing-log-docx) MS Word variant--the least suitable format for this task, in my opinion.
 
 ## Videos related to these repos
 - [Snippets in Jupyter Notebooks](https://www.youtube.com/watch?v=LjJvhfJvla4), OKC Python Meetup, 10 May 2019.
