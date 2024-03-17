@@ -5,6 +5,7 @@
 
 ## Quick Links
 
+- [bash](https://github.com/MooersLab#bash)
 - [cctbx](https://github.com/MooersLab#cctbx-related)
 - [Emacs](https://github.com/MooersLab#emacs-related)
 - [Jupyter and Colab](https://github.com/MooersLab#jupyter-and-colab-related)
@@ -86,6 +87,7 @@ Some people get stuck all too long in Vim or NeoVim, which are great editors.)
 ## Bash related
 - [Bash functions for Schooner at OSCER](https://github.com/MooersLab/bashFunctions4oscer)
 - [Multiple file transfer](https://github.com/MooersLab/multipleFileTransfer)
+- [Function that counts lines of uncommented code](https://github.com/MooersLab/count-lines-of-code/tree/main)
 
 ## Bayeisan Data Analysis
 - [JointProb](https://github.com/MooersLab/jointprob1D) R Markdown and jupyter notebooks for the Saturday JointProb study group that was active in 2022 and 2023.
