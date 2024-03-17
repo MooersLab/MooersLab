@@ -5,7 +5,7 @@
 
 ## Quick Links
 
-- [bash](https://github.com/MooersLab#bash)
+- [bash](https://github.com/MooersLab#bash-related)
 - [cctbx](https://github.com/MooersLab#cctbx-related)
 - [Emacs](https://github.com/MooersLab#emacs-related)
 - [Jupyter and Colab](https://github.com/MooersLab#jupyter-and-colab-related)
