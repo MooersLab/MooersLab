@@ -19,7 +19,7 @@
 
 
 ## Introduction
-This site contains the public repositories of the Dr. Blaine Mooers Lab, Department of Biochemistry and Physiology, College of Medicine, University of Oklahoma Health Sciences Center, Oklahoma City, Oklahoma, USA.
+This site contains the public repositories of the Dr. Blaine Mooers Lab, Department of Biochemistry and Physiology, College of Medicine, University of Oklahoma Health Sciences, Oklahoma City, Oklahoma, USA.
 My lab determines the structures of biomolecular molecules and their complexes with drugs, mainly using [X-ray crystallography](https://en.wikipedia.org/wiki/X-ray_crystallography#Biological_macromolecular_crystallography) and sometimes [small angle X-ray scattering](https://en.wikipedia.org/wiki/Small-angle_X-ray_scattering), a method that does not require crystals. 
 We grow crystals using advanced experimental design methods and collect X-ray diffraction data in-house and frequently at the [Stanford Synchrotron Radiation LightSource](https://www-ssrl.slac.stanford.edu/content/) and sometimes at the four other significant light sources in the US.
 We also do structure-based drug design using supercomputers.
@@ -29,24 +29,24 @@ However, we write code occasionally to help advance our science and the science 
 We have developed software tools to ease the writing of PyMOL scripts to make molecular images.
 These tools are available for the top 19 text editors and the Jupyter, Colab, and R Markdown notebooks. 
 These text editors can make your work lighter and have many wonderful features, but Emacs is our favorite because it is the most customizable text editor, thanks to Emacs Lisp.
-However, take a disciplined approach to Emacs because it is a tinker's paradise.
+However, we caution that one must take a disciplined approach to Emacs because it is a tinker's paradise.
 
 We often use Overleaf to write manuscripts, grant applications, slideshows, posters, and lab notebooks in LaTeX.
 All the alternative Markup languages are too inflexible for our needs.
 We spent five years trying the alternatives.
 This was before Overleaf, which made working with LaTeX so much easier.
-Some of our LaTeX templates are in repos, found here.
+Some of our LaTeX templates are in repos found here (see the section on LaTeX below).
 
 We are also fans of Jupyter Notebooks.
-Something inexplicable about Jupyter Notebooks makes coding in them so fun.
+Something inexplicable about Jupyter Notebooks makes coding in them fun.
 We have developed tools for working on Jupyter with PyMOL and CCTBX.
 Jupyter Notebooks may be frustrating for those without at least some formal training in computing.
 You always have to be aware of the state of your computer, or at least the state in which you expected it to be.
 Those who lack this awareness will run into a lot of trouble.
 
-We code in mainly in Python but often in Bash, R, Clojure, Elisp, Julia, Fortran, and C/C++.
+We code in mainly in Python but sometimes in Bash, R, Clojure, Elisp, Julia, Fortran, and C/C++.
 
-Repositories are grouped by category.
+Our repositories are grouped by category.
 Some repositories are listed in several categories.
 This listing is still a work in progress. 
 Some repositories have not yet been added to this page.
@@ -211,15 +211,15 @@ See the [voice computing](https://github.com/MooersLab/MooersLab/blob/main/READM
 - [LaTeX bare bones template file](https://github.com/MooersLab/barebonesLaTeX/tree/main) This template is for those people want make a simple document without a lot of bells-and-whitsles.
 - [LaTeX tips](https://github.com/MooersLab/latextips)
 - [Configuration for Emacs30 to support structured editing](https://github.com/MooersLab/emacs30venturatreesitterconfig)
-- [latex-emacs29 configuration](https://github.com/MooersLab/latex-emacs) A configuration file enhancing the use of LaTeX in Gnu Emacs version 29.0.5. This is the current release version of Gnu Emacs. Includes org-mode configuration.
+- [latex-emacs29 configuration](https://github.com/MooersLab/latex-emacs) A configuration file enhancing the use of LaTeX in Gnu Emacs version 29. This is the current release version of Gnu Emacs. Includes org-mode configuration.
 - [latex-emacs28 configuration](https://github.com/MooersLab/latexemacs28) Similar to above but for Gnu Emacs version 28.
 - [latex-emacs30 configuration](https://github.com/MooersLab/latexemacs30) Similar to above but for Gnu Emacs version 30.
-- [Slides about workflow in LaTeX](https://github.com/MooersLab/BerlinEmacsAugust2022) presented to the Berlin Emacs Meetup August 2022. Not recorded. It was 90-minute lecture.
-- [slideshowTemplateInLaTeX](https://github.com/MooersLab/slideshowTemplateLaTeX) Slideshow template in Beamer makes slides that do not look like they were made in LaTeX.
-- [posterInLaTeX](https://github.com/MooersLab/posterInLaTeX) Uses beamer to make a poster via a simple design. Enables whipping together a poster a few hours. It is much easier than using powerpoint.
+- [Slides about workflow in LaTeX](https://github.com/MooersLab/BerlinEmacsAugust2022) presented to the Berlin Emacs Meetup August 2022. Not recorded. It was a 90-minute lecture.
+- [slideshowTemplateInLaTeX](https://github.com/MooersLab/slideshowTemplateLaTeX) Slideshow template with use with the LaTeX package Beamer that supports the making of slides. Our templates makes slides that do not look like they were made in LaTeX because we hide the navigation icons that no one ever uses and replace the triangles in bulleted lists with round bullets. Our slides look like they were made in PowerPoint.
+- [posterInLaTeX](https://github.com/MooersLab/posterInLaTeX) Uses beamer to make a poster via a simple design. Enables whipping together a poster in a few hours. It is much easier than using a gaint slide in PowerPoint. Our approach is also saner than the default approach to making a poster with Beamer.
 - [LaTeX manuscript template](https://github.com/MooersLab/manuscriptInLaTeX) Generic template for the first submission as a PDF.
 - [Writing log template in LaTeX](https://github.com/MooersLab/writingLogTemplate) Place to track progress and plans behind a manuscript.
-- [Annotated bibliography template in LaTeX](https://github.com/MooersLab/annotatedBibliography) Every writing project needs one of these.
+- [Annotated bibliography template in LaTeX](https://github.com/MooersLab/annotatedBibliography) Every writing project needs one of these. These are grossly underutilized. They are good for recalling the relevant features of a paper.
 - [Diary for 2024 in LaTeX](https://github.com/MooersLab/diary2024inLaTeX) Designed for use on Overleaf.com but can compile locally. Each day is a section. Each month is a chapter. Has an automatically generated index (most markdowns cannot generate indices). Very feature-rich and ready to use. Makes a great electronic scientific notebook because it is searchable and indexed. >1000 page document at end of years compiles to PDF in under a minute on overleaf. 
 - [snippets for latex-mode in Emacs](https://github.com/MooersLab/snippet-latex-mode) My LaTeX code snippets for yasnippets.
 - [The writer's creed](https://github.com/MooersLab/thewriterslaw) Guidelines for greater productivity as a writer.
