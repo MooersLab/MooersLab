@@ -90,6 +90,7 @@ Some people get stuck all too long in Vim or NeoVim, which are great editors.)
 - [Function that counts lines of uncommented code](https://github.com/MooersLab/count-lines-of-code/tree/main)
 
 ## Bayeisan Data Analysis
+- [Bayesian Data Analysis (BDA) Speech-to-Text expansions of acronyms](https://github.com/MooersLab/bayesian-data-analysis-voice-in/blob/main/README.md)
 - [JointProb](https://github.com/MooersLab/jointprob1D) R Markdown and jupyter notebooks for the Saturday JointProb study group that was active in 2022 and 2023.
 
 ## Blog
