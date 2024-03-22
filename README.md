@@ -21,7 +21,7 @@
 
 ## Introduction
 This site contains the public repositories of the Dr. Blaine Mooers Lab, Department of Biochemistry and Physiology, College of Medicine, University of Oklahoma Health Sciences, Oklahoma City, Oklahoma, USA.
-My lab determines the structures of biomolecular molecules and their complexes with drugs, mainly using [X-ray crystallography](https://en.wikipedia.org/wiki/X-ray_crystallography#Biological_macromolecular_crystallography) and sometimes small-angle[ X-ray scattering](https://en.wikipedia.org/wiki/Small-angle_X-ray_scattering)](https://en.wikipedia.org/wiki/Small-angle_X-ray_scattering), a method that does not require crystals.
+My lab determines the structures of biological macromolecules and their complexes with drugs, mainly using [X-ray crystallography](https://en.wikipedia.org/wiki/X-ray_crystallography#Biological_macromolecular_crystallography) and sometimes small-angle[ X-ray scattering](https://en.wikipedia.org/wiki/Small-angle_X-ray_scattering)](https://en.wikipedia.org/wiki/Small-angle_X-ray_scattering), a method that does not require crystals.
 We grow crystals using advanced experimental design methods and collect X-ray diffraction data in-house and frequently at the [Stanford Synchrotron Radiation LightSource](https://www-ssrl.slac.stanford.edu/content/) and sometimes at the four other significant light sources in the US.
 We also do structure-based drug design using supercomputers.
 
@@ -36,12 +36,12 @@ We often use the web service Overleaf to write manuscripts, grant applications, 
 All the alternative Markup languages are too inflexible for our needs.
 We spent five years trying the alternatives.
 This was before I became aware of Overleaf, which made working with LaTeX so much easier.
-Some of our LaTeX templates are in repos found here (see the section on LaTeX below).
+Some of our LaTeX templates are in the repositories found here (see the section on LaTeX below).
 
 Overleaf is a great way to get started with LaTeX.
 However, Emacs provides access to more powerful editing features.
 You can use GhostText to send a page from Overleaf to Emacs for editing.
-Nonetheless, Overleaf is great for collaborative writing, and you can use the Voice In plugin for Google Chrome to dictate prose in Overleaf when using Chrome.
+Nonetheless, Overleaf is great for collaborative writing, and you can use the Voice In plugin for Google Chrome to dictate prose in Overleaf when using Chrome or Microsoft Edge.
 
 We are also fans of Jupyter Notebooks.
 Something inexplicable about Jupyter Notebooks makes coding in them fun.
@@ -67,7 +67,7 @@ Visit the [repositories tab](https://github.com/MooersLab?tab=repositories) to s
 
 In the spring of 2023, I started a [MooersLab](https://codeberg.org/MooersLab) site on Codeberg.
 A foundation runs Codeberg and has 13 years of funding.
-Some repos on GitHub get mirrored on Codeberg.
+Some repositories on GitHub get mirrored on Codeberg.
 
 If you like a repository, please click on the star in the upper right.
 
@@ -89,16 +89,16 @@ Some people get stuck all too long in Vim or NeoVim, which are great editors.)
 - [Multiple file transfer](https://github.com/MooersLab/multipleFileTransfer)
 - [Function that counts lines of uncommented code](https://github.com/MooersLab/count-lines-of-code/tree/main)
 
-## Bayeisan Data Analysis
+## Bayesian Data Analysis
 - [Bayesian Data Analysis (BDA) Speech-to-Text expansions of acronyms](https://github.com/MooersLab/bayesian-data-analysis-voice-in/blob/main/README.md)
-- [JointProb](https://github.com/MooersLab/jointprob1D) R Markdown and jupyter notebooks for the Saturday JointProb study group that was active in 2022 and 2023.
+- [JointProb](https://github.com/MooersLab/jointprob1D) R Markdown and Jupyter notebooks for the Saturday JointProb study group that was active in 2022 and 2023.
 
 ## Blog
 - [Lab website with blog posts](https://mooerslab.github.io/year-archive/)
 
 ## Clojure
 - [ClojConj 2023 talk about protein structure superposition via probabilistic programming in Clojure](https://www.youtube.com/watch?v=lDweOPGHLB8&t=51s)
-- [quizzes about clojure](https://github.com/MooersLab/qclj) These are useful for improving command recall after a break in using Clojure for several months.
+- [quizzes about Clojure](https://github.com/MooersLab/qclj) These quizzes are useful for improving command recall after a break in using Clojure for several months.
 
 
 ## Crystallographic computing
@@ -110,7 +110,7 @@ Some people get stuck all too long in Vim or NeoVim, which are great editors.)
 - [Jupyterlab cctbx snippets](https://github.com/MooersLab/jupyterlabcctbxsnips) CCTBX snippets for JupyterLab with the *jupyterlab-snippets* extension or the jupyterlab-snippets-mutlimenus extension.
 - [Jupyterlab cctbx plus snippets](https://github.com/MooersLab/jupyterlabcctbxsnipsplus) The variant of the *jupyterlabcctbxsnips* library with comments to guide editing of the snippets.
 - [Tagged cctbx snippets](https://github.com/MooersLab/taggedcctbxsnips) The variant for the Elyra-snippet extension for Jupyterlab. The snippets have tags in their metadata that can be used to retrieve snippets.
-- [Tagged cctbx plus snippets](https://github.com/MooersLab/taggedcctbxsnipsplus) The variant for the Elyra-snippet extension for Jupyterlab. The tab stops in a comment block guide editig of the live snippet. The snippets have tags in their metadata that can be used to retrieve snippets.
+- [Tagged cctbx plus snippets](https://github.com/MooersLab/taggedcctbxsnipsplus) The variant for the Elyra-snippet extension for Jupyterlab. The tab stops in a comment block guide the editig of the live snippet. The snippets have tags in their metadata that can be used to retrieve snippets.
 - [Colab cctbx snippets](https://github.com/MooersLab/colabcctbxsnips) Colab snippets.
 
 
@@ -125,23 +125,30 @@ Some people get stuck all too long in Vim or NeoVim, which are great editors.)
 - [cctbxsnips-Atom](https://github.com/MooersLab/cctbxsnips-Atom) CCTBX snippets for Atom.
 
 
-## Curvefiting software
+## Curve-fitting software
 - [List of curve-fitting software](https://github.com/MooersLab/Curve-fitting-software) This list includes both proprietary and free software.
 
 
 ## Emacs related
 Today's Emacs is not your grandfather's Emacs.
-The median age of an emacs user is 32, not 77, as you might expect for an editor that is about 50 years old.
-This is due to a very active community of young users centered around several YouTube channels, elisp being well-designed to customize Emacs, an online annual conference, the popularity of org-mode, and a very welcoming community of developers.
+The median age of an Emacs user is 32, not 77, as you might expect for an editor that is about 50 years old.
+This is due to a very active community of young users centered around several YouTube channels, Emacs Lisp being well-designed to customize Emacs, an online annual conference, the popularity of org-mode, and a very welcoming community of developers.
 Elisp was first used in Emacs 19 in 1985 with the GNU Emacs 19.3., about ten years after the start of the project.
 
-The project is open-source and run by several hundred volunteer core developers.
+It should be noted that Emacs is single-threaded.
+This is a major limitation. 
+One group has started a project, called lem, that uses Common Lisp to build a text editor that is multithreaded and very much like Emacs. 
+Unfortunately, lem is not user ready. 
+Perhaps, Emacs users will migrate to lem someday. 
+In the meantime, it is worth continuing to use Emacs, knowing that a multithreading alternative is underdevelopment.
+
+The Emacs project is open-source and run by several hundred volunteer core developers.
 The project runs by consensus.
 There is no succession issue.
-The projects benevolent dictator for life stepped down about 15-years ago.
-Be doing so, an explosion of creativity occurred.
+The project's benevolent dictator for life stepped down about 15 years ago.
+After doing so, an explosion of creativity occurred.
 
-According to the [Lindy effect](https://www.sciencedirect.com/science/article/abs/pii/S0378437117305964?via%3Dihub), it is likely that this program will remain in use for another 50 years.
+According to the [Lindy effect](https://www.sciencedirect.com/science/article/abs/pii/S0378437117305964?via%3Dihub), it is likely that Emacs will remain in use for another 50 years.
 Exposure to elisp coding in Emacs leads some to pick up other languages in the Lisp family, including Clojure.
 This, in turn, leads them to understand programming more deeply.
 
@@ -154,13 +161,13 @@ This, in turn, leads them to understand programming more deeply.
 - [latex-emacs29 configuration](https://github.com/MooersLab/latex-emacs) A configuration file enhancing the use of LaTeX in Gnu Emacs version 29.0.5. Includes org-mode configuration.
 - [latex-emacs28 configuration](https://github.com/MooersLab/latexemacs28) Similar to above but for Gnu Emacs version 28.
 - [latex-emacs30 configuration](https://github.com/MooersLab/latexemacs30) Similar to above but for Gnu Emacs version 30.
-- [scimax user.el](https://github.com/MooersLab/scimaxuserconfig) Scimax is the Emacs configuration that John Kitchin is developing to support reproducible research by scientists with Gnu Emacs. The *user.el* file for scimax enables scimax users to add keybindings and packages. I added features from latex-emacs and config.org.
+- [scimax user.el](https://github.com/MooersLab/scimaxuserconfig) Scimax is the Emacs configuration that Dr. John Kitchin of Carniege-Mellon University is developing to support reproducible research by scientists with Gnu Emacs. The *user.el* file for scimax enables scimax users to add keybindings and packages. I added features from latex-emacs and config.org.
 - [config.org](https://github.com/MooersLab/configorg) My default configuration file for GNU Emacs version 30.
 - [Writing log template in Org-mode](https://github.com/MooersLab/writingLogTemplateInOrg) Template for tracking your actions, decisions, and plans for any serious writing project that takes more than one session to finish. The LaTeX version is listed in the LaTeX section for use on Overleaf or in Emacs.
 - [Org-mode manuscript template](https://github.com/MooersLab/manuscriptInOrg) The manuscript will be exported to PDF after being run through LaTeX. This is for the first submission. This is for the lovers of org-mode. The export from org to PDF is fast and painless in Emacs.
-- [Slides about workflow in LaTeX](https://github.com/MooersLab/BerlinEmacsAugust2022) Presented to the Berlin Emacs Meetup August 2022. Regrettably, it was not recorded. It was a 90-minute presentation.
+- [Slides about workflow in LaTeX](https://github.com/MooersLab/BerlinEmacsAugust2022) These were presented to the Berlin Emacs Meetup August 2022. Regrettably, the talk was not recorded. It was a 90-minute presentation.
 - [snippets for latex-mode in Emacs](https://github.com/MooersLab/snippet-latex-mode) LaTeX code snippets for yasnippets.
-- [Quizzes about Emacs to improve recall of keybindings](https://github.com/MooersLab/qemacs) Ten minutes boosting your recall on a particular topic can save 10, 100, or 1000 hours of Google searches, espcially if you are prone to getting side-tracked in the Google-verse.
+- [Quizzes about Emacs to improve recall of keybindings](https://github.com/MooersLab/qemacs) Ten minutes boosting your recall on a particular topic can save 10, 100, or 1000 hours of Google searches, especially if you are prone to getting side-tracked in the Google-verse.
 - [Slides from talk about GhostText, Data Science Workshop, July 2022](https://github.com/MooersLab/DSW22ghosttext) GhostTexT rocks! It enables the editing of textboxes on web sites with Emacs. You can use GhostText to bring the full power of Emacs to Overleaf (*Important:*  use the legacy version rendering of the text area in Overleaf to get text imported into a LaTeX buffer).
 - [Video link to talk about GhostText, Oklahoma Data Science Workshop, July 2022](https://mediasite.ouhsc.edu/Mediasite/Channel/python/watch/4da0872f028c4255ae12935655e911321d)
 - [emacsconf 2021 talk about rendering molecular graphics with PyMOL in org literate programming files](https://emacsconf.org/2021/talks/molecular/) Video and comments.
@@ -386,26 +393,26 @@ I discovered that the plug-in is also available for Microsoft Edge.
 After downloading Microsoft Edge for the Mac, I was able to restore the expected performance by **Voice In Plus**.
 
 
-### What about Mac's Dicatation and Voice Control software?
-One alternative is to use that built in dictation software for Mac.
-Four months ago, the  dictation software was not as good as the alternatives, like Voice In.
+### What about Mac's Dictation and Voice Control software?
+One alternative is to use the built-in Dictation software for Mac.
+Four months ago, the Mac dictation software was not as good as the alternatives, like Voice In.
 I tried it again on March 22, 2024,
 I think that the error rate is now reduced enough to give it another try.
 
-It's advantage is that it can operate anywhere.
-It works inside of Emacs as well as in webpages, including web mail applications like Outlook-mail and Gmail.
+Its advantage is that it can operate anywhere.
+It works inside of Emacs as well as in webpages, including web-mail applications like Outlook-mail and Gmail.
 Its disadvantage is that it cannot be customized with text replacement libraries.
 
-For older Intel chip based Macs, the dictation software relies on an internet connection being available.
+For older Intel chip-based Macs, the Dictation software relies on an internet connection being available.
 The generated sound waves are sent to a server run by Apple and then returned as text.
 I found that the delay that is caused by this transfer to unnoticeable.
 However, I do not have a M-chip based Mac to test.
 
-Sadly, the Voice Control software provided by the mac OS has not improved its performance compared to the last time that I try it.
+Sadly, the Voice Control software provided by the mac OS has not improved its performance compared to the last time that I tried it.
 Its error rate is too high to use for dictation.
 The advantage of this software is that it supports customized commands.
 
-### Whisper and a Digitial Voice Recorder.
+### Whisper and a Digitial Voice Recorder
 I have used the dictated text transcribed by Whisper to a much lesser extent during my morning commutes.
 There is often a lot of garbage text that Whisper inserts during long pauses.
 It generally takes a lot of effort to parse the transcribed text.
@@ -433,15 +440,15 @@ Below are links to programming tools to aid the adoption of voice computing.
 
 ### Voice In Plus related
 
-This browser plugin applicaiton looks in Google Chrome and Microsoft's Edge.
-I depends on the browser's Speech-to-Text API.
-This API became degraded in Google Chrome in the fourth week of March 2024.
+This browser plugin wooks in Google Chrome and Microsoft's Edge.
+It depends on the browser's Speech-to-Text API.
+This APIfd degraded in Google Chrome in the fourth week of March 2024.
 The work-a-round is to switch APIs by using Microsoft Edge.
 The Plus account will be transferred between browsers automatically
 
 #### Generic
 - [Master basic Voice In commands with interactive Python quiz](https://github.com/MooersLab/voice-in-basics-quiz)
-- [Master basic Voice In commands with interactive quiz in Emacs](https://github.com/MooersLab/voice-in-basics-quiz.el)
+- [Master basic Voice In commands with an interactive quiz in Emacs](https://github.com/MooersLab/voice-in-basics-quiz.el)
 - [Library of 94 English contractions](https://github.com/MooersLab/voice-in-plus-contractions)
 - [Full library of commands for Voice In Plus](https://github.com/MooersLab/voice-in-plus-commands)
 - [Org-mode](https://github.com/MooersLab/org-mode-voice-in/tree/main)
@@ -486,7 +493,7 @@ The last might be the most important tool for organizing and managing a writing 
 It is analogous to a project-specific laboratory notebook.
 
 ### Progress tracking
-For writing tasks that cannot be completed in one seating, progress tracking can support momentum and enthusiasm for the project.
+For writing tasks that cannot be completed in one sitting, progress tracking can support momentum and enthusiasm for the project.
 
 - [Track writing progress in 2024 and 2025](https://github.com/MooersLab/writing-progress-2024-25)
 - [The writer's creed](https://github.com/MooersLab/thewriterslaw) Guidelines for greater productivity.
@@ -498,19 +505,19 @@ For writing tasks that cannot be completed in one seating, progress tracking can
 - [LaTeX manuscript template](https://github.com/MooersLab/manuscriptInLaTeX) Generic template for the first submission as a PDF.
 - [Annotated bibliography Template in LaTeX](https://github.com/MooersLab/annotatedBibliography) Every writing project needs one of these.
 - [bib2item3](https://github.com/MooersLab/bib2item3) Python script to convert bibtex.bib file to bibitems in tex file format. Bibitems are required by some publishers. They are a pain to create manually.
-- [Emacsconf 2022 talk about GhostText on YouTube, December 2022](https://www.youtube.com/watch?v=2NPUDYAOgW0&t=3s) Includes demonstration of using Emacs to edit a document stored in Overleaf.
+- [Emacsconf 2022 talk about GhostText on YouTube, December 2022](https://www.youtube.com/watch?v=2NPUDYAOgW0&t=3s) Includes a demonstration of using Emacs to edit a document stored in Overleaf.
 - [LaTeX Voice In Plus library of speech-to-text commands](https://github.com/MooersLab/latex-voice-in)
 
 ### Writing log for planning manuscripts
 
-- [Writing Log template in LaTeX](https://github.com/MooersLab/writingLogTemplate). The favored format. LaTeX beginers can use this document easily on Overleaf without any configuration.
-- [Writing log template in Org-mode](https://github.com/MooersLab/writingLogTemplateInOrg) Has all of the features of the LaTeX variant. Favored by many Emacs users. Org-mode is a powerful analog of markdown that can interpret LaTeX code blocks. Org-mode is vastly more capable than markdown. The coolest feature are tables that act like spreadsheets. If you are already comfortable with LaTeX, org-mode will be a step backwards for writing documents. Nonetheless, it is still useful for literate programming (or interactive computational narratives) but the interactive display of large images has to be done in in separate buffers. Org-roam is useful for knowledge base management, although Obsidian provides a cleaner experience. I still have trouble with org-agenda. Few people seem to have mastered it.
+- [Writing Log template in LaTeX](https://github.com/MooersLab/writingLogTemplate). The favored format. LaTeX beginning users can use this document easily on Overleaf without any configuration.
+- [Writing log template in Org-mode](https://github.com/MooersLab/writingLogTemplateInOrg) Has all of the features of the LaTeX variant. Favored by many Emacs users. Org-mode is a powerful analog of markdown that can interpret LaTeX code blocks. Org-mode is vastly more capable than markdown. The coolest feature is tables that act like spreadsheets. If you are already comfortable with LaTeX, org-mode will be a step backward for writing documents. Nonetheless, it is still useful for literate programming (or interactive computational narratives) but the interactive display of large images has to be done in separate buffers. Org-roam is useful for knowledge base management, although Obsidian provides a cleaner experience. I still have trouble with org-agenda. Few people seem to have mastered it.
 - [Writing log template in reStructuredText](https://github.com/MooersLab/writing-log-rst) reStructuredText is used by programmers for documentation.
 - [Writing log template in Markdown](https://github.com/MooersLab/writing-log-md) Markdown variant. Rendered to PDF by most good text editors.
 - [Writing log template in ODT](https://github.com/MooersLab/writing-log-odt) ODT can be read by Open Office, LibreOffice, and MS Word.
 - [Writing log template in DOCX for MS Word](https://github.com/MooersLab/writing-log-docx) MS Word variant--the least suitable format for this task, in my opinion.
 
-## Videos related to these repos
+## Videos related to these repositories
 - [Snippets in Jupyter Notebooks](https://www.youtube.com/watch?v=LjJvhfJvla4), OKC Python Meetup, 10 May 2019.
 - [Why develop a snippet library for Jupyter in your subject domain?](https://www.youtube.com/watch?v=sZNCAwW5dYg&amp;t=11s)  JupyterConn 2020.
 - [Reproducible molecular graphics with Org-mode](https://www.youtube.com/watch?v=ZTocGPS-Uqk&amp;t=2s), EmacsConf 2021.
