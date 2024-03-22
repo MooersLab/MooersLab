@@ -303,32 +303,39 @@ Includes high performance computing (HPC), cluster computing, and cloud computin
 - [qvim](https://github.com/MooersLab/qvim) Quiz about Vim commands to improve your recall of the commands after a break from using Vim.
 
 ## Voice computing
-Voice computing can be divided into three activities: speech-to-text (dictation), speech-to-commands, and speech-to-code.
+Voice computing can be divided into three activities: 
+
+- speech-to-text (dictation)
+- speech-to-commands
+- speech-to-code
+  
 The first is the easiest to master.
 
-Voice Typing is widely available through Google Docs.
+**Voice Typing** is widely available through Google Docs.
 It is more accurate than the Voice Control that comes with the Mac and MS Word.
-Voice Typing supports almost 100 voice commands, but it does not support custom commands.
+**Voice Typing** supports almost 100 voice commands, but it does not support custom commands.
 
-Voice In Plus has similar accuracy to Voice Typing with the addition of custom commands.
+**Voice In Plus** has similar accuracy to **Voice Typing** with the addition of custom commands.
 I use the latter every day for dictation for first drafts.
 I do the rewriting using the keyboard.
 
-OpenAI's whisper may be an order of magnitude more accurate.
-It has a latency issue so live transcription and interactive editing are not easy.
+OpenAI's **whisper** may be an order of magnitude more accurate.
+It has a latency issue, so live transcription and interactive editing are not easy.
 It is also not easy to fine tune with custom commands.
+
 My main use of whisper is for transcribing audio files.
 I provide code for applying corrections to the initial transcript such as the expansion of contractions.
 This code also supports the insertion of simple commands during dictation like "new paragraph" because whisper does not know how to break up a transcript into paragraphs.
 
-The superwhisper.app for the Mac is interesting.
+The **superwhisper.app** for the Mac is interesting.
 It supports dication in e-mail and elsewhere.
 Its support for custom commands is very limited; it does not yet support including bulk uploading of text replacements.
 
-Talon Voice supports all three activities, but speech-to-text accuracy lags behind Voice Typing and Voice In Plus in my experience.
+**Talon Voice** supports all three activities, but speech-to-text accuracy lags behind Voice Typing and Voice In Plus in my experience.
 I am currently using Talon Voice for the last two activities.
 I hope to increase my use of Talon Voice for dictation.
-Talon Voice has a bit of a learning curve because it is highly customizable by the user, but the software is designed to be used by noncoders.
+
+**Talon Voice** has a bit of a learning curve because it is highly customizable by the user, but the software is designed to be used by noncoders.
 For example, you can do a lot of customization using the Talonscript files and without writing any Python code.
 Talonscript has a syntax that is a tiny subset of Python's syntax.
 
@@ -344,17 +351,17 @@ I did not make a conscious effort to capture more words per day.
 
 On the day after Thanksgiving in 2023, I generated almost 12,000 words.
 I made a concerted effort to generate at least 5,000 words a day from that point to just before Christmas.
-Then family obligations that reduced my daily word generation.
+Then family obligationsreduced my daily word generation.
 Nonetheless, I had a five-fold increase in the total word count for November and December.
 I think a that six-seven fold increase may be possible.
 Overall, it seems that a 5-fold increase in word count may be more sustainable if you make a conscious effort.
 I expect that a three-fold increase is more realistic with all of the disruptions from doing experiments, administration, teaching, service, and travel.
 
 The slight decrease in word count after the new year may reflect a shift in my focus toward turning more of my writing into publishable products.
-This decrease may reflect more effort going into editing text.
+This decrease may reflect more effort focused on editing text.
 
 I was surprised that there was not a more significant decrease.
-I may have compensated by staring the use of a digital voice recorder (DVR) in mid-January 2024 during my commutes to my office.
+I may have compensated by starting the use of a digital voice recorder (DVR) in mid-January 2024 during my 25-minute commutes to my office.
 Much of my mutterings are rubbish, but I occasionally harvest useful thoughts.
 The DVR has extended my generative writing time by 30-60 minutes daily.
 
@@ -364,19 +371,41 @@ Text written for grant applications and articles will take even more time becaus
 Sufficient time has to be scheduled for it.
 I plan to spend more time on rewriting, so you can expect the next bimonthly report to have a further reduction in the number of new words generated.
 
-I have been further honing my customizations of the Voice-In plugin to the point that I have been doing most of my generative writing by dictation using the Voice-In.
-The providers of this service seem to be blindly relying on an external language model for dication and transcription that was recently upgraded.
+I have been further honing my customizations of the **Voice-In plugin** to the point that I have been doing most of my generative writing by dictation using the **Voice-In Plus**.
 I noticed on March 16, 2024 that the dictated sentences were no longer starting with capital letters.
 This causes subsequent manual editing that is expensive.
-This degradation of service reflects the vulnerability of relying on language model that is subject to upgrades that are out of your control.
+This degradation of service reflects the vulnerability of relying on a language model that is subject to upgrades that are out of your control.
+it turns out that the software depends on the speech-to-text api that is built into the web browser.
+Apparently an upgrade to the Google Chrome api led to the degradation and service.
+I discovered that the plug-in is also available for Microsoft Edge.
+After downloading Microsoft Edge for the Mac, i was able to restore the expected performance by **Voice In Plus**.
 The only safeguard is to use multiple independent language models.
 
-I have used the dictated text transcribed by Whisper to a much lesser extent during my morning commutes.
-There is often a lot of garbage text that Whisper inserts during long pauses while there is a lot of noise outside my car, especially when I am coming in during a normal commute time versus coming in very early in the morning when I share the road with few other vehicles.
+### What about Mac's Dicatation and Voice Control software?
+One alternative is to use that built in dictation software for Mac. 
+Four months ago, the  dictation software was not as good as the alternatives, like Voice In.
+I tried it again on March 22, 2024,
+I think that the error rate is now reduced enough to give it another try.
 
+It's advantage is that it can operate anywhere.
+It works inside of Emacs as well as in webpages, including web mail applications like Outlook-mail and Gmail.
+Its disadvantage is that it cannot be customized with text replacement libraries.
+
+For older Intel chip based Macs, the dictation software relies on an internet connection being available.
+The generated sound waves are sent to a server run by Apple and then returned as text.
+I found that the delay that is caused by this transfer to unnoticeable.
+However, I do not have a M-chip based Mac to test.
+
+Sadly, the Voice Control software provided by the mac OS has not improved its performance compared to the last time that I try it.
+Its error rate is too high to use for dictation.
+The advantage of this software is that it supports customized commands.
+
+### Whisper and a Digitial Voice Recorder.
+I have used the dictated text transcribed by Whisper to a much lesser extent during my morning commutes.
+There is often a lot of garbage text that Whisper inserts during long pauses.  
 It generally takes a lot of effort to parse the transcribed text.
 It is easier to redo the dictation via Voice In and make corrections as you go.
-The exercise of carrying out the dictation initially during the commute is generating a verbal rough draft in my mind.
+The exercise of carrying out the dictation initially during the commute is analogous to generating a verbal rough draft in my mind.
 Once the initial draft has been composed, it is easier to redo it with better word choices.
 
 On several occasions, my digital voice recorder turned off accidentally when placed in my shirt pocket at the start of my commute.
@@ -398,6 +427,13 @@ Below are links to programming tools to aid the adoption of voice computing.
 
 
 ### Voice In Plus related
+
+This browser plugin applicaiton looks in Google Chrome and Microsoft's Edge.
+I depends on the browser's Speech-to-Text API.
+This API became degraded in Google Chrome in the fourth week of March 2024.
+The work-a-round is to switch APIs by using Microsoft Edge.
+The Plus account will be transferred between browsers automatically
+
 #### Generic
 - [Master basic Voice In commands with interactive Python quiz](https://github.com/MooersLab/voice-in-basics-quiz)
 - [Master basic Voice In commands with interactive quiz in Emacs](https://github.com/MooersLab/voice-in-basics-quiz.el)
