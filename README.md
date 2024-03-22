@@ -303,12 +303,12 @@ Includes high performance computing (HPC), cluster computing, and cloud computin
 - [qvim](https://github.com/MooersLab/qvim) Quiz about Vim commands to improve your recall of the commands after a break from using Vim.
 
 ## Voice computing
-Voice computing can be divided into three activities: 
+Voice computing can be divided into three activities:
 
 - speech-to-text (dictation)
 - speech-to-commands
 - speech-to-code
-  
+
 The first is the easiest to master.
 
 **Voice Typing** is widely available through Google Docs.
@@ -319,31 +319,33 @@ It is more accurate than the Voice Control that comes with the Mac and MS Word.
 I use the latter every day for dictation for first drafts.
 I do the rewriting using the keyboard.
 
-OpenAI's **whisper** may be an order of magnitude more accurate.
+OpenAI's **Whisper** may be an order of magnitude more accurate.
 It has a latency issue, so live transcription and interactive editing are not easy.
-It is also not easy to fine tune with custom commands.
+It is also not easy to fine-tune with custom commands.
 
-My main use of whisper is for transcribing audio files.
-I provide code for applying corrections to the initial transcript such as the expansion of contractions.
-This code also supports the insertion of simple commands during dictation like "new paragraph" because whisper does not know how to break up a transcript into paragraphs.
+My main use of **Whisper** is for transcribing audio files.
+I provide code for applying corrections to the initial transcript, such as thee expansion of contractions.
+This code also supports the insertion of simple commands during dictation like "new paragraph" because **Whisper** does not know how to break up a transcript into paragraphs.
 
-The **superwhisper.app** for the Mac is interesting.
-It supports dication in e-mail and elsewhere.
-Its support for custom commands is very limited; it does not yet support including bulk uploading of text replacements.
+The **Sperwhisper.** **app** for thee Mac is interesting.
+It supports dictation in e-mail and elsewhere.
+Its support for custom commands is very limited; it does not yet support bulk uploading of text replacements.
 
 **Talon Voice** supports all three activities, but speech-to-text accuracy lags behind Voice Typing and Voice In Plus in my experience.
 I am currently using Talon Voice for the last two activities.
 I hope to increase my use of Talon Voice for dictation.
 
-**Talon Voice** has a bit of a learning curve because it is highly customizable by the user, but the software is designed to be used by noncoders.
-For example, you can do a lot of customization using the Talonscript files and without writing any Python code.
-Talonscript has a syntax that is a tiny subset of Python's syntax.
+The **Talon Voice** software is designed to be used by non-coders.
+It can be configured with Talonscript files that have a simple syntax that is a subset of Python.
+You can do a lot of customization of Talon Voice using the Talonscript files and without writing any Python code.
 
 Voice computing supports extending your productivity when you get tired of typing.
 Voice computing also supports issuing commands and dictating text while standing.
-Voice computing could be a cure for the envy of those colleagues who are using standing desks.
+Voice computing could be a cure for the envy of those colleagues who have standing desks.
 You can speak commands to your computer while standing 20 feet away from it and looking out the window.
 You can give your body a break from sitting and your eyes a break from staring at the computer screen while remaining productive.
+
+## Word Counts before and after adopting Voice Computing
 
 I have seen a three-fold increase in the total number of words captured in September and October 2023 compared to June and July 2023 before I took up speech-to-text in mid-August 2023.
 I have had the same amount of out-of-town travel during the first two periods.
@@ -382,7 +384,7 @@ After downloading Microsoft Edge for the Mac, i was able to restore the expected
 The only safeguard is to use multiple independent language models.
 
 ### What about Mac's Dicatation and Voice Control software?
-One alternative is to use that built in dictation software for Mac. 
+One alternative is to use that built in dictation software for Mac.
 Four months ago, the  dictation software was not as good as the alternatives, like Voice In.
 I tried it again on March 22, 2024,
 I think that the error rate is now reduced enough to give it another try.
@@ -402,7 +404,7 @@ The advantage of this software is that it supports customized commands.
 
 ### Whisper and a Digitial Voice Recorder.
 I have used the dictated text transcribed by Whisper to a much lesser extent during my morning commutes.
-There is often a lot of garbage text that Whisper inserts during long pauses.  
+There is often a lot of garbage text that Whisper inserts during long pauses.
 It generally takes a lot of effort to parse the transcribed text.
 It is easier to redo the dictation via Voice In and make corrections as you go.
 The exercise of carrying out the dictation initially during the commute is analogous to generating a verbal rough draft in my mind.
