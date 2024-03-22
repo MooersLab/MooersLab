@@ -404,6 +404,7 @@ Below are links to programming tools to aid the adoption of voice computing.
 - [Library of 94 English contractions](https://github.com/MooersLab/voice-in-plus-contractions)
 - [Full library of commands for Voice In Plus](https://github.com/MooersLab/voice-in-plus-commands)
 - [Org-mode](https://github.com/MooersLab/org-mode-voice-in/tree/main)
+- [OUHS-related acronym expansions](https://github.com/MooersLab/ouhs-voice-in)
 - [LaTeX](https://github.com/MooersLab/latex-voice-in)
 - [Generate new writing project commands](https://github.com/MooersLab/new-writing-project-voice-in)
 
