@@ -377,11 +377,14 @@ I have been further honing my customizations of the **Voice-In plugin** to the p
 I noticed on March 16, 2024 that the dictated sentences were no longer starting with capital letters.
 This causes subsequent manual editing that is expensive.
 This degradation of service reflects the vulnerability of relying on a language model that is subject to upgrades that are out of your control.
-it turns out that the software depends on the speech-to-text api that is built into the web browser.
-Apparently an upgrade to the Google Chrome api led to the degradation and service.
-I discovered that the plug-in is also available for Microsoft Edge.
-After downloading Microsoft Edge for the Mac, i was able to restore the expected performance by **Voice In Plus**.
 The only safeguard is to use multiple independent language models.
+
+The software depends on the speech-to-text API that is built into the web browser.
+Apparently, an upgrade to the Google Chrome API led to a degradation in service.
+
+I discovered that the plug-in is also available for Microsoft Edge.
+After downloading Microsoft Edge for the Mac, I was able to restore the expected performance by **Voice In Plus**.
+
 
 ### What about Mac's Dicatation and Voice Control software?
 One alternative is to use that built in dictation software for Mac.
