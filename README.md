@@ -30,30 +30,30 @@ However, we write code occasionally to help advance our science and the science 
 We have developed software tools to ease the writing of PyMOL scripts to make molecular images.
 These tools are available for the top 19 text editors and the Jupyter, Colab, and R Markdown notebooks.
 These text editors can make your work lighter and have many wonderful features, but Emacs is our favorite because it is the most customizable text editor, thanks to Emacs Lisp.
-However, we caution that one must take a disciplined approach to Emacs because it is a tinker's paradise.
+However, we caution that one must take a disciplined approach to Emacs, which is a tinker's paradise.
 
-We often use the web service Overleaf to write manuscripts, grant applications, slideshows, posters, and lab notebooks in LaTeX.
-All the alternative Markup languages are too inflexible for our needs.
-We spent five years trying the alternatives.
-This was before I became aware of Overleaf, which made working with LaTeX so much easier.
-Some of our LaTeX templates are in the repositories found here (see the section on LaTeX below).
+We often use the web service called *Overleaf* to write manuscripts, grant applications, slideshows, posters, and lab notebooks in LaTeX.
+We spent five years trying the alternative Markup languages.
+This was before I became aware of Overleaf, which made working with LaTeX much easier.
+Some of our LaTeX templates are in the repositories found here (see the section on [LaTeX](https://github.com/MooersLab#latex-related) below).
 
 Overleaf is a great way to get started with LaTeX.
 However, Emacs provides access to more powerful editing features.
 You can use GhostText to send a page from Overleaf to Emacs for editing.
-Nonetheless, Overleaf is great for collaborative writing, and you can use the Voice In plugin for Google Chrome to dictate prose in Overleaf when using Chrome or Microsoft Edge.
+Nonetheless, Overleaf is great for collaborative writing. 
+You can use the Voice In plugin for Google Chrome to dictate prose in Overleaf when using Chrome or Microsoft Edge.
 
 We are also fans of Jupyter Notebooks.
 Something inexplicable about Jupyter Notebooks makes coding in them fun.
 We have developed tools for working on Jupyter with PyMOL and CCTBX.
 Jupyter Notebooks may be frustrating for those without at least some formal training in computing.
-You always have to be aware of the state of your computer, or at least the state in which you expected it to be.
+You always have to be aware of your computer's state, or at least the state you expected it to be in.
 Those who lack this awareness will run into a lot of trouble.
 
 We also like R Markdown notebooks.
 Although somewhat less interactive than Jupyter notebooks, these are simpler to put under version control than Jupyter Notebooks, and they support the use of custom libraries of code snippets with tab triggers and tab stops.
 The RStudio (or Posit) IDE provides excellent support for R Markdown notebooks.
-You can have the best of all worlds by editing R Markdown notebooks in Emacs while using the reticulate package to harness Jupyter kernels to run Python inside of the R markdown notebook.
+You can have the best of all worlds by editing R Markdown notebooks in Emacs while using the reticulate package to harness Jupyter kernels to run Python inside the R Markdown notebook.
 
 We code in mainly in Python but sometimes in Bash, R, Clojure, Elisp, Julia, Fortran, and C/C++.
 It is hard to be a polyglot programmer due to limitations on mental bandwidth.
@@ -61,7 +61,7 @@ It is hard to be a polyglot programmer due to limitations on mental bandwidth.
 Our repositories are grouped by category.
 Some repositories are listed in several categories.
 This listing is still a work in progress.
-Some repositories have not yet been added to this page.
+Some repositories still need to be added to this page.
 Seventeen repos are forks to other people's repositories.
 Visit the [repositories tab](https://github.com/MooersLab?tab=repositories) to see the complete list of repositories.
 
