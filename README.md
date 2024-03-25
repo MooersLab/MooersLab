@@ -29,8 +29,8 @@ We are not computer scientists; we leave the heavy-duty coding to the profession
 However, we write code occasionally to help advance our science and the science of others.
 We have developed software tools to ease the writing of PyMOL scripts to make molecular images.
 These tools are available for the top 19 text editors and the Jupyter, Colab, and R Markdown notebooks.
-These text editors can make your work lighter and have many wonderful features, but Emacs is our favorite because it is the most customizable text editor, thanks to Emacs Lisp.
-However, we caution that one must take a disciplined approach to Emacs, which is a tinker's paradise.
+These text editors can make your work lighter and have many wonderful features, but Emacs is our favorite because, thanks to Emacs Lisp, it is the most customizable text editor.
+However, we caution that one must take a disciplined approach to Emacs, a tinker's paradise.
 
 We often use the web service called *Overleaf* to write manuscripts, grant applications, slideshows, posters, and lab notebooks in LaTeX.
 We spent five years trying the alternative Markup languages.
@@ -41,19 +41,19 @@ Overleaf is a great way to get started with LaTeX.
 However, Emacs provides access to more powerful editing features.
 You can use GhostText to send a page from Overleaf to Emacs for editing.
 Nonetheless, Overleaf is great for collaborative writing. 
-You can use the Voice In plugin for Google Chrome to dictate prose in Overleaf when using Chrome or Microsoft Edge.
+When using Chrome or Microsoft Edge, you can use the Voice In plugin for Google Chrome to dictate prose in Overleaf.
 
 We are also fans of Jupyter Notebooks.
 Something inexplicable about Jupyter Notebooks makes coding in them fun.
 We have developed tools for working on Jupyter with PyMOL and CCTBX.
 Jupyter Notebooks may be frustrating for those without at least some formal training in computing.
-You always have to be aware of your computer's state, or at least the state you expected it to be in.
+You must always be aware of your computer's state, or at least the state you expected it to be in.
 Those who lack this awareness will run into a lot of trouble.
 
 We also like R Markdown notebooks.
-Although somewhat less interactive than Jupyter notebooks, these are simpler to put under version control than Jupyter Notebooks, and they support the use of custom libraries of code snippets with tab triggers and tab stops.
+Although somewhat less interactive than Jupyter notebooks, these are simpler to put under version control, and they support the use of custom libraries of code snippets with tab triggers and tab stops.
 The RStudio (or Posit) IDE provides excellent support for R Markdown notebooks.
-You can have the best of all worlds by editing R Markdown notebooks in Emacs while using the reticulate package to harness Jupyter kernels to run Python inside the R Markdown notebook.
+You can have the best of both worlds by editing R Markdown notebooks in Emacs and using the reticulate package to harness Jupyter kernels to run Python inside the notebook.
 
 We code in mainly in Python but sometimes in Bash, R, Clojure, Elisp, Julia, Fortran, and C/C++.
 It is hard to be a polyglot programmer due to limitations on mental bandwidth.
@@ -131,16 +131,16 @@ Some people get stuck all too long in Vim or NeoVim, which are great editors.)
 
 ## Emacs related
 Today's Emacs is not your grandfather's Emacs.
-The median age of an Emacs user is 32, not 77, as you might expect for an editor that is about 50 years old.
+The median age of an Emacs user is 32, not 77, as you might expect for an editor that is about 40 years old.
 This is due to a very active community of young users centered around several YouTube channels, Emacs Lisp being well-designed to customize Emacs, an online annual conference, the popularity of org-mode, and a very welcoming community of developers.
 Elisp was first used in Emacs 19 in 1985 with the GNU Emacs 19.3., about ten years after the start of the project.
 
 It should be noted that Emacs is single-threaded.
-This is a major limitation. 
+This is a significant limitation. 
 One group has started a project, called lem, that uses Common Lisp to build a text editor that is multithreaded and very much like Emacs. 
-Unfortunately, lem is not user ready. 
+Unfortunately, Lem is not really user-ready in our experience. 
 Perhaps, Emacs users will migrate to lem someday. 
-In the meantime, it is worth continuing to use Emacs, knowing that a multithreading alternative is underdevelopment.
+In the meantime, it is worth continuing to use Emacs, knowing that a multithreading alternative is under development.
 
 The Emacs project is open-source and run by several hundred volunteer core developers.
 The project runs by consensus.
@@ -344,7 +344,7 @@ I hope to increase my use of Talon Voice for dictation.
 
 The **Talon Voice** software is designed to be used by non-coders.
 It can be configured with Talonscript files that have a simple syntax that is a subset of Python.
-You can do a lot of customization of Talon Voice using the Talonscript files and without writing any Python code.
+You can customize Talon Voice extensively using the Talonscript files without writing any Python code.
 
 Voice computing supports extending your productivity when you get tired of typing.
 Voice computing also supports issuing commands and dictating text while standing.
@@ -360,9 +360,9 @@ I did not make a conscious effort to capture more words per day.
 
 On the day after Thanksgiving in 2023, I generated almost 12,000 words.
 I made a concerted effort to generate at least 5,000 words a day from that point to just before Christmas.
-Then family obligationsreduced my daily word generation.
+Then family obligations reduced my daily word generation.
 Nonetheless, I had a five-fold increase in the total word count for November and December.
-I think a that six-seven fold increase may be possible.
+I think that a six-sevenfold increase may be possible.
 Overall, it seems that a 5-fold increase in word count may be more sustainable if you make a conscious effort.
 I expect that a three-fold increase is more realistic with all of the disruptions from doing experiments, administration, teaching, service, and travel.
 
@@ -375,10 +375,10 @@ Much of my mutterings are rubbish, but I occasionally harvest useful thoughts.
 The DVR has extended my generative writing time by 30-60 minutes daily.
 
 Spending more time on rewriting will lead to fewer new words generated if the time spent on writing is constant.
-Rewriting is very time-consuming; rewriting can take as much or more time as the time spent generating the text initially.
+Rewriting is very time-consuming; it can take as much or more time as generating the text initially.
 Text written for grant applications and articles will take even more time because it needs to be highly polished.
 Sufficient time has to be scheduled for it.
-I plan to spend more time on rewriting, so you can expect the next bimonthly report to have a further reduction in the number of new words generated.
+I plan to spend more time on rewriting, so you can expect the number of new words generated in the next bimonthly report to be further reduced.
 
 I have been further honing my customizations of the **Voice-In plugin** to the point that I have been doing most of my generative writing by dictation using the **Voice-In Plus**.
 I noticed on March 16, 2024 that the dictated sentences were no longer starting with capital letters.
@@ -400,13 +400,13 @@ I tried it again on March 22, 2024,
 I think that the error rate is now reduced enough to give it another try.
 
 Its advantage is that it can operate anywhere.
-It works inside of Emacs as well as in webpages, including web-mail applications like Outlook-mail and Gmail.
+It works inside of Emacs as well as in webpages, including webmail applications like Outlook and Gmail.
 Its disadvantage is that it cannot be customized with text replacement libraries.
 
 For older Intel chip-based Macs, the Dictation software relies on an internet connection being available.
 The generated sound waves are sent to a server run by Apple and then returned as text.
 I found that the delay that is caused by this transfer to unnoticeable.
-However, I do not have a M-chip based Mac to test.
+However, I do not have a M-chip-based Mac to test.
 
 Sadly, the Voice Control software provided by the mac OS has not improved its performance compared to the last time that I tried it.
 Its error rate is too high to use for dictation.
@@ -421,7 +421,7 @@ The exercise of carrying out the dictation initially during the commute is analo
 Once the initial draft has been composed, it is easier to redo it with better word choices.
 
 On several occasions, my digital voice recorder turned off accidentally when placed in my shirt pocket at the start of my commute.
-To my dismay, I discovered upon arrival at my office that I needed to repeat what I had dictated.
+To my dismay, upon arriving at my office, I discovered that I needed to repeat what I had dictated.
 Nonetheless, I could recapitulate much of what I had dictated just a half hour earlier.
 The text transcribed by Whisper is more valuable as a backup to trigger my memory rather than as a rough draft.
 I have not yet tried to feed the transcribed text from Whisper to ChatGPT with the instructions to parse it.
@@ -510,7 +510,7 @@ For writing tasks that cannot be completed in one sitting, progress tracking can
 
 ### Writing log for planning manuscripts
 
-- [Writing Log template in LaTeX](https://github.com/MooersLab/writingLogTemplate). The favored format. LaTeX beginning users can use this document easily on Overleaf without any configuration.
+- [Writing Log template in LaTeX](https://github.com/MooersLab/writingLogTemplate). This is the favored format. LaTeX beginning users can easily use this document on Overleaf without any configuration.
 - [Writing log template in Org-mode](https://github.com/MooersLab/writingLogTemplateInOrg) Has all of the features of the LaTeX variant. Favored by many Emacs users. Org-mode is a powerful analog of markdown that can interpret LaTeX code blocks. Org-mode is vastly more capable than markdown. The coolest feature is tables that act like spreadsheets. If you are already comfortable with LaTeX, org-mode will be a step backward for writing documents. Nonetheless, it is still useful for literate programming (or interactive computational narratives) but the interactive display of large images has to be done in separate buffers. Org-roam is useful for knowledge base management, although Obsidian provides a cleaner experience. I still have trouble with org-agenda. Few people seem to have mastered it.
 - [Writing log template in reStructuredText](https://github.com/MooersLab/writing-log-rst) reStructuredText is used by programmers for documentation.
 - [Writing log template in Markdown](https://github.com/MooersLab/writing-log-md) Markdown variant. Rendered to PDF by most good text editors.
