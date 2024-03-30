@@ -8,15 +8,16 @@
 - [bash](https://github.com/MooersLab#bash-related)
 - [cctbx](https://github.com/MooersLab#cctbx-related)
 - [Emacs](https://github.com/MooersLab#emacs-related)
+- [Experimental designs](https://github.com/MooersLab#experimental-designs)
 - [Jupyter and Colab](https://github.com/MooersLab#jupyter-and-colab-related)
 - [LaTeX](https://github.com/MooersLab#latex-related)
 - [PyMOL](https://github.com/MooersLab#pymol)
 - [SAXS](https://github.com/MooersLab#small-angle-scattering)
-- [supercomputing](https://github.com/MooersLab#supercomputing-related)
+- [Supercomputing](https://github.com/MooersLab#supercomputing-related)
 - [vim/neovim](https://github.com/MooersLab/MooersLab/blob/main/README.md#vim-and-neovim)
-- [writing tools](https://github.com/MooersLab#writing-productivity-tools)
-- [voice computing](https://github.com/MooersLab#voice-computing)
-- [videos](https://github.com/MooersLab#videos-related-to-these-repos)
+- [Writing tools](https://github.com/MooersLab#writing-productivity-tools)
+- [Voice computing](https://github.com/MooersLab#voice-computing)
+- [Videos of talks](https://github.com/MooersLab#videos-related-to-these-repos)
 
 
 ## Introduction
@@ -231,6 +232,15 @@ These editors work in Jupyter Notebooks via the GhostText browser plugin.
 - [Jupyterlab cctbx plus snippets](https://github.com/MooersLab/jupyterlabcctbxsnipsplus) The variant of the jupyterlabcctbxsnips library with comments to guide editing of the snippets.
 - [Colab cctbx snippets](https://github.com/MooersLab/colabcctbxsnips) Colab snippets.
 
+
+## Experimental designs
+
+We provide easy and fast-to-deploy experimental designs for crystallization setups in Excel workbooks.
+These designs take three minutes to customize for your experimental needs.
+These workbooks could be adapted to other kinds of experiments.
+
+- [OFAT designs](https://github.com/MooersLab/ofat4xtals)
+- [Definitive Screening Designs](https://github.com/MooersLab/dsd4xtals)
 
 ## LaTeX related
 Until recently, I wrote a lot in Emacs on 750words.com via GhostText.
