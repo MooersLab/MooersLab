@@ -110,8 +110,8 @@ Some people get stuck all too long in Vim or NeoVim, which are great editors.)
 
 - [Jupyterlab cctbx snippets](https://github.com/MooersLab/jupyterlabcctbxsnips) CCTBX snippets for JupyterLab with the *jupyterlab-snippets* extension or the jupyterlab-snippets-mutlimenus extension.
 - [Jupyterlab cctbx plus snippets](https://github.com/MooersLab/jupyterlabcctbxsnipsplus) The variant of the *jupyterlabcctbxsnips* library with comments to guide editing of the snippets.
-- [Tagged cctbx snippets](https://github.com/MooersLab/taggedcctbxsnips) The variant for the Elyra-snippet extension for Jupyterlab. The snippets have tags in their metadata that can be used to retrieve snippets.
-- [Tagged cctbx plus snippets](https://github.com/MooersLab/taggedcctbxsnipsplus) The variant for the Elyra-snippet extension for Jupyterlab. The tab stops in a comment block guide the editig of the live snippet. The snippets have tags in their metadata that can be used to retrieve snippets.
+- [Tagged cctbx snippets](https://github.com/MooersLab/taggedcctbxsnips) The variant for the Elyra-snippet extension for Jupyterlab. The snippets have tags in their metadata that can be used to retrieve code snippets.
+- [Tagged cctbx plus snippets](https://github.com/MooersLab/taggedcctbxsnipsplus) The variant for the Elyra-snippet extension for Jupyterlab. The tab stops in a comment block to guide the editing of the live snippet. The snippets have tags in their metadata that can be used to retrieve snippets.
 - [Colab cctbx snippets](https://github.com/MooersLab/colabcctbxsnips) Colab snippets.
 
 
@@ -133,14 +133,14 @@ Some people get stuck all too long in Vim or NeoVim, which are great editors.)
 ## Emacs related
 Today's Emacs is not your grandfather's Emacs.
 The median age of an Emacs user is 32, not 77, as you might expect for an editor that is about 40 years old.
-This is due to a very active community of young users centered around several YouTube channels, Emacs Lisp being well-designed to customize Emacs, an online annual conference, the popularity of org-mode, and a very welcoming community of developers.
+This is due to a very active community of young users centered around several YouTube channels, Emacs Lisp being well-designed to customize Emacs, an online annual conference, the popularity of org-mode, and a welcoming community of developers.
 Elisp was first used in Emacs 19 in 1985 with the GNU Emacs 19.3., about ten years after the start of the project.
 
 It should be noted that Emacs is single-threaded.
 This is a significant limitation. 
-One group has started a project, called lem, that uses Common Lisp to build a text editor that is multithreaded and very much like Emacs. 
+One group has started a project, called `lem`, that uses Common Lisp to build a text editor that is multithreaded and very much like Emacs. 
 Unfortunately, Lem is not really user-ready in our experience. 
-Perhaps, Emacs users will migrate to lem someday. 
+Perhaps, Emacs users will migrate to `lem` someday. 
 In the meantime, it is worth continuing to use Emacs, knowing that a multithreading alternative is under development.
 
 The Emacs project is open-source and run by several hundred volunteer core developers.
@@ -438,11 +438,14 @@ Below are links to programming tools to aid the adoption of voice computing.
 
 ### Voice In Plus related
 
-This browser plugin wooks in Google Chrome and Microsoft's Edge.
+This browser plugin works in Google Chrome and Microsoft's Edge.
 It depends on the browser's Speech-to-Text API.
-This APIfd degraded in Google Chrome in the fourth week of March 2024.
-The work-a-round is to switch APIs by using Microsoft Edge.
-The Plus account will be transferred between browsers automatically
+Interactive sessions with it persist for up to 5 to 10 paragraphs, depending on your activity and speed of dictation.
+If you dictate too quickly, you will get ahead of the software and it will hang. 
+You might lose text for some of the words you dictated.
+Nonetheless, this software is superior to the Mac dictation software, which will only persist for about three sentences on average because it sends the sound waves to a language model located on a remote server.
+
+
 
 #### Generic
 - [Master basic Voice In commands with interactive Python quiz](https://github.com/MooersLab/voice-in-basics-quiz)
