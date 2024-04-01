@@ -388,19 +388,7 @@ Spending more time on rewriting will lead to fewer new words generated if the ti
 Rewriting is very time-consuming; it can take as much or more time as generating the text initially.
 Text written for grant applications and articles will take even more time because it needs to be highly polished.
 Sufficient time has to be scheduled for it.
-I plan to spend more time on rewriting, so you can expect the new words generated in the next bimonthly report to be further reduced.
-
-I have been further honing my customizations of the **Voice-In plugin** to the point that I have been doing most of my generative writing by dictation using the **Voice-In Plus**.
-I noticed on March 16, 2024 that the dictated sentences were no longer starting with capital letters.
-This causes subsequent manual editing that is expensive.
-This degradation of service reflects the vulnerability of relying on a language model that is subject to upgrades that are out of your control.
-The only safeguard is to use multiple independent language models.
-
-The software depends on the speech-to-text API that is built into the web browser.
-Apparently, an upgrade to the Google Chrome API led to a degradation in service.
-
-I discovered that the plug-in is also available for Microsoft Edge.
-After downloading Microsoft Edge for the Mac, I was able to restore the expected performance by **Voice In Plus**.
+I plan to spend more time rewriting, so you can expect the new words generated in the next bimonthly report to be further reduced.
 
 
 ### What about Mac's Dictation and Voice Control software?
