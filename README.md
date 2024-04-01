@@ -52,8 +52,8 @@ You must always be aware of your computer's state, or at least the state you exp
 Those who lack this awareness will run into a lot of trouble.
 
 We also like R Markdown notebooks.
-Although somewhat less interactive than Jupyter notebooks, these are simpler to put under version control, and they support the use of custom libraries of code snippets with tab triggers and tab stops.
-The RStudio (or Posit) IDE provides excellent support for R Markdown notebooks.
+Although somewhat less interactive than Jupyter notebooks, these are simpler to put under version control, and they support custom libraries of code snippets with tab triggers and tab stops.
+The RStudio IDE provides excellent support for R Markdown notebooks.
 You can have the best of both worlds by editing R Markdown notebooks in Emacs and using the reticulate package to harness Jupyter kernels to run Python inside the notebook.
 
 We code in mainly in Python but sometimes in Bash, R, Clojure, Elisp, Julia, Fortran, and C/C++.
@@ -337,18 +337,18 @@ I use the latter every day for dictation for first drafts.
 I do the rewriting using the keyboard.
 
 OpenAI's **Whisper** may be an order of magnitude more accurate.
-It has a latency issue, so live transcription and interactive editing are not easy.
+It has a latency issue, so live transcription and interactive editing is difficult.
 It is also not easy to fine-tune with custom commands.
 
-My main use of **Whisper** is for transcribing audio files.
-I provide code for applying corrections to the initial transcript, such as thee expansion of contractions.
-This code also supports the insertion of simple commands during dictation like "new paragraph" because **Whisper** does not know how to break up a transcript into paragraphs.
+My primary use of **Whisper** is for transcribing audio files.
+I provide code for applying corrections to the initial transcript, such as the expansion of contractions.
+This code also supports inserting simple commands during dictation like `new paragraph` because **Whisper** does not know how to break up a transcript into paragraphs.
 
-The **Sperwhisper.** **app** for thee Mac is interesting.
+The **Sperwhisper.** **app** for the Mac is interesting.
 It supports dictation in e-mail and elsewhere.
-Its support for custom commands is very limited; it does not yet support bulk uploading of text replacements.
+Its support for custom commands is limited; it still needs to support bulk uploading of text replacements.
 
-**Talon Voice** supports all three activities, but speech-to-text accuracy lags behind Voice Typing and Voice In Plus in my experience.
+**Talon Voice** supports all three activities, but speech-to-text accuracy needs to catch up to Voice Typing and Voice In Plus in my experience.
 I am currently using Talon Voice for the last two activities.
 I hope to increase my use of Talon Voice for dictation.
 
@@ -372,15 +372,15 @@ On the day after Thanksgiving in 2023, I generated almost 12,000 words.
 I made a concerted effort to generate at least 5,000 words a day from that point to just before Christmas.
 Then family obligations reduced my daily word generation.
 Nonetheless, I had a five-fold increase in the total word count for November and December.
-I think that a six-sevenfold increase may be possible.
-Overall, it seems that a 5-fold increase in word count may be more sustainable if you make a conscious effort.
+A six-sevenfold increase may be possible.
+Overall, a 5-fold increase in word count may be more sustainable if you make a conscious effort.
 I expect that a three-fold increase is more realistic with all of the disruptions from doing experiments, administration, teaching, service, and travel.
 
 The slight decrease in word count after the new year may reflect a shift in my focus toward turning more of my writing into publishable products.
 This decrease may reflect more effort focused on editing text.
 
 I was surprised that there was not a more significant decrease.
-I may have compensated by starting the use of a digital voice recorder (DVR) in mid-January 2024 during my 25-minute commutes to my office.
+I may have compensated by using a digital voice recorder (DVR) in mid-January 2024 during my 25-minute commutes to my office.
 Much of my mutterings are rubbish, but I occasionally harvest useful thoughts.
 The DVR has extended my generative writing time by 30-60 minutes daily.
 
@@ -388,7 +388,7 @@ Spending more time on rewriting will lead to fewer new words generated if the ti
 Rewriting is very time-consuming; it can take as much or more time as generating the text initially.
 Text written for grant applications and articles will take even more time because it needs to be highly polished.
 Sufficient time has to be scheduled for it.
-I plan to spend more time on rewriting, so you can expect the number of new words generated in the next bimonthly report to be further reduced.
+I plan to spend more time on rewriting, so you can expect the new words generated in the next bimonthly report to be further reduced.
 
 I have been further honing my customizations of the **Voice-In plugin** to the point that I have been doing most of my generative writing by dictation using the **Voice-In Plus**.
 I noticed on March 16, 2024 that the dictated sentences were no longer starting with capital letters.
@@ -441,7 +441,7 @@ I have not yet tried to feed the transcribed text from Whisper to ChatGPT with t
 
 Below are links to programming tools to aid the adoption of voice computing.
 
-### Talon Voice related
+### Talon Voice-related
 - [Expand dictated contractions automatically](https://github.com/MooersLab/talon-contractions)
 - [Open favorite web pages by voice commands](https://github.com/MooersLab/talon-webpages)
 - [Master Talon Voice phonetic alphabet with interactive quiz written in Python](https://github.com/MooersLab/talon-voice-quizzes)
@@ -476,7 +476,7 @@ The Plus account will be transferred between browsers automatically
 - [Bayesian Data Analysis (BDA)](https://github.com/MooersLab/bayesian-data-analysis-voice-in/blob/main/README.md)
 - [Artificial intelligence (AI)](https://github.com/MooersLab/artificial-intelligence-voice-in)
 
-##### Funding agency
+##### Funding Agency related
 - [NIH grants](https://github.com/MooersLab/nih-grants-voice-in)
 
 
