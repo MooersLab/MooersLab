@@ -235,6 +235,7 @@ These editors work in Jupyter Notebooks via the GhostText browser plugin.
 
 ## Experimental designs
 
+### Experimental designs for crystal growth
 We provide easy and fast-to-deploy experimental designs for crystallization setups in Excel workbooks.
 These designs take three minutes to customize for your experimental needs.
 These workbooks could be adapted to other kinds of experiments.
@@ -250,7 +251,7 @@ Their small size is attractive to protein crystallography because the sample is 
 The small size of DSD experiments opens up the possibility of replicating these experiments to get a measure of the variance.
 
 
-- [Vary One-Factor-at-a-Time (OFAT) designs](https://github.com/MooersLab/ofat4xtals)
+- [Vary One-Factor-at-a-Time (OFAT) experimental designs](https://github.com/MooersLab/ofat4xtals)
 - [Definitive Screening Designs](https://github.com/MooersLab/dsd4xtals)
 
 ## LaTeX related
