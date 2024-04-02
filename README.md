@@ -238,7 +238,9 @@ These editors work in Jupyter Notebooks via the GhostText browser plugin.
 ### Experimental designs for crystal growth
 We provide easy and fast-to-deploy experimental designs for crystallization setups in Excel workbooks.
 These designs take three minutes to customize for your experimental needs.
+Plots of the results against factor level for each factor are automatically generated, thereby saving the users many hours of tedious coding of the plots of the data for each crystallization tray.
 These workbooks could be adapted to other kinds of experiments.
+
 The OFAT experiments are often used to screen for active factors.
 The active factors can then be used in DSD designs to find the optimal conditions to return large crystals.
 OFAT experiments are inappropriate for this objective because they do not measure interactions between factors.
@@ -247,7 +249,7 @@ Factor interactions are quite common in the crystallization of proteins.
 The DSDs tend to be limited to three active factors because of their small size and weaker statistical power.
 Larger traditional response surface method designs (RSM) should be used if more factors are suspected of being active or if two or more interactions are expected.
 DSD can be thought of as a subset of RSMs.
-Their small size is attractive to protein crystallography because the sample is expensive and scarce.
+Their small size is attractive for protein crystallization where the sample is expensive and scarce.
 The small size of DSD experiments opens up the possibility of replicating these experiments to get a measure of the variance.
 
 
