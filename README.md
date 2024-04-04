@@ -349,7 +349,8 @@ The first is the easiest to master.
 - [Voice In Plus for dictation and voice control in the web](https://github.com/MooersLab#voice-in-plus-related)
 - [Whisper for dictation, includes my text replacements](https://github.com/MooersLab#whisper-related)
 - [Voice Typing in Google Docs for dictation](https://github.com/MooersLab#voice-typing-in-google-docs-related)
-
+- [Words counts before and after adopting voice computing](https://github.com/MooersLab#Word-Counts-before-and-after-adopting-Voice-Computing)
+- [Voice computing-related talks](https://github.com/MooersLab#voice-computing-related-talks)
 
 
 ### Review of software that I have used
@@ -445,7 +446,7 @@ The generated sound waves are sent to a server run by Apple and then returned as
 I found that the delay that is caused by this transfer to unnoticeable.
 However, I do not have a M-chip-based Mac to test.
 
-Sadly, the Voice Control software provided by the mac OS has not improved its performance compared to the last time that I tried it.
+Sadly, the Voice Control software provided by the Mac OS has not improved its performance since I last tried it.
 Its error rate is too high to use for dictation.
 The advantage of this software is that it supports customized commands.
 
@@ -518,7 +519,7 @@ Nonetheless, this software is superior to the Mac dictation software, which will
 - [Bash function to transcribe audio files with whisper](https://github.com/MooersLab/bash-whisper-transcription)
 
 
-### Related talks
+### Voice computing related talks
 I have given two talks on this topic: one at the regional level and one at the international level.
 
 - [Data Science Workshop talk on speech-to-text, 2023 Nov. 16](https://mediasite.ouhsc.edu/Mediasite/Channel/python/watch/21e8b9a65d044d01a264df1f19db261b1d)
