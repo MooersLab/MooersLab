@@ -173,7 +173,7 @@ This, in turn, leads them to understand programming more deeply.
 - [Video link to talk about GhostText, Oklahoma Data Science Workshop, July 2022](https://mediasite.ouhsc.edu/Mediasite/Channel/python/watch/4da0872f028c4255ae12935655e911321d)
 - [emacsconf 2021 talk about rendering molecular graphics with PyMOL in org literate programming files](https://emacsconf.org/2021/talks/molecular/) Video and comments.
 - [emacsconf 2022 talk about using Emacs to edit Jupyter cells via GhostText and atomic-chrome](https://emacsconf.org/2022/talks/jupyter/) Video and comments.
-- [emacsconf 2023 talk about using voice computing to enhance productivity](https://emacsconf.org/2023/talks/voice/) Video, transcript, and comments.
+- [emacsconf 2023 talk about using  to enhance productivity](https://emacsconf.org/2023/talks/voice/) Video, transcript, and comments.
 - [EmacsATX Meetup Talk, 4 May 2022: functional programming in Emacs lisp](https://github.com/MooersLab/EmacsATX4May2022) Slides.
 
 ## Jupyter and Colab related
@@ -264,7 +264,7 @@ This is a very cool way to extend Emacs to websites that have weaker support for
 
 Now I use voice-to-text to dictate in 750words.com or Overleaf.
 I use voice commands to insert snippets containing LaTeX code.
-See the [voice computing](https://github.com/MooersLab/MooersLab/blob/main/README.md#voice-computing-for-enchanced-productivity) section below.
+See the [](https://github.com/MooersLab/MooersLab/blob/main/README.md#voice-computing-for-enchanced-productivity) section below.
 
 
 - [LaTeX bare bones template file](https://github.com/MooersLab/barebonesLaTeX/tree/main) This template is for those people want make a simple document without a lot of bells-and-whitsles.
@@ -344,7 +344,7 @@ The first is the easiest to master.
 
 ### Index of subsections
 
-- [Software that I use](https://github.com/MooersLab#review-of-software-that-I-have-used)
+- [Software that I use](https://github.com/MooersLab#review-of-software-of-the-voice-copmputing-software-that-I-have-used)
 - [Talon Voice for voice control and computing](https://github.com/MooersLab#talon-voice-related)
 - [Voice In Plus for dictation and voice control in the web](https://github.com/MooersLab#voice-in-plus-related)
 - [Whisper for dictation, includes my text replacements](https://github.com/MooersLab#whisper-related)
@@ -353,7 +353,11 @@ The first is the easiest to master.
 - [Voice computing-related talks](https://github.com/MooersLab#voice-computing-related-talks)
 
 
-### Review of software that I have used
+### Review of the voice computing software that I have used
+
+My sampling of the available voice computing-related software is highly skewed towards the Mac operating system and Google Chrome.
+I have yet to complete a comprehensive survey of the software available for Windows, Linux, and other browsers.
+If you are a user of such systems then the review below will give you a taste of what may be available for these other operating systems
 
 **Voice Typing** is widely available through Google Docs.
 It is more accurate than the Voice Control that comes with the Mac and MS Word.
@@ -370,7 +374,7 @@ It is also not easy to fine-tune with custom commands.
 My primary use of **Whisper** is for transcribing audio files.
 I provide Python scripts to correct the initial transcript.
 These corrections include expanding contractions.
-This code also supports inserting simple commands during dictation like `new paragraph` because **whisper** does not know how to break up a transcript into paragraphs.
+This code also supports inserting simple commands like `new paragraph` during dictation because **whisper** does not know how to break up a transcript into paragraphs.
 
 A very new use of **Whisper** for me is inside Emacs.
 I had been aware of its availability for four months.
@@ -387,6 +391,8 @@ I have yet to figure out the elisp code to apply my text replacements in the tra
 The **Superwhisper.** **app** for the Mac is interesting.
 It supports dictation in e-mail and elsewhere.
 Its support for custom commands is limited; it still needs to support bulk uploading of text replacements before it will interest me.
+You have to pay a subscription fee to gain access to all of its features.
+It has features that may appeal to people who have numerous electronic devices that need to be synced with their main computer.
 
 **Talon Voice** supports all three activities, but speech-to-text accuracy needs to catch up to Voice Typing and Voice In Plus in my experience.
 I am currently using Talon Voice for the last two activities.
