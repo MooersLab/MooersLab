@@ -321,7 +321,7 @@ Includes high performance computing (HPC), cluster computing, and cloud computin
 
 - [Bash functions for Schooner at OSCER](https://github.com/MooersLab/bashFunctions4oscer)
 - [Emacs configuration file for schooner supercomputer](https://github.com/MooersLab/emacs4oscer)
-- [Multiple file transfer with sshpass and scp](https://github.com/MooersLab/multipleFileTransfer)
+- [Multiple file transfer with scp](https://github.com/MooersLab/multipleFileTransfer)
 - [Vim configuration file for the schooner supercomputer at OU-Norman](https://github.com/MooersLab/vimrc4oscer)
 - [Vim configuration file for SSRL SMB cluster](https://github.com/MooersLab/vimrc4ssrl)
 - [Tutorial for biologists on using the supercomputer at OU-Norman](https://github.com/MooersLab/oscer-supercomputer-tutorial)
@@ -347,7 +347,7 @@ The first is the easiest to master.
 - [Software that I use](https://github.com/MooersLab#review-of-software-that-I-have-used)
 - [Talon Voice for voice control and computing](https://github.com/MooersLab#talon-voice-related)
 - [Voice In Plus for dictation and voice control in the web](https://github.com/MooersLab#voice-in-plus-related)
-- [Whisper for dictation, includes my text replacements](https://github.com/MooersLab#vwhisper-related)
+- [Whisper for dictation, includes my text replacements](https://github.com/MooersLab#whisper-related)
 - [Voice Typing in Google Docs for dictation](https://github.com/MooersLab#voice-typing-in-google-docs-related)
 
 
@@ -367,16 +367,29 @@ It has a latency issue, so live transcription and interactive editing is difficu
 It is also not easy to fine-tune with custom commands.
 
 My primary use of **Whisper** is for transcribing audio files.
-I provide code for applying corrections to the initial transcript, such as the expansion of contractions.
-This code also supports inserting simple commands during dictation like `new paragraph` because **Whisper** does not know how to break up a transcript into paragraphs.
+I provide Python scripts to correct the initial transcript.
+These corrections include expanding contractions.
+This code also supports inserting simple commands during dictation like `new paragraph` because **whisper** does not know how to break up a transcript into paragraphs.
 
-The **Sperwhisper.** **app** for the Mac is interesting.
+A very new use of **Whisper** for me is inside Emacs.
+I had been aware of its availability for four months.
+After my third attempt, I finally figured out how to run **Whisper** in Emacs via the **whisper.el** package.
+The package automates compiling the *whisper.cpp* software and downloading the Whisper LLM.
+You record a local audio file of your dictation, and then you transcribe that audio file into text that appears in the current buffer in Emacs.
+The `M-H r` keybinding starts the audio recording, and the `C-u M-x r` keybinding transcribes the audio file.
+Here, `H` is for the Hyper key; I have it mapped to the righthand command key (alt-key) on a non-Mac keyboard.
+
+The natural unit of dictation seems to be a paragraph.
+This form of dictation is not as interactive as Voice In Plus.
+I have yet to figure out the elisp code to apply my text replacements in the transcription step.
+
+The **Superwhisper.** **app** for the Mac is interesting.
 It supports dictation in e-mail and elsewhere.
-Its support for custom commands is limited; it still needs to support bulk uploading of text replacements.
+Its support for custom commands is limited; it still needs to support bulk uploading of text replacements before it will interest me.
 
 **Talon Voice** supports all three activities, but speech-to-text accuracy needs to catch up to Voice Typing and Voice In Plus in my experience.
 I am currently using Talon Voice for the last two activities.
-I hope to increase my use of Talon Voice for dictation.
+I plan to increase my use of Talon Voice for dictation.
 
 The **Talon Voice** software is designed to be used by non-coders.
 It can be configured with Talonscript files that have a simple syntax that is a subset of Python.
@@ -388,7 +401,7 @@ Voice computing could be a cure for the envy of those colleagues who have standi
 You can speak commands to your computer while standing 20 feet away from it and looking out the window.
 You can give your body a break from sitting and your eyes a break from staring at the computer screen while remaining productive.
 
-## Word Counts before and after adopting Voice Computing
+### Word Counts before and after adopting Voice Computing
 
 I have seen a three-fold increase in the total number of words captured in September and October 2023 compared to June and July 2023 before I took up speech-to-text in mid-August 2023.
 I have had the same amount of out-of-town travel during the first two periods.
@@ -399,8 +412,8 @@ I made a concerted effort to generate at least 5,000 words a day from that point
 Then family obligations reduced my daily word generation.
 Nonetheless, I had a five-fold increase in the total word count for November and December.
 A six-sevenfold increase may be possible.
-Overall, a 5-fold increase in word count may be more sustainable if you make a conscious effort.
-I expect that a three-fold increase is more realistic with all of the disruptions from doing experiments, administration, teaching, service, and travel.
+Overall, a 5-fold increase in word count may be more sustainable, if you make a conscious effort.
+I expect that a three-fold increase is more realistic with all of the disruptions from doing experiments, administration, teaching, service, and work-related travel.
 
 The slight decrease in word count after the new year may reflect a shift in my focus toward turning more of my writing into publishable products.
 This decrease may reflect more effort focused on editing text.
