@@ -344,11 +344,11 @@ The first is the easiest to master.
 
 ## Index of subsections
 
-- [Voice In Plus](https://github.com/MooersLab###voice-in-plus-related)
-- Whisper and a Digitial Voice Recorder
-- whisper.el inside Emacs
-- Mac Dictation
-- Talon Voice
+- [Talon Voice for voice control and computing](https://github.com/MooersLab#talon-voice-related)
+- [Voice In Plus for dictation and voice control in the web](https://github.com/MooersLab#voice-in-plus-related)
+- [Whisper for dictation, includes my text replacements](https://github.com/MooersLab#vwhisper-related)
+- [Voice Typing in Google Docs for dictation](https://github.com/MooersLab#voice-typing-in-google-docs-related)
+
 
 
 ## Brief review of the software that I have used
