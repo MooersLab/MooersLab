@@ -333,8 +333,8 @@ Includes high performance computing (HPC), cluster computing, and cloud computin
 - [Neovim configuration file](https://github.com/MooersLab/neovim-init-file)
 - [qvim](https://github.com/MooersLab/qvim) Quiz about Vim commands to improve your recall of the commands after a break from using Vim.
 
-## Voice computing
-Voice computing can be divided into three activities:
+## 
+ can be divided into three activities:
 
 - speech-to-text (dictation)
 - speech-to-commands
@@ -349,13 +349,13 @@ The first is the easiest to master.
 - [Voice In Plus for dictation and voice control in the web](https://github.com/MooersLab#voice-in-plus-related)
 - [Whisper for dictation, includes my text replacements](https://github.com/MooersLab#whisper-related)
 - [Voice Typing in Google Docs for dictation](https://github.com/MooersLab#voice-typing-in-google-docs-related)
-- [Words counts before and after adopting voice computing](https://github.com/MooersLab#Word-Counts-before-and-after-adopting-Voice-Computing)
-- [Voice computing-related talks](https://github.com/MooersLab#voice-computing-related-talks)
+- [Words counts before and after adopting ](https://github.com/MooersLab#Word-Counts-before-and-after-adopting-Voice-Computing)
+- [-related talks](https://github.com/MooersLab#voice-computing-related-talks)
 
 
-### Review of the voice computing software that I have used
+### Review of the  software that I have used
 
-My sampling of the available voice computing-related software is highly skewed towards the Mac operating system and Google Chrome.
+My sampling of the available -related software is highly skewed towards the Mac operating system and Google Chrome.
 I have yet to complete a comprehensive survey of the software available for Windows, Linux, and other browsers.
 If you are a user of such systems then the review below will give you a taste of what may be available for these other operating systems
 
@@ -402,7 +402,7 @@ The **Talon Voice** software is designed to be used by non-coders.
 It can be configured with Talonscript files that have a simple syntax that is a subset of Python.
 You can customize Talon Voice extensively using the Talonscript files without writing any Python code.
 
-Voice computing supports extending your productivity when you get tired of typing.
+ supports extending your productivity when you get tired of typing.
 Voice computing also supports issuing commands and dictating text while standing.
 Voice computing could be a cure for the envy of those colleagues who have standing desks.
 You can speak commands to your computer while standing 20 feet away from it and looking out the window.
@@ -413,6 +413,8 @@ You can give your body a break from sitting and your eyes a break from staring a
 I have seen a three-fold increase in the total number of words captured in September and October 2023 compared to June and July 2023 before I took up speech-to-text in mid-August 2023.
 I have had the same amount of out-of-town travel during the first two periods.
 I did not make a conscious effort to capture more words per day.
+
+<p align="center"><img src="./images/words6.png" alt="HTML5 Icon" style="width:612px;height:312px;"></p>
 
 On the day after Thanksgiving in 2023, I generated almost 12,000 words.
 I made a concerted effort to generate at least 5,000 words a day from that point to just before Christmas.
@@ -429,6 +431,7 @@ I was surprised that there was not a more significant decrease.
 I may have compensated by using a digital voice recorder (DVR) in mid-January 2024 during my 25-minute commutes to my office.
 Much of my mutterings are rubbish, but I occasionally harvest useful thoughts.
 The DVR has extended my generative writing time by 30-60 minutes daily.
+
 
 Spending more time on rewriting will lead to fewer new words generated if the time spent on writing is constant.
 Rewriting is very time-consuming; it can take as much or more time as generating the text initially.
@@ -471,7 +474,6 @@ The text transcribed by Whisper is more valuable as a backup to trigger my memor
 I have not yet tried to feed the transcribed text from Whisper to ChatGPT with the instructions to parse it.
 
 
-<p align="center"><img src="./images/words6.png" alt="HTML5 Icon" style="width:612px;height:312px;"></p>
 
 Below are links to programming tools to aid the adoption of voice computing.
 
