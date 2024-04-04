@@ -402,7 +402,7 @@ The **Talon Voice** software is designed to be used by non-coders.
 It can be configured with Talonscript files that have a simple syntax that is a subset of Python.
 You can customize Talon Voice extensively using the Talonscript files without writing any Python code.
 
- supports extending your productivity when you get tired of typing.
+Voice computing supports extending your productivity when you get tired of typing.
 Voice computing also supports issuing commands and dictating text while standing.
 Voice computing could be a cure for the envy of those colleagues who have standing desks.
 You can speak commands to your computer while standing 20 feet away from it and looking out the window.
