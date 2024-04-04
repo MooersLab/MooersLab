@@ -378,21 +378,21 @@ This code also supports inserting simple commands like `new paragraph` during di
 
 A very new use of **Whisper** for me is inside Emacs.
 I had been aware of its availability for four months.
-After my third attempt, I finally figured out how to run **Whisper** in Emacs via the **whisper.el** package.
+After my third attempt, I finally figured out how to run **Whisper** in Emacs via the [**whisper.el** package](https://github.com/natrys/whisper.el?tab=readme-ov-file).
 The package automates compiling the *whisper.cpp* software and downloading the Whisper LLM.
 You record a local audio file of your dictation, and then you transcribe that audio file into text that appears in the current buffer in Emacs.
 The `M-H r` keybinding starts the audio recording, and the `C-u M-x r` keybinding transcribes the audio file.
 Here, `H` is for the Hyper key; I have it mapped to the righthand command key (alt-key) on a non-Mac keyboard.
 
 The natural unit of dictation seems to be a paragraph.
-This form of dictation is not as interactive as Voice In Plus.
+This form of dictation is less interactive than Voice In Plus where you can use the keyboard to make edits to currently dictated sentence.
 I have yet to figure out the elisp code to apply my text replacements in the transcription step.
 
 The **Superwhisper.** **app** for the Mac is interesting.
 It supports dictation in e-mail and elsewhere.
 Its support for custom commands is limited; it still needs to support bulk uploading of text replacements before it will interest me.
-You have to pay a subscription fee to gain access to all of its features.
-It has features that may appeal to people who have numerous electronic devices that need to be synced with their main computer.
+You have to pay a subscription fee to access all its features.
+Its features may appeal to people with numerous electronic devices that need to be synced with their main computer.
 
 **Talon Voice** supports all three activities, but speech-to-text accuracy needs to catch up to Voice Typing and Voice In Plus in my experience.
 I am currently using Talon Voice for the last two activities.
@@ -406,7 +406,7 @@ Voice computing supports extending your productivity when you get tired of typin
 Voice computing also supports issuing commands and dictating text while standing.
 Voice computing could be a cure for the envy of those colleagues who have standing desks.
 You can speak commands to your computer while standing 20 feet away from it and looking out the window.
-You can give your body a break from sitting and your eyes a break from staring at the computer screen while remaining productive.
+You can give your body and eyes a break from sitting and staring at the computer screen while remaining productive.
 
 ### Word Counts before and after adopting Voice Computing
 
@@ -421,8 +421,8 @@ I made a concerted effort to generate at least 5,000 words a day from that point
 Then family obligations reduced my daily word generation.
 Nonetheless, I had a five-fold increase in the total word count for November and December.
 A six-sevenfold increase may be possible.
-Overall, a 5-fold increase in word count may be more sustainable, if you make a conscious effort.
-I expect that a three-fold increase is more realistic with all of the disruptions from doing experiments, administration, teaching, service, and work-related travel.
+A five-fold increase in word count may be more sustainable if you consciously try.
+A three-fold increase is more realistic with all of the disruptions from doing experiments, administration, teaching, service, and work-related travel.
 
 The slight decrease in word count after the new year may reflect a shift in my focus toward turning more of my writing into publishable products.
 This decrease may reflect more effort focused on editing text.
@@ -442,15 +442,15 @@ I plan to spend more time rewriting, so you can expect the new words generated i
 
 ### What about Mac's Dictation and Voice Control software?
 One alternative is to use the built-in Dictation software for Mac.
-Four months ago, the Mac dictation software was not as good as the alternatives, like Voice In.
+Four months ago, the Mac dictation software was worse than the alternatives, like Voice In.
 I tried it again on March 22, 2024,
-I think that the error rate is now reduced enough to give it another try.
+The error rate is now reduced enough to give it another try.
 
 Its advantage is that it can operate anywhere.
-It works inside of Emacs as well as in webpages, including webmail applications like Outlook and Gmail.
+It works inside Emacs and on webpages, including webmail applications like Outlook and Gmail.
 Its disadvantage is that it cannot be customized with text replacement libraries.
 
-For older Intel chip-based Macs, the Dictation software relies on an internet connection being available.
+For older Intel chip-based Macs, the Dictation software relies on an available internet connection.
 The generated sound waves are sent to a server run by Apple and then returned as text.
 I found that the delay that is caused by this transfer to unnoticeable.
 However, I do not have a M-chip-based Mac to test.
@@ -491,7 +491,7 @@ It depends on the browser's Speech-to-Text API.
 Interactive sessions with it persist for up to 5 to 10 paragraphs, depending on your activity and speed of dictation.
 If you dictate too quickly, you will get ahead of the software and it will hang. 
 You might lose text for some of the words you dictated.
-Nonetheless, this software is superior to the Mac dictation software, which will only persist for about three sentences on average because it sends the sound waves to a language model located on a remote server.
+Nonetheless, this software is superior to Mac dictation software, which will only persist for an average of three sentences because it sends the sound waves to a language model located on a remote server.
 
 
 
@@ -538,7 +538,7 @@ I have given two talks on this topic: one at the regional level and one at the i
 ## Writing productivity tools
 These are some programming tools designed to support greater writing productivity.
 There are three elements: progress tracking, support for manuscript writing in LaTeX, and the writing log.
-The last might be the most important tool for organizing and managing a writing project.
+The last might be the most essential tool for organizing and managing a writing project.
 It is analogous to a project-specific laboratory notebook.
 
 ### Progress tracking
@@ -546,7 +546,7 @@ For writing tasks that cannot be completed in one sitting, progress tracking can
 
 - [Track writing progress in 2024 and 2025](https://github.com/MooersLab/writing-progress-2024-25)
 - [The writer's creed](https://github.com/MooersLab/thewriterslaw) Guidelines for greater productivity.
-- [Writing contract template](https://github.com/MooersLab/writingContract) This contract is in Microsoft Word, markdown, LaTeX, and org-mode. This accountability system works only if your partner has a similar level of commitment to daily writing. I had a good run of four years with one person from out-of-state. I would consider doing this again.
+- [Writing contract template](https://github.com/MooersLab/writingContract) This contract is in Microsoft Word, Markdown, LaTeX, and org-mode. This accountability system works only if your partner is similarly committed to daily writing. I had a good run of four years with one person from out of state. I would consider doing this again.
 - [TimeSpent](https://github.com/MooersLab/timeSpent) Hourly time tracking by project with Google Sheets. This is useful for making monthly time reports and learning how much various writing projects actually take.
 
 ### Manuscript writing support
