@@ -333,14 +333,15 @@ Includes high performance computing (HPC), cluster computing, and cloud computin
 - [Neovim configuration file](https://github.com/MooersLab/neovim-init-file)
 - [qvim](https://github.com/MooersLab/qvim) Quiz about Vim commands to improve your recall of the commands after a break from using Vim.
 
-## 
- can be divided into three activities:
+## Voice Computing
+
+Voice computing can be divided into three activities:
 
 - speech-to-text (dictation)
 - speech-to-commands
 - speech-to-code
 
-The first is the easiest to master.
+The speech-to-text is the easiest to master, the most widely applicable, and the most effective at enhancing the productivity for academics.
 
 ### Index of subsections
 
@@ -350,7 +351,7 @@ The first is the easiest to master.
 - [Whisper for dictation, includes my text replacements](https://github.com/MooersLab#whisper-related)
 - [Voice Typing in Google Docs for dictation](https://github.com/MooersLab#voice-typing-in-google-docs-related)
 - [Words counts before and after adopting ](https://github.com/MooersLab#Word-Counts-before-and-after-adopting-Voice-Computing)
-- [-related talks](https://github.com/MooersLab#voice-computing-related-talks)
+- [Voice computing related talks](https://github.com/MooersLab#voice-computing-related-talks)
 
 
 ### Review of the  software that I have used
@@ -384,7 +385,7 @@ You record a local audio file of your dictation, and then you transcribe that au
 The `M-H r` keybinding starts the audio recording, and the `C-u M-x r` keybinding transcribes the audio file.
 Here, `H` is for the Hyper key; I have it mapped to the righthand command key (alt-key) on a non-Mac keyboard.
 
-The natural unit of dictation seems to be a paragraph.
+The natural unit of dictation with `whisper.el` seems to be the paragraph.
 This form of dictation is less interactive than Voice In Plus where you can use the keyboard to make edits to currently dictated sentence.
 I have yet to figure out the elisp code to apply my text replacements in the transcription step.
 
