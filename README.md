@@ -342,8 +342,9 @@ Voice computing can be divided into three activities:
 
 The first is the easiest to master.
 
-## Index of subsections
+### Index of subsections
 
+- [Software that I use](https://github.com/MooersLab#review-of-software-that-I-have-used)
 - [Talon Voice for voice control and computing](https://github.com/MooersLab#talon-voice-related)
 - [Voice In Plus for dictation and voice control in the web](https://github.com/MooersLab#voice-in-plus-related)
 - [Whisper for dictation, includes my text replacements](https://github.com/MooersLab#vwhisper-related)
@@ -351,7 +352,7 @@ The first is the easiest to master.
 
 
 
-## Brief review of the software that I have used
+### Review of software that I have used
 
 **Voice Typing** is widely available through Google Docs.
 It is more accurate than the Voice Control that comes with the Mac and MS Word.
