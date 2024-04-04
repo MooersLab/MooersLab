@@ -342,9 +342,20 @@ Voice computing can be divided into three activities:
 
 The first is the easiest to master.
 
+## Index of subsections
+
+- [Voice In Plus](https://github.com/MooersLab###voice-in-plus-related)
+- Whisper and a Digitial Voice Recorder
+- whisper.el inside Emacs
+- Mac Dictation
+- Talon Voice
+
+
+## Brief review of the software that I have used
+
 **Voice Typing** is widely available through Google Docs.
 It is more accurate than the Voice Control that comes with the Mac and MS Word.
-**Voice Typing** supports almost 100 voice commands, but it does not support custom commands.
+**Voice Typing** supports almost 100 voice commands but does not support custom commands.
 
 **Voice In Plus** has similar accuracy to **Voice Typing** with the addition of custom commands.
 I use the latter every day for dictation for first drafts.
