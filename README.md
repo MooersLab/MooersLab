@@ -1,4 +1,4 @@
-![Version](https://img.shields.io/static/v1?label=mooerslab&message=0.4&color=brightcolor)
+![Version](https://img.shields.io/static/v1?label=mooerslab&message=0.5&color=brightcolor)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 # MooersLab
@@ -528,7 +528,7 @@ Nonetheless, this software is superior to Mac dictation software, which will onl
 - [Bash function to transcribe audio files with whisper](https://github.com/MooersLab/bash-whisper-transcription)
 
 
-### Voice computing related talks
+### Voice computing-related talks
 I have given two talks on this topic: one at the regional level and one at the international level.
 
 - [Data Science Workshop talk on speech-to-text, 2023 Nov. 16](https://mediasite.ouhsc.edu/Mediasite/Channel/python/watch/21e8b9a65d044d01a264df1f19db261b1d)
@@ -561,7 +561,12 @@ For writing tasks that cannot be completed in one sitting, progress tracking can
 ### Writing log for planning manuscripts
 
 - [Writing Log template in LaTeX](https://github.com/MooersLab/writingLogTemplate). This is the favored format. LaTeX beginning users can easily use this document on Overleaf without any configuration.
-- [Writing log template in Org-mode](https://github.com/MooersLab/writingLogTemplateInOrg) Has all of the features of the LaTeX variant. Favored by many Emacs users. Org-mode is a powerful analog of markdown that can interpret LaTeX code blocks. Org-mode is vastly more capable than markdown. The coolest feature is tables that act like spreadsheets. If you are already comfortable with LaTeX, org-mode will be a step backward for writing documents. Nonetheless, it is still useful for literate programming (or interactive computational narratives) but the interactive display of large images has to be done in separate buffers. Org-roam is useful for knowledge base management, although Obsidian provides a cleaner experience. I still have trouble with org-agenda. Few people seem to have mastered it.
+- [Writing log template in Org-mode](https://github.com/MooersLab/writingLogTemplateInOrg) Has all of the features of the LaTeX variant. Favored by many Emacs users. Org-mode is a powerful analog of markdown that can interpret LaTeX code blocks.
+- Org-mode is vastly more capable than markdown. The most remarkable feature is the tables that act like spreadsheets. If you are already comfortable with LaTeX, org-mode will be a step backward for writing documents.
+Nonetheless, it is still useful for literate programming (or interactive computational narratives), but the interactive display of large images has to be done in separate buffers. Org-roam is useful for knowledge base management, although Obsidian provides a cleaner experience.
+I still have trouble with org-agenda.
+Few people have mastered it.
+
 - [Writing log template in reStructuredText](https://github.com/MooersLab/writing-log-rst) reStructuredText is used by programmers for documentation.
 - [Writing log template in Markdown](https://github.com/MooersLab/writing-log-md) Markdown variant. Rendered to PDF by most good text editors.
 - [Writing log template in ODT](https://github.com/MooersLab/writing-log-odt) ODT can be read by Open Office, LibreOffice, and MS Word.
@@ -574,6 +579,21 @@ For writing tasks that cannot be completed in one sitting, progress tracking can
 - [Edit live Jupyter notebook cells with Emacs](https://www.youtube.com/watch?v=2NPUDYAOgW0), EmacsConf 2022.
 - [Enhancing productivity with voice computing](https://emacsconf.org/2023/talks/voice/), EmacsConf 2023.
 - [Managing multiple writing projects](https://mediasite.ouhsc.edu/Mediasite/Channel/python/watch/bc2777b248ff4fa4959b9bfed9b0e84a1d), Data Science Workshop, Jan. 2024.
+
+
+## Update History
+
+|Version      | Changes                                         | Date            |
+|:-----------:|:-----------------------------------------------:|:---------------:|
+| Version 0.5|  Fixed typos in README.md                       | 2024 April 11    |
+
+
+## Sources of funding
+
+- NIH: R01 CA242845
+- NIH: R01 AI088011
+- NIH: P30 CA225520 (PI: R. Mannel)
+- NIH P20GM103640 and P30GM145423 (PI: A. West)
 
 **MooersLab/MooersLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on his GitHub profile 👋.
 
