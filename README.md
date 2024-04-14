@@ -505,7 +505,7 @@ Nonetheless, this software is superior to Mac dictation software, which will onl
 - [OUHS-related acronym expansions](https://github.com/MooersLab/ouhs-voice-in)
 - [LaTeX](https://github.com/MooersLab/latex-voice-in)
 - [Generate new writing project commands](https://github.com/MooersLab/new-writing-project-voice-in)
-- [Books about scientific writing mapped voice triggers](https://github.com/MooersLab/scientific-writing-books-voice-in)
+- [Books about scientific writing mapped to voice triggers](https://github.com/MooersLab/scientific-writing-books-voice-in)
 
 #### Structural biology method
 - [Biological crystallography (MX)](https://github.com/MooersLab/biological-crystallography-voice-in)
