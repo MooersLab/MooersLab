@@ -451,9 +451,9 @@ Its advantage is that it can operate anywhere.
 It works inside Emacs and on webpages, including webmail applications like Outlook and Gmail.
 Its disadvantage is that it cannot be customized with text replacement libraries.
 
-For older Intel chip-based Macs, the Dictation software relies on an available internet connection.
+The Dictation software relies on an internet connection for older Intel chip-based Macs.
 The generated sound waves are sent to a server run by Apple and then returned as text.
-I found that the delay that is caused by this transfer to unnoticeable.
+I found the delay caused by this transfer to be unnoticeable.
 However, I do not have a M-chip-based Mac to test.
 
 Sadly, the Voice Control software provided by the Mac OS has not improved its performance since I last tried it.
@@ -472,7 +472,7 @@ On several occasions, my digital voice recorder turned off accidentally when pla
 To my dismay, upon arriving at my office, I discovered that I needed to repeat what I had dictated.
 Nonetheless, I could recapitulate much of what I had dictated just a half hour earlier.
 The text transcribed by Whisper is more valuable as a backup to trigger my memory rather than as a rough draft.
-I have not yet tried to feed the transcribed text from Whisper to ChatGPT with the instructions to parse it.
+I have yet to try to feed the transcribed text from Whisper to ChatGPT with the instructions to parse it.
 
 
 
@@ -490,7 +490,7 @@ Below are links to programming tools to aid the adoption of voice computing.
 This browser plugin works in Google Chrome and Microsoft's Edge.
 It depends on the browser's Speech-to-Text API.
 Interactive sessions with it persist for up to 5 to 10 paragraphs, depending on your activity and speed of dictation.
-If you dictate too quickly, you will get ahead of the software and it will hang. 
+If you dictate too quickly, you will get ahead of the software, and it will hang. 
 You might lose text for some of the words you dictated.
 Nonetheless, this software is superior to Mac dictation software, which will only persist for an average of three sentences because it sends the sound waves to a language model located on a remote server.
 
@@ -542,8 +542,12 @@ I have given two talks on this topic: one at the regional level and one at the i
 ## Writing productivity tools
 These are some programming tools designed to support greater writing productivity.
 There are three elements: progress tracking, support for manuscript writing in LaTeX, and the writing log.
-The last might be the most essential tool for organizing and managing a writing project.
+The last might be essential for organizing and managing a writing project.
 It is analogous to a project-specific laboratory notebook.
+
+### Books about writing
+- [Books about scientific writing mapped to voice triggers](https://github.com/MooersLab/scientific-writing-books-voice-in)
+
 
 ### Progress tracking
 For writing tasks that cannot be completed in one sitting, progress tracking can support momentum and enthusiasm for the project.
