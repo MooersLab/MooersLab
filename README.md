@@ -517,6 +517,7 @@ Nonetheless, this software is superior to Mac dictation software, which will onl
 - [Bayesian Data Analysis (BDA)](https://github.com/MooersLab/bayesian-data-analysis-voice-in/blob/main/README.md)
 - [Artificial intelligence (AI)](https://github.com/MooersLab/artificial-intelligence-voice-in)
 - [Software Developement](https://github.com/MooersLab/software-development-voice-in)
+- [Markdown in Jupyter notebooks](https://github.com/MooersLab/markdown-jupyter-voice-in/tree/main)
   
 
 #### Funding Agency related
