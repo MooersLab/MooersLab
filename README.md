@@ -351,14 +351,14 @@ The speech-to-text is the easiest to master, the most widely applicable, and the
 - [Whisper for dictation, includes my text replacements](https://github.com/MooersLab#whisper-related)
 - [Voice Typing in Google Docs for dictation](https://github.com/MooersLab#voice-typing-in-google-docs-related)
 - [Words counts before and after adopting ](https://github.com/MooersLab#Word-Counts-before-and-after-adopting-Voice-Computing)
-- [Voice computing related talks](https://github.com/MooersLab#voice-computing-related-talks)
+- [Voice computing-related talks](https://github.com/MooersLab#voice-computing-related-talks)
 
 
 ### Review of the  software that I have used
 
 My sampling of the available -related software is highly skewed towards the Mac operating system and Google Chrome.
 I have yet to complete a comprehensive survey of the software available for Windows, Linux, and other browsers.
-If you are a user of such systems then the review below will give you a taste of what may be available for these other operating systems
+If you are a user of such systems, then the review below will give you a taste of what may be available for these other operating systems
 
 **Voice Typing** is widely available through Google Docs.
 It is more accurate than the Voice Control that comes with the Mac and MS Word.
@@ -386,7 +386,7 @@ The `M-H r` keybinding starts the audio recording, and the `C-u M-x r` keybindin
 Here, `H` is for the Hyper key; I have it mapped to the righthand command key (alt-key) on a non-Mac keyboard.
 
 The natural unit of dictation with `whisper.el` seems to be the paragraph.
-This form of dictation is less interactive than Voice In Plus where you can use the keyboard to make edits to currently dictated sentence.
+This form of dictation is less interactive than Voice In Plus where you can use the keyboard to edit the currently dictated sentence.
 I have yet to figure out the elisp code to apply my text replacements in the transcription step.
 
 The **Superwhisper.** **app** for the Mac is interesting.
@@ -499,7 +499,7 @@ Nonetheless, this software is superior to Mac dictation software, which will onl
 #### Generic
 - [Master basic Voice In commands with interactive Python quiz](https://github.com/MooersLab/voice-in-basics-quiz)
 - [Master basic Voice In commands with an interactive quiz in Emacs](https://github.com/MooersLab/voice-in-basics-quiz.el)
-- [Library of 94 English contractions](https://github.com/MooersLab/voice-in-plus-contractions)
+- [Library of 186 English contractions](https://github.com/MooersLab/voice-in-plus-contractions)
 - [Full library of commands for Voice In Plus](https://github.com/MooersLab/voice-in-plus-commands)
 - [Org-mode](https://github.com/MooersLab/org-mode-voice-in/tree/main)
 - [OUHS-related acronym expansions](https://github.com/MooersLab/ouhs-voice-in)
