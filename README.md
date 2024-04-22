@@ -11,7 +11,9 @@
 - [Experimental designs](https://github.com/MooersLab#experimental-designs)
 - [Jupyter and Colab](https://github.com/MooersLab#jupyter-and-colab-related)
 - [LaTeX](https://github.com/MooersLab#latex-related)
+- [Literate programming and computational narratives](https://github.com/MooersLab#literate-programming-and-computational-narratives)
 - [PyMOL](https://github.com/MooersLab#pymol)
+- [Python](https://github.com/MooersLab#python)
 - [SAXS](https://github.com/MooersLab#small-angle-scattering)
 - [Supercomputing](https://github.com/MooersLab#supercomputing-related)
 - [vim/neovim](https://github.com/MooersLab/MooersLab/blob/main/README.md#vim-and-neovim)
@@ -285,7 +287,14 @@ See the [](https://github.com/MooersLab/MooersLab/blob/main/README.md#voice-comp
 - [bib2item3](https://github.com/MooersLab/bib2item3) Python script to convert bibtex.bib file to bibitems in tex file format. Bibitems are required by some publishers. They are a pain to create manually.
 - [LaTeX Voice In Plus library](https://github.com/MooersLab/latex-voice-in) Speech-to-text commands for inserting LaTeX markup.
 
-## Molecular Graphics related
+## Literature Programming and Computational Narratives
+
+See the sections on Org-mode and Jupyter and Colab.
+
+
+
+
+## Molecular Graphics Related
 [Collection of links for a 15-hour course on Molecular Graphics](https://mooerslab.github.io/MolecularGraphicsLinks/index.html)
 
 
@@ -305,6 +314,9 @@ See the [](https://github.com/MooersLab/MooersLab/blob/main/README.md#voice-comp
 <!--
 ## Structure-based Drug Design
 -->
+
+## Python
+See the sections on PyMOL, CCTBX, and Jupyter and Colab.
 
 ## R statistical program
 - [rstudiopymolpysnips](https://github.com/MooersLab/rstudiopymolpysnips) Support for literate programming in Rstuido with python code for PyMOL.
