@@ -550,7 +550,7 @@ I have given three talks on this topic: two at the regional level and one at the
 - [Data Science Workshop talk on speech-to-text, 2023 Nov. 16](https://mediasite.ouhsc.edu/Mediasite/Channel/python/watch/21e8b9a65d044d01a264df1f19db261b1d)
 - [emacsconf23 talk speech-to-text and speech-to-commands, 2023 Dec. 2 on YouTube](https://www.youtube.com/watch?v=Z7l1ImjXOWM)
 - [ditto but on the emacsonf.org website](https://emacsconf.org/2023/talks/voice/)
-- [PyTexas talk: Voice computing with Python in Jupyter notebooks (slides and audio), 2024 Apr. 21](coming soon)
+- [PyTexas talk: Voice computing with Python in Jupyter notebooks (slides and audio), 2024 Apr. 21](https://github.com/MooersLab/voice-computing-with-python-in-jupyter-notebooks)
 
 ## Writing productivity tools
 These are some programming tools designed to support greater writing productivity.
