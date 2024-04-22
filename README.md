@@ -17,7 +17,7 @@
 - [vim/neovim](https://github.com/MooersLab/MooersLab/blob/main/README.md#vim-and-neovim)
 - [Writing tools](https://github.com/MooersLab#writing-productivity-tools)
 - [Voice computing](https://github.com/MooersLab#voice-computing)
-- [Videos of talks](https://github.com/MooersLab#videos-related-to-these-repos)
+- [Videos of talks](https://github.com/MooersLab#videos-related-to-these-repositories)
 
 
 ## Introduction
@@ -538,7 +538,7 @@ I have given two talks on this topic: one at the regional level and one at the i
 - [Data Science Workshop talk on speech-to-text, 2023 Nov. 16](https://mediasite.ouhsc.edu/Mediasite/Channel/python/watch/21e8b9a65d044d01a264df1f19db261b1d)
 - [emacsconf23 talk speech-to-text and speech-to-commands, 2023 Dec. 2 on YouTube](https://www.youtube.com/watch?v=Z7l1ImjXOWM)
 - [ditto but on the emacsonf.org website](https://emacsconf.org/2023/talks/voice/)
-
+- [PyTexas talk: Voice computing with Python in Jupyter notebooks (slides and audio)]()
 
 ## Writing productivity tools
 These are some programming tools designed to support greater writing productivity.
@@ -587,7 +587,7 @@ Few people have mastered it.
 - [Edit live Jupyter notebook cells with Emacs](https://www.youtube.com/watch?v=2NPUDYAOgW0), EmacsConf 2022.
 - [Enhancing productivity with voice computing](https://emacsconf.org/2023/talks/voice/), EmacsConf 2023.
 - [Managing multiple writing projects](https://mediasite.ouhsc.edu/Mediasite/Channel/python/watch/bc2777b248ff4fa4959b9bfed9b0e84a1d), Data Science Workshop, Jan. 2024.
-
+- [Voice Computing with Python in Jupyter Notebooks](coming soon) PyTexas 2024, Austin, Texas: April 21, 2024.
 
 ## Update History
 
