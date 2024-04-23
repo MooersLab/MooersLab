@@ -316,7 +316,12 @@ See the sections on Org-mode and Jupyter and Colab.
 -->
 
 ## Python
-See the sections on PyMOL, CCTBX, and Jupyter and Colab.
+See the sections on PyMOL, CCTBX, and Jupyter and Colab. Python is in many repositories.
+
+- [PyTexas talk: Voice computing with Python in Jupyter notebooks (slides and audio), 2024 Apr. 21](https://github.com/MooersLab/voice-computing-with-python-in-jupyter-notebooks)
+
+
+
 
 ## R statistical program
 - [rstudiopymolpysnips](https://github.com/MooersLab/rstudiopymolpysnips) Support for literate programming in Rstuido with python code for PyMOL.
