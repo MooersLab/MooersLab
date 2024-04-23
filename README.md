@@ -516,13 +516,15 @@ Nonetheless, this software is superior to Mac dictation software, which will onl
 #### Generic
 - [Master basic Voice In commands with interactive Python quiz](https://github.com/MooersLab/voice-in-basics-quiz)
 - [Master basic Voice In commands with an interactive quiz in Emacs](https://github.com/MooersLab/voice-in-basics-quiz.el)
-- [Library of 186 English contractions](https://github.com/MooersLab/voice-in-plus-contractions)
+- [Library of 186 English contractions (a must for nonfiction writing)](https://github.com/MooersLab/voice-in-plus-contractions)
+- [Jupyter notebook voice triggers](https://github.com/MooersLab/jupyter-voice-in)
 - [Full library of commands for Voice In Plus](https://github.com/MooersLab/voice-in-plus-commands)
 - [Org-mode](https://github.com/MooersLab/org-mode-voice-in/tree/main)
 - [OUHS-related acronym expansions](https://github.com/MooersLab/ouhs-voice-in)
 - [LaTeX](https://github.com/MooersLab/latex-voice-in)
 - [Generate new writing project commands](https://github.com/MooersLab/new-writing-project-voice-in)
 - [Books about scientific writing mapped to voice triggers](https://github.com/MooersLab/scientific-writing-books-voice-in)
+
 
 #### Structural biology method
 - [Biological crystallography (MX)](https://github.com/MooersLab/biological-crystallography-voice-in)
