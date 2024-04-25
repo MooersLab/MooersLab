@@ -358,7 +358,21 @@ Voice computing can be divided into three activities:
 - speech-to-commands
 - speech-to-code
 
-The speech-to-text is the easiest to master, the most widely applicable, and the most effective at enhancing the productivity for academics.
+Speech-to-text is the easiest to master, the most widely applicable, and the most effective way of enhancing academic productivity.
+
+The video below is an example of using a voice trigger to insert a chunk of LaTeX code that I use to plan each day.
+It is inserted after saying `insert start day`.
+You can easily make your own markdown variant customized to be meet your needs.
+I am using the Voice In Plus software in Google Chrome.
+It also works in MicroSoft Edge.
+It uses the built-in Speech-to-text software in the web browser on your local machine so latency is not much of an issue.
+
+
+
+https://github.com/MooersLab/MooersLab/assets/15176203/d1f97ec4-0f26-49ef-9139-b25e4f9467b4
+
+
+
 
 ### Index of subsections
 
