@@ -513,6 +513,12 @@ Nonetheless, this software is superior to Mac dictation software, which will onl
 
 
 
+
+https://github.com/MooersLab/MooersLab/assets/15176203/0b543abf-aa3e-4dc9-acb4-e98283e6b4f3
+
+
+
+
 #### Generic
 - [Master basic Voice In commands with interactive Python quiz](https://github.com/MooersLab/voice-in-basics-quiz)
 - [Master basic Voice In commands with an interactive quiz in Emacs](https://github.com/MooersLab/voice-in-basics-quiz.el)
