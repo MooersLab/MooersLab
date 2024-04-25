@@ -269,7 +269,7 @@ I use voice commands to insert snippets containing LaTeX code.
 See the [](https://github.com/MooersLab/MooersLab/blob/main/README.md#voice-computing-for-enchanced-productivity) section below.
 
 
-- [LaTeX bare bones template file](https://github.com/MooersLab/barebonesLaTeX/tree/main) This template is for those people want make a simple document without a lot of bells-and-whitsles.
+- [LaTeX bare-bones template file](https://github.com/MooersLab/barebonesLaTeX/tree/main) This template is for people who want to make a simple document without a lot of bells and whistles.
 - [LaTeX tips](https://github.com/MooersLab/latextips)
 - [Configuration for Emacs30 to support structured editing](https://github.com/MooersLab/emacs30venturatreesitterconfig)
 - [latex-emacs29 configuration](https://github.com/MooersLab/latex-emacs) A configuration file enhancing the use of LaTeX in Gnu Emacs version 29. This is the current release version of Gnu Emacs. Includes org-mode configuration.
@@ -281,7 +281,7 @@ See the [](https://github.com/MooersLab/MooersLab/blob/main/README.md#voice-comp
 - [LaTeX manuscript template](https://github.com/MooersLab/manuscriptInLaTeX) Generic template for the first submission as a PDF.
 - [Writing log template in LaTeX](https://github.com/MooersLab/writingLogTemplate) Place to track progress and plans behind a manuscript.
 - [Annotated bibliography template in LaTeX](https://github.com/MooersLab/annotatedBibliography) Every writing project needs one of these. These are grossly underutilized. They are good for recalling the relevant features of a paper.
-- [Diary for 2024 in LaTeX](https://github.com/MooersLab/diary2024inLaTeX) Designed for use on Overleaf.com but can compile locally. Each day is a section. Each month is a chapter. Has an automatically generated index (most markdowns cannot generate indices). Very feature-rich and ready to use. Makes a great electronic scientific notebook because it is searchable and indexed. >1000 page document at end of years compiles to PDF in under a minute on overleaf.
+- [Diary for 2024 in LaTeX](https://github.com/MooersLab/diary2024inLaTeX) Designed for use on Overleaf.com but can compile locally. Each day is a section. Each month is a chapter. Has an automatically generated index (most markdowns cannot generate indices). Very feature-rich and ready to use. Makes a great electronic scientific notebook because it is searchable and indexed. > 1000-page document at the end of the year compiles to PDF in under a minute on Overleaf.
 - [snippets for latex-mode in Emacs](https://github.com/MooersLab/snippet-latex-mode) My LaTeX code snippets for yasnippets.
 - [The writer's creed](https://github.com/MooersLab/thewriterslaw) Guidelines for greater productivity as a writer.
 - [bib2item3](https://github.com/MooersLab/bib2item3) Python script to convert bibtex.bib file to bibitems in tex file format. Bibitems are required by some publishers. They are a pain to create manually.
@@ -300,7 +300,7 @@ See the sections on Org-mode and Jupyter and Colab.
 
 #### PyMOL
 - [pymolrc](https://github.com/MooersLab/pymolrc) My pymolrc file.
-- [pymolsnips](https://github.com/MooersLab/pymolsnips) A large collection of PyMOL macro language (pml) code snippets. Contains link to a webpage with extensive instructions on installing 19 text editors.
+- [pymolsnips](https://github.com/MooersLab/pymolsnips) A large collection of PyMOL macro language (pml) code snippets. It contains a link to a webpage with extensive instructions on installing 19 text editors.
 - [pymolshortcuts](https://github.com/MooersLab/pymolshortcuts) A large collection of functions mapped to aliases or shortcuts. This colleciton of functions is very useful for non-coders.
 - [EasyPyMOL](https://github.com/MooersLab/EasyPyMOL) Support for horizontal scripting in PyMOL.
 - [orgpymolpysnips](https://github.com/MooersLab/orgpymolpysnips) Support for generating computational narratives (literate programming plus interactive computing) in org-mode with PyMOL.
@@ -366,10 +366,6 @@ You can easily make your own markdown variant customized to be meet your needs.
 I am using the Voice In Plus software in Google Chrome.
 It also works in MicroSoft Edge.
 It uses the built-in Speech-to-text software in the web browser on your local machine so latency is not much of an issue.
-
-
-
-https://github.com/MooersLab/MooersLab/assets/15176203/d1f97ec4-0f26-49ef-9139-b25e4f9467b4
 
 
 
