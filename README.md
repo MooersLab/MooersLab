@@ -542,10 +542,11 @@ https://github.com/MooersLab/MooersLab/assets/15176203/0b543abf-aa3e-4dc9-acb4-e
 - [Books about scientific writing mapped to voice triggers](https://github.com/MooersLab/scientific-writing-books-voice-in)
 
 
-#### Structural biology method
+#### Structural biology 
 - [Biological crystallography (MX)](https://github.com/MooersLab/biological-crystallography-voice-in)
 - [Cryogenic electron microscopy (CryoEM and CryoET)](https://github.com/MooersLab/cryoem-voice-in)
 - [Small Angle Scattering (SAS)](https://github.com/MooersLab/sas-voice-in)
+- [Computational Crystallography Toolbox (cctbx)](https://github.com/MooersLab/cctbx-voice-in)
 
 #### Data analysis
 - [Design of Experiments (DoE)](https://github.com/MooersLab/design-of-experiments-voice-in)
