@@ -132,6 +132,9 @@ Some people get stuck all too long in Vim or NeoVim, which are great editors.)
 - [List of curve-fitting software](https://github.com/MooersLab/Curve-fitting-software) This list includes both proprietary and free software.
 
 
+## Design of Experiments (DoE) [See Experimental Design below]
+
+
 ## Emacs related
 Today's Emacs is not your grandfather's Emacs.
 The median age of an Emacs user is 32, not 77, as you might expect for an editor that is about 40 years old.
@@ -257,6 +260,8 @@ The small size of DSD experiments opens up the possibility of replicating these 
 
 - [Vary One-Factor-at-a-Time (OFAT) experimental designs](https://github.com/MooersLab/ofat4xtals)
 - [Definitive Screening Designs](https://github.com/MooersLab/dsd4xtals)
+- [Design of Experiments (DoE): Voice In Plus voice-triggered snippets](https://github.com/MooersLab/design-of-experiments-voice-in)
+
 
 ## LaTeX related
 Until recently, I wrote a lot in Emacs on 750words.com via GhostText.
@@ -548,8 +553,10 @@ https://github.com/MooersLab/MooersLab/assets/15176203/0b543abf-aa3e-4dc9-acb4-e
 - [Small Angle Scattering (SAS)](https://github.com/MooersLab/sas-voice-in)
 - [Computational Crystallography Toolbox (cctbx)](https://github.com/MooersLab/cctbx-voice-in)
 
-#### Data analysis
+#### Design of Experiments
 - [Design of Experiments (DoE)](https://github.com/MooersLab/design-of-experiments-voice-in)
+
+#### Data analysis
 - [Bayesian Data Analysis (BDA)](https://github.com/MooersLab/bayesian-data-analysis-voice-in/blob/main/README.md)
 - [Artificial intelligence (AI)](https://github.com/MooersLab/artificial-intelligence-voice-in)
 - [Software Developement](https://github.com/MooersLab/software-development-voice-in)
