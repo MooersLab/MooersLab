@@ -8,7 +8,7 @@
 - [bash](https://github.com/MooersLab#bash-related)
 - [cctbx](https://github.com/MooersLab#cctbx-related)
 - [Emacs](https://github.com/MooersLab#emacs-related)
-- [Experimental designs](https://github.com/MooersLab#experimental-designs)
+- [Experimental design](https://github.com/MooersLab#experimental-design)
 - [Jupyter and Colab](https://github.com/MooersLab#jupyter-and-colab-related)
 - [LaTeX](https://github.com/MooersLab#latex-related)
 - [Literate programming and computational narratives](https://github.com/MooersLab#literate-programming-and-computational-narratives)
