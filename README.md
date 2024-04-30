@@ -238,7 +238,7 @@ These editors work in Jupyter Notebooks via the GhostText browser plugin.
 - [Colab cctbx snippets](https://github.com/MooersLab/colabcctbxsnips) Colab snippets.
 
 
-## Experimental designs
+## Experimental design
 
 ### Experimental designs for crystal growth
 We provide easy and fast-to-deploy experimental designs for crystallization setups in Excel workbooks.
@@ -260,7 +260,9 @@ The small size of DSD experiments opens up the possibility of replicating these 
 
 - [Vary One-Factor-at-a-Time (OFAT) experimental designs](https://github.com/MooersLab/ofat4xtals)
 - [Definitive Screening Designs](https://github.com/MooersLab/dsd4xtals)
-- [Design of Experiments (DoE): Voice In Plus voice-triggered snippets](https://github.com/MooersLab/design-of-experiments-voice-in)
+
+### Voice In Plus voice-triggered snippets
+- [Design of Experiments (DoE): doe.csv](https://github.com/MooersLab/design-of-experiments-voice-in)
 
 
 ## LaTeX related
