@@ -508,23 +508,36 @@ This greatly eases the subsequent deletion of lines containing rubbish.
 You can advance to the next line with the down arrow key in most text editors.
 If the line is one to be deleted, you enter control k.
 
-I did carry out dictation for much of an eight hour drive that I took from Oklahoma City to Austin, Texas to attend the PyTexas annual meeting.
+I did carry out dictation for much of an eight-hour drive that I took from Oklahoma City to Austin, Texas, to attend the PyTexas annual meeting.
 I spent part of this time rehearsing various portions of my talk from memory.
 
 The traffic on Interstate 35 in Texas is worse than in Los Angeles.
 People are tailgating each other at 75 to 80 miles an hour.
-They are also some crazy people who weave between the three lanes.
-Their electronic Billboards every mile, even in very rural settings, that warn you of the potential dying if you tempt to talk in your cell phone or do any texting while driving.
-This was definitely the most stressful 5 hours of driving that I have ever done.
-I did a lot of swearing on this trip.
-On my return trip, I took peaceful secondary highways through the Hill Country north west of Austin and up to Wichita Falls and past the Wichita Mountains west of Lawton, Oklahoma.
-This trip took an equivalent amount of time as the outward journey, although it covered a greater distance.
+There were also some crazy people who weaved between the three lanes.
+There are electronic billboards every mile, even in very rural settings, that warn you of the potential death if you are tempted to talk on your cell phone or text while driving.
+This was the most stressful five hours of driving I have ever done.
+It was a white-knuckle experience.
+On my return trip, I took peaceful secondary highways through the Hill Country northwest of Austin up to Wichita Falls, and past the Wichita Mountains west of Lawton, Oklahoma.
+This trip took an equivalent amount of time as the outbound journey, although it covered a greater distance.
 
 The battery in the digital voice recorder was sufficient for each trip.
 The battery is supposed to be good for up to 30 hours of recording.
 Each audio file took over an hour for whisper to transcribe.
-The resulting transcripts require a lot of editing; I had yet to complete that task.
+The resulting transcripts require a lot of editing; I had yet to complete these tasks.
 There were some tidbits that I have extracted from the transcript that were worth recycling.
+These partly edited transcripts from this trip were not included in the word counts for March and April.
+
+The favorable experience with dictation while long-distance driving is a definite advantage of driving over flying.
+It is generally not worth the trouble to go to the airport to fly if you can drive to your destination in less than 6 hours.
+I can see the value of preferring to drive over flying for distances of up to a 12-hour drive because of the opportunity to carry out long bouts of dictation that are socially awkward to do in an airport waiting area, on an airplane, and in a taxi cab.
+The time spent while trying to work while doing air travel is of lower value, unless perhaps you are able to travel in business class.
+You can use a Steno mask to dictate without others hearing your voice, but holding this mask over your mouth looks strange.
+I bought such a mask but have yet to dare to use it publicly.
+
+The mask might be useful when forced to work in cramped quarters in the presence of others or when you wish to carry out dictation while working in a noisy environment.
+I could see using this mask at a National Laboratory while collecting data at a synchrotron beamline where there is often much white noise.
+The mask can be used to dampen that external white noise.
+
 
 I have used the dictated text transcribed by Whisper to a lesser extent.
 There is often a lot of garbage text that Whisper inserts during long pauses.
