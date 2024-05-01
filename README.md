@@ -464,22 +464,23 @@ This decrease may reflect more effort focused on editing text.
 
 I was surprised that there was not a more significant decrease.
 I may have compensated by using a digital voice recorder (DVR) in mid-January 2024 during my 25-minute commutes to my office.
-Much of my mutterings are rubbish, but I occasionally harvest useful thoughts.
+Much of my mutterings are rubbish that I wind up deleting.
+I occasionally harvest useful thoughts that I retain.
+I also use the DVR to paraphrase some technical documents that otherwise might be quite tedious to read.
 The DVR has extended my generative writing time by 30-60 minutes daily.
-
 
 Spending more time on rewriting will lead to fewer new words generated if the time spent on writing is constant.
 Rewriting is very time-consuming; it can take as much or more time as generating the text initially.
 Text written for grant applications and articles will take even more time because it needs to be highly polished.
 Sufficient time has to be scheduled for it.
-I plan to spend more time rewriting, so you can expect the new words generated in the next bimonthly report to be further reduced.
+I plan to spend more time rewriting, so you can expect the new words generated in the next bimonthly reports to be further reduced.
 
 
 ### What about Mac's Dictation and Voice Control software?
 One alternative is to use the built-in Dictation software for Mac.
 Four months ago, the Mac dictation software was worse than the alternatives, like Voice In.
 I tried it again on March 22, 2024,
-The error rate is now reduced enough to give it another try.
+The error rate is now reduced enough to make it very competitive.
 
 Its advantage is that it can operate anywhere.
 It works inside Emacs and on webpages, including webmail applications like Outlook and Gmail.
@@ -488,14 +489,44 @@ Its disadvantage is that it cannot be customized with text replacement libraries
 The Dictation software relies on an internet connection for older Intel chip-based Macs.
 The generated sound waves are sent to a server run by Apple and then returned as text.
 I found the delay caused by this transfer to be unnoticeable.
-However, I do not have a M-chip-based Mac to test.
 
 Sadly, the Voice Control software provided by the Mac OS has not improved its performance since I last tried it.
 Its error rate is too high to use for dictation.
 The advantage of this software is that it supports customized commands.
 
 ### Whisper and a Digitial Voice Recorder
-I have used the dictated text transcribed by Whisper to a much lesser extent during my morning commutes.
+We use open-AI's whisper software to transcribe my audio recordings recorded with the DVR.
+The software is wrapped with Python.
+I wrote some Python code that reformats the transcript to make it easier for me to edit.
+I programmed a text replacement called a new paragraph to introduce breaks between paragraphs because the Whisper software does not automatically identify these breaks.
+I am using Python to make my own text replacement software.
+I use this to add commands like the one above and to replace frequently misinterpreted words.
+The approach I am taking with this software is a little more cumbersome than the very easy approach taken by Voice In Plus.
+
+In addition, I reformat the text such that each sentence is written on its own line.
+This greatly eases the subsequent deletion of lines containing rubbish.
+You can advance to the next line with the down arrow key in most text editors.
+If the line is one to be deleted, you enter control k.
+
+I did carry out dictation for much of an eight hour drive that I took from Oklahoma City to Austin, Texas to attend the PyTexas annual meeting.
+I spent part of this time rehearsing various portions of my talk from memory.
+
+The traffic on Interstate 35 in Texas is worse than in Los Angeles.
+People are tailgating each other at 75 to 80 miles an hour.
+They are also some crazy people who weave between the three lanes.
+Their electronic Billboards every mile, even in very rural settings, that warn you of the potential dying if you tempt to talk in your cell phone or do any texting while driving.
+This was definitely the most stressful 5 hours of driving that I have ever done.
+I did a lot of swearing on this trip.
+On my return trip, I took peaceful secondary highways through the Hill Country north west of Austin and up to Wichita Falls and past the Wichita Mountains west of Lawton, Oklahoma.
+This trip took an equivalent amount of time as the outward journey, although it covered a greater distance.
+
+The battery in the digital voice recorder was sufficient for each trip.
+The battery is supposed to be good for up to 30 hours of recording.
+Each audio file took over an hour for whisper to transcribe.
+The resulting transcripts require a lot of editing; I had yet to complete that task.
+There were some tidbits that I have extracted from the transcript that were worth recycling.
+
+I have used the dictated text transcribed by Whisper to a lesser extent.
 There is often a lot of garbage text that Whisper inserts during long pauses.
 It generally takes a lot of effort to parse the transcribed text.
 It is easier to redo the dictation via Voice In and make corrections as you go.
@@ -524,7 +555,7 @@ Below are links to programming tools to aid the adoption of voice computing.
 This browser plugin works in Google Chrome and Microsoft's Edge.
 It depends on the browser's Speech-to-Text API.
 Interactive sessions with it persist for up to 5 to 10 paragraphs, depending on your activity and speed of dictation.
-If you dictate too quickly, you will get ahead of the software, and it will hang. 
+If you dictate too quickly, you will get ahead of the software, which will hang. 
 You might lose text for some of the words you dictated.
 Nonetheless, this software is superior to Mac dictation software, which will only persist for an average of three sentences because it sends the sound waves to a language model located on a remote server.
 
