@@ -16,6 +16,7 @@
 - [Python](https://github.com/MooersLab#python)
 - [SAXS](https://github.com/MooersLab#small-angle-scattering)
 - [Supercomputing](https://github.com/MooersLab#supercomputing-related)
+- [Time management]([#](https://github.com/MooersLab#time-management)
 - [vim/neovim](https://github.com/MooersLab/MooersLab/blob/main/README.md#vim-and-neovim)
 - [Writing tools](https://github.com/MooersLab#writing-productivity-tools)
 - [Voice computing](https://github.com/MooersLab#voice-computing)
@@ -338,9 +339,9 @@ See the sections on PyMOL, CCTBX, and Jupyter and Colab. Python is in many repos
 - [SmallAngleScatteringWebpage](https://mooerslab.github.io/SmallAngleScatteringWebpage/index.html)
 
 ## Time management
-- [TimeBlocks](https://github.com/MooersLab/time-blocks) Form for daily scheduling with time blocks as per Cal Newport's approach to time management.
+- [TimeBlocks](https://github.com/MooersLab/time-blocks) Form for daily scheduling with time blocks.
 - [TimeSpent](https://github.com/MooersLab/timeSpent) Time tracking by project with Google Sheets.
-- 
+
 
 ## Supercomputing related
 Includes high performance computing (HPC), cluster computing, and cloud computing.
