@@ -16,7 +16,7 @@
 - [Python](https://github.com/MooersLab#python)
 - [SAXS](https://github.com/MooersLab#small-angle-scattering)
 - [Supercomputing](https://github.com/MooersLab#supercomputing-related)
-- [Time management]([#](https://github.com/MooersLab#time-management)
+- [Time management](https://github.com/MooersLab#time-management)
 - [vim/neovim](https://github.com/MooersLab/MooersLab/blob/main/README.md#vim-and-neovim)
 - [Writing tools](https://github.com/MooersLab#writing-productivity-tools)
 - [Voice computing](https://github.com/MooersLab#voice-computing)
