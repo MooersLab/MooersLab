@@ -338,7 +338,9 @@ See the sections on PyMOL, CCTBX, and Jupyter and Colab. Python is in many repos
 - [SmallAngleScatteringWebpage](https://mooerslab.github.io/SmallAngleScatteringWebpage/index.html)
 
 ## Time management
+- [TimeBlocks](https://github.com/MooersLab/time-blocks) Form for daily scheduling with time blocks as per Cal Newport's approach to time management.
 - [TimeSpent](https://github.com/MooersLab/timeSpent) Time tracking by project with Google Sheets.
+- 
 
 ## Supercomputing related
 Includes high performance computing (HPC), cluster computing, and cloud computing.
