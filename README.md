@@ -1,4 +1,4 @@
-![Version](https://img.shields.io/static/v1?label=mooerslab&message=0.5&color=brightcolor)
+![Version](https://img.shields.io/static/v1?label=mooerslab&message=0.7.1&color=brightcolor)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 # MooersLab
@@ -731,6 +731,7 @@ Few people have mastered it.
 |:-----------|:-------------------------------------------------|:----------------|
 | Version 0.5 | Fixed typos in README.md                        | 2024 April 11    |
 | Version 0.6 | Added sections on Python and Literate programming | 2024 April 22 |
+| Version 0.7 | Added sections on other markup languages other than LaTeX| 2024 May 5 |
 
 ## Sources of funding
 
