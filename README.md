@@ -138,14 +138,14 @@ Some people get stuck all too long in Vim or NeoVim, which are great editors.)
 
 ## Emacs related
 Today's Emacs is not your grandfather's Emacs.
-The median age of an Emacs user is 32, not 77, as you might expect for an editor that is about 40 years old.
+The median age of an Emacs user is 32, not 77, as you might expect for users of an editor that is about 40 years old.
 This is due to a very active community of young users centered around several YouTube channels, Emacs Lisp being well-designed to customize Emacs, an online annual conference, the popularity of org-mode, and a welcoming community of developers.
-Elisp was first used in Emacs 19 in 1985 with the GNU Emacs 19.3., about ten years after the start of the project.
+Elisp was first used in Emacs 19 in 1985, with the GNU Emacs 19.3, about ten years after the project's start.
 
 It should be noted that Emacs is single-threaded.
 This is a significant limitation. 
-One group has started a project, called `lem`, that uses Common Lisp to build a text editor that is multithreaded and very much like Emacs. 
-Unfortunately, Lem is not really user-ready in our experience. 
+One group has started a project called `lem` that uses Common Lisp to build a multithreaded text editor similar to Emacs. 
+Unfortunately, `lem` is not really user-ready in our experience. 
 Perhaps, Emacs users will migrate to `lem` someday. 
 In the meantime, it is worth continuing to use Emacs, knowing that a multithreading alternative is under development.
 
@@ -172,10 +172,10 @@ This, in turn, leads them to understand programming more deeply.
 - [config.org](https://github.com/MooersLab/configorg) My default configuration file for GNU Emacs version 30.
 - [Writing log template in Org-mode](https://github.com/MooersLab/writingLogTemplateInOrg) Template for tracking your actions, decisions, and plans for any serious writing project that takes more than one session to finish. The LaTeX version is listed in the LaTeX section for use on Overleaf or in Emacs.
 - [Org-mode manuscript template](https://github.com/MooersLab/manuscriptInOrg) The manuscript will be exported to PDF after being run through LaTeX. This is for the first submission. This is for the lovers of org-mode. The export from org to PDF is fast and painless in Emacs.
-- [Slides about workflow in LaTeX](https://github.com/MooersLab/BerlinEmacsAugust2022) These were presented to the Berlin Emacs Meetup August 2022. Regrettably, the talk was not recorded. It was a 90-minute presentation.
+- [Slides about workflow in LaTeX](https://github.com/MooersLab/BerlinEmacsAugust2022) These were presented to the Berlin Emacs Meetup in August 2022. Regrettably, the talk was not recorded. It was a 90-minute presentation.
 - [snippets for latex-mode in Emacs](https://github.com/MooersLab/snippet-latex-mode) LaTeX code snippets for yasnippets.
 - [Quizzes about Emacs to improve recall of keybindings](https://github.com/MooersLab/qemacs) Ten minutes boosting your recall on a particular topic can save 10, 100, or 1000 hours of Google searches, especially if you are prone to getting side-tracked in the Google-verse.
-- [Slides from talk about GhostText, Data Science Workshop, July 2022](https://github.com/MooersLab/DSW22ghosttext) GhostTexT rocks! It enables the editing of textboxes on web sites with Emacs. You can use GhostText to bring the full power of Emacs to Overleaf (*Important:*  use the legacy version rendering of the text area in Overleaf to get text imported into a LaTeX buffer).
+- [Slides from talk about GhostText, Data Science Workshop, July 2022](https://github.com/MooersLab/DSW22ghosttext) GhostTexT rocks! It enables the editing of textboxes on websites with Emacs. You can use GhostText to bring the full power of Emacs to Overleaf (*Important:*  use the legacy version rendering of the text area in Overleaf to get text imported into a LaTeX buffer).
 - [Video link to talk about GhostText, Oklahoma Data Science Workshop, July 2022](https://mediasite.ouhsc.edu/Mediasite/Channel/python/watch/4da0872f028c4255ae12935655e911321d)
 - [emacsconf 2021 talk about rendering molecular graphics with PyMOL in org literate programming files](https://emacsconf.org/2021/talks/molecular/) Video and comments.
 - [emacsconf 2022 talk about using Emacs to edit Jupyter cells via GhostText and atomic-chrome](https://emacsconf.org/2022/talks/jupyter/) Video and comments.
@@ -285,8 +285,7 @@ The latter is a common experience for beginning users of LaTeX.
 ### What about MyST?
 
 MyST expands to Markedly Structured Text.
-The group working on that Book project associated with Jupyter is developing a new system.
-It is an enhanced version of Markdown being developed to interface with Jupyter notebooks and support their utilization in scientific publishing.
+MyST is an enhanced version of Markdown being developed to interface with Jupyter notebooks and support their utilization in scientific publishing.
 You can export files to LaTeX, MS Word, and PDF.
 
 MyST is part of the dream of converting Jupyter into a literate programming platform and supporting the conversion of scientific Publications into highly extensible documents.
