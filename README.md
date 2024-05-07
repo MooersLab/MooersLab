@@ -11,7 +11,7 @@
 - [Experimental design](https://github.com/MooersLab#experimental-design)
 - [Jupyter and Colab](https://github.com/MooersLab#jupyter-and-colab-related)
 - [LaTeX](https://github.com/MooersLab#latex-related)
-- [Literate programming and computational narratives](https://github.com/MooersLab#literate-programming-and-computational-narratives)
+- [Literate programming and computational narratives](https://github.com/MooersLab#literate-programming)
 - [PyMOL](https://github.com/MooersLab#pymol)
 - [Python](https://github.com/MooersLab#python)
 - [SAXS](https://github.com/MooersLab#small-angle-scattering)
@@ -338,7 +338,7 @@ Typst is an exciting project that is worth watching, but that is too early for m
 - [bib2item3](https://github.com/MooersLab/bib2item3) Python script to convert bibtex.bib file to bibitems in `tex` file format. Bibitems are required by some publishers. They are a pain to create manually.
 - [LaTeX Voice In Plus library](https://github.com/MooersLab/latex-voice-in) Speech-to-text commands for inserting LaTeX markup.
 
-## Literature Programming and Computational Narratives
+## Literature Programming
 
 See the sections on Org-mode and Jupyter and Colab.
 
@@ -434,7 +434,7 @@ It uses the built-in Speech-to-text software in the web browser on your local ma
 - [Voice computing-related talks](https://github.com/MooersLab#voice-computing-related-talks)
 
 
-### Review of the  software that I have used
+### Review of the software that I have used
 
 My sampling of the available -related software is highly skewed towards the Mac operating system and Google Chrome.
 I have yet to complete a comprehensive survey of the software available for Windows, Linux, and other browsers.
