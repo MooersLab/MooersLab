@@ -338,7 +338,7 @@ Typst is an exciting project that is worth watching, but that is too early for m
 - [bib2item3](https://github.com/MooersLab/bib2item3) Python script to convert bibtex.bib file to bibitems in `tex` file format. Bibitems are required by some publishers. They are a pain to create manually.
 - [LaTeX Voice In Plus library](https://github.com/MooersLab/latex-voice-in) Speech-to-text commands for inserting LaTeX markup.
 
-## Literature Programming
+## Literate Programming
 
 See the sections on Org-mode and Jupyter and Colab.
 
