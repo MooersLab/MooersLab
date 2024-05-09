@@ -662,6 +662,9 @@ https://github.com/MooersLab/MooersLab/assets/15176203/0b543abf-aa3e-4dc9-acb4-e
 ### Serenade
 This is a standalone application that supports speech-to-commands and  speech-to-code.
 It depends on the presence of an internet connection because it uses remote servers to convert sound waves into text and commands.
+Serenade runs in web browsers as well as in the terminal and at command prompts.
+It is more versatile than Voice In plus but less than Talon Voice.
+It seems to be a good bridge between Voice In Plus and Talon Voice.
 
 - [Expansions of English contractions](https://github.com/MooersLab/serenade-contractions)
 
