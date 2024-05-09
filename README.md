@@ -659,6 +659,13 @@ https://github.com/MooersLab/MooersLab/assets/15176203/0b543abf-aa3e-4dc9-acb4-e
 - [NIH grants](https://github.com/MooersLab/nih-grants-voice-in)
 
 
+### Serenade
+This is a standalone application that supports speech-to-commands and  speech-to-code.
+It depends on the presence of an internet connection because it uses remote servers to convert sound waves into text and commands.
+
+- [Expansions of English contractions](https://github.com/MooersLab/serenade-contractions)
+
+
 ### Voice Typing in Google Docs related
 - [Master Voice Typing commands with interactive quiz](https://github.com/MooersLab/voice-typing-quiz)
 
