@@ -736,7 +736,7 @@ Few people have mastered it.
 - [Edit live Jupyter notebook cells with Emacs](https://www.youtube.com/watch?v=2NPUDYAOgW0), EmacsConf 2022.
 - [Enhancing productivity with voice computing](https://emacsconf.org/2023/talks/voice/), EmacsConf 2023.
 - [Managing multiple writing projects](https://mediasite.ouhsc.edu/Mediasite/Channel/python/watch/bc2777b248ff4fa4959b9bfed9b0e84a1d), Data Science Workshop, Jan. 2024.
-- [Voice Computing with Python in Jupyter Notebooks](coming soon) PyTexas 2024, Austin, Texas: April 21, 2024.
+- [Voice Computing with Python in Jupyter Notebooks](https://www.youtube.com/watch?v=C9GILvqAYVg) PyTexas 2024, Austin, Texas: April 21, 2024.
 
 ## Update History
 
