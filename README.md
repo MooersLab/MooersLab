@@ -12,6 +12,8 @@
 - [Jupyter and Colab](https://github.com/MooersLab#jupyter-and-colab-related)
 - [LaTeX](https://github.com/MooersLab#latex-related)
 - [Literate programming and computational narratives](https://github.com/MooersLab#literate-programming)
+- [Molecular Graphics Related](https://github.com/MooersLab#molecular-graphis-related)
+- [Molecular Simulation](https://github.com/MooersLab#molecular-simulation)
 - [PyMOL](https://github.com/MooersLab#pymol)
 - [Python](https://github.com/MooersLab#python)
 - [SAXS](https://github.com/MooersLab#small-angle-scattering)
@@ -348,6 +350,7 @@ See the sections on Org-mode and Jupyter and Colab.
 ## Molecular Graphics Related
 [Collection of links for a 15-hour course on Molecular Graphics](https://mooerslab.github.io/MolecularGraphicsLinks/index.html)
 
+## Molecular Simulation
 
 #### PyMOL
 - [pymolrc](https://github.com/MooersLab/pymolrc) My pymolrc file.
