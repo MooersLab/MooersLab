@@ -6,7 +6,8 @@
 ## Quick Links
 
 - [bash](https://github.com/MooersLab#bash-related)
-- [cctbx](https://github.com/MooersLab#cctbx-related)
+- [Bayesian Data Analysis](https://github.com/MooersLab#bayesian-data-analysis)
+- [Crystallographic computing](https://github.com/MooersLab#crystallographic-computing)
 - [Emacs](https://github.com/MooersLab#emacs-related)
 - [Experimental design](https://github.com/MooersLab#experimental-design)
 - [Jupyter and Colab](https://github.com/MooersLab#jupyter-and-colab-related)
