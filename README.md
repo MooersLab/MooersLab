@@ -7,7 +7,7 @@
 
 - [bash](https://github.com/MooersLab#bash-related)
 - [Bayesian Data Analysis](https://github.com/MooersLab#bayesian-data-analysis)
-  [Clojure](https://github.com/MooersLab#clojure)
+-  [Clojure](https://github.com/MooersLab#clojure)
 - [Crystallographic computing](https://github.com/MooersLab#crystallographic-computing)
 - [Emacs](https://github.com/MooersLab#emacs-related)
 - [Experimental design](https://github.com/MooersLab#experimental-design)
