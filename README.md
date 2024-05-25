@@ -7,18 +7,22 @@
 
 - [bash](https://github.com/MooersLab#bash-related)
 - [Bayesian Data Analysis](https://github.com/MooersLab#bayesian-data-analysis)
--  [Clojure](https://github.com/MooersLab#clojure)
+- [Clojure](https://github.com/MooersLab#clojure)
 - [Crystallographic computing](https://github.com/MooersLab#crystallographic-computing)
 - [Emacs](https://github.com/MooersLab#emacs-related)
 - [Experimental design](https://github.com/MooersLab#experimental-design)
 - [Jupyter and Colab](https://github.com/MooersLab#jupyter-and-colab-related)
 - [LaTeX](https://github.com/MooersLab#latex-related)
 - [Literate programming and computational narratives](https://github.com/MooersLab#literate-programming)
+- [Molecular Biophysics]
 - [Molecular Graphics Related](https://github.com/MooersLab#molecular-graphis-related)
 - [Molecular Simulation](https://github.com/MooersLab#molecular-simulation)
 - [PyMOL](https://github.com/MooersLab#pymol)
 - [Python](https://github.com/MooersLab#python)
+- [RNA Editing]
+- [RNA Structure]
 - [SAXS](https://github.com/MooersLab#small-angle-scattering)
+- [Structure-based drug design]
 - [Supercomputing](https://github.com/MooersLab#supercomputing-related)
 - [Time management](https://github.com/MooersLab#time-management)
 - [vim/neovim](https://github.com/MooersLab/MooersLab/blob/main/README.md#vim-and-neovim)
