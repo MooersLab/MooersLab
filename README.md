@@ -130,7 +130,7 @@ Some people get stuck all too long in Vim or NeoVim, which are great editors.)
 - [cctbxsnips-UltiSnips](https://github.com/MooersLab/cctbxsnips-Ultisnips) CCTBX snippets for Vim or NeoVim via UltiSnips plugin.
 - [cctbxsnips-neosnippets](https://github.com/MooersLab/cctbxsnips-neosnippets) CCTBX snippets for Vim or NeoVim via neosnippets plugin.
 - [cctbxsnips-Snipmate](https://github.com/MooersLab/cctbxsnips-snipmate) CCTBX snippets for Vim or NeoVim via snipmate plugin.
-- [cctbxsnips-Atom](https://github.com/MooersLab/cctbxsnips-Atom) CCTBX snippets for Atom.
+- [cctbxsnips-Atom](https://github.com/MooersLab/cctbxsnips-Atom) CCTBX snippets for Atom. Have same format required for Pulsar.
 
 
 ## Curve-fitting software
@@ -142,7 +142,7 @@ Some people get stuck all too long in Vim or NeoVim, which are great editors.)
 
 ## Emacs related
 Today's Emacs is not your grandfather's Emacs.
-The median age of an Emacs user is 32, not 77, as you might expect for users of an editor that is about 40 years old.
+The median age of an Emacs user is 32, not 77, as you might expect for an editor that is about 40 years old.
 This is due to a very active community of young users centered around several YouTube channels, Emacs Lisp being well-designed to customize Emacs, an online annual conference, the popularity of org-mode, and a welcoming community of developers.
 Elisp was first used in Emacs 19 in 1985, with the GNU Emacs 19.3, about ten years after the project's start.
 
