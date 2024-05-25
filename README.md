@@ -14,9 +14,11 @@
 - [Jupyter and Colab](https://github.com/MooersLab#jupyter-and-colab-related)
 - [LaTeX](https://github.com/MooersLab#latex-related)
 - [Literate programming and computational narratives](https://github.com/MooersLab#literate-programming)
+- [Machine learning]
 - [Molecular Biophysics]
 - [Molecular Graphics Related](https://github.com/MooersLab#molecular-graphis-related)
 - [Molecular Simulation](https://github.com/MooersLab#molecular-simulation)
+- [Protein structure]
 - [PyMOL](https://github.com/MooersLab#pymol)
 - [Python](https://github.com/MooersLab#python)
 - [RNA Editing]
