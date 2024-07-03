@@ -508,38 +508,42 @@ I have seen a three-fold increase in the total number of words captured in Septe
 I have had the same amount of out-of-town travel during the first two periods.
 I did not make a conscious effort to capture more words per day.
 
-<p align="center"><img src="./images/words6.png" alt="HTML5 Icon" style="width:612px;height:312px;"></p>
+<p align="center"><img src="./images/words8cropped.png" alt="HTML5 Icon" style="width:612px;height:312px;"></p>
 
 On the day after Thanksgiving in 2023, I generated almost 12,000 words.
-I made a concerted effort to generate at least 5,000 words a day from that point to just before Christmas.
+From that point to just before Christmas, I made a concerted effort to generate at least 5,000 words a day.
 Then family obligations reduced my daily word generation.
 Nonetheless, I had a five-fold increase in the total word count for November and December.
-A six-sevenfold increase may be possible.
-A five-fold increase in word count may be more sustainable if you consciously try.
 A three-fold increase is more realistic with all of the disruptions from doing experiments, administration, teaching, service, and work-related travel.
-
 The slight decrease in word count after the new year may reflect a shift in my focus toward turning more of my writing into publishable products.
 This decrease may reflect more effort focused on editing text.
 
 I was surprised that there was not a more significant decrease.
-I may have compensated by using a digital voice recorder (DVR) in mid-January 2024 during my 25-minute commutes to my office.
-Much of my mutterings are rubbish that I wind up deleting.
-I occasionally harvest useful thoughts that I retain.
+I may have compensated by starting to use of a digital voice recorder (DVR) in mid-January 2024 while away from my computer.
+I transcribe the audio recordings with a locally installed version of OpenAI's whisper.
+
+Some of my mutterings are rubbish that I cut from the transcripts.
+I occasionally harvest useful thoughts that are worth retaining.
 I also use the DVR to paraphrase some technical documents that otherwise might be quite tedious to read.
-The DVR has extended my generative writing time by 30-60 minutes daily.
+The DVR has extended my generative writing time by 15-30 minutes per day.
+It is useful for warming up the generative writing engine in the morning.
 
 Spending more time on rewriting will lead to fewer new words generated if the time spent on writing is constant.
 Rewriting is very time-consuming; it can take as much or more time as generating the text initially.
+AI-powered writing assistants are helpful in making suggestions, but they are not a silver bullet.
+You still have to spend a lot of time making the appropriate selections.
+These assistants do not seem to save time and it is unclear if the quality of the writing is really improved (unless you were a bad writer initially), but if they keep you engaged in the task of rewriting, this is helpful.
+
 Text written for grant applications and articles will take even more time because it needs to be highly polished.
 Sufficient time has to be scheduled for it.
-I plan to spend more time rewriting, so you can expect the new words generated in the next bimonthly reports to be further reduced.
+I plan to spend more time rewriting, so you can expect the new words generated in the next bimonthly reports to decline steadily.
 
 
 ### What about Mac's Dictation and Voice Control software?
 One alternative is to use the built-in Dictation software for Mac.
-Four months ago, the Mac dictation software was worse than the alternatives, like Voice In.
-I tried it again on March 22, 2024,
-The error rate is now reduced enough to make it very competitive.
+The Mac dictation software used to be worse than the alternatives, like Voice In.
+I tried the Mac dictation software again on March 22, 2024,
+The error rate was reduced enough to make it competitive.
 
 Its advantage is that it can operate anywhere.
 It works inside Emacs and on webpages, including webmail applications like Outlook and Gmail.
@@ -549,9 +553,9 @@ The Dictation software relies on an internet connection for older Intel chip-bas
 The generated sound waves are sent to a server run by Apple and then returned as text.
 I found the delay caused by this transfer to be unnoticeable.
 
-Sadly, the Voice Control software provided by the Mac OS has not improved its performance since I last tried it.
+The Voice Control software provided by the Mac OS has not improved its performance since I last tried it.
 Its error rate is too high to use for dictation.
-The advantage of this software is that it supports customized commands.
+The advantage of this software is that it supports customized commands and commands that can be used to run GUI-based software.
 
 ### Whisper and a Digitial Voice Recorder
 We use open-AI's whisper software to transcribe my audio recordings recorded with the DVR.
@@ -567,51 +571,12 @@ This greatly eases the subsequent deletion of lines containing rubbish.
 You can advance to the next line with the down arrow key in most text editors.
 If the line is one to be deleted, you enter control k.
 
-I did carry out dictation for much of an eight-hour drive that I took from Oklahoma City to Austin, Texas, to attend the PyTexas annual meeting.
-I spent part of this time rehearsing various portions of my talk from memory.
-
-The traffic on Interstate 35 in Texas is worse than in Los Angeles.
-People are tailgating each other at 75 to 80 miles an hour.
-There were also some crazy people who weaved between the three lanes.
-There are electronic billboards every mile, even in very rural settings, that warn you of the potential death if you are tempted to talk on your cell phone or text while driving.
-This was the most stressful five hours of driving I have ever done.
-It was a white-knuckle experience.
-On my return trip, I took peaceful secondary highways through the Hill Country northwest of Austin up to Wichita Falls, and past the Wichita Mountains west of Lawton, Oklahoma.
-This trip took an equivalent amount of time as the outbound journey, although it covered a greater distance.
-
-The battery in the digital voice recorder was sufficient for each trip.
-The battery is supposed to be good for up to 30 hours of recording.
-Each audio file took over an hour for whisper to transcribe.
-The resulting transcripts require a lot of editing; I had yet to complete these tasks.
-There were some tidbits that I have extracted from the transcript that were worth recycling.
-These partly edited transcripts from this trip were not included in the word counts for March and April.
-
-The favorable experience with dictation while long-distance driving is a definite advantage of driving over flying.
-It is generally not worth the trouble to go to the airport to fly if you can drive to your destination in less than 6 hours.
-I can see the value of preferring to drive over flying for distances of up to a 12-hour drive because of the opportunity to carry out long bouts of dictation that are socially awkward to do in an airport waiting area, on an airplane, and in a taxi cab.
-The time spent while trying to work while doing air travel is of lower value, unless perhaps you are able to travel in business class.
-You can use a Steno mask to dictate without others hearing your voice, but holding this mask over your mouth looks strange.
-I bought such a mask but have yet to dare to use it publicly.
-
-The mask might be useful when forced to work in cramped quarters in the presence of others or when you wish to carry out dictation while working in a noisy environment.
-I could see using this mask at a National Laboratory while collecting data at a synchrotron beamline where there is often much white noise.
-The mask can be used to dampen that external white noise.
-
-
 I have used the dictated text transcribed by Whisper to a lesser extent.
 There is often a lot of garbage text that Whisper inserts during long pauses.
 It generally takes a lot of effort to parse the transcribed text.
 It is easier to redo the dictation via Voice In and make corrections as you go.
 The exercise of carrying out the dictation initially during the commute is analogous to generating a verbal rough draft in my mind.
 Once the initial draft has been composed, it is easier to redo it with better word choices.
-
-On several occasions, my digital voice recorder turned off accidentally when placed in my shirt pocket at the start of my commute.
-To my dismay, upon arriving at my office, I discovered that I needed to repeat what I had dictated.
-Nonetheless, I could recapitulate much of what I had dictated just a half hour earlier.
-The text transcribed by Whisper is more valuable as a backup to trigger my memory rather than as a rough draft.
-I have yet to try to feed the transcribed text from Whisper to ChatGPT with the instructions to parse it.
-
-
 
 Below are links to programming tools to aid the adoption of voice computing.
 
@@ -631,12 +596,7 @@ If you dictate too quickly, you will get ahead of the software, which will hang.
 You might lose text for some of the words you dictated.
 Nonetheless, this software is superior to Mac dictation software, which will only persist for an average of three sentences because it sends the sound waves to a language model located on a remote server.
 
-
-
-
 https://github.com/MooersLab/MooersLab/assets/15176203/0b543abf-aa3e-4dc9-acb4-e98283e6b4f3
-
-
 
 
 #### Generic
@@ -754,6 +714,7 @@ Few people have mastered it.
 | Version 0.5 | Fixed typos in README.md                        | 2024 April 11    |
 | Version 0.6 | Added sections on Python and Literate programming | 2024 April 22 |
 | Version 0.7 | Added sections on other markup languages other than LaTeX| 2024 May 5 |
+| Version 0.7.1 | Deleted some verbose sections. Added updated words bar plot. | 2024 July 3 |
 
 ## Sources of funding
 
