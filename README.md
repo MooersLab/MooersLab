@@ -266,7 +266,7 @@ The DSDs tend to be limited to three active factors because of their small size 
 Larger traditional response surface method designs (RSM) should be used if more factors are suspected of being active or if two or more interactions are expected.
 DSD can be thought of as a subset of RSMs.
 Their small size is attractive for protein crystallization where the sample is expensive and scarce.
-The small size of DSD experiments opens up the possibility of replicating these experiments to get a measure of the variance.
+The small size of DSD experiments opens up the possibility of replicating them to measure the variance.
 
 
 - [Vary One-Factor-at-a-Time (OFAT) experimental designs](https://github.com/MooersLab/ofat4xtals)
@@ -280,16 +280,16 @@ The small size of DSD experiments opens up the possibility of replicating these 
 Until recently, I wrote a lot in Emacs on 750words.com via GhostText.
 I configured the atomic-chrome package for Emacs to go into LaTeX mode when GhostText connects to 750words.
 I can also use Emacs to write and edit text in Overleaf via atomic-chrome and GhostText.
-This is a very cool way to extend Emacs to websites that have weaker support for editing text.
+This is a very cool way to extend Emacs to websites with weaker support for editing text.
 
 Now I use voice-to-text to dictate in 750words.com or Overleaf.
 I use voice commands to insert snippets containing LaTeX code.
 See the [](https://github.com/MooersLab/MooersLab/blob/main/README.md#voice-computing-for-enchanced-productivity) section below.
 
-If you do not have extensive experience writing in a markup language like HTML or Markdown, you should probably start with one of the flavors of Markdown to become productive as fast as possible.
+If you do not have extensive experience writing in a markup language like HTML or Markdown, start with one of the flavors of Markdown to become productive as fast as possible.
 Many of the ideas behind the typesetting program markdown will transfer over to LaTeX.
 Markdown is easy to use and highly intuitive.
-Mastery of Markdown will provide you with a fallback system to utilize should you get stuck when compiling a LaTeX document.
+Mastery of Markdown will provide a fallback system if you get stuck debugs the errors in your LaTeX document.
 The latter is a common experience for beginning users of LaTeX.
 
 ### What about MyST?
@@ -320,10 +320,10 @@ Typst is the new shiny object.
 It compiles many times faster than LaTeX.
 It essentially provides a live preview.
 It also utilizes a more computer programmer-oriented approach to typesetting.
-The syntax that it uses is more modern and somewhat more compact.
+The syntax that it uses is more modern and more compact.
 
-I think that it might still be easier for computer programmers to adopt typst than nonprogrammers.
-Writers who are not computer programmers are still going to have a much easier time mastering Common Markdown.
+It might still be more accessible for computer programmers to adopt typst than nonprogrammers.
+Writers who are not computer programmers will have an easier time mastering Common Markdown.
 The next step in markup systems will probably still be the LyX editor, which offers a `what you see is what you get` approach to using LaTeX.
 Typst is an exciting project that is worth watching, but that is too early for me to adopt it for all of my writing workflows
 
@@ -338,10 +338,10 @@ Typst is an exciting project that is worth watching, but that is too early for m
 - [latex-emacs30 configuration](https://github.com/MooersLab/latexemacs30) Similar to above but for Gnu Emacs version 30.
 - [Slides about workflow in LaTeX](https://github.com/MooersLab/BerlinEmacsAugust2022) presented to the Berlin Emacs Meetup August 2022. Not recorded. It was a 90-minute lecture.
 - [slideshowTemplateInLaTeX](https://github.com/MooersLab/slideshowTemplateLaTeX) Slideshow template with use with the LaTeX package Beamer that supports the making of slides. Our templates make slides that do not look like they were made in LaTeX because we hide the navigation icons that no one ever uses and replace the triangles in bulleted lists with round bullets. Our slides look like they were made in PowerPoint.
-- [posterInLaTeX](https://github.com/MooersLab/posterInLaTeX) Uses beamer to make a poster via a simple design. Enables whipping together a poster in a few hours. It is much easier than using a gaint slide in PowerPoint. Our approach is also saner than the default approach to making a poster with Beamer.
+- [posterInLaTeX](https://github.com/MooersLab/posterInLaTeX) uses Beamer to make a poster with a simple design. This enables whipping together a poster in a few hours. It is much easier than using a Gaint slide in PowerPoint. Our approach is also saner than the default approach to making a poster with Beamer.
 - [LaTeX manuscript template](https://github.com/MooersLab/manuscriptInLaTeX) Generic template for the first submission as a PDF.
 - [Writing log template in LaTeX](https://github.com/MooersLab/writingLogTemplate) Place to track progress and plans behind a manuscript.
-- [Annotated bibliography template in LaTeX](https://github.com/MooersLab/annotatedBibliography) Every writing project needs one of these. These are grossly underutilized. They are good for recalling the relevant features of a paper.
+- [Annotated bibliography template in LaTeX](https://github.com/MooersLab/annotatedBibliography) Every writing project needs one of these. These should be utilized more. They are good for recalling the relevant features of a paper.
 - [Diary for 2024 in LaTeX](https://github.com/MooersLab/diary2024inLaTeX) Designed for use on Overleaf.com but can compile locally. Each day is a section. Each month is a chapter. Has an automatically generated index (most markdowns cannot generate indices). Very feature-rich and ready to use. Makes a great electronic scientific notebook because it is searchable and indexed. > 1000-page document at the end of the year compiles to PDF in under a minute on Overleaf.
 - [snippets for latex-mode in Emacs](https://github.com/MooersLab/snippet-latex-mode) My LaTeX code snippets for yasnippets.
 - [The writer's creed](https://github.com/MooersLab/thewriterslaw) Guidelines for greater productivity as a writer.
