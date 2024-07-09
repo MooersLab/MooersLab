@@ -30,6 +30,7 @@
 - [vim/neovim](https://github.com/MooersLab/MooersLab/blob/main/README.md#vim-and-neovim)
 - [Writing tools](https://github.com/MooersLab#writing-productivity-tools)
 - [Voice computing](https://github.com/MooersLab#voice-computing)
+  + [biological-crystallography-voice-in](https://github.com/MooersLab/biological-crystallography-voice-in)
 - [Videos of talks](https://github.com/MooersLab#videos-related-to-these-repositories)
 
 
