@@ -5,6 +5,7 @@
 
 ## Quick Links
 
+- [ACA talks](https://github.com/MooersLab#aca-talks)
 - [bash](https://github.com/MooersLab#bash-related)
 - [Bayesian Data Analysis](https://github.com/MooersLab#bayesian-data-analysis)
 - [Clojure](https://github.com/MooersLab#clojure)
