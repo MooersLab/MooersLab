@@ -97,6 +97,7 @@ Some people get stuck all too long in Vim or NeoVim, which are great editors.)
 - [ACA2021](https://github.com/MooersLab/ACA2021)
 - [ACA2022](https://github.com/MooersLab/ACA2022)
 - [ACA2023](https://github.com/MooersLab/dsd4xtals)
+- [ACA2024](https://github.com/MooersLab/ACA2024)
 
 ## Bash related
 - [Bash functions for Schooner at OSCER](https://github.com/MooersLab/bashFunctions4oscer)
