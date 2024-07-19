@@ -121,7 +121,7 @@ Some people get stuck all too long in Vim or NeoVim, which are great editors.)
 ## Crystallization
 Tools to support protein and nucleic acid crystallization.
 
-- [Crystal scoring key](https://github.com/MooersLab/](https://github.com/MooersLab/crystal-score-key)
+- [Crystal scoring key](https://github.com/MooersLab/crystal-score-key)
 - [Crystal observation sheet, 24 wells](https://github.com/MooersLab/)
 - [Vary One-Factor-at-a-Time (OFAT) experimental designs](https://github.com/MooersLab/ofat4xtals)
 - [Definitive Screening Designs](https://github.com/MooersLab/dsd4xtals)
