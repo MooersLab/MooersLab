@@ -472,15 +472,15 @@ It is more accurate than the Voice Control that comes with the Mac and MS Word.
 **Voice Typing** supports almost 100 voice commands but does not support custom commands.
 
 **Voice In Plus** has similar accuracy to **Voice Typing** with the addition of custom commands.
-I use the latter every day for dictation for first drafts.
+I use the latter every day for dictation of first drafts.
 I do the rewriting using the keyboard.
 
 OpenAI's **Whisper** may be an order of magnitude more accurate.
-It has a latency issue, so live transcription and interactive editing is difficult.
+It has a latency issue, so live transcription and interactive editing are difficult.
 It is also not easy to fine-tune with custom commands.
 
 My primary use of **Whisper** is for transcribing audio files.
-I provide Python scripts to correct the initial transcript.
+I run Python scripts to correct the initial transcript.
 These corrections include expanding contractions.
 This code also supports inserting simple commands like `new paragraph` during dictation because **whisper** does not know how to break up a transcript into paragraphs.
 
@@ -498,9 +498,9 @@ I have yet to figure out the elisp code to apply my text replacements in the tra
 
 The **Superwhisper.** **app** for the Mac is interesting.
 It supports dictation in e-mail and elsewhere.
-Its support for custom commands is limited; it still needs to support bulk uploading of text replacements before it will interest me.
+Its support for custom commands is limited; it still needs to support bulk uploading of text replacements before I am sold on it.
 You have to pay a subscription fee to access all its features.
-Its features may appeal to people with numerous electronic devices that need to be synced with their main computer.
+Its features may appeal to people with numerous electronic devices that need to be synched with their primary computer.
 
 **Talon Voice** supports all three activities, but speech-to-text accuracy needs to catch up to Voice Typing and Voice In Plus in my experience.
 I am currently using Talon Voice for the last two activities.
@@ -528,25 +528,27 @@ On the day after Thanksgiving in 2023, I generated almost 12,000 words.
 From that point to just before Christmas, I made a concerted effort to generate at least 5,000 words a day.
 Then family obligations reduced my daily word generation.
 Nonetheless, I had a five-fold increase in the total word count for November and December.
+
 A three-fold increase is more realistic with all of the disruptions from doing experiments, administration, teaching, service, and work-related travel.
 The slight decrease in word count after the new year may reflect a shift in my focus toward turning more of my writing into publishable products.
 This decrease may reflect more effort focused on editing text.
 
 I was surprised that there was not a more significant decrease.
-I may have compensated by starting to use of a digital voice recorder (DVR) in mid-January 2024 while away from my computer.
+I may have compensated by starting to use a digital voice recorder (DVR) in mid-January 2024 while away from my computer.
 I transcribe the audio recordings with a locally installed version of OpenAI's whisper.
 
 Some of my mutterings are rubbish that I cut from the transcripts.
 I occasionally harvest useful thoughts that are worth retaining.
 I also use the DVR to paraphrase some technical documents that otherwise might be quite tedious to read.
-The DVR has extended my generative writing time by 15-30 minutes per day.
-It is useful for warming up the generative writing engine in the morning.
+The DVR has extended my generative writing time by 15-30 minutes each day.
+Dictating with a DVR during the morning commute helps warm up the generative writing engine in the morning.
 
 Spending more time on rewriting will lead to fewer new words generated if the time spent on writing is constant.
 Rewriting is very time-consuming; it can take as much or more time as generating the text initially.
-AI-powered writing assistants are helpful in making suggestions, but they are not a silver bullet.
-You still have to spend a lot of time making the appropriate selections.
-These assistants do not seem to save time and it is unclear if the quality of the writing is really improved (unless you were a bad writer initially), but if they keep you engaged in the task of rewriting, this is helpful.
+AI-powered writing assistants make suggestions, but they are not a silver bullet.
+You still have to spend a lot of time making the appropriate selections; otherwise, your writing will often be degraded.
+These assistants have not saved me time, and they have often wasted it.
+But if they keep you engaged in rewriting, they can be helpful.
 
 Text written for grant applications and articles will take even more time because it needs to be highly polished.
 Sufficient time has to be scheduled for it.
@@ -561,15 +563,13 @@ The error rate was reduced enough to make it competitive.
 
 Its advantage is that it can operate anywhere.
 It works inside Emacs and on webpages, including webmail applications like Outlook and Gmail.
-Its disadvantage is that it cannot be customized with text replacement libraries.
-
 The Dictation software relies on an internet connection for older Intel chip-based Macs.
 The generated sound waves are sent to a server run by Apple and then returned as text.
 I found the delay caused by this transfer to be unnoticeable.
 
-The Voice Control software provided by the Mac OS has not improved its performance since I last tried it.
+The Voice Control software provided by the Mac OS has not improved since I last tried it.
 Its error rate is too high to use for dictation.
-The advantage of this software is that it supports customized commands and commands that can be used to run GUI-based software.
+The advantage of Voice Control is that it supports customized commands and commands that can be used to run GUI-based software.
 
 ### Whisper and a Digitial Voice Recorder
 We use open-AI's whisper software to transcribe my audio recordings recorded with the DVR.
@@ -581,15 +581,15 @@ I use this to add commands like the one above and to replace frequently misinter
 The approach I am taking with this software is a little more cumbersome than the very easy approach taken by Voice In Plus.
 
 In addition, I reformat the text such that each sentence is written on its own line.
-This greatly eases the subsequent deletion of lines containing rubbish.
+This format eases the subsequent deletion of lines containing rubbish.
 You can advance to the next line with the down arrow key in most text editors.
-If the line is one to be deleted, you enter control k.
+If the current line is one to be deleted, you enter control k.
 
 I have used the dictated text transcribed by Whisper to a lesser extent.
 There is often a lot of garbage text that Whisper inserts during long pauses.
 It generally takes a lot of effort to parse the transcribed text.
 It is easier to redo the dictation via Voice In and make corrections as you go.
-The exercise of carrying out the dictation initially during the commute is analogous to generating a verbal rough draft in my mind.
+Dictation of the first draft during the morning commute is analogous to generating a verbal rough draft in my mind.
 Once the initial draft has been composed, it is easier to redo it with better word choices.
 
 Below are links to programming tools to aid the adoption of voice computing.
@@ -606,6 +606,7 @@ Below are links to programming tools to aid the adoption of voice computing.
 This browser plugin works in Google Chrome and Microsoft's Edge.
 It depends on the browser's Speech-to-Text API.
 Interactive sessions with it persist for up to 5 to 10 paragraphs, depending on your activity and speed of dictation.
+If you pause too long, the software will deactivate after 3 minutes.
 If you dictate too quickly, you will get ahead of the software, which will hang. 
 You might lose text for some of the words you dictated.
 Nonetheless, this software is superior to Mac dictation software, which will only persist for an average of three sentences because it sends the sound waves to a language model located on a remote server.
@@ -638,7 +639,7 @@ https://github.com/MooersLab/MooersLab/assets/15176203/0b543abf-aa3e-4dc9-acb4-e
 #### Data analysis
 - [Bayesian Data Analysis (BDA)](https://github.com/MooersLab/bayesian-data-analysis-voice-in/blob/main/README.md)
 - [Artificial intelligence (AI)](https://github.com/MooersLab/artificial-intelligence-voice-in)
-- [Software Developement](https://github.com/MooersLab/software-development-voice-in)
+- [Software Development](https://github.com/MooersLab/software-development-voice-in)
 - [Markdown in Jupyter notebooks](https://github.com/MooersLab/markdown-jupyter-voice-in/tree/main)
   
 
@@ -647,11 +648,11 @@ https://github.com/MooersLab/MooersLab/assets/15176203/0b543abf-aa3e-4dc9-acb4-e
 
 
 ### Serenade
-This is a standalone application that supports speech-to-commands and  speech-to-code.
+This is a standalone application that supports speech-to-commands and speech-to-code.
 It depends on the presence of an internet connection because it uses remote servers to convert sound waves into text and commands.
 Serenade runs in web browsers as well as in the terminal and at command prompts.
 It is more versatile than Voice In plus but less than Talon Voice.
-It seems to be a good bridge between Voice In Plus and Talon Voice.
+It may be a good bridge between Voice In Plus and Talon Voice.
 
 - [Expansions of English contractions](https://github.com/MooersLab/serenade-contractions)
 
@@ -667,15 +668,14 @@ It seems to be a good bridge between Voice In Plus and Talon Voice.
 ### Voice computing-related talks
 I have given three talks on this topic: two at the regional level and one at the international level.
 
-- [Data Science Workshop talk on speech-to-text, 2023 Nov. 16](https://mediasite.ouhsc.edu/Mediasite/Channel/python/watch/21e8b9a65d044d01a264df1f19db261b1d)
 - [emacsconf23 talk speech-to-text and speech-to-commands, 2023 Dec. 2 on YouTube](https://www.youtube.com/watch?v=Z7l1ImjXOWM)
-- [ditto but on the emacsonf.org website](https://emacsconf.org/2023/talks/voice/)
 - [PyTexas talk: Voice computing with Python in Jupyter notebooks (slides and audio), 2024 Apr. 21](https://github.com/MooersLab/voice-computing-with-python-in-jupyter-notebooks)
+- [ACA slideshow (no video), 2024 July 8](https://github.com/MooersLab/ACA2024)
 
 ## Writing productivity tools
 These are some programming tools designed to support greater writing productivity.
 There are three elements: progress tracking, support for manuscript writing in LaTeX, and the writing log.
-The last might be essential for organizing and managing a writing project.
+The last is very helpful for organizing and managing a writing project.
 It is analogous to a project-specific laboratory notebook.
 
 ### Books about writing
@@ -685,10 +685,9 @@ It is analogous to a project-specific laboratory notebook.
 ### Progress tracking
 For writing tasks that cannot be completed in one sitting, progress tracking can support momentum and enthusiasm for the project.
 
-- [Track writing progress in 2024 and 2025](https://github.com/MooersLab/writing-progress-2024-25)
-- [The writer's creed](https://github.com/MooersLab/thewriterslaw) Guidelines for greater productivity.
+- [Track writing progress in 2024 and 2025](https://github.com/MooersLab/writing-progress-2024-25) Enables tracking effort on separate projects and generates plots of cumulative effort across projects in bar plots. Updating the records at the end of the day takes only several minutes. Required tracking start and stop times, 
+- [TimeSpent](https://github.com/MooersLab/timeSpent) Hourly time tracking by project with Google Sheets. This is useful for making monthly time reports and learning how much various writing projects actually take. It requires updating every several hours throughout the day. Updating the record can be painful if you fall behind by a day or more. It is only for some people.
 - [Writing contract template](https://github.com/MooersLab/writingContract) This contract is in Microsoft Word, Markdown, LaTeX, and org-mode. This accountability system works only if your partner is similarly committed to daily writing. I had a good run of four years with one person from out of state. I would consider doing this again.
-- [TimeSpent](https://github.com/MooersLab/timeSpent) Hourly time tracking by project with Google Sheets. This is useful for making monthly time reports and learning how much various writing projects actually take.
 
 ### Manuscript writing support
 
