@@ -118,6 +118,10 @@ Some people get stuck all too long in Vim or NeoVim, which are great editors.)
 - [ClojConj 2023 talk about protein structure superposition via probabilistic programming in Clojure](https://www.youtube.com/watch?v=lDweOPGHLB8&t=51s)
 - [quizzes about Clojure](https://github.com/MooersLab/qclj) These quizzes are useful for improving command recall after a break in using Clojure for several months.
 
+## Cryocrystallography
+- [cryosolution preparation](https://github.com/MooersLab/cryosolution-generation)
+
+
 ## Crystallization
 Tools to support protein and nucleic acid crystallization.
 
