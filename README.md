@@ -120,7 +120,9 @@ Some people get stuck all too long in Vim or NeoVim, which are great editors.)
 - [quizzes about Clojure](https://github.com/MooersLab/qclj) These quizzes are useful for improving command recall after a break in using Clojure for several months.
 
 ## Cryocrystallography
-- [cryosolution preparation](https://github.com/MooersLab/cryosolution-generation)
+Tools to enhance success at cryopreserving protein and nucleic acid crystals.
+
+- [Easing cryosolution preparation](https://github.com/MooersLab/cryosolution-generation)
 
 
 ## Crystallization
