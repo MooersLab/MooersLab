@@ -203,6 +203,7 @@ This, in turn, leads them to understand programming more deeply.
 - [config.org](https://github.com/MooersLab/configorg) My default configuration file for GNU Emacs version 30.
 - [Writing log template in Org-mode](https://github.com/MooersLab/writingLogTemplateInOrg) Template for tracking your actions, decisions, and plans for any serious writing project that takes more than one session to finish. The LaTeX version is listed in the LaTeX section for use on Overleaf or in Emacs.
 - [Org-mode manuscript template](https://github.com/MooersLab/manuscriptInOrg) The manuscript will be exported to PDF after being run through LaTeX. This is for the first submission. This is for the lovers of org-mode. The export from org to PDF is fast and painless in Emacs.
+- [Annotated bibliography in org-mode](https://github.com/MooersLab/annotated-bibliography-org)
 - [Slides about workflow in LaTeX](https://github.com/MooersLab/BerlinEmacsAugust2022) These were presented to the Berlin Emacs Meetup in August 2022. Regrettably, the talk was not recorded. It was a 90-minute presentation.
 - [snippets for latex-mode in Emacs](https://github.com/MooersLab/snippet-latex-mode) LaTeX code snippets for yasnippets.
 - [Quizzes about Emacs to improve recall of keybindings](https://github.com/MooersLab/qemacs) Ten minutes boosting your recall on a particular topic can save 10, 100, or 1000 hours of Google searches, especially if you are prone to getting side-tracked in the Google-verse.
