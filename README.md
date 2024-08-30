@@ -14,6 +14,7 @@
 - [Crystallographic computing](https://github.com/MooersLab#crystallographic-computing)
 - [Emacs](https://github.com/MooersLab#emacs-related)
 - [Experimental design](https://github.com/MooersLab#experimental-design)
+- [Grant writing](https://github.com/MooersLab#grant-writing)
 - [Jupyter and Colab](https://github.com/MooersLab#jupyter-and-colab-related)
 - [LaTeX](https://github.com/MooersLab#latex-related)
 - [Literate programming and computational narratives](https://github.com/MooersLab#literate-programming)
@@ -287,12 +288,18 @@ Factor interactions are quite common in the crystallization of proteins.
 The DSDs tend to be limited to three active factors because of their small size and weaker statistical power.
 Larger traditional response surface method designs (RSM) should be used if more factors are suspected of being active or if two or more interactions are expected.
 DSD can be thought of as a subset of RSMs.
-Their small size is attractive for protein crystallization where the sample is expensive and scarce.
+Their small size is attractive for protein crystallization, where the sample is expensive and scarce.
 The small size of DSD experiments opens up the possibility of replicating them to measure the variance.
 
 
 - [Vary One-Factor-at-a-Time (OFAT) experimental designs](https://github.com/MooersLab/ofat4xtals)
 - [Definitive Screening Designs](https://github.com/MooersLab/dsd4xtals)
+
+## Grant writing
+- [Voice Commands for NIH grants](https://github.com/MooersLab/nih-grants-voice-in)
+- [Voice commands for NSF grants](https://github.com/MooersLab/nsf-grants-voice-in)
+
+
 
 ### Voice In Plus voice-triggered snippets
 - [Design of Experiments (DoE): doe.csv](https://github.com/MooersLab/design-of-experiments-voice-in)
