@@ -295,14 +295,12 @@ The small size of DSD experiments opens up the possibility of replicating them t
 - [Vary One-Factor-at-a-Time (OFAT) experimental designs](https://github.com/MooersLab/ofat4xtals)
 - [Definitive Screening Designs](https://github.com/MooersLab/dsd4xtals)
 
+### Voice In Plus voice-triggered snippets
+- [Design of Experiments (DoE): doe.csv](https://github.com/MooersLab/design-of-experiments-voice-in)
+
 ## Grant writing
 - [Voice Commands for NIH grants](https://github.com/MooersLab/nih-grants-voice-in)
 - [Voice commands for NSF grants](https://github.com/MooersLab/nsf-grants-voice-in)
-
-
-
-### Voice In Plus voice-triggered snippets
-- [Design of Experiments (DoE): doe.csv](https://github.com/MooersLab/design-of-experiments-voice-in)
 
 
 ## LaTeX related
