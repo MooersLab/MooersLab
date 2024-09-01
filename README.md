@@ -592,7 +592,7 @@ We use open-AI's whisper software to transcribe my audio recordings recorded wit
 The software is wrapped with Python.
 I wrote some Python code that reformats the transcript to make it easier for me to edit.
 I programmed a text replacement called a new paragraph to introduce breaks between paragraphs because the Whisper software does not automatically identify these breaks.
-I am using Python to make my own text replacement software.
+I am using Python to make my text replacement software.
 I use this to add commands like the one above and to replace frequently misinterpreted words.
 The approach I am taking with this software is a little more cumbersome than the very easy approach taken by Voice In Plus.
 
@@ -657,10 +657,16 @@ https://github.com/MooersLab/MooersLab/assets/15176203/0b543abf-aa3e-4dc9-acb4-e
 - [Artificial intelligence (AI)](https://github.com/MooersLab/artificial-intelligence-voice-in)
 - [Software Development](https://github.com/MooersLab/software-development-voice-in)
 - [Markdown in Jupyter notebooks](https://github.com/MooersLab/markdown-jupyter-voice-in/tree/main)
+
+#### Emacs related
+- [Voice-In library for emacs](https://github.com/MooersLab/emacs-voice-in)
+- [Voice-In library for org-mode](https://github.com/MooersLab/org-mode-voice-in)
+
   
 
 #### Funding Agency related
 - [NIH grants](https://github.com/MooersLab/nih-grants-voice-in)
+- [NSF grants](https://github.com/MooersLab/nsf-grants-voice-in)
 
 
 ### Serenade
