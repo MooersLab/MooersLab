@@ -612,6 +612,7 @@ Below are links to programming tools to aid the adoption of voice computing.
 
 ### Talon Voice-related
 - [Expand dictated contractions automatically](https://github.com/MooersLab/talon-contractions)
+- [Run bash commands in terminal by voice command](https://github.com/MooersLab/talon-iterm)
 - [Open favorite web pages by voice commands](https://github.com/MooersLab/talon-webpages)
 - [Master Talon Voice phonetic alphabet with interactive quiz written in Python](https://github.com/MooersLab/talon-voice-quizzes)
 - [Master Talon Voice with interactive quiz written in elisp for Emacs](https://github.com/MooersLab/talon-voice-quiz.el)
