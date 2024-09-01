@@ -536,7 +536,7 @@ I have seen a three-fold increase in the total number of words captured in Septe
 I have had the same amount of out-of-town travel during the first two periods.
 I did not make a conscious effort to capture more words per day.
 
-<p align="center"><img src="./images/words8cropped.png" alt="HTML5 Icon" style="width:612px;height:312px;"></p>
+<p align="center"><img src="./images/words10.png" alt="HTML5 Icon" style="width:632px;height:244px;"></p>
 
 On the day after Thanksgiving in 2023, I generated almost 12,000 words.
 From that point to just before Christmas, I made a concerted effort to generate at least 5,000 words a day.
