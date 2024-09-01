@@ -1,28 +1,46 @@
-![Version](https://img.shields.io/static/v1?label=mooerslab&message=0.5&color=brightcolor)
+![Version](https://img.shields.io/static/v1?label=mooerslab&message=0.7.1&color=brightcolor)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 # MooersLab
 
 ## Quick Links
 
+- [ACA talks](https://github.com/MooersLab#aca-talks)
 - [bash](https://github.com/MooersLab#bash-related)
-- [cctbx](https://github.com/MooersLab#cctbx-related)
+- [Bayesian Data Analysis](https://github.com/MooersLab#bayesian-data-analysis)
+- [Clojure](https://github.com/MooersLab#clojure)
+- [Cryocrystallography](https://github.com/MooersLab#cryocrystallography)
+- [Crystallization](https://github.com/MooersLab#crystallization)
+- [Crystallographic computing](https://github.com/MooersLab#crystallographic-computing)
 - [Emacs](https://github.com/MooersLab#emacs-related)
-- [Experimental designs](https://github.com/MooersLab#experimental-designs)
+- [Experimental design](https://github.com/MooersLab#experimental-design)
+- [Grant writing](https://github.com/MooersLab#grant-writing)
 - [Jupyter and Colab](https://github.com/MooersLab#jupyter-and-colab-related)
 - [LaTeX](https://github.com/MooersLab#latex-related)
+- [Literate programming and computational narratives](https://github.com/MooersLab#literate-programming)
+- [Machine learning]
+- [Molecular Biophysics]
+- [Molecular Graphics Related](https://github.com/MooersLab#molecular-graphis-related)
+- [Molecular Simulation](https://github.com/MooersLab#molecular-simulation)
+- [Protein structure]
 - [PyMOL](https://github.com/MooersLab#pymol)
+- [Python](https://github.com/MooersLab#python)
+- [RNA Editing]
+- [RNA Structure]
 - [SAXS](https://github.com/MooersLab#small-angle-scattering)
+- [Structure-based drug design]
 - [Supercomputing](https://github.com/MooersLab#supercomputing-related)
+- [Time management](https://github.com/MooersLab#time-management)
 - [vim/neovim](https://github.com/MooersLab/MooersLab/blob/main/README.md#vim-and-neovim)
 - [Writing tools](https://github.com/MooersLab#writing-productivity-tools)
 - [Voice computing](https://github.com/MooersLab#voice-computing)
-- [Videos of talks](https://github.com/MooersLab#videos-related-to-these-repos)
+  + [biological-crystallography-voice-in](https://github.com/MooersLab/biological-crystallography-voice-in)
+- [Videos of talks](https://github.com/MooersLab#videos-related-to-these-repositories)
 
 
 ## Introduction
 This site contains the public repositories of the Dr. Blaine Mooers Lab, Department of Biochemistry and Physiology, College of Medicine, University of Oklahoma Health Sciences, Oklahoma City, Oklahoma, USA.
-My lab determines the structures of biological macromolecules and their complexes with drugs, mainly using [X-ray crystallography](https://en.wikipedia.org/wiki/X-ray_crystallography#Biological_macromolecular_crystallography) and sometimes small-angle[ X-ray scattering](https://en.wikipedia.org/wiki/Small-angle_X-ray_scattering)](https://en.wikipedia.org/wiki/Small-angle_X-ray_scattering), a method that does not require crystals.
+My lab determines the structures of biological macromolecules and their complexes with drugs, mainly using [X-ray crystallography](https://en.wikipedia.org/wiki/X-ray_crystallography#Biological_macromolecular_crystallography) and sometimes small-angle [ X-ray scattering](https://en.wikipedia.org/wiki/Small-angle_X-ray_scattering), a method that does not require crystals.
 We grow crystals using advanced experimental design methods and collect X-ray diffraction data in-house and frequently at the [Stanford Synchrotron Radiation LightSource](https://www-ssrl.slac.stanford.edu/content/) and sometimes at the four other significant light sources in the US.
 We also do structure-based drug design using supercomputers.
 
@@ -84,6 +102,7 @@ Some people get stuck all too long in Vim or NeoVim, which are great editors.)
 - [ACA2021](https://github.com/MooersLab/ACA2021)
 - [ACA2022](https://github.com/MooersLab/ACA2022)
 - [ACA2023](https://github.com/MooersLab/dsd4xtals)
+- [ACA2024](https://github.com/MooersLab/ACA2024)
 
 ## Bash related
 - [Bash functions for Schooner at OSCER](https://github.com/MooersLab/bashFunctions4oscer)
@@ -101,8 +120,24 @@ Some people get stuck all too long in Vim or NeoVim, which are great editors.)
 - [ClojConj 2023 talk about protein structure superposition via probabilistic programming in Clojure](https://www.youtube.com/watch?v=lDweOPGHLB8&t=51s)
 - [quizzes about Clojure](https://github.com/MooersLab/qclj) These quizzes are useful for improving command recall after a break in using Clojure for several months.
 
+## Cryocrystallography
+Tools to enhance success at cryopreserving protein and nucleic acid crystals.
+
+- [Easing cryosolution preparation](https://github.com/MooersLab/cryosolution-generation)
+
+
+## Crystallization
+Tools to support protein and nucleic acid crystallization.
+
+- [Crystal scoring key](https://github.com/MooersLab/crystal-score-key)
+- [Crystallization drop observation record for 24 well tray](https://github.com/MooersLab/crystallization-observation-record-24wells)
+- [Vary One-Factor-at-a-Time (OFAT) experimental designs](https://github.com/MooersLab/ofat4xtals)
+- [Definitive Screening Designs](https://github.com/MooersLab/dsd4xtals)
+
 
 ## Crystallographic computing
+
+
 
 ### CCTBX related
 
@@ -123,23 +158,26 @@ Some people get stuck all too long in Vim or NeoVim, which are great editors.)
 - [cctbxsnips-UltiSnips](https://github.com/MooersLab/cctbxsnips-Ultisnips) CCTBX snippets for Vim or NeoVim via UltiSnips plugin.
 - [cctbxsnips-neosnippets](https://github.com/MooersLab/cctbxsnips-neosnippets) CCTBX snippets for Vim or NeoVim via neosnippets plugin.
 - [cctbxsnips-Snipmate](https://github.com/MooersLab/cctbxsnips-snipmate) CCTBX snippets for Vim or NeoVim via snipmate plugin.
-- [cctbxsnips-Atom](https://github.com/MooersLab/cctbxsnips-Atom) CCTBX snippets for Atom.
+- [cctbxsnips-Atom](https://github.com/MooersLab/cctbxsnips-Atom) CCTBX snippets for Atom. Have same format required for Pulsar.
 
 
 ## Curve-fitting software
 - [List of curve-fitting software](https://github.com/MooersLab/Curve-fitting-software) This list includes both proprietary and free software.
 
 
+## Design of Experiments (DoE) [See Experimental Design below]
+
+
 ## Emacs related
 Today's Emacs is not your grandfather's Emacs.
 The median age of an Emacs user is 32, not 77, as you might expect for an editor that is about 40 years old.
 This is due to a very active community of young users centered around several YouTube channels, Emacs Lisp being well-designed to customize Emacs, an online annual conference, the popularity of org-mode, and a welcoming community of developers.
-Elisp was first used in Emacs 19 in 1985 with the GNU Emacs 19.3., about ten years after the start of the project.
+Elisp was first used in Emacs 19 in 1985, with the GNU Emacs 19.3, about ten years after the project's start.
 
 It should be noted that Emacs is single-threaded.
 This is a significant limitation. 
-One group has started a project, called `lem`, that uses Common Lisp to build a text editor that is multithreaded and very much like Emacs. 
-Unfortunately, Lem is not really user-ready in our experience. 
+One group has started a project called `lem` that uses Common Lisp to build a multithreaded text editor similar to Emacs. 
+Unfortunately, `lem` is not really user-ready in our experience. 
 Perhaps, Emacs users will migrate to `lem` someday. 
 In the meantime, it is worth continuing to use Emacs, knowing that a multithreading alternative is under development.
 
@@ -166,14 +204,15 @@ This, in turn, leads them to understand programming more deeply.
 - [config.org](https://github.com/MooersLab/configorg) My default configuration file for GNU Emacs version 30.
 - [Writing log template in Org-mode](https://github.com/MooersLab/writingLogTemplateInOrg) Template for tracking your actions, decisions, and plans for any serious writing project that takes more than one session to finish. The LaTeX version is listed in the LaTeX section for use on Overleaf or in Emacs.
 - [Org-mode manuscript template](https://github.com/MooersLab/manuscriptInOrg) The manuscript will be exported to PDF after being run through LaTeX. This is for the first submission. This is for the lovers of org-mode. The export from org to PDF is fast and painless in Emacs.
-- [Slides about workflow in LaTeX](https://github.com/MooersLab/BerlinEmacsAugust2022) These were presented to the Berlin Emacs Meetup August 2022. Regrettably, the talk was not recorded. It was a 90-minute presentation.
+- [Annotated bibliography in org-mode](https://github.com/MooersLab/annotated-bibliography-org)
+- [Slides about workflow in LaTeX](https://github.com/MooersLab/BerlinEmacsAugust2022) These were presented to the Berlin Emacs Meetup in August 2022. Regrettably, the talk was not recorded. It was a 90-minute presentation.
 - [snippets for latex-mode in Emacs](https://github.com/MooersLab/snippet-latex-mode) LaTeX code snippets for yasnippets.
 - [Quizzes about Emacs to improve recall of keybindings](https://github.com/MooersLab/qemacs) Ten minutes boosting your recall on a particular topic can save 10, 100, or 1000 hours of Google searches, especially if you are prone to getting side-tracked in the Google-verse.
-- [Slides from talk about GhostText, Data Science Workshop, July 2022](https://github.com/MooersLab/DSW22ghosttext) GhostTexT rocks! It enables the editing of textboxes on web sites with Emacs. You can use GhostText to bring the full power of Emacs to Overleaf (*Important:*  use the legacy version rendering of the text area in Overleaf to get text imported into a LaTeX buffer).
+- [Slides from talk about GhostText, Data Science Workshop, July 2022](https://github.com/MooersLab/DSW22ghosttext) GhostTexT rocks! It enables the editing of textboxes on websites with Emacs. You can use GhostText to bring the full power of Emacs to Overleaf (*Important:*  use the legacy version rendering of the text area in Overleaf to get text imported into a LaTeX buffer).
 - [Video link to talk about GhostText, Oklahoma Data Science Workshop, July 2022](https://mediasite.ouhsc.edu/Mediasite/Channel/python/watch/4da0872f028c4255ae12935655e911321d)
 - [emacsconf 2021 talk about rendering molecular graphics with PyMOL in org literate programming files](https://emacsconf.org/2021/talks/molecular/) Video and comments.
 - [emacsconf 2022 talk about using Emacs to edit Jupyter cells via GhostText and atomic-chrome](https://emacsconf.org/2022/talks/jupyter/) Video and comments.
-- [emacsconf 2023 talk about using  to enhance productivity](https://emacsconf.org/2023/talks/voice/) Video, transcript, and comments.
+- [emacsconf 2023 talk about using voice-computing with Emacs to enhance productivity](https://emacsconf.org/2023/talks/voice/) Video, transcript, and comments.
 - [EmacsATX Meetup Talk, 4 May 2022: functional programming in Emacs lisp](https://github.com/MooersLab/EmacsATX4May2022) Slides.
 
 ## Jupyter and Colab related
@@ -233,7 +272,7 @@ These editors work in Jupyter Notebooks via the GhostText browser plugin.
 - [Colab cctbx snippets](https://github.com/MooersLab/colabcctbxsnips) Colab snippets.
 
 
-## Experimental designs
+## Experimental design
 
 ### Experimental designs for crystal growth
 We provide easy and fast-to-deploy experimental designs for crystallization setups in Excel workbooks.
@@ -249,50 +288,112 @@ Factor interactions are quite common in the crystallization of proteins.
 The DSDs tend to be limited to three active factors because of their small size and weaker statistical power.
 Larger traditional response surface method designs (RSM) should be used if more factors are suspected of being active or if two or more interactions are expected.
 DSD can be thought of as a subset of RSMs.
-Their small size is attractive for protein crystallization where the sample is expensive and scarce.
-The small size of DSD experiments opens up the possibility of replicating these experiments to get a measure of the variance.
+Their small size is attractive for protein crystallization, where the sample is expensive and scarce.
+The small size of DSD experiments opens up the possibility of replicating them to measure the variance.
 
 
 - [Vary One-Factor-at-a-Time (OFAT) experimental designs](https://github.com/MooersLab/ofat4xtals)
 - [Definitive Screening Designs](https://github.com/MooersLab/dsd4xtals)
 
+### Voice In Plus voice-triggered snippets
+- [Design of Experiments (DoE): doe.csv](https://github.com/MooersLab/design-of-experiments-voice-in)
+
+## Grant writing
+- [Voice Commands for NIH grants](https://github.com/MooersLab/nih-grants-voice-in)
+- [Voice commands for NSF grants](https://github.com/MooersLab/nsf-grants-voice-in)
+
+
 ## LaTeX related
 Until recently, I wrote a lot in Emacs on 750words.com via GhostText.
 I configured the atomic-chrome package for Emacs to go into LaTeX mode when GhostText connects to 750words.
 I can also use Emacs to write and edit text in Overleaf via atomic-chrome and GhostText.
-This is a very cool way to extend Emacs to websites that have weaker support for editing text.
+This is a very cool way to extend Emacs to websites with weaker support for editing text.
 
 Now I use voice-to-text to dictate in 750words.com or Overleaf.
 I use voice commands to insert snippets containing LaTeX code.
 See the [](https://github.com/MooersLab/MooersLab/blob/main/README.md#voice-computing-for-enchanced-productivity) section below.
 
+If you do not have extensive experience writing in a markup language like HTML or Markdown, start with one of the flavors of Markdown to become productive as fast as possible.
+Many of the ideas behind the typesetting program markdown will transfer over to LaTeX.
+Markdown is easy to use and highly intuitive.
+Mastery of Markdown will provide a fallback system if you get stuck debugs the errors in your LaTeX document.
+The latter is a common experience for beginning users of LaTeX.
 
-- [LaTeX bare bones template file](https://github.com/MooersLab/barebonesLaTeX/tree/main) This template is for those people want make a simple document without a lot of bells-and-whitsles.
+### What about MyST?
+
+MyST expands to Markedly Structured Text.
+MyST is an enhanced version of Markdown being developed to interface with Jupyter notebooks and support their utilization in scientific publishing.
+You can export files to LaTeX, MS Word, and PDF.
+
+MyST is part of the dream of converting Jupyter into a literate programming platform and supporting the conversion of scientific Publications into highly extensible documents.
+You can edit MyST files in the newer versions of Jupyter Lab and any text editor.
+
+It provides a preview in your default browser that is updated each time you save the `main.md` file.
+The lovers of HTML are wowed by this feature.
+
+There are live preview extensions available for Emacs, Vim, and VS Code.
+It feels like an underdeveloped version of org-mode, which had all the export capabilities over a decade ago.
+It may be more analogous to the well-planned, lean, and efficient R Markdown for the R programming world.
+
+
+### What about RestructuredText and Typst?
+
+These markup languages are more powerful than markdown.
+However, very few publishers will accept the source files for these markup languages.
+You may be able to submit the PDF generated by one of these systems on your first submission.
+However, you will be stuck transferring the contents of your file to MS Word or LaTeX.
+
+Typst is the new shiny object.
+It compiles many times faster than LaTeX.
+It essentially provides a live preview.
+It also utilizes a more computer programmer-oriented approach to typesetting.
+The syntax that it uses is more modern and more compact.
+
+It might still be more accessible for computer programmers to adopt typst than nonprogrammers.
+Writers who are not computer programmers will have an easier time mastering Common Markdown.
+The next step in markup systems will probably still be the LyX editor, which offers a `what you see is what you get` approach to using LaTeX.
+Typst is an exciting project that is worth watching, but that is too early for me to adopt it for all of my writing workflows
+
+
+### Links to LaTeX-related repositories
+
+- [LaTeX bare-bones template file](https://github.com/MooersLab/barebonesLaTeX/tree/main) This template is for people who want to make a simple document without a lot of bells and whistles.
 - [LaTeX tips](https://github.com/MooersLab/latextips)
 - [Configuration for Emacs30 to support structured editing](https://github.com/MooersLab/emacs30venturatreesitterconfig)
 - [latex-emacs29 configuration](https://github.com/MooersLab/latex-emacs) A configuration file enhancing the use of LaTeX in Gnu Emacs version 29. This is the current release version of Gnu Emacs. Includes org-mode configuration.
 - [latex-emacs28 configuration](https://github.com/MooersLab/latexemacs28) Similar to above but for Gnu Emacs version 28.
 - [latex-emacs30 configuration](https://github.com/MooersLab/latexemacs30) Similar to above but for Gnu Emacs version 30.
 - [Slides about workflow in LaTeX](https://github.com/MooersLab/BerlinEmacsAugust2022) presented to the Berlin Emacs Meetup August 2022. Not recorded. It was a 90-minute lecture.
-- [slideshowTemplateInLaTeX](https://github.com/MooersLab/slideshowTemplateLaTeX) Slideshow template with use with the LaTeX package Beamer that supports the making of slides. Our templates makes slides that do not look like they were made in LaTeX because we hide the navigation icons that no one ever uses and replace the triangles in bulleted lists with round bullets. Our slides look like they were made in PowerPoint.
-- [posterInLaTeX](https://github.com/MooersLab/posterInLaTeX) Uses beamer to make a poster via a simple design. Enables whipping together a poster in a few hours. It is much easier than using a gaint slide in PowerPoint. Our approach is also saner than the default approach to making a poster with Beamer.
+- [slideshowTemplateInLaTeX](https://github.com/MooersLab/slideshowTemplateLaTeX) Slideshow template with use with the LaTeX package Beamer that supports the making of slides. Our templates make slides that do not look like they were made in LaTeX because we hide the navigation icons that no one ever uses and replace the triangles in bulleted lists with round bullets. Our slides look like they were made in PowerPoint.
+- [posterInLaTeX](https://github.com/MooersLab/posterInLaTeX) uses Beamer to make a poster with a simple design. This enables whipping together a poster in a few hours. It is much easier than using a Gaint slide in PowerPoint. Our approach is also saner than the default approach to making a poster with Beamer.
 - [LaTeX manuscript template](https://github.com/MooersLab/manuscriptInLaTeX) Generic template for the first submission as a PDF.
 - [Writing log template in LaTeX](https://github.com/MooersLab/writingLogTemplate) Place to track progress and plans behind a manuscript.
-- [Annotated bibliography template in LaTeX](https://github.com/MooersLab/annotatedBibliography) Every writing project needs one of these. These are grossly underutilized. They are good for recalling the relevant features of a paper.
-- [Diary for 2024 in LaTeX](https://github.com/MooersLab/diary2024inLaTeX) Designed for use on Overleaf.com but can compile locally. Each day is a section. Each month is a chapter. Has an automatically generated index (most markdowns cannot generate indices). Very feature-rich and ready to use. Makes a great electronic scientific notebook because it is searchable and indexed. >1000 page document at end of years compiles to PDF in under a minute on overleaf.
+- [Annotated bibliography template in LaTeX](https://github.com/MooersLab/annotatedBibliography) Every writing project needs one of these. These should be utilized more. They are good for recalling the relevant features of a paper.
+- [ditto but for org-mode](https://github.com/MooersLab/annotated-bibliography-org/blob/main/README.md)
+- [Diary for 2024 in LaTeX](https://github.com/MooersLab/diary2024inLaTeX) Designed for use on Overleaf.com but can compile locally. Each day is a section. Each month is a chapter. Has an automatically generated index (most markdowns cannot generate indices). Very feature-rich and ready to use. Makes a great electronic scientific notebook because it is searchable and indexed. > 1000-page document at the end of the year compiles to PDF in under a minute on Overleaf.
 - [snippets for latex-mode in Emacs](https://github.com/MooersLab/snippet-latex-mode) My LaTeX code snippets for yasnippets.
 - [The writer's creed](https://github.com/MooersLab/thewriterslaw) Guidelines for greater productivity as a writer.
-- [bib2item3](https://github.com/MooersLab/bib2item3) Python script to convert bibtex.bib file to bibitems in tex file format. Bibitems are required by some publishers. They are a pain to create manually.
+- [bib2item3](https://github.com/MooersLab/bib2item3) Python script to convert bibtex.bib file to bibitems in `tex` file format. Bibitems are required by some publishers. They are a pain to create manually.
 - [LaTeX Voice In Plus library](https://github.com/MooersLab/latex-voice-in) Speech-to-text commands for inserting LaTeX markup.
 
-## Molecular Graphics related
+## Literate Programming
+
+See the sections on Org-mode and Jupyter and Colab.
+
+
+
+
+## Molecular Graphics Related
 [Collection of links for a 15-hour course on Molecular Graphics](https://mooerslab.github.io/MolecularGraphicsLinks/index.html)
 
+## Molecular Simulation
 
-#### PyMOL
+Coming soon. Includes Structure-based Drug Design.
+
+## PyMOL
 - [pymolrc](https://github.com/MooersLab/pymolrc) My pymolrc file.
-- [pymolsnips](https://github.com/MooersLab/pymolsnips) A large collection of PyMOL macro language (pml) code snippets. Contains link to a webpage with extensive instructions on installing 19 text editors.
-- [pymolshortcuts](https://github.com/MooersLab/pymolshortcuts) A large collection of functions mapped to aliases or shortcuts. This colleciton of functions is very useful for non-coders.
+- [pymolsnips](https://github.com/MooersLab/pymolsnips) A large collection of PyMOL macro language (pml) code snippets. It contains a link to a webpage with extensive instructions on installing 19 text editors.
+- [pymolshortcuts](https://github.com/MooersLab/pymolshortcuts) A large collection of functions mapped to aliases or shortcuts. This collection of functions is very useful for non-coders.
 - [EasyPyMOL](https://github.com/MooersLab/EasyPyMOL) Support for horizontal scripting in PyMOL.
 - [orgpymolpysnips](https://github.com/MooersLab/orgpymolpysnips) Support for generating computational narratives (literate programming plus interactive computing) in org-mode with PyMOL.
 - [rstudiopymolpysnips](https://github.com/MooersLab/rstudiopymolpysnips) Support for literate programming in Rstuido with PyMOL.
@@ -306,15 +407,25 @@ See the [](https://github.com/MooersLab/MooersLab/blob/main/README.md#voice-comp
 ## Structure-based Drug Design
 -->
 
+## Python
+See the sections on PyMOL, CCTBX, and Jupyter and Colab. Python is in many repositories.
+
+- [PyTexas talk: Voice computing with Python in Jupyter notebooks (slides and audio), 2024 Apr. 21](https://github.com/MooersLab/voice-computing-with-python-in-jupyter-notebooks)
+
+
+
+
 ## R statistical program
-- [rstudiopymolpysnips](https://github.com/MooersLab/rstudiopymolpysnips) Support for literate programming in Rstuido with python code for PyMOL.
+- [rstudiopymolpysnips](https://github.com/MooersLab/rstudiopymolpysnips) Support for literate programming in Rstuido with Python code for PyMOL.
 
 
 ## Small Angle Scattering
 - [SmallAngleScatteringWebpage](https://mooerslab.github.io/SmallAngleScatteringWebpage/index.html)
 
 ## Time management
+- [TimeBlocks](https://github.com/MooersLab/time-blocks) Form for daily scheduling with time blocks.
 - [TimeSpent](https://github.com/MooersLab/timeSpent) Time tracking by project with Google Sheets.
+
 
 ## Supercomputing related
 Includes high performance computing (HPC), cluster computing, and cloud computing.
@@ -327,7 +438,7 @@ Includes high performance computing (HPC), cluster computing, and cloud computin
 - [Tutorial for biologists on using the supercomputer at OU-Norman](https://github.com/MooersLab/oscer-supercomputer-tutorial)
 
 ## Vim (and Neovim)
-- [Vim configuration file](https://github.com/MooersLab/vimrc) Current vimrc file for Mac OSX 10.15
+- [Vim configuration file](https://github.com/MooersLab/vimrc) Current `.vimrc` file for Mac OSX 10.15
 - [Vim configuration file for schooner supercomputer](https://github.com/MooersLab/vimrc4oscer)
 - [Vim configuration file for SSRL SMB cluster](https://github.com/MooersLab/vimrc4ssrl)
 - [Neovim configuration file](https://github.com/MooersLab/neovim-init-file)
@@ -341,7 +452,17 @@ Voice computing can be divided into three activities:
 - speech-to-commands
 - speech-to-code
 
-The speech-to-text is the easiest to master, the most widely applicable, and the most effective at enhancing the productivity for academics.
+Speech-to-text is the easiest to master, the most widely applicable, and the most effective way of enhancing academic productivity.
+
+The video below is an example of using a voice trigger to insert a chunk of LaTeX code that I use to plan each day.
+It is inserted after saying `insert start day`.
+You can easily make your own markdown variant customized to be meet your needs.
+I am using the Voice In Plus software in Google Chrome.
+It also works in Microsoft Edge.
+It uses the built-in Speech-to-text software in the web browser on your local machine so latency is not much of an issue.
+
+
+
 
 ### Index of subsections
 
@@ -351,29 +472,29 @@ The speech-to-text is the easiest to master, the most widely applicable, and the
 - [Whisper for dictation, includes my text replacements](https://github.com/MooersLab#whisper-related)
 - [Voice Typing in Google Docs for dictation](https://github.com/MooersLab#voice-typing-in-google-docs-related)
 - [Words counts before and after adopting ](https://github.com/MooersLab#Word-Counts-before-and-after-adopting-Voice-Computing)
-- [Voice computing related talks](https://github.com/MooersLab#voice-computing-related-talks)
+- [Voice computing-related talks](https://github.com/MooersLab#voice-computing-related-talks)
 
 
-### Review of the  software that I have used
+### Review of the software that I have used
 
 My sampling of the available -related software is highly skewed towards the Mac operating system and Google Chrome.
 I have yet to complete a comprehensive survey of the software available for Windows, Linux, and other browsers.
-If you are a user of such systems then the review below will give you a taste of what may be available for these other operating systems
+If you are a user of such systems, then the review below will give you a taste of what may be available for these other operating systems
 
 **Voice Typing** is widely available through Google Docs.
 It is more accurate than the Voice Control that comes with the Mac and MS Word.
 **Voice Typing** supports almost 100 voice commands but does not support custom commands.
 
 **Voice In Plus** has similar accuracy to **Voice Typing** with the addition of custom commands.
-I use the latter every day for dictation for first drafts.
+I use the latter every day for dictation of first drafts.
 I do the rewriting using the keyboard.
 
 OpenAI's **Whisper** may be an order of magnitude more accurate.
-It has a latency issue, so live transcription and interactive editing is difficult.
+It has a latency issue, so live transcription and interactive editing are difficult.
 It is also not easy to fine-tune with custom commands.
 
 My primary use of **Whisper** is for transcribing audio files.
-I provide Python scripts to correct the initial transcript.
+I run Python scripts to correct the initial transcript.
 These corrections include expanding contractions.
 This code also supports inserting simple commands like `new paragraph` during dictation because **whisper** does not know how to break up a transcript into paragraphs.
 
@@ -386,14 +507,14 @@ The `M-H r` keybinding starts the audio recording, and the `C-u M-x r` keybindin
 Here, `H` is for the Hyper key; I have it mapped to the righthand command key (alt-key) on a non-Mac keyboard.
 
 The natural unit of dictation with `whisper.el` seems to be the paragraph.
-This form of dictation is less interactive than Voice In Plus where you can use the keyboard to make edits to currently dictated sentence.
+This form of dictation is less interactive than Voice In Plus where you can use the keyboard to edit the currently dictated sentence.
 I have yet to figure out the elisp code to apply my text replacements in the transcription step.
 
 The **Superwhisper.** **app** for the Mac is interesting.
 It supports dictation in e-mail and elsewhere.
-Its support for custom commands is limited; it still needs to support bulk uploading of text replacements before it will interest me.
+Its support for custom commands is limited; it still needs to support bulk uploading of text replacements before I am sold on it.
 You have to pay a subscription fee to access all its features.
-Its features may appeal to people with numerous electronic devices that need to be synced with their main computer.
+Its features may appeal to people with numerous electronic devices that need to be synched with their primary computer.
 
 **Talon Voice** supports all three activities, but speech-to-text accuracy needs to catch up to Voice Typing and Voice In Plus in my experience.
 I am currently using Talon Voice for the last two activities.
@@ -415,66 +536,75 @@ I have seen a three-fold increase in the total number of words captured in Septe
 I have had the same amount of out-of-town travel during the first two periods.
 I did not make a conscious effort to capture more words per day.
 
-<p align="center"><img src="./images/words6.png" alt="HTML5 Icon" style="width:612px;height:312px;"></p>
+<p align="center"><img src="./images/words8cropped.png" alt="HTML5 Icon" style="width:612px;height:312px;"></p>
 
 On the day after Thanksgiving in 2023, I generated almost 12,000 words.
-I made a concerted effort to generate at least 5,000 words a day from that point to just before Christmas.
+From that point to just before Christmas, I made a concerted effort to generate at least 5,000 words a day.
 Then family obligations reduced my daily word generation.
 Nonetheless, I had a five-fold increase in the total word count for November and December.
-A six-sevenfold increase may be possible.
-A five-fold increase in word count may be more sustainable if you consciously try.
-A three-fold increase is more realistic with all of the disruptions from doing experiments, administration, teaching, service, and work-related travel.
 
+A three-fold increase is more realistic with all of the disruptions from doing experiments, administration, teaching, service, and work-related travel.
 The slight decrease in word count after the new year may reflect a shift in my focus toward turning more of my writing into publishable products.
 This decrease may reflect more effort focused on editing text.
 
 I was surprised that there was not a more significant decrease.
-I may have compensated by using a digital voice recorder (DVR) in mid-January 2024 during my 25-minute commutes to my office.
-Much of my mutterings are rubbish, but I occasionally harvest useful thoughts.
-The DVR has extended my generative writing time by 30-60 minutes daily.
+I may have compensated by starting to use a digital voice recorder (DVR) in mid-January 2024 while away from my computer.
+I transcribe the audio recordings with a locally installed version of OpenAI's whisper.
 
+Some of my mutterings are rubbish that I cut from the transcripts.
+I occasionally harvest useful thoughts that are worth retaining.
+I also use the DVR to paraphrase some technical documents that otherwise might be quite tedious to read.
+The DVR has extended my generative writing time by 15-30 minutes each day.
+Dictating with a DVR during the morning commute helps warm up the generative writing engine in the morning.
 
 Spending more time on rewriting will lead to fewer new words generated if the time spent on writing is constant.
 Rewriting is very time-consuming; it can take as much or more time as generating the text initially.
+AI-powered writing assistants make suggestions, but they are not a silver bullet.
+You still have to spend a lot of time making the appropriate selections; otherwise, your writing will often be degraded.
+These assistants have not saved me time, and they have often wasted it.
+But if they keep you engaged in rewriting, they can be helpful.
+
 Text written for grant applications and articles will take even more time because it needs to be highly polished.
 Sufficient time has to be scheduled for it.
-I plan to spend more time rewriting, so you can expect the new words generated in the next bimonthly report to be further reduced.
+I plan to spend more time rewriting, so you can expect the new words generated in the next bimonthly reports to decline steadily.
 
 
 ### What about Mac's Dictation and Voice Control software?
 One alternative is to use the built-in Dictation software for Mac.
-Four months ago, the Mac dictation software was worse than the alternatives, like Voice In.
-I tried it again on March 22, 2024,
-The error rate is now reduced enough to give it another try.
+The Mac dictation software used to be worse than the alternatives, like Voice In.
+I tried the Mac dictation software again on March 22, 2024,
+The error rate was reduced enough to make it competitive.
 
 Its advantage is that it can operate anywhere.
 It works inside Emacs and on webpages, including webmail applications like Outlook and Gmail.
-Its disadvantage is that it cannot be customized with text replacement libraries.
-
 The Dictation software relies on an internet connection for older Intel chip-based Macs.
 The generated sound waves are sent to a server run by Apple and then returned as text.
 I found the delay caused by this transfer to be unnoticeable.
-However, I do not have a M-chip-based Mac to test.
 
-Sadly, the Voice Control software provided by the Mac OS has not improved its performance since I last tried it.
+The Voice Control software provided by the Mac OS has not improved since I last tried it.
 Its error rate is too high to use for dictation.
-The advantage of this software is that it supports customized commands.
+The advantage of Voice Control is that it supports customized commands and commands that can be used to run GUI-based software.
 
 ### Whisper and a Digitial Voice Recorder
-I have used the dictated text transcribed by Whisper to a much lesser extent during my morning commutes.
+We use open-AI's whisper software to transcribe my audio recordings recorded with the DVR.
+The software is wrapped with Python.
+I wrote some Python code that reformats the transcript to make it easier for me to edit.
+I programmed a text replacement called a new paragraph to introduce breaks between paragraphs because the Whisper software does not automatically identify these breaks.
+I am using Python to make my own text replacement software.
+I use this to add commands like the one above and to replace frequently misinterpreted words.
+The approach I am taking with this software is a little more cumbersome than the very easy approach taken by Voice In Plus.
+
+In addition, I reformat the text such that each sentence is written on its own line.
+This format eases the subsequent deletion of lines containing rubbish.
+You can advance to the next line with the down arrow key in most text editors.
+If the current line is one to be deleted, you enter control k.
+
+I have used the dictated text transcribed by Whisper to a lesser extent.
 There is often a lot of garbage text that Whisper inserts during long pauses.
 It generally takes a lot of effort to parse the transcribed text.
 It is easier to redo the dictation via Voice In and make corrections as you go.
-The exercise of carrying out the dictation initially during the commute is analogous to generating a verbal rough draft in my mind.
+Dictation of the first draft during the morning commute is analogous to generating a verbal rough draft in my mind.
 Once the initial draft has been composed, it is easier to redo it with better word choices.
-
-On several occasions, my digital voice recorder turned off accidentally when placed in my shirt pocket at the start of my commute.
-To my dismay, upon arriving at my office, I discovered that I needed to repeat what I had dictated.
-Nonetheless, I could recapitulate much of what I had dictated just a half hour earlier.
-The text transcribed by Whisper is more valuable as a backup to trigger my memory rather than as a rough draft.
-I have yet to try to feed the transcribed text from Whisper to ChatGPT with the instructions to parse it.
-
-
 
 Below are links to programming tools to aid the adoption of voice computing.
 
@@ -490,16 +620,19 @@ Below are links to programming tools to aid the adoption of voice computing.
 This browser plugin works in Google Chrome and Microsoft's Edge.
 It depends on the browser's Speech-to-Text API.
 Interactive sessions with it persist for up to 5 to 10 paragraphs, depending on your activity and speed of dictation.
-If you dictate too quickly, you will get ahead of the software, and it will hang. 
+If you pause too long, the software will deactivate after 3 minutes.
+If you dictate too quickly, you will get ahead of the software, which will hang. 
 You might lose text for some of the words you dictated.
 Nonetheless, this software is superior to Mac dictation software, which will only persist for an average of three sentences because it sends the sound waves to a language model located on a remote server.
 
+https://github.com/MooersLab/MooersLab/assets/15176203/0b543abf-aa3e-4dc9-acb4-e98283e6b4f3
 
 
 #### Generic
 - [Master basic Voice In commands with interactive Python quiz](https://github.com/MooersLab/voice-in-basics-quiz)
 - [Master basic Voice In commands with an interactive quiz in Emacs](https://github.com/MooersLab/voice-in-basics-quiz.el)
-- [Library of 94 English contractions](https://github.com/MooersLab/voice-in-plus-contractions)
+- [Library of 186 English contractions (a must for nonfiction writing)](https://github.com/MooersLab/voice-in-plus-contractions)
+- [Jupyter notebook voice triggers](https://github.com/MooersLab/jupyter-voice-in)
 - [Full library of commands for Voice In Plus](https://github.com/MooersLab/voice-in-plus-commands)
 - [Org-mode](https://github.com/MooersLab/org-mode-voice-in/tree/main)
 - [OUHS-related acronym expansions](https://github.com/MooersLab/ouhs-voice-in)
@@ -507,20 +640,35 @@ Nonetheless, this software is superior to Mac dictation software, which will onl
 - [Generate new writing project commands](https://github.com/MooersLab/new-writing-project-voice-in)
 - [Books about scientific writing mapped to voice triggers](https://github.com/MooersLab/scientific-writing-books-voice-in)
 
-#### Structural biology method
+
+#### Structural biology 
 - [Biological crystallography (MX)](https://github.com/MooersLab/biological-crystallography-voice-in)
 - [Cryogenic electron microscopy (CryoEM and CryoET)](https://github.com/MooersLab/cryoem-voice-in)
 - [Small Angle Scattering (SAS)](https://github.com/MooersLab/sas-voice-in)
+- [Computational Crystallography Toolbox (cctbx)](https://github.com/MooersLab/cctbx-voice-in)
+
+#### Design of Experiments
+- [Design of Experiments (DoE)](https://github.com/MooersLab/design-of-experiments-voice-in)
 
 #### Data analysis
-- [Design of Experiments (DoE)](https://github.com/MooersLab/design-of-experiments-voice-in)
 - [Bayesian Data Analysis (BDA)](https://github.com/MooersLab/bayesian-data-analysis-voice-in/blob/main/README.md)
 - [Artificial intelligence (AI)](https://github.com/MooersLab/artificial-intelligence-voice-in)
-- [Software Developement](https://github.com/MooersLab/software-development-voice-in)
+- [Software Development](https://github.com/MooersLab/software-development-voice-in)
+- [Markdown in Jupyter notebooks](https://github.com/MooersLab/markdown-jupyter-voice-in/tree/main)
   
 
 #### Funding Agency related
 - [NIH grants](https://github.com/MooersLab/nih-grants-voice-in)
+
+
+### Serenade
+This is a standalone application that supports speech-to-commands and speech-to-code.
+It depends on the presence of an internet connection because it uses remote servers to convert sound waves into text and commands.
+Serenade runs in web browsers as well as in the terminal and at command prompts.
+It is more versatile than Voice In plus but less than Talon Voice.
+It may be a good bridge between Voice In Plus and Talon Voice.
+
+- [Expansions of English contractions](https://github.com/MooersLab/serenade-contractions)
 
 
 ### Voice Typing in Google Docs related
@@ -532,17 +680,16 @@ Nonetheless, this software is superior to Mac dictation software, which will onl
 
 
 ### Voice computing-related talks
-I have given two talks on this topic: one at the regional level and one at the international level.
+I have given three talks on this topic: two at the regional level and one at the international level.
 
-- [Data Science Workshop talk on speech-to-text, 2023 Nov. 16](https://mediasite.ouhsc.edu/Mediasite/Channel/python/watch/21e8b9a65d044d01a264df1f19db261b1d)
 - [emacsconf23 talk speech-to-text and speech-to-commands, 2023 Dec. 2 on YouTube](https://www.youtube.com/watch?v=Z7l1ImjXOWM)
-- [ditto but on the emacsonf.org website](https://emacsconf.org/2023/talks/voice/)
-
+- [PyTexas talk: Voice computing with Python in Jupyter notebooks (slides and audio), 2024 Apr. 21](https://github.com/MooersLab/voice-computing-with-python-in-jupyter-notebooks)
+- [ACA slideshow (no video), 2024 July 8](https://github.com/MooersLab/ACA2024)
 
 ## Writing productivity tools
 These are some programming tools designed to support greater writing productivity.
 There are three elements: progress tracking, support for manuscript writing in LaTeX, and the writing log.
-The last might be essential for organizing and managing a writing project.
+The last is very helpful for organizing and managing a writing project.
 It is analogous to a project-specific laboratory notebook.
 
 ### Books about writing
@@ -552,10 +699,9 @@ It is analogous to a project-specific laboratory notebook.
 ### Progress tracking
 For writing tasks that cannot be completed in one sitting, progress tracking can support momentum and enthusiasm for the project.
 
-- [Track writing progress in 2024 and 2025](https://github.com/MooersLab/writing-progress-2024-25)
-- [The writer's creed](https://github.com/MooersLab/thewriterslaw) Guidelines for greater productivity.
+- [Track writing progress in 2024 and 2025](https://github.com/MooersLab/writing-progress-2024-25) Enables tracking effort on separate projects and generates plots of cumulative effort across projects in bar plots. Updating the records at the end of the day takes only several minutes. Required tracking start and stop times, 
+- [TimeSpent](https://github.com/MooersLab/timeSpent) Hourly time tracking by project with Google Sheets. This is useful for making monthly time reports and learning how much various writing projects actually take. It requires updating every several hours throughout the day. Updating the record can be painful if you fall behind by a day or more. It is only for some people.
 - [Writing contract template](https://github.com/MooersLab/writingContract) This contract is in Microsoft Word, Markdown, LaTeX, and org-mode. This accountability system works only if your partner is similarly committed to daily writing. I had a good run of four years with one person from out of state. I would consider doing this again.
-- [TimeSpent](https://github.com/MooersLab/timeSpent) Hourly time tracking by project with Google Sheets. This is useful for making monthly time reports and learning how much various writing projects actually take.
 
 ### Manuscript writing support
 
@@ -581,19 +727,21 @@ Few people have mastered it.
 
 ## Videos related to these repositories
 - [Snippets in Jupyter Notebooks](https://www.youtube.com/watch?v=LjJvhfJvla4), OKC Python Meetup, 10 May 2019.
-- [Why develop a snippet library for Jupyter in your subject domain?](https://www.youtube.com/watch?v=sZNCAwW5dYg&amp;t=11s)  JupyterConn 2020.
+- [Why develop a snippet library for Jupyter in your subject domain?](https://www.youtube.com/watch?v=sZNCAwW5dYg&amp;t=11s)  JupyterCon 2020.
 - [Reproducible molecular graphics with Org-mode](https://www.youtube.com/watch?v=ZTocGPS-Uqk&amp;t=2s), EmacsConf 2021.
 - [Edit live Jupyter notebook cells with Emacs](https://www.youtube.com/watch?v=2NPUDYAOgW0), EmacsConf 2022.
 - [Enhancing productivity with voice computing](https://emacsconf.org/2023/talks/voice/), EmacsConf 2023.
 - [Managing multiple writing projects](https://mediasite.ouhsc.edu/Mediasite/Channel/python/watch/bc2777b248ff4fa4959b9bfed9b0e84a1d), Data Science Workshop, Jan. 2024.
-
+- [Voice Computing with Python in Jupyter Notebooks](https://www.youtube.com/watch?v=C9GILvqAYVg) PyTexas 2024, Austin, Texas: April 21, 2024.
 
 ## Update History
 
-|Version      | Changes                                         | Date            |
-|:-----------:|:-----------------------------------------------:|:---------------:|
-| Version 0.5|  Fixed typos in README.md                       | 2024 April 11    |
-
+|Version      | Changes                                         | Date             |
+|:-----------|:-------------------------------------------------|:----------------|
+| Version 0.5 | Fixed typos in README.md                        | 2024 April 11    |
+| Version 0.6 | Added sections on Python and Literate programming | 2024 April 22 |
+| Version 0.7 | Added sections on other markup languages other than LaTeX| 2024 May 5 |
+| Version 0.7.1 | Deleted some verbose sections. Added updated words bar plot. | 2024 July 3 |
 
 ## Sources of funding
 
