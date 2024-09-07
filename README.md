@@ -171,11 +171,13 @@ Tools to support protein and nucleic acid crystallization.
 ## Emacs related
 Today's Emacs is not your grandfather's Emacs.
 The median age of an Emacs user is 32, not 77, as you might expect for an editor that is about 40 years old.
-This is due to a very active community of young users centered around several YouTube channels, Emacs Lisp being well-designed to customize Emacs, an online annual conference, the popularity of org-mode, and a welcoming community of developers.
+This is due to a very active community of young users centered around several YouTube channels, Emacs Lisp being well-designed to customize Emacs, an online annual international conference (emacsconf), the popularity of org-mode, and a welcoming community of developers.
 Elisp was first used in Emacs 19 in 1985, with the GNU Emacs 19.3, about ten years after the project's start.
 
 It should be noted that Emacs is single-threaded.
-This is a significant limitation. 
+This is a significant limitation when it comes to loading large embedded images.
+The developers have and continue to optimize the part of the code base that relies on C for speed so single treading is generally not a hindrance for most uses.
+
 One group has started a project called `lem` that uses Common Lisp to build a multithreaded text editor similar to Emacs. 
 Unfortunately, `lem` is not really user-ready in our experience. 
 Perhaps, Emacs users will migrate to `lem` someday. 
@@ -191,13 +193,22 @@ According to the [Lindy effect](https://www.sciencedirect.com/science/article/ab
 Exposure to elisp coding in Emacs leads some to pick up other languages in the Lisp family, including Clojure.
 This, in turn, leads them to understand programming more deeply.
 
-### Tools to support learning of Emacs
+### Tools to support the mastery of Emacs
+
+Mastery is in the eye of the beholder.
+Total mastery is impossible with >5000 packages.
+
 - [Popup menus of GNU Emacs core commands you want to master](https://github.com/MooersLab/emacs-learning-spiral-hydra)
 - [Configuration for Emacs30 to support structured editing](https://github.com/MooersLab/emacs30venturatreesitterconfig)
 - [Some simple hydras in Codeberg repo](https://codeberg.org/MooersLab/emacs-hydra-examples)
 - [Quizzes about Emacs to improve recall of keybindings](https://github.com/MooersLab/qemacs) Ten minutes boosting your recall on a particular topic can save 10, 100, or 1000 hours of Google searches, especially if you are prone to getting side-tracked in the Google-verse.
 
 ### Sample configurations
+
+These files can help you on your Emacs journey. 
+You probably just want to copy bits of configuration to integrate into your own workflow.
+
+- [A simpler approach to using org in place of the init.el file: what I use today](https://github.com/MooersLab/emacs-simple-init-org/tree/main)
 - [Compiling Emacs30 on Ventura (macOS 13.2) with tree-sitter](https://github.com/MooersLab/emacs30macos13treesitter) This protocol compiles Emacs from source with tree-sitter support for structured editing of computer code on macOS.
 - [Compiling Emacs30 on Ubuntu22.04 LTS with tree-sitter](https://github.com/MooersLab/emacs30ubuntu22) This protocol compiles Emacs with tree-sitter support on Ubuntu.
 - [crafted-emacs user config](https://github.com/MooersLab/crafted-emacs-config) My user configuration file (config.el) for the crafted-emacs profile. I did install use-package and used it to install several packages. The base profile has the Doom theme, Vertico completion stack, and eglot. I added my org-agenda config and my favorite key bindings. I am currently *luvin* it.
