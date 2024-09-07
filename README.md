@@ -1,4 +1,4 @@
-![Version](https://img.shields.io/static/v1?label=mooerslab&message=0.7.1&color=brightcolor)
+![Version](https://img.shields.io/static/v1?label=mooerslab&message=0.7.2&color=brightcolor)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 # MooersLab
@@ -191,9 +191,13 @@ According to the [Lindy effect](https://www.sciencedirect.com/science/article/ab
 Exposure to elisp coding in Emacs leads some to pick up other languages in the Lisp family, including Clojure.
 This, in turn, leads them to understand programming more deeply.
 
+### Tools to support learning of Emacs
 - [Popup menus of GNU Emacs core commands you want to master](https://github.com/MooersLab/emacs-learning-spiral-hydra)
 - [Configuration for Emacs30 to support structured editing](https://github.com/MooersLab/emacs30venturatreesitterconfig)
 - [Some simple hydras in Codeberg repo](https://codeberg.org/MooersLab/emacs-hydra-examples)
+- [Quizzes about Emacs to improve recall of keybindings](https://github.com/MooersLab/qemacs) Ten minutes boosting your recall on a particular topic can save 10, 100, or 1000 hours of Google searches, especially if you are prone to getting side-tracked in the Google-verse.
+
+### Sample configurations
 - [Compiling Emacs30 on Ventura (macOS 13.2) with tree-sitter](https://github.com/MooersLab/emacs30macos13treesitter) This protocol compiles Emacs from source with tree-sitter support for structured editing of computer code on macOS.
 - [Compiling Emacs30 on Ubuntu22.04 LTS with tree-sitter](https://github.com/MooersLab/emacs30ubuntu22) This protocol compiles Emacs with tree-sitter support on Ubuntu.
 - [crafted-emacs user config](https://github.com/MooersLab/crafted-emacs-config) My user configuration file (config.el) for the crafted-emacs profile. I did install use-package and used it to install several packages. The base profile has the Doom theme, Vertico completion stack, and eglot. I added my org-agenda config and my favorite key bindings. I am currently *luvin* it.
@@ -202,20 +206,45 @@ This, in turn, leads them to understand programming more deeply.
 - [latex-emacs30 configuration](https://github.com/MooersLab/latexemacs30) Similar to above but for Gnu Emacs version 30.
 - [scimax user.el](https://github.com/MooersLab/scimaxuserconfig) Scimax is the Emacs configuration that Dr. John Kitchin of Carniege-Mellon University is developing to support reproducible research by scientists with Gnu Emacs. The *user.el* file for scimax enables scimax users to add keybindings and packages. I added features from latex-emacs and config.org.
 - [config.org](https://github.com/MooersLab/configorg) My default configuration file for GNU Emacs version 30.
+
+### Document templates and workflows in LaTeX and Org-mode
+
+Org-mode is a blend of the best features of markdown and LaTeX.
+Although you can use org-mode with no knowledge of LaTeX, you do not have to give up any of your skills and knowledge of using LaTeX to use org-mode.
+You gain powerful tools for navigating the file, making major rearrangements of its sub-trees, and interfacing with many other programs such as Gnuplot for generating data plots from tables.
+Org-mode's table editor is reason enough to adopt its use because it makes assembling a table easy.
+For example, you can draft a table in org-mode, drop it into co-pilot, and ask it to reformat it LaTeX.
+
+#### Org-mode templates
 - [Writing log template in Org-mode](https://github.com/MooersLab/writingLogTemplateInOrg) Template for tracking your actions, decisions, and plans for any serious writing project that takes more than one session to finish. The LaTeX version is listed in the LaTeX section for use on Overleaf or in Emacs.
 - [Org-mode manuscript template](https://github.com/MooersLab/manuscriptInOrg) The manuscript will be exported to PDF after being run through LaTeX. This is for the first submission. This is for the lovers of org-mode. The export from org to PDF is fast and painless in Emacs.
 - [Annotated bibliography in org-mode](https://github.com/MooersLab/annotated-bibliography-org)
+
+### LaTeX related
+See the section about LaTeX for more repositories.
+
 - [Slides about workflow in LaTeX](https://github.com/MooersLab/BerlinEmacsAugust2022) These were presented to the Berlin Emacs Meetup in August 2022. Regrettably, the talk was not recorded. It was a 90-minute presentation.
 - [snippets for latex-mode in Emacs](https://github.com/MooersLab/snippet-latex-mode) LaTeX code snippets for yasnippets.
-- [Quizzes about Emacs to improve recall of keybindings](https://github.com/MooersLab/qemacs) Ten minutes boosting your recall on a particular topic can save 10, 100, or 1000 hours of Google searches, especially if you are prone to getting side-tracked in the Google-verse.
-- [Slides from talk about GhostText, Data Science Workshop, July 2022](https://github.com/MooersLab/DSW22ghosttext) GhostTexT rocks! It enables the editing of textboxes on websites with Emacs. You can use GhostText to bring the full power of Emacs to Overleaf (*Important:*  use the legacy version rendering of the text area in Overleaf to get text imported into a LaTeX buffer).
-- [Voice-In library for emacs](https://github.com/MooersLab/emacs-voice-in)
-- [Voice-In library for org-mode](https://github.com/MooersLab/org-mode-voice-in)
-- [Video link to talk about GhostText, Oklahoma Data Science Workshop, July 2022](https://mediasite.ouhsc.edu/Mediasite/Channel/python/watch/4da0872f028c4255ae12935655e911321d)
+
+
+### My talks about Emacs
+The more I am exposed to other Emacs community members, the more I appreciate how little I know about Emacs. 
+The growing disease of expertise tends to inhibit sharing knowledge with beginners.
+Advanced beginners tend to give talks that are more accessible to beginners because they tend to assume less prior knowledge.
+As an advanced beginner, I find the pressure of assembling a talk an effective way of forcing myself to master new material.
+
 - [emacsconf 2021 talk about rendering molecular graphics with PyMOL in org literate programming files](https://emacsconf.org/2021/talks/molecular/) Video and comments.
+- [EmacsATX Meetup Talk, 4 May 2022: functional programming in Emacs lisp](https://github.com/MooersLab/EmacsATX4May2022) Slides.
+- [Video link to talk about GhostText, Oklahoma Data Science Workshop, July 2022](https://mediasite.ouhsc.edu/Mediasite/Channel/python/watch/4da0872f028c4255ae12935655e911321d)
+- [Slides from talk about GhostText, Data Science Workshop, July 2022](https://github.com/MooersLab/DSW22ghosttext) GhostTexT rocks! It enables the editing of textboxes on websites with Emacs. You can use GhostText to bring the full power of Emacs to Overleaf (*Important:*  use the legacy version rendering of the text area in Overleaf to get text imported into a LaTeX buffer).
 - [emacsconf 2022 talk about using Emacs to edit Jupyter cells via GhostText and atomic-chrome](https://emacsconf.org/2022/talks/jupyter/) Video and comments.
 - [emacsconf 2023 talk about using voice-computing with Emacs to enhance productivity](https://emacsconf.org/2023/talks/voice/) Video, transcript, and comments.
-- [EmacsATX Meetup Talk, 4 May 2022: functional programming in Emacs lisp](https://github.com/MooersLab/EmacsATX4May2022) Slides.
+
+### Voice computing for Emacs
+- [Voice-In library for emacs](https://github.com/MooersLab/emacs-voice-in)
+- [Voice-In library for org-mode](https://github.com/MooersLab/org-mode-voice-in)
+
+
 
 ## Jupyter and Colab related
 
@@ -279,7 +308,7 @@ These editors work in Jupyter Notebooks via the GhostText browser plugin.
 ### Experimental designs for crystal growth
 We provide easy and fast-to-deploy experimental designs for crystallization setups in Excel workbooks.
 These designs take three minutes to customize for your experimental needs.
-Plots of the results against factor level for each factor are automatically generated, thereby saving the users many hours of tedious coding of the plots of the data for each crystallization tray.
+Plots of the results against factor level for each factor are automatically generated, thereby saving the users many hours of tedious coding of the data plots for each crystallization tray.
 These workbooks could be adapted to other kinds of experiments.
 
 The OFAT experiments are often used to screen for active factors.
@@ -745,12 +774,13 @@ Few people have mastered it.
 
 ## Update History
 
-|Version      | Changes                                         | Date             |
-|:-----------|:-------------------------------------------------|:----------------|
-| Version 0.5 | Fixed typos in README.md                        | 2024 April 11    |
-| Version 0.6 | Added sections on Python and Literate programming | 2024 April 22 |
-| Version 0.7 | Added sections on other markup languages other than LaTeX| 2024 May 5 |
-| Version 0.7.1 | Deleted some verbose sections. Added updated words bar plot. | 2024 July 3 |
+|Version        | Changes                                                                                                | Date             |
+|:--------------|:-------------------------------------------------------------------------------------------------------|:-----------------|
+| Version 0.5   | Fixed typos in README.md                                                                               | 2024 April 11    |
+| Version 0.6   | Added sections on Python and Literate programming                                                      | 2024 April 22    |
+| Version 0.7   | Added sections on other markup languages other than LaTeX                                              | 2024 May 5       |
+| Version 0.7.1 | Deleted some verbose sections. Added updated words bar plot.                                           | 2024 July 3      |
+| Version 0.7.2 | Reorganized the section on Emacs.                                                                      | 2024 September 6 |
 
 ## Sources of funding
 
