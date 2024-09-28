@@ -805,14 +805,14 @@ Few people have mastered it.
 
 ## Update History
 
-|Version        | Changes                                                                                                | Date             |
-|:--------------|:-------------------------------------------------------------------------------------------------------|:-----------------|
-| Version 0.5   | Fixed typos in README.md                                                                               | 2024 April 11    |
-| Version 0.6   | Added sections on Python and Literate programming                                                      | 2024 April 22    |
-| Version 0.7   | Added sections on other markup languages other than LaTeX                                              | 2024 May 5       |
-| Version 0.7.1 | Deleted some verbose sections. Added updated words bar plot.                                           | 2024 July 3      |
-| Version 0.7.2 | Reorganized the section on Emacs.                                                                      | 2024 September 6 |
-| Version 0.7.3 | Added a highlights subsection to the PyMOL section. Made clarifications to the voice computing section. | 2024 September 28 |
+|Version   | Changes                                                                                                     | Date             |
+|:---------|:------------------------------------------------------------------------------------------------------------|:-----------------|
+|  0.5     | Fixed typos in README.md                                                                                    | 2024 April 11    |
+| 0.6      | Added sections on Python and Literate programming                                                           | 2024 April 22    |
+| 0.7      | Added sections on other markup languages other than LaTeX                                                   | 2024 May 5       |
+| 0.7.1    | Deleted some verbose sections. Added updated words bar plot.                                                | 2024 July 3      |
+| 0.7.2    | Reorganized the section on Emacs.                                                                           | 2024 September 6 |
+| 0.7.3    | Added a highlights subsection to the PyMOL section. Made clarifications to the voice computing section.     | 2024 September 28 |
 
 ## Sources of funding
 
