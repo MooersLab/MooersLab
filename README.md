@@ -373,7 +373,7 @@ You can edit MyST files in the newer versions of Jupyter Lab and any text editor
 It provides a preview in your default browser that is updated each time you save the `main.md` file.
 The lovers of HTML are wowed by this feature.
 
-There are live preview extensions available for Emacs, Vim, and VS Code.
+Live preview extensions are available for Emacs, Vim, and VS Code.
 It feels like an underdeveloped version of org-mode, which had all the export capabilities over a decade ago.
 It may be more analogous to the well-planned, lean, and efficient R Markdown for the R programming world.
 
