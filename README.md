@@ -766,10 +766,10 @@ It is analogous to a project-specific laboratory notebook.
 
 
 ### Progress tracking
-For writing tasks that cannot be completed in one sitting, progress tracking can support momentum and enthusiasm for the project.
+Progress tracking can support momentum and enthusiasm for writing tasks that cannot be completed in one sitting.
 
 - [Track writing progress in 2024 and 2025](https://github.com/MooersLab/writing-progress-2024-25) Enables tracking effort on separate projects and generates plots of cumulative effort across projects in bar plots. Updating the records at the end of the day takes only several minutes. Required tracking start and stop times, 
-- [TimeSpent](https://github.com/MooersLab/timeSpent) Hourly time tracking by project with Google Sheets. This is useful for making monthly time reports and learning how much various writing projects actually take. It requires updating every several hours throughout the day. Updating the record can be painful if you fall behind by a day or more. It is only for some people.
+- [TimeSpent](https://github.com/MooersLab/timeSpent) Hourly time tracking by project with Google Sheets. This is useful for making monthly time reports and learning how much various writing projects take. It requires updating every several hours throughout the day. Updating the record can be painful if you fall behind by a day or more. Only some people have the discipline to do time-tracking. If you cannot do it, you are "regressing towards the mean" as Sir Francis Galton would say.
 - [Writing contract template](https://github.com/MooersLab/writingContract) This contract is in Microsoft Word, Markdown, LaTeX, and org-mode. This accountability system works only if your partner is similarly committed to daily writing. I had a good run of four years with one person from out of state. I would consider doing this again.
 
 ### Manuscript writing support
@@ -812,6 +812,7 @@ Few people have mastered it.
 | Version 0.7   | Added sections on other markup languages other than LaTeX                                              | 2024 May 5       |
 | Version 0.7.1 | Deleted some verbose sections. Added updated words bar plot.                                           | 2024 July 3      |
 | Version 0.7.2 | Reorganized the section on Emacs.                                                                      | 2024 September 6 |
+| Version 0.7.3 | Added a highlights subsection to the PyMOL section. Made clarifications to the voice computing section. | 2024 September 28 |
 
 ## Sources of funding
 
