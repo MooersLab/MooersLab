@@ -433,6 +433,16 @@ See the sections on Org-mode and Jupyter and Colab.
 Coming soon. Includes Structure-based Drug Design.
 
 ## PyMOL
+
+### Highlights:
+
+- **EasyPyMOL**: go here for easy start for interactive horizontal scripting on the command line in PyMOL and for the roundview.py function. YouTube videos show how to install the software on various operating systems.
+- **pymolshortcuts**: These are very popular. You do not need to be code writer to use these. This what most people will want to install. The README.md explains the installation and use.
+- **pymolsnips**: For people writing traditional vertical *.pml PyMOL scripts in a text editor. The README.md describes how to install each of the 17 supported text editors. It then shows how to install the snippet library in each editor. Animations show the snippet library in use in each text editor.
+- **pymolpysnips**: For people wanting to run PyMOL in one of these computational notebooks: Jupyter, Colab, RStudio, and org-mode.
+- **PyMOL wall hangings**: Protocol to convert molecular artwork into large images for framing and haging on a wall.
+
+### Links
 - [pymolrc](https://github.com/MooersLab/pymolrc) My pymolrc file.
 - [pymolsnips](https://github.com/MooersLab/pymolsnips) A large collection of PyMOL macro language (pml) code snippets. It contains a link to a webpage with extensive instructions on installing 19 text editors.
 - [pymolshortcuts](https://github.com/MooersLab/pymolshortcuts) A large collection of functions mapped to aliases or shortcuts. This collection of functions is very useful for non-coders.
@@ -444,7 +454,7 @@ Coming soon. Includes Structure-based Drug Design.
 - [jupyternbclassicpymolpysnips]() PyMOL Python snippets for use in the Classic Jupyter Notebook (invoked with `jupyter nbclassic` with Jupyter Notebook version 7).
 - [colabOpenSourcePyMOLpySnips](https://github.com/MooersLab/colabOpenSourcePyMOLpySnips) PyMOL Python snippets for use in Colab with open source PyMOL.
 - [colabPyMOLpySnips](https://github.com/MooersLab/colabPyMOLpySnips) PyMOL Python snippets for use in Colab with the incentive version of PyMOL.
-- [PyMOL wall hangings](https://github.com/MooersLab/PyMOLwallhangings) Protocol for making oversized images to be framed and hung on a wall.
+- [PyMOL wall hangings](https://github.com/MooersLab/PyMOLwallhangings) Protocol for making oversized images framed and hung on a wall.
 <!--
 ## Structure-based Drug Design
 -->
@@ -454,12 +464,8 @@ See the sections on PyMOL, CCTBX, and Jupyter and Colab. Python is in many repos
 
 - [PyTexas talk: Voice computing with Python in Jupyter notebooks (slides and audio), 2024 Apr. 21](https://github.com/MooersLab/voice-computing-with-python-in-jupyter-notebooks)
 
-
-
-
 ## R statistical program
 - [rstudiopymolpysnips](https://github.com/MooersLab/rstudiopymolpysnips) Support for literate programming in Rstuido with Python code for PyMOL.
-
 
 ## Small Angle Scattering
 - [SmallAngleScatteringWebpage](https://mooerslab.github.io/SmallAngleScatteringWebpage/index.html)
@@ -467,7 +473,6 @@ See the sections on PyMOL, CCTBX, and Jupyter and Colab. Python is in many repos
 ## Time management
 - [TimeBlocks](https://github.com/MooersLab/time-blocks) Form for daily scheduling with time blocks.
 - [TimeSpent](https://github.com/MooersLab/timeSpent) Time tracking by project with Google Sheets.
-
 
 ## Supercomputing related
 Includes high performance computing (HPC), cluster computing, and cloud computing.
@@ -498,10 +503,10 @@ Speech-to-text is the easiest to master, the most widely applicable, and the mos
 
 The video below is an example of using a voice trigger to insert a chunk of LaTeX code that I use to plan each day.
 It is inserted after saying `insert start day`.
-You can easily make your own markdown variant customized to be meet your needs.
+You can easily make a markdown variant customized to meet your needs.
 I am using the Voice In Plus software in Google Chrome.
 It also works in Microsoft Edge.
-It uses the built-in Speech-to-text software in the web browser on your local machine so latency is not much of an issue.
+It uses the built-in Speech-to-text software in the web browser on your local machine, so latency is not much of an issue.
 
 
 
@@ -528,7 +533,7 @@ It is more accurate than the Voice Control that comes with the Mac and MS Word.
 **Voice Typing** supports almost 100 voice commands but does not support custom commands.
 
 **Voice In Plus** has similar accuracy to **Voice Typing** with the addition of custom commands.
-I use the latter every day for dictation of first drafts.
+I use the latter every day to dictate the first drafts.
 I do the rewriting using the keyboard.
 
 OpenAI's **Whisper** may be an order of magnitude more accurate.
@@ -554,9 +559,9 @@ I have yet to figure out the elisp code to apply my text replacements in the tra
 
 The **Superwhisper.** **app** for the Mac is interesting.
 It supports dictation in e-mail and elsewhere.
-Its support for custom commands is limited; it still needs to support bulk uploading of text replacements before I am sold on it.
+Its support for custom commands is limited; it still needs to support bulk uploading of text replacements before I am sold.
 You have to pay a subscription fee to access all its features.
-Its features may appeal to people with numerous electronic devices that need to be synched with their primary computer.
+Its features may appeal to people with numerous electronic devices that must be synched with their primary computer.
 
 **Talon Voice** supports all three activities, but speech-to-text accuracy needs to catch up to Voice Typing and Voice In Plus in my experience.
 I am currently using Talon Voice for the last two activities.
@@ -581,7 +586,7 @@ I did not make a conscious effort to capture more words per day.
 <p align="center"><img src="./images/words10.png" alt="HTML5 Icon" style="width:632px;height:244px;"></p>
 
 On the day after Thanksgiving in 2023, I generated almost 12,000 words.
-From that point to just before Christmas, I made a concerted effort to generate at least 5,000 words a day.
+From that point to just before Christmas, I made a concerted effort to generate at least 5,000 words daily.
 Then family obligations reduced my daily word generation.
 Nonetheless, I had a five-fold increase in the total word count for November and December.
 
@@ -590,14 +595,22 @@ The slight decrease in word count after the new year may reflect a shift in my f
 This decrease may reflect more effort focused on editing text.
 
 I was surprised that there was not a more significant decrease.
-I may have compensated by starting to use a digital voice recorder (DVR) in mid-January 2024 while away from my computer.
+I may have compensated by using a digital voice recorder (DVR) in mid-January 2024 while away from my computer.
+The DVR is superior to a cell phone for recording speech because it does not need to be held next to your mouth.
+The DVR can record a Zoom meeting when lying on a desktop or a seminar from the back of a room: Use it ethically.
 I transcribe the audio recordings with a locally installed version of OpenAI's whisper.
+I use bash Python and bash scripts to reformat the text with one sentence per line for easier downstream editing.
+
+I am still using this device in late September 2024.
+It is the best $85 investment I have made in a long time.
+It is worth ten times as much. 
 
 Some of my mutterings are rubbish that I cut from the transcripts.
 I occasionally harvest useful thoughts that are worth retaining.
 I also use the DVR to paraphrase some technical documents that otherwise might be quite tedious to read.
-The DVR has extended my generative writing time by 15-30 minutes each day.
-Dictating with a DVR during the morning commute helps warm up the generative writing engine in the morning.
+The DVR has extended my generative writing time by 15-30 minutes daily.
+
+
 
 Spending more time on rewriting will lead to fewer new words generated if the time spent on writing is constant.
 Rewriting is very time-consuming; it can take as much or more time as generating the text initially.
@@ -643,10 +656,17 @@ If the current line is one to be deleted, you enter control k.
 
 I have used the dictated text transcribed by Whisper to a lesser extent.
 There is often a lot of garbage text that Whisper inserts during long pauses.
-It generally takes a lot of effort to parse the transcribed text.
+It takes a lot of effort to parse the transcribed text.
+
 It is easier to redo the dictation via Voice In and make corrections as you go.
-Dictation of the first draft during the morning commute is analogous to generating a verbal rough draft in my mind.
-Once the initial draft has been composed, it is easier to redo it with better word choices.
+Dictation of the first draft during the morning commute is analogous to generating a verbal rough draft.
+If I leave the DVR at home, I will still compose some prose by speaking aloud.
+Once the initial draft has been composed verbally, it is easier to redo it with better word choices after I reach my office.
+
+Of course, generative writing is a small part of writing.
+Rewriting, data analysis, figure-making, reading the literature, and managing co-author input take up the bulk of the time.
+You can attempt rewrites of small part of a manuscript before a commute by re-reading the part in question immediately before the commute.
+This sounds boring, but exciting new ideas often emerge during this exercise.
 
 Below are links to programming tools to aid the adoption of voice computing.
 
