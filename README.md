@@ -28,6 +28,7 @@
 - [RNA Editing]
 - [RNA Structure]
 - [SAXS](https://github.com/MooersLab#small-angle-scattering)
+- [SSRL talks](https://github.com/MooersLab#ssrl-talks)
 - [Structure-based drug design]
 - [Supercomputing](https://github.com/MooersLab#supercomputing-related)
 - [Time management](https://github.com/MooersLab#time-management)
@@ -469,6 +470,11 @@ See the sections on PyMOL, CCTBX, and Jupyter and Colab. Python is in many repos
 
 ## Small Angle Scattering
 - [SmallAngleScatteringWebpage](https://mooerslab.github.io/SmallAngleScatteringWebpage/index.html)
+
+## SSRL Talks
+
+Talks at the SSRL/LCLS Users Meeting:
+- [2024 Workshop talk: Tools to Ease the Use of PyMOL](https://github.com/MooersLab/user-meeting-workshop-2024)
 
 ## Time management
 - [TimeBlocks](https://github.com/MooersLab/time-blocks) Form for daily scheduling with time blocks.
