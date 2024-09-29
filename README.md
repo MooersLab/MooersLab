@@ -13,6 +13,7 @@
 - [Crystallization](https://github.com/MooersLab#crystallization)
 - [Crystallographic computing](https://github.com/MooersLab#crystallographic-computing)
 - [Emacs](https://github.com/MooersLab#emacs-related)
+  + [Talks about Emacs](https://github.com/MooersLab#my-talks-about-emacs)
 - [Experimental design](https://github.com/MooersLab#experimental-design)
 - [Grant writing](https://github.com/MooersLab#grant-writing)
 - [Jupyter and Colab](https://github.com/MooersLab#jupyter-and-colab-related)
