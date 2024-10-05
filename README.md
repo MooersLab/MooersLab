@@ -625,7 +625,7 @@ Voice computing could be a cure for the envy of those colleagues who have standi
 You can speak commands to your computer while standing 20 feet away from it and looking out the window.
 You can give your body and eyes a break from sitting and staring at the computer screen while remaining productive.
 
-### Word Counts before and after adopting Voice Computing
+### Word Counts before (orange) and after (magenta) adopting Voice Computing
 
 I have seen a three-fold increase in the total number of words captured in September and October 2023 compared to June and July 2023 before I took up speech-to-text in mid-August 2023.
 I have had the same amount of out-of-town travel during the first two periods.
