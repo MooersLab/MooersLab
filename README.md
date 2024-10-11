@@ -360,7 +360,7 @@ See the [](https://github.com/MooersLab/MooersLab/blob/main/README.md#voice-comp
 If you do not have extensive experience writing in a markup language like HTML or Markdown, start with one of the flavors of Markdown to become productive as fast as possible.
 Many of the ideas behind the typesetting program markdown will transfer over to LaTeX.
 Markdown is easy to use and highly intuitive.
-Mastery of Markdown will provide a fallback system if you get stuck debugs the errors in your LaTeX document.
+Mastery of Markdown will provide a fallback system if you get stuck debugging the errors in your LaTeX document.
 The latter is a common experience for beginning users of LaTeX.
 
 ### What about MyST?
@@ -389,7 +389,7 @@ However, you will be stuck transferring the contents of your file to MS Word or 
 
 #### RestructuredText
 
-This type setting language uses BibTeX and LaTeX Math.
+This typesetting language uses BibTeX and LaTeX Math.
 *RestructuredText* is used by some in the Python world to generate documentation.
 The annual SciPy Proceedings have been prepared with it for many years.
 It harnesses indentation, for better or worse.
@@ -410,7 +410,7 @@ The typesetting of math equations is similar to that for LaTeX, so LaTeX users w
 
 ##### Typst is ready for writing scientific manuscripts
 
-It is easy to write a generic manuscript in *typst* for the first submission PDF.
+It is easy to write a generic manuscript in *typst* for the [first submission PDF](https://github.com/MooersLab/manuscriptInTypst).
 The upside is the speed of the compiling of the document.
 
 ##### Typist in Emacs
@@ -703,7 +703,7 @@ You can advance to the next line with the down arrow key in most text editors.
 If the current line is one to be deleted, you enter control k.
 
 I have used the dictated text transcribed by Whisper to a lesser extent.
-There is often a lot of garbage text that Whisper inserts during long pauses.
+Whisper often inserts garbage during long pauses.
 It takes a lot of effort to parse the transcribed text.
 
 It is easier to redo the dictation via Voice In and make corrections as you go.
