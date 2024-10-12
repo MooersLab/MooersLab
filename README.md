@@ -404,7 +404,7 @@ This may be the main reason to use it for simple documents.
 *Typst* has a more modern bibliography management system, but it also supports using BibTeX, which will ease adoption by new users. 
 
 *Typst* also utilizes a more computer programmer-oriented approach to typesetting by using functions.
-*Typst* also provides templates for boilerplate styling, which are similar to classes in LaTeX.
+*Typst* also provides boilerplate styling templates, similar to classes in LaTeX.
 The typesetting of math equations is similar to that for LaTeX, so LaTeX users will find it easy to adopt.
 *Typst* set out to replace LaTeX but has to retain many of its features.
 
@@ -412,12 +412,15 @@ The typesetting of math equations is similar to that for LaTeX, so LaTeX users w
 
 It is easy to write a generic manuscript in *typst* for the [first submission PDF](https://github.com/MooersLab/manuscriptInTypst).
 The upside is the speed of the compiling of the document.
+The corresponding writing log in typst is found [here](https://github.com/MooersLab/writingLogInTypst)
+
+
 
 ##### Typist in Emacs
 
 *Typst* has been integrated into org-mode.
-You can use a `#+typst:` keyword to start lines with typst commands.
-There is even a *typst* submenu for exporting to PDF or typ files.
+You can use a `#+typst:` keyword to start lines with *typst* commands.
+There is even a *typst* submenu for exporting to PDF or *typ* files.
 
 There is an abandoned `typst-mode` project on GitHub.
 The author shifted his efforts to the `typst-ts-mode` project.
@@ -427,16 +430,10 @@ Oh well, `typst-mode` is much easier to install and use.
 It provides syntax highlighting and entering `C-c C-p` compiles the document to PDF and displays it in your default PDF viewer almost instantly.
 That is all of the support that I need most of the time.
 
-##### Typst is not ready for book writing
-*Typst* lacks support for generating indices, so it is not ready for writing books, in my opinion.
-You can still preserve, but you will have do some convoluted manual steps that are inconvenient.
-A lot of markup languages that claim to support book generation fail on this test. 
-LaTeX and LyX are still superior in this regard.
-
 
 ##### Who is typst for?
 It might still be more accessible for computer programmers to adopt *typst* than nonprogrammers.
-Writers who are not computer programmers will have an easier time mastering Common Markdown.
+Writers who are not computer programmers will quickly master Common Markdown.
 The next step in markup systems will probably still be the LyX editor, which offers a `what you see is what you get` approach to using LaTeX.
 
 
