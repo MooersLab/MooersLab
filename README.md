@@ -33,6 +33,7 @@
 - [Structure-based drug design]
 - [Supercomputing](https://github.com/MooersLab#supercomputing-related)
 - [Time management](https://github.com/MooersLab#time-management)
+- [Typst](https://github.com/MooersLab#typst-is-exciting) 
 - [vim/neovim](https://github.com/MooersLab/MooersLab/blob/main/README.md#vim-and-neovim)
 - [Writing tools](https://github.com/MooersLab#writing-productivity-tools)
 - [Voice computing](https://github.com/MooersLab#voice-computing)
