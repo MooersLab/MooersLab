@@ -52,7 +52,7 @@ However, we write code occasionally to help advance our science and the science 
 We have developed software tools to ease the writing of PyMOL scripts to make molecular images.
 These tools are available for the top 19 text editors and the Jupyter, Colab, and R Markdown notebooks.
 These text editors can make your work lighter and have many wonderful features, but Emacs is our favorite because, thanks to Emacs Lisp, it is the most customizable text editor.
-However, we caution that one must take a disciplined approach to Emacs, a tinker's paradise.
+However, we caution that one must take a disciplined approach to Emacs because it is a tinker's paradise.
 
 We often use the web service called *Overleaf* to write manuscripts, grant applications, slideshows, posters, and lab notebooks in LaTeX.
 We spent five years trying the alternative Markup languages.
@@ -114,14 +114,14 @@ Some people get stuck all too long in Vim or NeoVim, which are great editors.)
 
 ## Bayesian Data Analysis
 - [Bayesian Data Analysis (BDA) Speech-to-Text expansions of acronyms](https://github.com/MooersLab/bayesian-data-analysis-voice-in/blob/main/README.md)
-- [JointProb](https://github.com/MooersLab/jointprob1D) R Markdown and Jupyter notebooks for the Saturday JointProb study group that was active in 2022 and 2023.
+- [JointProb](https://github.com/MooersLab/jointprob1D) R Markdown and Jupyter notebooks for the Saturday JointProb study group active in 2022 and 2023.
 
 ## Blog
 - [Lab website with blog posts](https://mooerslab.github.io/year-archive/)
 
 ## Clojure
 - [ClojConj 2023 talk about protein structure superposition via probabilistic programming in Clojure](https://www.youtube.com/watch?v=lDweOPGHLB8&t=51s)
-- [quizzes about Clojure](https://github.com/MooersLab/qclj) These quizzes are useful for improving command recall after a break in using Clojure for several months.
+- [quizzes about Clojure](https://github.com/MooersLab/qclj) These quizzes are useful for improving command recall after a break from using Clojure for several months.
 
 ## Cryocrystallography
 Tools to enhance success at cryopreserving protein and nucleic acid crystals.
@@ -161,7 +161,7 @@ Tools to support protein and nucleic acid crystallization.
 - [cctbxsnips-UltiSnips](https://github.com/MooersLab/cctbxsnips-Ultisnips) CCTBX snippets for Vim or NeoVim via UltiSnips plugin.
 - [cctbxsnips-neosnippets](https://github.com/MooersLab/cctbxsnips-neosnippets) CCTBX snippets for Vim or NeoVim via neosnippets plugin.
 - [cctbxsnips-Snipmate](https://github.com/MooersLab/cctbxsnips-snipmate) CCTBX snippets for Vim or NeoVim via snipmate plugin.
-- [cctbxsnips-Atom](https://github.com/MooersLab/cctbxsnips-Atom) CCTBX snippets for Atom. Have same format required for Pulsar.
+- [cctbxsnips-Atom](https://github.com/MooersLab/cctbxsnips-Atom) CCTBX snippets for Atom. Have the same format required for Pulsar.
 
 
 ## Curve-fitting software
@@ -173,7 +173,7 @@ Tools to support protein and nucleic acid crystallization.
 
 ## Emacs related
 Today's Emacs is not your grandfather's Emacs.
-The median age of an Emacs user is 32, not 77, as you might expect for an editor that is about 40 years old.
+The median age of an Emacs user is 32, not 77, as you might expect for a text editing program who is about 40 years old.
 This is due to a very active community of young users centered around several YouTube channels, Emacs Lisp being well-designed to customize Emacs, an online annual international conference (emacsconf), the popularity of org-mode, and a welcoming community of developers.
 Elisp was first used in Emacs 19 in 1985, with the GNU Emacs 19.3, about ten years after the project's start.
 
@@ -181,8 +181,8 @@ It should be noted that Emacs is single-threaded.
 This is a significant limitation when it comes to loading large embedded images.
 The developers have and continue to optimize the part of the code base that relies on C for speed so single treading is generally not a hindrance for most uses.
 
-One group has started a project called `lem` that uses Common Lisp to build a multithreaded text editor similar to Emacs. 
-Unfortunately, `lem` is not really user-ready in our experience. 
+One group has started a 'lem' project that uses Common Lisp to build a multithreaded text editor similar to Emacs. 
+Unfortunately, `lem` is not user-ready in our experience. 
 Perhaps, Emacs users will migrate to `lem` someday. 
 In the meantime, it is worth continuing to use Emacs, knowing that a multithreading alternative is under development.
 
@@ -218,14 +218,14 @@ You probably just want to copy bits of configuration to integrate into your own 
 - [latex-emacs29 configuration](https://github.com/MooersLab/latex-emacs) A configuration file enhancing the use of LaTeX in Gnu Emacs version 29.0.5. Includes org-mode configuration.
 - [latex-emacs28 configuration](https://github.com/MooersLab/latexemacs28) Similar to above but for Gnu Emacs version 28.
 - [latex-emacs30 configuration](https://github.com/MooersLab/latexemacs30) Similar to above but for Gnu Emacs version 30.
-- [scimax user.el](https://github.com/MooersLab/scimaxuserconfig) Scimax is the Emacs configuration that Dr. John Kitchin of Carniege-Mellon University is developing to support reproducible research by scientists with Gnu Emacs. The *user.el* file for scimax enables scimax users to add keybindings and packages. I added features from latex-emacs and config.org.
-- [config.org](https://github.com/MooersLab/configorg) My default configuration file for GNU Emacs version 30.
+- [scimax user.el](https://github.com/MooersLab/scimaxuserconfig) Scimax is the Emacs configuration that Dr. John Kitchin of Carniege-Mellon University is developing to support reproducible research by scientists with Gnu Emacs. The *user.el* file for Scimax enables Scimax users to add keybindings and packages. I added features from latex-emacs and config.org.
+- [config.org](https://github.com/MooersLab/configorg) My default GNU Emacs version 30 configuration file.
 
 ### Document templates and workflows in LaTeX and Org-mode
 
 Org-mode is a blend of the best features of markdown and LaTeX.
-Although you can use org-mode with no knowledge of LaTeX, you do not have to give up any of your skills and knowledge of using LaTeX to use org-mode.
-You gain powerful tools for navigating the file, making major rearrangements of its sub-trees, and interfacing with many other programs such as Gnuplot for generating data plots from tables.
+Although you can use org-mode without knowledge of LaTeX, you do not have to give up any of your skills and knowledge of using LaTeX to use org-mode.
+You gain powerful tools for navigating the file, making major rearrangements of its sub-trees, and interfacing with many other programs, such as Gnuplot, for generating data plots from tables.
 Org-mode's table editor is reason enough to adopt its use because it makes assembling a table easy.
 For example, you can draft a table in org-mode, drop it into co-pilot, and ask it to reformat it LaTeX.
 
@@ -250,7 +250,7 @@ As an advanced beginner, I find the pressure of assembling a talk an effective w
 - [emacsconf 2021 talk about rendering molecular graphics with PyMOL in org literate programming files](https://emacsconf.org/2021/talks/molecular/) Video and comments.
 - [EmacsATX Meetup Talk, 4 May 2022: functional programming in Emacs lisp](https://github.com/MooersLab/EmacsATX4May2022) Slides.
 - [Video link to talk about GhostText, Oklahoma Data Science Workshop, July 2022](https://mediasite.ouhsc.edu/Mediasite/Channel/python/watch/4da0872f028c4255ae12935655e911321d)
-- [Slides from talk about GhostText, Data Science Workshop, July 2022](https://github.com/MooersLab/DSW22ghosttext) GhostTexT rocks! It enables the editing of textboxes on websites with Emacs. You can use GhostText to bring the full power of Emacs to Overleaf (*Important:*  use the legacy version rendering of the text area in Overleaf to get text imported into a LaTeX buffer).
+- [Slides from talk about GhostText, Data Science Workshop, July 2022](https://github.com/MooersLab/DSW22ghosttext) GhostTexT rocks! It enables Emacs to edit textboxes on websites. You can use GhostText to bring the full power of Emacs to Overleaf (*Important:*  use the legacy version rendering of the text area in Overleaf to get text imported into a LaTeX buffer).
 - [emacsconf 2022 talk about using Emacs to edit Jupyter cells via GhostText and atomic-chrome](https://emacsconf.org/2022/talks/jupyter/) Video and comments.
 - [emacsconf 2023 talk about using voice-computing with Emacs to enhance productivity](https://emacsconf.org/2023/talks/voice/) Video, transcript, and comments.
 
@@ -359,7 +359,7 @@ I use voice commands to insert snippets containing LaTeX code.
 See the [](https://github.com/MooersLab/MooersLab/blob/main/README.md#voice-computing-for-enchanced-productivity) section below.
 
 If you do not have extensive experience writing in a markup language like HTML or Markdown, start with one of the flavors of Markdown to become productive as fast as possible.
-Many of the ideas behind the typesetting program markdown will transfer over to LaTeX.
+Many ideas behind the typesetting program Markdown will transfer to LaTeX.
 Markdown is easy to use and highly intuitive.
 Mastery of Markdown will provide a fallback system if you get stuck debugging the errors in your LaTeX document.
 The latter is a common experience for beginning users of LaTeX.
@@ -367,7 +367,7 @@ The latter is a common experience for beginning users of LaTeX.
 ### What about MyST?
 
 *MyST* expands to Markedly Structured Text.
-*MyST* is an enhanced version of Markdown being developed to interface with Jupyter notebooks and support their utilization in scientific publishing.
+*MyST* is an enhanced version of Markdown developed to interface with Jupyter notebooks and support their utilization in scientific publishing.
 You can export files to LaTeX, MS Word, and PDF.
 
 *MyST* is part of the dream of converting Jupyter into a literate programming platform and supporting the conversion of scientific Publications into highly extensible documents.
@@ -405,7 +405,7 @@ This may be the main reason to use it for simple documents.
 *Typst* has a more modern bibliography management system, but it also supports using BibTeX, which will ease adoption by new users. 
 
 *Typst* also utilizes a more computer programmer-oriented approach to typesetting by using functions.
-*Typst* also provides boilerplate styling templates, similar to classes in LaTeX.
+*Typst* also provides boilerplate styling templates similar to classes in LaTeX.
 The typesetting of math equations is similar to that for LaTeX, so LaTeX users will find it easy to adopt.
 *Typst* set out to replace LaTeX but has to retain many of its features.
 
@@ -477,11 +477,11 @@ Coming soon. Includes Structure-based Drug Design.
 
 ### Highlights:
 
-- **EasyPyMOL**: go here for easy start for interactive horizontal scripting on the command line in PyMOL and for the roundview.py function. YouTube videos show how to install the software on various operating systems.
-- **pymolshortcuts**: These are very popular. You do not need to be code writer to use these. This what most people will want to install. The README.md explains the installation and use.
+- **EasyPyMOL**: go here for an easy start for interactive horizontal scripting on the command line in PyMOL and for the roundview.py function. YouTube videos show how to install the software on various operating systems.
+- **pymolshortcuts**: These are very popular. You do not need to be a code writer to use these. This is what most people will want to install. The README.md explains the installation and use.
 - **pymolsnips**: For people writing traditional vertical *.pml PyMOL scripts in a text editor. The README.md describes how to install each of the 17 supported text editors. It then shows how to install the snippet library in each editor. Animations show the snippet library in use in each text editor.
 - **pymolpysnips**: For people wanting to run PyMOL in one of these computational notebooks: Jupyter, Colab, RStudio, and org-mode.
-- **PyMOL wall hangings**: Protocol to convert molecular artwork into large images for framing and haging on a wall.
+- **PyMOL wall hangings**: Protocol to convert molecular artwork into large images for framing and hanging on a wall.
 
 ### Links
 - [pymolrc](https://github.com/MooersLab/pymolrc) My pymolrc file.
@@ -521,7 +521,7 @@ Talks at the SSRL/LCLS Users Meeting:
 - [TimeSpent](https://github.com/MooersLab/timeSpent) Time tracking by project with Google Sheets.
 
 ## Supercomputing related
-Includes high performance computing (HPC), cluster computing, and cloud computing.
+High-performance computing (HPC), cluster computing, and cloud computing.
 
 - [Bash functions for Schooner at OSCER](https://github.com/MooersLab/bashFunctions4oscer)
 - [Emacs configuration file for schooner supercomputer](https://github.com/MooersLab/emacs4oscer)
@@ -589,7 +589,7 @@ It is also not easy to fine-tune with custom commands.
 My primary use of **Whisper** is for transcribing audio files.
 I run Python scripts to correct the initial transcript.
 These corrections include expanding contractions.
-This code also supports inserting simple commands like `new paragraph` during dictation because **whisper** does not know how to break up a transcript into paragraphs.
+This code also supports inserting simple commands like `new paragraph` during dictation because **whisper** does not know how to divide a transcript into paragraphs.
 
 A very new use of **Whisper** for me is inside Emacs.
 I had been aware of its availability for four months.
@@ -653,7 +653,7 @@ It is worth ten times as much.
 
 Some of my mutterings are rubbish that I cut from the transcripts.
 I occasionally harvest useful thoughts that are worth retaining.
-I also use the DVR to paraphrase some technical documents that otherwise might be quite tedious to read.
+I also use the DVR to paraphrase some technical documents that otherwise might be pretty tedious to read.
 The DVR has extended my generative writing time by 15-30 minutes daily.
 
 
@@ -710,7 +710,7 @@ If I leave the DVR at home, I will still compose some prose by speaking aloud.
 Once the initial draft has been composed verbally, it is easier to redo it with better word choices after I reach my office.
 
 Of course, generative writing is a small part of writing.
-Rewriting, data analysis, figure-making, reading the literature, and managing co-author input take up the bulk of the time.
+Rewriting, data analysis, figure-making, reading the literature, and managing co-author input takes up most of the time.
 You can attempt rewrites of small part of a manuscript before a commute by re-reading the part in question immediately before the commute.
 This sounds boring, but exciting new ideas often emerge during this exercise.
 
@@ -718,7 +718,7 @@ Below are links to programming tools to aid the adoption of voice computing.
 
 ### Talon Voice-related
 - [Expand dictated contractions automatically](https://github.com/MooersLab/talon-contractions)
-- [Run bash commands in terminal by voice command](https://github.com/MooersLab/talon-iterm)
+- [Run bash commands in the terminal by voice command](https://github.com/MooersLab/talon-iterm)
 - [Open favorite web pages by voice commands](https://github.com/MooersLab/talon-webpages)
 - [Master Talon Voice phonetic alphabet with interactive quiz written in Python](https://github.com/MooersLab/talon-voice-quizzes)
 - [Master Talon Voice with interactive quiz written in elisp for Emacs](https://github.com/MooersLab/talon-voice-quiz.el)
@@ -822,7 +822,7 @@ Progress tracking can support momentum and enthusiasm for writing tasks that can
 
 - [LaTeX manuscript template](https://github.com/MooersLab/manuscriptInLaTeX) Generic template for the first submission as a PDF.
 - [Annotated bibliography Template in LaTeX](https://github.com/MooersLab/annotatedBibliography) Every writing project needs one of these.
-- [bib2item3](https://github.com/MooersLab/bib2item3) Python script to convert bibtex.bib file to bibitems in tex file format. Bibitems are required by some publishers. They are a pain to create manually.
+- [bib2item3](https://github.com/MooersLab/bib2item3) Python script to convert bibtex.bib file to bibitems in the tex file format. Bibitems are required by some publishers. They are a pain to create manually.
 - [Emacsconf 2022 talk about GhostText on YouTube, December 2022](https://www.youtube.com/watch?v=2NPUDYAOgW0&t=3s) Includes a demonstration of using Emacs to edit a document stored in Overleaf.
 - [LaTeX Voice In Plus library of speech-to-text commands](https://github.com/MooersLab/latex-voice-in)
 
@@ -831,7 +831,7 @@ Progress tracking can support momentum and enthusiasm for writing tasks that can
 - [Writing Log template in LaTeX](https://github.com/MooersLab/writingLogTemplate). This is the favored format. LaTeX beginning users can easily use this document on Overleaf without any configuration.
 - [Writing log template in Org-mode](https://github.com/MooersLab/writingLogTemplateInOrg) Has all of the features of the LaTeX variant. Favored by many Emacs users. Org-mode is a powerful analog of markdown that can interpret LaTeX code blocks.
 - Org-mode is vastly more capable than markdown. The most remarkable feature is the tables that act like spreadsheets. If you are already comfortable with LaTeX, org-mode will be a step backward for writing documents.
-Nonetheless, it is still useful for literate programming (or interactive computational narratives), but the interactive display of large images has to be done in separate buffers. Org-roam is useful for knowledge base management, although Obsidian provides a cleaner experience.
+Nonetheless, it is still helpful for literate programming (or interactive computational narratives), but the interactive display of large images has to be done in separate buffers. Org-roam is useful for knowledge base management, although Obsidian provides a cleaner experience.
 I still have trouble with org-agenda.
 Few people have mastered it.
 
