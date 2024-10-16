@@ -656,8 +656,6 @@ I occasionally harvest useful thoughts that are worth retaining.
 I also use the DVR to paraphrase some technical documents that otherwise might be pretty tedious to read.
 The DVR has extended my generative writing time by 15-30 minutes daily.
 
-
-
 Spending more time on rewriting will lead to fewer new words generated if the time spent on writing is constant.
 Rewriting is very time-consuming; it can take as much or more time as generating the text initially.
 AI-powered writing assistants make suggestions, but they are not a silver bullet.
@@ -829,12 +827,8 @@ Progress tracking can support momentum and enthusiasm for writing tasks that can
 ### Writing log for planning manuscripts
 
 - [Writing Log template in LaTeX](https://github.com/MooersLab/writingLogTemplate). This is the favored format. LaTeX beginning users can easily use this document on Overleaf without any configuration.
-- [Writing log template in Org-mode](https://github.com/MooersLab/writingLogTemplateInOrg) Has all of the features of the LaTeX variant. Favored by many Emacs users. Org-mode is a powerful analog of markdown that can interpret LaTeX code blocks.
-- Org-mode is vastly more capable than markdown. The most remarkable feature is the tables that act like spreadsheets. If you are already comfortable with LaTeX, org-mode will be a step backward for writing documents.
-Nonetheless, it is still helpful for literate programming (or interactive computational narratives), but the interactive display of large images has to be done in separate buffers. Org-roam is useful for knowledge base management, although Obsidian provides a cleaner experience.
-I still have trouble with org-agenda.
-Few people have mastered it.
-
+- [Writing log template in Org-mode](https://github.com/MooersLab/writingLogTemplateInOrg) Has all of the features of the LaTeX variant. Favored by many Emacs users. Org-mode is a powerful analog of markdown that can interpret LaTeX code blocks. If you are a LaTeX user, you can view org-mode as LaTeX with extensions that ease the assembly of tables, support time management via org-agenda, support knowledge management via org-roam, and support interactive computing. 
+- [Writing log template in typst](https://github.com/MooersLab/writing-log-typst) Typst is a new alternative to LaTeX. It is built on top of Rust and instantly compiles small documents like this writing log.
 - [Writing log template in reStructuredText](https://github.com/MooersLab/writing-log-rst) reStructuredText is used by programmers for documentation.
 - [Writing log template in Markdown](https://github.com/MooersLab/writing-log-md) Markdown variant. Rendered to PDF by most good text editors.
 - [Writing log template in ODT](https://github.com/MooersLab/writing-log-odt) ODT can be read by Open Office, LibreOffice, and MS Word.
