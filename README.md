@@ -819,8 +819,10 @@ Progress tracking can support momentum and enthusiasm for writing tasks that can
 ### Manuscript writing support
 
 - [LaTeX manuscript template](https://github.com/MooersLab/manuscriptInLaTeX) Generic template for the first submission as a PDF.
-- [Annotated bibliography Template in LaTeX](https://github.com/MooersLab/annotatedBibliography) Every writing project needs one of these.
-- [bib2item3](https://github.com/MooersLab/bib2item3) Python script to convert bibtex.bib file to bibitems in the tex file format. Bibitems are required by some publishers. They are a pain to create manually.
+- [Annotated bibliography Template in LaTeX](https://github.com/MooersLab/annotatedBibliography) Classic and boring variant.
+- [Modular annotated bibliography with BibTeX in LaTeX](https://github.com/MooersLab/modular-annotated-bibliography-biblatex-latex) Modular annotation files for reuse and to evade mangling by BibTeX. Can be fully illustrated and include multiple paragraph. Includes index, glossaries, and Literature Cited for references outside the annotated bibliography. Drag and drop zip file available for easy-peasy use on Overleaf.
+- [Modular annotated bibliography with BibLaTeX in LaTeX](https://github.com/MooersLab/modular-annotated-bibliography-biblatex-latex) Modular annotation files for reuse and to evade mangling by biber. Can be fully illustrated and include multiple paragraph. Includes index, glossaries, and Literature Cited for references outside the annotated bibliography. Drag and drop zip file available for easy-peasy use on Overleaf.
+- [bib2item3](https://github.com/MooersLab/bib2item3) Python script to convert bibtex.bib file to bibitems in the tex file format. Bibitems are required by some publishers. They are tedious to create manually.
 - [Emacsconf 2022 talk about GhostText on YouTube, December 2022](https://www.youtube.com/watch?v=2NPUDYAOgW0&t=3s) Includes a demonstration of using Emacs to edit a document stored in Overleaf.
 - [LaTeX Voice In Plus library of speech-to-text commands](https://github.com/MooersLab/latex-voice-in)
 
