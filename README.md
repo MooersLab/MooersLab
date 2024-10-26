@@ -399,24 +399,24 @@ The annual SciPy Proceedings have been prepared with it for many years.
 It harnesses indentation, for better or worse.
 It is not hard to use for a LaTeX user.
 
-#### Typst is exciting
+#### Typst provides dopamine hits
 [*Typst*](https://sitandr.github.io/typst-examples-book/book/about.html) compiles many times faster than *LaTeX*.
-*Typst* is written in *rust*.
-*Typst* essentially provides a live preview.
+*Typst* provides a nearly live preview and thus instant gratification.
 This may be the main reason to use it for simple documents.
 
-*Typst* has a more modern bibliography management system, but it also supports using BibTeX, which will ease adoption by new users. 
+*Typst* has a more modern bibliography management system, but it also supports using BibLaTeX, which will ease adoption by new users. 
 
 *Typst* also utilizes a more computer programmer-oriented approach to typesetting by using functions.
 *Typst* also provides boilerplate styling templates similar to classes in LaTeX.
 The typesetting of math equations is similar to that for LaTeX, so LaTeX users will find it easy to adopt.
-*Typst* set out to replace LaTeX but has to retain many of its features.
+*Typst* set out to replace LaTeX but retains many features.
 
 ##### Typst is ready for writing scientific manuscripts
 
 It is easy to write a generic manuscript in *typst* for the [first submission PDF](https://github.com/MooersLab/manuscriptInTypst).
-The upside is the speed of the compiling of the document.
-The corresponding writing log in typst is found [here](https://github.com/MooersLab/writingLogInTypst)
+The upside is the speed at which the document is compiled.
+The corresponding writing project log file template in *typst* is found [here](https://github.com/MooersLab/writingLogInTypst).
+The corresponding modular annotated bibliography template in *typst* is found [here](https://github.com/MooersLab/modular-annotated-bibliography-typst).
 
 
 
