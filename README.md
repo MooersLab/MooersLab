@@ -653,7 +653,7 @@ The DVR can record a Zoom meeting when lying on a desktop or a seminar from the 
 I transcribe the audio recordings with a locally installed version of OpenAI's whisper.
 I use bash Python and bash scripts to reformat the text with one sentence per line for easier downstream editing.
 
-I am still using this device in late September 2024.
+I am still using this device daily as of early November 2024.
 It is the best $85 investment I have made in a long time.
 It is worth ten times as much. 
 
