@@ -1,4 +1,4 @@
-![Version](https://img.shields.io/static/v1?label=mooerslab&message=0.7.3&color=brightcolor)
+How is it work![Version](https://img.shields.io/static/v1?label=mooerslab&message=0.7.3&color=brightcolor)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 # MooersLab
@@ -99,7 +99,7 @@ If you like a repository, please click on the star in the upper right.
 <!--
 (PS The ultimate text editor for writing prose and code is Emacs.
 All paths through text editors lead to Emacs.
-Some people get stuck all too long in Vim or NeoVim, which are great editors.)
+Some people get stuck all too long in Vim or NeoVim, which are also great editors.)
 -->
 
 # Index of repositories
@@ -214,7 +214,8 @@ Total mastery is impossible with >5000 packages.
 These files can help you on your Emacs journey. 
 You probably just want to copy bits of configuration to integrate into your own workflow.
 
-- [A simpler approach to using org in place of the init.el file: what I use today](https://github.com/MooersLab/emacs-simple-init-org/tree/main)
+- [A simpler approach to using org in place of the init.el file](https://github.com/MooersLab/emacs-simple-init-org/tree/main)
+- [Compiling Emacs29 on Sequoia (macOS 15.01) with tree-sitter](https://github.com/MooersLab/compile-emacs-29/)
 - [Compiling Emacs30 on Ventura (macOS 13.2) with tree-sitter](https://github.com/MooersLab/emacs30macos13treesitter) This protocol compiles Emacs from source with tree-sitter support for structured editing of computer code on macOS.
 - [Compiling Emacs30 on Ubuntu22.04 LTS with tree-sitter](https://github.com/MooersLab/emacs30ubuntu22) This protocol compiles Emacs with tree-sitter support on Ubuntu.
 - [crafted-emacs user config](https://github.com/MooersLab/crafted-emacs-config) My user configuration file (config.el) for the crafted-emacs profile. I did install use-package and used it to install several packages. The base profile has the Doom theme, Vertico completion stack, and eglot. I added my org-agenda config and my favorite key bindings. I am currently *luvin* it.
