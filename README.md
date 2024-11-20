@@ -9,6 +9,7 @@ How is it work![Version](https://img.shields.io/static/v1?label=mooerslab&messag
 - [bash](https://github.com/MooersLab#bash-related)
 - [Bayesian Data Analysis](https://github.com/MooersLab#bayesian-data-analysis)
 - [Clojure](https://github.com/MooersLab#clojure)
+- [Crystallography: diffraction image processing](https://github.com/MooersLab#diffraction-image-processing)
 - [Cryocrystallography](https://github.com/MooersLab#cryocrystallography)
 - [Crystallization](https://github.com/MooersLab#crystallization)
 - [Crystallographic computing](https://github.com/MooersLab#crystallographic-computing)
@@ -143,7 +144,9 @@ Tools to support protein and nucleic acid crystallization.
 
 ## Crystallographic computing
 
+### Diffraction-image-processing
 
+- [aimless summary table extraction](https://github.com/MooersLab/aimless-summary-table-extraction)
 
 ### CCTBX related
 
