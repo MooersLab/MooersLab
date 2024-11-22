@@ -260,7 +260,8 @@ As an advanced beginner, I find the pressure of assembling a talk an effective w
 - [Slides from talk about GhostText, Data Science Workshop, July 2022](https://github.com/MooersLab/DSW22ghosttext) GhostTexT rocks! It enables Emacs to edit textboxes on websites. You can use GhostText to bring the full power of Emacs to Overleaf (*Important:*  use the legacy version rendering of the text area in Overleaf to get text imported into a LaTeX buffer).
 - [emacsconf 2022 talk about using Emacs to edit Jupyter cells via GhostText and atomic-chrome](https://emacsconf.org/2022/talks/jupyter/) Video and comments.
 - [emacsconf 2023 talk about using voice-computing with Emacs to enhance productivity](https://emacsconf.org/2023/talks/voice/) Video, transcript, and comments.
-
+- [DSW November 2024: A Science Writing Workflow in Org Mode](https://github.com/MooersLab/DSW24-org-mode-slides)
+  
 ### Voice computing for Emacs
 - [Voice-In library for emacs](https://github.com/MooersLab/emacs-voice-in)
 - [Voice-In library for org-mode](https://github.com/MooersLab/org-mode-voice-in)
