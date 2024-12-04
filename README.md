@@ -44,6 +44,14 @@ How is it work![Version](https://img.shields.io/static/v1?label=mooerslab&messag
   + [biological-crystallography-voice-in](https://github.com/MooersLab/biological-crystallography-voice-in)
 - [Videos of talks](https://github.com/MooersLab#videos-related-to-these-repositories)
 
+## Videos related to these repositories
+- [Snippets in Jupyter Notebooks](https://www.youtube.com/watch?v=LjJvhfJvla4), OKC Python Meetup, 10 May 2019.
+- [Why develop a snippet library for Jupyter in your subject domain?](https://www.youtube.com/watch?v=sZNCAwW5dYg&amp;t=11s)  JupyterCon 2020.
+- [Reproducible molecular graphics with Org-mode](https://www.youtube.com/watch?v=ZTocGPS-Uqk&amp;t=2s), EmacsConf 2021.
+- [Edit live Jupyter notebook cells with Emacs](https://www.youtube.com/watch?v=2NPUDYAOgW0), EmacsConf 2022.
+- [Enhancing productivity with voice computing](https://emacsconf.org/2023/talks/voice/), EmacsConf 2023.
+- [Managing multiple writing projects](https://mediasite.ouhsc.edu/Mediasite/Channel/python/watch/bc2777b248ff4fa4959b9bfed9b0e84a1d), Data Science Workshop, Jan. 2024.
+- [Voice Computing with Python in Jupyter Notebooks](https://www.youtube.com/watch?v=C9GILvqAYVg) PyTexas 2024, Austin, Texas: April 21, 2024.
 
 ## Introduction
 This site contains the public repositories of the Dr. Blaine Mooers Lab, Department of Biochemistry and Physiology, College of Medicine, University of Oklahoma Health Sciences, Oklahoma City, Oklahoma, USA.
