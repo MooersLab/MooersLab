@@ -37,7 +37,7 @@ How is it work![Version](https://img.shields.io/static/v1?label=mooerslab&messag
 - [Typst](https://github.com/MooersLab#typst-is-exciting) 
 - [vim/neovim](https://github.com/MooersLab/MooersLab/blob/main/README.md#vim-and-neovim)
 - [Writing tools](https://github.com/MooersLab#writing-productivity-tools)
-  + [Writing progress heatmap]https://github.com/MooersLab#writing-progress) 
+  + [Writing progress heatmap](https://github.com/MooersLab#writing-progress) 
   + [Accountability tools](https://github.com/MooersLab#writing-progress) 
   + [Manuscript writing support](https://github.com/MooersLab#manuscript-writing-support)
   + [Metacognition tool](https://github.com/MooersLab#writing-log-for-planning-manuscripts)
