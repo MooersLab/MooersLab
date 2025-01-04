@@ -659,12 +659,14 @@ A three-fold increase is more realistic with all of the disruptions from doing e
 The slight decrease in word count after the new year 2024 may reflect a shift in my focus toward turning more of my writing into publishable products.
 This decrease may reflect more effort focused on editing text.
 
-In the November-December 2024 period, I put 80 hours of effort into preparing a talk for the Data Science Workshop and 140 hours of effort into the Emacsconf talk.
+In the November-December 2024 period, I spent 80 hours preparing a talk for the Data Science Workshop and 140 hours preparing a Emacsconf talk.
 This would explain some of the decline in word count in November.
 I started posting the daily writing effort In December,
-This might have changed my behavior a bit in terms of focusing on trying to finish a manuscript.
+This might have changed my behavior by trying to finish a manuscript.
+In any event, the total word count for 2024 was 1,090,627 words.
+This would be equivalent to the content of 12 long novels.
+Too bad my words are not so golden!
 
-I was surprised that there was not a more significant decrease.
 I may have compensated by using a digital voice recorder (DVR) in mid-January 2024 while away from my computer.
 The DVR is superior to a cell phone for recording speech because it does not need to be held next to your mouth.
 The DVR can record a Zoom meeting when lying on a table or a seminar from the back of a room: Use it ethically.
