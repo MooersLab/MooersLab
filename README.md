@@ -653,25 +653,30 @@ I did not make a conscious effort to capture more words per day.
 On the day after Thanksgiving in 2023, I generated almost 12,000 words.
 From that point to just before Christmas, I made a concerted effort to generate at least 5,000 words daily.
 Then family obligations reduced my daily word generation.
-Nonetheless, I had a five-fold increase in the total word count for November and December.
+Nonetheless, I had a five-fold increase in the total word count for November and December 2023.
 
 A three-fold increase is more realistic with all of the disruptions from doing experiments, administration, teaching, service, and work-related travel.
-The slight decrease in word count after the new year may reflect a shift in my focus toward turning more of my writing into publishable products.
+The slight decrease in word count after the new year 2024 may reflect a shift in my focus toward turning more of my writing into publishable products.
 This decrease may reflect more effort focused on editing text.
+
+In the November-December 2024 period, I put 80 hours of effort into preparing a talk for the Data Science Workshop and 140 hours of effort into the Emacsconf talk.
+This would explain some of the decline in word count in November.
+I started posting the daily writing effort In December,
+This might have changed my behavior a bit in terms of focusing on trying to finish a manuscript.
 
 I was surprised that there was not a more significant decrease.
 I may have compensated by using a digital voice recorder (DVR) in mid-January 2024 while away from my computer.
 The DVR is superior to a cell phone for recording speech because it does not need to be held next to your mouth.
-The DVR can record a Zoom meeting when lying on a desktop or a seminar from the back of a room: Use it ethically.
+The DVR can record a Zoom meeting when lying on a table or a seminar from the back of a room: Use it ethically.
 I transcribe the audio recordings with a locally installed version of OpenAI's whisper.
-I use bash Python and bash scripts to reformat the text with one sentence per line for easier downstream editing.
+I use Python and bash scripts to reformat the text with one sentence per line for easier downstream editing.
 
-I am still using this device daily as of early November 2024.
+I am still using this device daily as of early January 2025.
 It is the best $85 investment I have made in a long time.
 It is worth ten times as much. 
 
 Some of my mutterings are rubbish that I cut from the transcripts.
-I occasionally harvest useful thoughts that are worth retaining.
+I occasionally harvest valuable thoughts that are worth retaining.
 I also use the DVR to paraphrase some technical documents that otherwise might be pretty tedious to read.
 The DVR has extended my generative writing time by 15-30 minutes daily.
 
@@ -684,7 +689,7 @@ But if they keep you engaged in rewriting, they can be helpful.
 
 Text written for grant applications and articles will take even more time because it needs to be highly polished.
 Sufficient time has to be scheduled for it.
-I plan to spend more time rewriting, so you can expect the new words generated in the next bimonthly reports to decline steadily.
+I plan to spend more time rewriting, so you can expect the new words generated in the next bimonthly reports to decline.
 
 
 ### What about Mac's Dictation and Voice Control software?
