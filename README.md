@@ -63,7 +63,7 @@ We are not computer scientists; we leave the heavy-duty coding to the profession
 However, we write code occasionally to help advance our science and the science of others.
 We have developed software tools to ease the writing of PyMOL scripts to make molecular images.
 These tools are available for the top 19 text editors and the Jupyter, Colab, and R Markdown notebooks.
-These text editors can make your work lighter and have many wonderful features, but Emacs is our favorite because, thanks to Emacs Lisp, it is the most customizable text editor.
+These text editors can make your work lighter and have many excellent features, but Emacs is our favorite because, thanks to Emacs Lisp, it is the most customizable text editor.
 However, we caution that one must take a disciplined approach to Emacs because it is a tinker's paradise.
 
 We often use the web service called *Overleaf* to write manuscripts, grant applications, slideshows, posters, and lab notebooks in LaTeX.
@@ -74,7 +74,7 @@ Some of our LaTeX templates are in the repositories found here (see the section 
 Overleaf is a great way to get started with LaTeX.
 However, Emacs provides access to more powerful editing features.
 You can use GhostText to send a page from Overleaf to Emacs for editing.
-Nonetheless, Overleaf is great for collaborative writing. 
+Nonetheless, Overleaf is excellent for collaborative writing. 
 When using Chrome or Microsoft Edge, you can use the Voice In plugin for Google Chrome to dictate prose in Overleaf.
 
 We are also fans of Jupyter Notebooks.
