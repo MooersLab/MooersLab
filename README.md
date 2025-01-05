@@ -374,7 +374,7 @@ Now I use voice-to-text to dictate in 750words.com or Overleaf.
 I use voice commands to insert snippets containing LaTeX code.
 See the [](https://github.com/MooersLab/MooersLab/blob/main/README.md#voice-computing-for-enchanced-productivity) section below.
 
-If you do not have extensive experience writing in a markup language like HTML or Markdown, start with one of the flavors of Markdown to become productive as fast as possible.
+If you do not have extensive experience writing in a markup language like HTML or Markdown, start with one of the Markdown flavors to become productive as quickly as possible.
 Many ideas behind the typesetting program Markdown will transfer to LaTeX.
 Markdown is easy to use and highly intuitive.
 Mastery of Markdown will provide a fallback system if you get stuck debugging the errors in your LaTeX document.
@@ -447,7 +447,7 @@ The author shifted his efforts to the `typst-ts-mode` project.
 Unfortunately, `typst-ts-mode` package is harder to install.
 
 Oh well, `typst-mode` is much easier to install and use.
-It provides syntax highlighting and entering `C-c C-p` compiles the document to PDF and displays it in your default PDF viewer almost instantly.
+It provides syntax highlighting and entering `C-c C-p` compiles the document to PDF and instantly displays it in your default PDF viewer.
 That is all of the support that I need most of the time.
 
 
@@ -566,7 +566,7 @@ Voice computing can be divided into three activities:
 
 Speech-to-text is the easiest to master, the most widely applicable, and the most effective way of enhancing academic productivity.
 
-The video below is an example of using a voice trigger to insert a chunk of LaTeX code that I use to plan each day.
+The video below exemplifies using a voice trigger to insert a chunk of LaTeX code I use to plan each day.
 It is inserted after saying `insert start day`.
 You can easily make a markdown variant customized to meet your needs.
 I am using the Voice In Plus software in Google Chrome.
@@ -591,10 +591,9 @@ It uses the built-in Speech-to-text software in the web browser on your local ma
 
 My sampling of the available -related software is highly skewed towards the Mac operating system and Google Chrome.
 I have yet to complete a comprehensive survey of the software available for Windows, Linux, and other browsers.
-If you are a user of such systems, then the review below will give you a taste of what may be available for these other operating systems
+If you are a user of such systems, the review below will give you a taste of what may be available for these other operating systems.
 
 **Voice Typing** is widely available through Google Docs.
-It is more accurate than the Voice Control that comes with the Mac and MS Word.
 **Voice Typing** supports almost 100 voice commands but does not support custom commands.
 
 **Voice In Plus** has similar accuracy to **Voice Typing** with the addition of custom commands.
@@ -611,7 +610,6 @@ These corrections include expanding contractions.
 This code also supports inserting simple commands like `new paragraph` during dictation because **whisper** does not know how to divide a transcript into paragraphs.
 
 A very new use of **Whisper** for me is inside Emacs.
-I had been aware of its availability for four months.
 After my third attempt, I finally figured out how to run **Whisper** in Emacs via the [**whisper.el** package](https://github.com/natrys/whisper.el?tab=readme-ov-file).
 The package automates compiling the *whisper.cpp* software and downloading the Whisper LLM.
 You record a local audio file of your dictation, and then you transcribe that audio file into text that appears in the current buffer in Emacs.
@@ -627,6 +625,18 @@ It supports dictation in e-mail and elsewhere.
 Its support for custom commands is limited; it still needs to support bulk uploading of text replacements before I am sold.
 You have to pay a subscription fee to access all its features.
 Its features may appeal to people with numerous electronic devices that must be synched with their primary computer.
+
+Macs with a newer Silicon chip have a local LLM that runs the conversion of your voice into words.
+There are two programs, **Dication** and **Voice Control**.
+The latter program is more interesting because you can add custom voice snippets.
+On my old Intel-based MacBook Pro, **Voice Control** did not do accurate dictations.
+It was also slower because it utilizes a remote LLM.
+However, with a new M4 chip-based MacBook Pro, voice control does A very accurate dictation job.
+Compared to Voice In Plus, its lag time seems to be a bit longer.
+Voice control Will operate anywhere where you can put a cursor.
+I did have it working for a while inside of Emacs, but then some package I introduced seems to have started interfering with it.
+
+
 
 **Talon Voice** supports all three activities, but speech-to-text accuracy needs to catch up to Voice Typing and Voice In Plus in my experience.
 I am currently using Talon Voice for the last two activities.
