@@ -28,7 +28,7 @@ How is it work![Version](https://img.shields.io/static/v1?label=mooerslab&messag
 - [PyMOL](https://github.com/MooersLab#pymol)
 - [Python](https://github.com/MooersLab#python)
 - [RNA Editing]
-- [RNA Structure]
+- [RNA Structure](https://github.com/MooersLab#RNA-structure)
 - [SAXS](https://github.com/MooersLab#small-angle-scattering)
 - [SSRL talks](https://github.com/MooersLab#ssrl-talks)
 - [Structure-based drug design]
@@ -527,6 +527,10 @@ See the sections on PyMOL, CCTBX, and Jupyter and Colab. Python is in many repos
 
 ## R statistical program
 - [rstudiopymolpysnips](https://github.com/MooersLab/rstudiopymolpysnips) Support for literate programming in Rstuido with Python code for PyMOL.
+
+## RNA structure
+- [Count atoms in RNA by element](https://github.com/MooersLab/RNA-atom-counter)
+
 
 ## Small Angle Scattering
 - [SmallAngleScatteringWebpage](https://mooerslab.github.io/SmallAngleScatteringWebpage/index.html)
