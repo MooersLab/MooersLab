@@ -638,13 +638,13 @@ On my old Intel-based MacBook Pro, **Voice Control** did not do accurate dictati
 It was also slower because it utilizes a remote LLM.
 However, with a new M4 chip-based MacBook Pro, voice control does A very accurate dictation job.
 Compared to Voice In Plus, its lag time seems to be a bit longer.
-Voice control Will operate anywhere where you can put a cursor.
+Voice control will operate anywhere you can put a cursor.
 I did have it working for a while inside of Emacs, but then some package I introduced seems to have started interfering with it.
 
 
 
 **Talon Voice** supports all three activities, but speech-to-text accuracy needs to catch up to Voice Typing and Voice In Plus in my experience.
-I am currently using Talon Voice for the last two activities.
+I have been using Talon Voice for the last two activities.
 I plan to increase my use of Talon Voice for dictation.
 
 The **Talon Voice** software is designed to be used by non-coders.
@@ -663,7 +663,7 @@ I have seen a three-fold increase in the total number of words captured in Septe
 I have had the same amount of out-of-town travel during the first two periods.
 I did not make a conscious effort to capture more words per day.
 
-<p align="center"><img src="./images/words13.png" alt="HTML5 Icon" style="width:632px;height:244px;"></p>
+<p align="center"><img src="./images/words14.png" alt="HTML5 Icon" style="width:632px;height:244px;"></p>
 
 On the day after Thanksgiving in 2023, I generated almost 12,000 words.
 From that point to just before Christmas, I made a concerted effort to generate at least 5,000 words daily.
@@ -674,7 +674,7 @@ A three-fold increase is more realistic with all of the disruptions from doing e
 The slight decrease in word count after the new year 2024 may reflect a shift in my focus toward turning more of my writing into publishable products.
 This decrease may reflect more effort focused on editing text.
 
-In the November-December 2024 period, I spent 80 hours preparing a talk for the Data Science Workshop and 140 hours preparing a Emacsconf talk.
+In the November-December 2024 period, I spent 80 hours preparing a talk for the Data Science Workshop and 140 hours preparing an Emacsconf talk.
 This would explain some of the decline in word count in November.
 I started posting the daily writing effort In December,
 This might have changed my behavior by trying to finish a manuscript.
@@ -708,6 +708,9 @@ Text written for grant applications and articles will take even more time becaus
 Sufficient time has to be scheduled for it.
 I plan to spend more time rewriting, so you can expect the new words generated in the next bimonthly reports to decline.
 
+The slump in the November to February period was due to switching laptop computers.
+The new computer does not run whisper correctly, which has dramatically reduced my conversion of audio files to text.
+
 
 ### What about Mac's Dictation and Voice Control software?
 One alternative is to use the built-in Dictation software for Mac.
@@ -732,11 +735,11 @@ I wrote some Python code that reformats the transcript to make it easier for me 
 I programmed a text replacement called a new paragraph to introduce breaks between paragraphs because the Whisper software does not automatically identify these breaks.
 I am using Python to make my text replacement software.
 I use this to add commands like the one above and to replace frequently misinterpreted words.
-The approach I am taking with this software is a little more cumbersome than the very easy approach taken by Voice In Plus.
+The approach I am taking with this software is a little more cumbersome than the straightforward approach taken by Voice In Plus.
 
-In addition, I reformat the text such that each sentence is written on its own line.
+In addition, I reformat the text such that each sentence is written on its line.
 This format eases the subsequent deletion of lines containing rubbish.
-You can advance to the next line with the down arrow key in most text editors.
+You can advance to the following line with the down arrow key in most text editors.
 If the current line is one to be deleted, you enter control k.
 
 I have used the dictated text transcribed by Whisper to a lesser extent.
@@ -851,12 +854,12 @@ It is analogous to a project-specific laboratory notebook.
 
 ### Manuscript writing support
 
-- [LaTeX classic manuscript template](https://github.com/MooersLab/manuscriptInLaTeX) Generic and classic template for the first submission as a PDF. Has enhanced headers for easing sorting of pages when stored with two or more manuscripts while traveling.
-- [Typst classic manuscript template](https://github.com/MooersLab/manuscriptInTypst) Generic and classic template for the first submission as a PDF. Has enhanced headers for easing sorting of pages when stored with two or more manuscripts while traveling.
-- [Org-mode classic manuscript template](https://github.com/MooersLab/manuscriptInOrg) Generic and classic template for the first submission as a PDF. Has enhanced headers for easing sorting of pages when stored with two or more manuscripts while traveling.
+- [LaTeX classic manuscript template](https://github.com/MooersLab/manuscriptInLaTeX) Generic and classic template for the first submission as a PDF. It has enhanced headers to ease the sorting of pages when stored with two or more manuscripts while traveling.
+- [Typst classic manuscript template](https://github.com/MooersLab/manuscriptInTypst) Generic and classic template for the first submission as a PDF. It has enhanced headers to ease the sorting of pages when stored with two or more manuscripts while traveling.
+- [Org-mode classic manuscript template](https://github.com/MooersLab/manuscriptInOrg) Generic and classic template for the first submission as a PDF. It has enhanced headers to ease the sorting of pages when stored with two or more manuscripts while traveling.
 - [Annotated bibliography Template in LaTeX](https://github.com/MooersLab/annotatedBibliography) Classic and boring variant.
-- [Modular annotated bibliography with BibTeX in LaTeX](https://github.com/MooersLab/modular-annotated-bibliography-bibtex-latex) Modular annotation files for reuse and to evade mangling by BibTeX. Can be fully illustrated and include multiple paragraph. Includes index, glossaries, and Literature Cited for references outside the annotated bibliography. Drag and drop zip file available for instant gratification on Overleaf.
-- [Modular annotated bibliography with BibLaTeX in LaTeX](https://github.com/MooersLab/modular-annotated-bibliography-biblatex-latex) Modular annotation files for reuse and to evade mangling by biber. Can be fully illustrated and include multiple paragraph. Includes index, glossaries, and Literature Cited for references outside the annotated bibliography. Drag and drop zip file available for instant gratification on Overleaf.
+- [Modular annotated bibliography with BibTeX in LaTeX](https://github.com/MooersLab/modular-annotated-bibliography-bibtex-latex) Modular annotation files for reuse and to evade mangling by BibTeX. Can be fully illustrated and include multiple paragraphs. Includes index, glossaries, and Literature Cited for references outside the annotated bibliography. Drag and drop zip file available for instant gratification on Overleaf.
+- [Modular annotated bibliography with BibLaTeX in LaTeX](https://github.com/MooersLab/modular-annotated-bibliography-biblatex-latex) Modular annotation files for reuse and to evade mangling by biber. Can be fully illustrated and include multiple paragraphs. Includes index, glossaries, and Literature Cited for references outside the annotated bibliography. Drag and drop the zip file, which is available for instant gratification on Overleaf.
 - [bib2item3](https://github.com/MooersLab/bib2item3) Python script to convert bibtex.bib file to bibitems in the tex file format. Bibitems are required by some publishers. They are tedious to create manually.
 - [Emacsconf 2022 talk about GhostText on YouTube, December 2022](https://www.youtube.com/watch?v=2NPUDYAOgW0&t=3s) Includes a demonstration of using Emacs to edit a document stored in Overleaf.
 - [LaTeX Voice In Plus library of speech-to-text commands](https://github.com/MooersLab/latex-voice-in)
