@@ -612,7 +612,7 @@ It is also not easy to fine-tune with custom commands.
 My primary use of **Whisper** is for transcribing audio files.
 I run Python scripts to correct the initial transcript.
 These corrections include expanding contractions.
-This code also supports inserting simple commands like `new paragraph` during dictation because **whisper** does not know how to divide a transcript into paragraphs.
+This code also supports inserting simple commands like `new paragraph` during dictation.
 
 A very new use of **Whisper** for me is inside Emacs.
 After my third attempt, I finally figured out how to run **Whisper** in Emacs via the [**whisper.el** package](https://github.com/natrys/whisper.el?tab=readme-ov-file).
@@ -623,7 +623,7 @@ Here, `H` is for the Hyper key; I have it mapped to the righthand command key (a
 
 The natural unit of dictation with `whisper.el` seems to be the paragraph.
 This form of dictation is less interactive than Voice In Plus where you can use the keyboard to edit the currently dictated sentence.
-I have yet to figure out the elisp code to apply my text replacements in the transcription step.
+I have yet to figure out the Elisp code to apply my text replacements in the transcription step.
 
 The **Superwhisper.** **app** for the Mac is interesting.
 It supports dictation in e-mail and elsewhere.
@@ -632,24 +632,23 @@ You have to pay a subscription fee to access all its features.
 Its features may appeal to people with numerous electronic devices that must be synched with their primary computer.
 
 Macs with a newer Silicon chip have a local LLM that runs the conversion of your voice into words.
-There are two programs, **Dication** and **Voice Control**.
+There are two programs, **Dictation** and **Voice Control**.
 The latter program is more interesting because you can add custom voice snippets.
 On my old Intel-based MacBook Pro, **Voice Control** did not do accurate dictations.
 It was also slower because it utilizes a remote LLM.
-However, with a new M4 chip-based MacBook Pro, voice control does A very accurate dictation job.
-Compared to Voice In Plus, its lag time seems to be a bit longer.
-Voice control will operate anywhere you can put a cursor.
-I did have it working for a while inside of Emacs, but then some package I introduced seems to have started interfering with it.
 
+However, with a new M4 chip-based MacBook Pro, **Voice Control**  does a very accurate dictation job.
+Compared to **Voice In Plus**, its lag time seems to be a bit longer.
+**Voice Control**  will operate anywhere you can put a cursor.
+I did have it working for a while inside of Emacs, but then some package I introduced started interfering with it.
 
-
-**Talon Voice** supports all three activities, but speech-to-text accuracy needs to catch up to Voice Typing and Voice In Plus in my experience.
-I have been using Talon Voice for the last two activities.
-I plan to increase my use of Talon Voice for dictation.
+**Talon Voice** supports all three activities, but speech-to-text accuracy needs to catch up to **Voice Typing** and **Voice In Plus** in my experience.
+I have been using **Talon Voice** for the last two activities.
+I plan to increase my use of **Talon Voice** for dictation.
 
 The **Talon Voice** software is designed to be used by non-coders.
 It can be configured with Talonscript files that have a simple syntax that is a subset of Python.
-You can customize Talon Voice extensively using the Talonscript files without writing any Python code.
+You can customize **Talon Voice** extensively using the Talonscript files without writing any Python code.
 
 Voice computing supports extending your productivity when you get tired of typing.
 Voice computing also supports issuing commands and dictating text while standing.
@@ -688,7 +687,7 @@ The DVR can record a Zoom meeting when lying on a table or a seminar from the ba
 I transcribe the audio recordings with a locally installed version of OpenAI's whisper.
 I use Python and bash scripts to reformat the text with one sentence per line for easier downstream editing.
 
-I am still using this device daily as of early January 2025.
+I am still using this device daily as of early March 2025.
 It is the best $85 investment I have made in a long time.
 It is worth ten times as much. 
 
@@ -708,8 +707,8 @@ Text written for grant applications and articles will take even more time becaus
 Sufficient time has to be scheduled for it.
 I plan to spend more time rewriting, so you can expect the new words generated in the next bimonthly reports to decline.
 
-The slump in the November to February period was due to switching laptop computers.
-The new computer does not run whisper correctly, which has dramatically reduced my conversion of audio files to text.
+The slump from November to February was due to switching laptop computers.
+The new computer does not run Whisper correctly, dramatically reducing my conversion of audio files to text.
 
 
 ### What about Mac's Dictation and Voice Control software?
@@ -729,20 +728,24 @@ Its error rate is too high to use for dictation.
 The advantage of Voice Control is that it supports customized commands and commands that can be used to run GUI-based software.
 
 ### Whisper and a Digitial Voice Recorder
-We use open-AI's whisper software to transcribe my audio recordings recorded with the DVR.
-The software is wrapped with Python.
-I wrote some Python code that reformats the transcript to make it easier for me to edit.
-I programmed a text replacement called a new paragraph to introduce breaks between paragraphs because the Whisper software does not automatically identify these breaks.
-I am using Python to make my text replacement software.
-I use this to add commands like the one above and to replace frequently misinterpreted words.
+We use open-AI's whisper software via the Python openai-whisper package to transcribe my audio recordings recorded with the DVR for almost a year. 
+I had a three-month break after I switched to an Apple Silicon base computer in December 2024 on which this Python package was very hard to install due to complex dependencies. 
+I finally found that I could compile and run whisper.cpp, which is 100 times faster than the Python-based software.
+
+An alternate approach is to play the DVR with Voice In Plus on Google Chrome and the cursor in a text area in the browser to carry out the transcription and have the text written to the text area.
+This ties up the computer for the duration of the recording.
+
+
+I wrote some Python code that reformats the transcript from whisper to make it easier to edit.
+I use Python to make my text replacements in the transcript via `regex`.
 The approach I am taking with this software is a little more cumbersome than the straightforward approach taken by Voice In Plus.
 
 In addition, I reformat the text such that each sentence is written on its line.
-This format eases the subsequent deletion of lines containing rubbish.
+This format eases the deletion of lines containing rubbish.
 You can advance to the following line with the down arrow key in most text editors.
-If the current line is one to be deleted, you enter control k.
+If the current line is to be deleted, you enter control k.
 
-I have used the dictated text transcribed by Whisper to a lesser extent.
+I have used the dictated text transcribed by Whisper to a lesser extent than that generated with Voice-In Plus.
 Whisper often inserts garbage during long pauses.
 It takes a lot of effort to parse the transcribed text.
 
