@@ -693,11 +693,11 @@ It is worth ten times as much.
 
 Some of my mutterings are rubbish that I cut from the transcripts.
 I occasionally harvest valuable thoughts that are worth retaining.
-I also use the DVR to paraphrase some technical documents that otherwise might be pretty tedious to read.
+I also use the DVR to paraphrase some technical documents that otherwise are tedious to read.
 The DVR has extended my generative writing time by 15-30 minutes daily.
 
 Spending more time on rewriting will lead to fewer new words generated if the time spent on writing is constant.
-Rewriting is very time-consuming; it can take as much or more time as generating the text initially.
+Rewriting is very time-consuming; it can take as much or more time than generating the text initially.
 AI-powered writing assistants make suggestions, but they are not a silver bullet.
 You still have to spend a lot of time making the appropriate selections; otherwise, your writing will often be degraded.
 These assistants have not saved me time, and they have often wasted it.
@@ -705,7 +705,7 @@ But if they keep you engaged in rewriting, they can be helpful.
 
 Text written for grant applications and articles will take even more time because it needs to be highly polished.
 Sufficient time has to be scheduled for it.
-I plan to spend more time rewriting, so you can expect the new words generated in the next bimonthly reports to decline.
+I plan to spend more time rewriting, so you can expect the new words generated in the following bimonthly reports to decline.
 
 The slump from November to February was due to switching laptop computers.
 The new computer does not run Whisper correctly, dramatically reducing my conversion of audio files to text.
@@ -727,9 +727,9 @@ The Voice Control software provided by the Mac OS has not improved since I last 
 Its error rate is too high to use for dictation.
 The advantage of Voice Control is that it supports customized commands and commands that can be used to run GUI-based software.
 
-### Whisper and a Digitial Voice Recorder
+### Whisper and a Digital Voice Recorder
 We use open-AI's whisper software via the Python openai-whisper package to transcribe my audio recordings recorded with the DVR for almost a year. 
-I had a three-month break after I switched to an Apple Silicon base computer in December 2024 on which this Python package was very hard to install due to complex dependencies. 
+I had a three-month break after I switched to an Apple Silicon base computer in December 2024 on which this Python package was tough to install due to complex dependencies. 
 I finally found that I could compile and run whisper.cpp, which is 100 times faster than the Python-based software.
 
 An alternate approach is to play the DVR with Voice In Plus on Google Chrome and the cursor in a text area in the browser to carry out the transcription and have the text written to the text area.
@@ -738,7 +738,7 @@ This ties up the computer for the duration of the recording.
 
 I wrote some Python code that reformats the transcript from whisper to make it easier to edit.
 I use Python to make my text replacements in the transcript via `regex`.
-The approach I am taking with this software is a little more cumbersome than the straightforward approach taken by Voice In Plus.
+The approach I am taking with this software is more cumbersome than the straightforward approach taken by Voice In Plus.
 
 In addition, I reformat the text such that each sentence is written on its line.
 This format eases the deletion of lines containing rubbish.
@@ -755,8 +755,8 @@ If I leave the DVR at home, I will still compose some prose by speaking aloud.
 Once the initial draft has been composed verbally, it is easier to redo it with better word choices after I reach my office.
 
 Of course, generative writing is a small part of writing.
-Rewriting, data analysis, figure-making, reading the literature, and managing co-author input takes up most of the time.
-You can attempt rewrites of small part of a manuscript before a commute by re-reading the part in question immediately before the commute.
+Rewriting, data analysis, figure-making, reading the literature, and managing co-author input take up most of the time.
+You can attempt rewrites of a small part of a manuscript before a commute by re-reading the part in question immediately before the commute.
 This sounds boring, but exciting new ideas often emerge during this exercise.
 
 Below are links to programming tools to aid the adoption of voice computing.
