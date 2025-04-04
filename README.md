@@ -541,6 +541,7 @@ Talks at the SSRL/LCLS Users Meeting:
 - [2024 Workshop talk: Tools to Ease the Use of PyMOL](https://github.com/MooersLab/user-meeting-workshop-2024)
 
 ## Time management
+- [Gantt chart](https://github.com/MooersLab/gantt-chart-py) Support mutliple project management.
 - [TimeBlocks](https://github.com/MooersLab/time-blocks) Form for daily scheduling with time blocks.
 - [TimeSpent](https://github.com/MooersLab/timeSpent) Time tracking by project with Google Sheets.
 
@@ -824,8 +825,8 @@ https://github.com/MooersLab/MooersLab/assets/15176203/0b543abf-aa3e-4dc9-acb4-e
 ### Serenade
 This is a standalone application that supports speech-to-commands and speech-to-code.
 It depends on the presence of an internet connection because it uses remote servers to convert sound waves into text and commands.
-Serenade runs in web browsers as well as in the terminal and at command prompts.
-It is more versatile than Voice In plus but less than Talon Voice.
+Serenade runs in web browsers, in the terminal, and at command prompts.
+It is more versatile than Voice In Plus but less versatile than Talon Voice.
 It may be a good bridge between Voice In Plus and Talon Voice.
 
 - [Expansions of English contractions](https://github.com/MooersLab/serenade-contractions)
@@ -855,11 +856,15 @@ It is analogous to a project-specific laboratory notebook.
 ### Books about writing
 - [Books about scientific writing mapped to voice triggers](https://github.com/MooersLab/scientific-writing-books-voice-in)
 
+### Timelines for managing writing projects
+
+- [Gantt chart](https://github.com/MooersLab/gantt-chart-py) Support mutliple project management.
+
 ### Manuscript writing support
 
-- [LaTeX classic manuscript template](https://github.com/MooersLab/manuscriptInLaTeX) Generic and classic template for the first submission as a PDF. It has enhanced headers to ease the sorting of pages when stored with two or more manuscripts while traveling.
-- [Typst classic manuscript template](https://github.com/MooersLab/manuscriptInTypst) Generic and classic template for the first submission as a PDF. It has enhanced headers to ease the sorting of pages when stored with two or more manuscripts while traveling.
-- [Org-mode classic manuscript template](https://github.com/MooersLab/manuscriptInOrg) Generic and classic template for the first submission as a PDF. It has enhanced headers to ease the sorting of pages when stored with two or more manuscripts while traveling.
+- [LaTeX classic manuscript template](https://github.com/MooersLab/manuscriptInLaTeX) Generic and classic template for the first submission as a PDF. It has enhanced headers to ease sorting pages when stored with two or more manuscripts while traveling.
+- [Typst classic manuscript template](https://github.com/MooersLab/manuscriptInTypst) Generic and classic template for the first submission as a PDF. It has enhanced headers to ease sorting pages when stored with two or more manuscripts while traveling.
+- [Org-mode classic manuscript template](https://github.com/MooersLab/manuscriptInOrg) Generic and classic template for the first submission as a PDF. It has enhanced headers to ease sorting pages when stored with two or more manuscripts while traveling.
 - [Annotated bibliography Template in LaTeX](https://github.com/MooersLab/annotatedBibliography) Classic and boring variant.
 - [Modular annotated bibliography with BibTeX in LaTeX](https://github.com/MooersLab/modular-annotated-bibliography-bibtex-latex) Modular annotation files for reuse and to evade mangling by BibTeX. Can be fully illustrated and include multiple paragraphs. Includes index, glossaries, and Literature Cited for references outside the annotated bibliography. Drag and drop zip file available for instant gratification on Overleaf.
 - [Modular annotated bibliography with BibLaTeX in LaTeX](https://github.com/MooersLab/modular-annotated-bibliography-biblatex-latex) Modular annotation files for reuse and to evade mangling by biber. Can be fully illustrated and include multiple paragraphs. Includes index, glossaries, and Literature Cited for references outside the annotated bibliography. Drag and drop the zip file, which is available for instant gratification on Overleaf.
