@@ -663,7 +663,7 @@ I have seen a three-fold increase in the total number of words captured in Septe
 I have had the same amount of out-of-town travel during the first two periods.
 I did not make a conscious effort to capture more words per day.
 
-<p align="center"><img src="./images/words14.png" alt="HTML5 Icon" style="width:632px;height:244px;"></p>
+<p align="center"><img src="./images/words15.png" alt="HTML5 Icon" style="width:632px;height:244px;"></p>
 
 On the day after Thanksgiving in 2023, I generated almost 12,000 words.
 From that point to just before Christmas, I made a concerted effort to generate at least 5,000 words daily.
@@ -751,13 +751,13 @@ Whisper often inserts garbage during long pauses.
 It takes a lot of effort to parse the transcribed text.
 
 It is easier to redo the dictation via Voice In and make corrections as you go.
-Dictation of the first draft during the morning commute is analogous to generating a verbal rough draft.
+Dictating the first draft during the morning commute is analogous to generating a verbal rough draft.
 If I leave the DVR at home, I will still compose some prose by speaking aloud.
 Once the initial draft has been composed verbally, it is easier to redo it with better word choices after I reach my office.
 
 Of course, generative writing is a small part of writing.
 Rewriting, data analysis, figure-making, reading the literature, and managing co-author input take up most of the time.
-You can attempt rewrites of a small part of a manuscript before a commute by re-reading the part in question immediately before the commute.
+You can attempt to rewrite a small part of a manuscript before a commute by re-reading the part in question immediately before the commute.
 This sounds boring, but exciting new ideas often emerge during this exercise.
 
 Below are links to programming tools to aid the adoption of voice computing.
@@ -772,7 +772,7 @@ Below are links to programming tools to aid the adoption of voice computing.
 
 ### Voice In Plus related
 
-This browser plugin works in Google Chrome and Microsoft's Edge.
+This browser plugin works in Google Chrome and Microsoft Edge.
 It depends on the browser's Speech-to-Text API.
 Interactive sessions with it persist for up to 5 to 10 paragraphs, depending on your activity and speed of dictation.
 If you pause too long, the software will deactivate after 3 minutes.
@@ -780,7 +780,7 @@ If you dictate too quickly, you will get ahead of the software, which will hang.
 You might lose text for some of the words you dictated.
 Nonetheless, this software is superior to Mac dictation software, which will only persist for an average of three sentences because it sends the sound waves to a language model located on a remote server.
 
-https://github.com/MooersLab/MooersLab/assets/15176203/0b543abf-aa3e-4dc9-acb4-e98283e6b4f3
+\url{https://github.com/MooersLab/MooersLab/assets/15176203/0b543abf-aa3e-4dc9-acb4-e98283e6b4f3}
 
 
 #### Generic
@@ -875,8 +875,8 @@ It is analogous to a project-specific laboratory notebook.
 ### Writing log for planning manuscripts
 
 - [Writing Log template in LaTeX](https://github.com/MooersLab/writingLogTemplate). This is the favored format. LaTeX beginning users can easily use this document on Overleaf without any configuration.
-- [Writing log template in Org-mode](https://github.com/MooersLab/writingLogTemplateInOrg) Has all of the features of the LaTeX variant. Favored by many Emacs users. Org-mode is a powerful analog of markdown that can interpret LaTeX code blocks. If you are a LaTeX user, you can view org-mode as LaTeX with extensions that ease the assembly of tables, support time management via org-agenda, support knowledge management via org-roam, and support interactive computing. 
-- [Writing log template in typst](https://github.com/MooersLab/writing-log-typst) Typst is a new alternative to LaTeX. It is built on top of Rust and instantly compiles small documents like this writing log.
+- [Writing log template in Org-mode](https://github.com/MooersLab/writingLogTemplateInOrg) Has all of the features of the LaTeX variant. Favored by many Emacs users. Org-mode is a powerful analog of Markdown that can interpret LaTeX code blocks. If you are a LaTeX user, you can view org-mode as LaTeX with extensions that ease the assembly of tables, support time management via org-agenda, support knowledge management via org-roam, and support interactive computing. 
+- [Writing log template in typst](https://github.com/MooersLab/writing-log-typst) Typst is a new alternative to LaTeX. It is built on Rust and instantly compiles small documents like this writing log.
 - [Writing log template in reStructuredText](https://github.com/MooersLab/writing-log-rst) reStructuredText is used by programmers for documentation.
 - [Writing log template in Markdown](https://github.com/MooersLab/writing-log-md) Markdown variant. Rendered to PDF by most good text editors.
 - [Writing log template in ODT](https://github.com/MooersLab/writing-log-odt) ODT can be read by Open Office, LibreOffice, and MS Word.
