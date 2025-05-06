@@ -712,7 +712,7 @@ The slump from November to February was due to switching laptop computers.
 The new computer does not run Whisper correctly, dramatically reducing my conversion of audio files to text.
 
 The surge in March-April 2025 was likely due to several causes.
-First, I discovered the `write file' command in `the whisper.el` package of Emacs.
+First, I discovered the `write file` command in `the whisper.el` package of Emacs.
 This package uses the C++ version of whisper.
 This version is about 100 times faster than the Python version, and it is far easier to install.
 It is not susceptible to the dependency issues that plague Python.
