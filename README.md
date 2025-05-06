@@ -620,17 +620,17 @@ After my third attempt, I finally figured out how to run **Whisper** in Emacs vi
 The package automates compiling the *whisper.cpp* software and downloading the Whisper LLM.
 You record a local audio file of your dictation, and then you transcribe that audio file into text that appears in the current buffer in Emacs.
 The `M-H r` keybinding starts the audio recording, and the `C-u M-x r` keybinding transcribes the audio file.
-Here, `H` is for the Hyper key; I have it mapped to the righthand command key (alt-key) on a non-Mac keyboard.
+Here, `H` is for the Hyper key; I have it mapped to the right-hand command key (alt-key) on a non-Mac keyboard.
 
 The natural unit of dictation with `whisper.el` seems to be the paragraph.
-This form of dictation is less interactive than Voice In Plus where you can use the keyboard to edit the currently dictated sentence.
+This form of dictation is less interactive than Voice In Plus, where you can use the keyboard to edit the currently dictated sentence.
 I have yet to figure out the Elisp code to apply my text replacements in the transcription step.
 
 The **Superwhisper.** **app** for the Mac is interesting.
 It supports dictation in e-mail and elsewhere.
 Its support for custom commands is limited; it still needs to support bulk uploading of text replacements before I am sold.
 You have to pay a subscription fee to access all its features.
-Its features may appeal to people with numerous electronic devices that must be synched with their primary computer.
+Its features may appeal to people with numerous electronic devices that must be synchronized with their primary computer.
 
 Macs with a newer Silicon chip have a local LLM that runs the conversion of your voice into words.
 There are two programs, **Dictation** and **Voice Control**.
@@ -639,7 +639,7 @@ On my old Intel-based MacBook Pro, **Voice Control** did not do accurate dictati
 It was also slower because it utilizes a remote LLM.
 
 However, with a new M4 chip-based MacBook Pro, **Voice Control**  does a very accurate dictation job.
-Compared to **Voice In Plus**, its lag time seems to be a bit longer.
+Compared to **Voice In Plus**, its lag time is longer.
 **Voice Control**  will operate anywhere you can put a cursor.
 I did have it working for a while inside of Emacs, but then some package I introduced started interfering with it.
 
@@ -649,7 +649,7 @@ I plan to increase my use of **Talon Voice** for dictation.
 
 The **Talon Voice** software is designed to be used by non-coders.
 It can be configured with Talonscript files that have a simple syntax that is a subset of Python.
-You can customize **Talon Voice** extensively using the Talonscript files without writing any Python code.
+You can extensively customize **Talon Voice** using the Talonscript files without writing any Python code.
 
 Voice computing supports extending your productivity when you get tired of typing.
 Voice computing also supports issuing commands and dictating text while standing.
@@ -674,9 +674,9 @@ A three-fold increase is more realistic with all of the disruptions from doing e
 The slight decrease in word count after the new year 2024 may reflect a shift in my focus toward turning more of my writing into publishable products.
 This decrease may reflect more effort focused on editing text.
 
-In the November-December 2024 period, I spent 80 hours preparing a talk for the Data Science Workshop and 140 hours preparing an Emacsconf talk.
+In November-December 2024, I spent 80 hours preparing a talk for the Data Science Workshop and 140 hours preparing an Emacsconf talk.
 This would explain some of the decline in word count in November.
-I started posting the daily writing effort In December,
+I started posting the daily writing effort in December,
 This might have changed my behavior by trying to finish a manuscript.
 In any event, the total word count for 2024 was 1,090,627 words.
 This would be equivalent to the content of 12 long novels.
@@ -685,10 +685,10 @@ Too bad my words are not so golden!
 I may have compensated by using a digital voice recorder (DVR) in mid-January 2024 while away from my computer.
 The DVR is superior to a cell phone for recording speech because it does not need to be held next to your mouth.
 The DVR can record a Zoom meeting when lying on a table or a seminar from the back of a room: Use it ethically.
-I transcribe the audio recordings with a locally installed version of OpenAI's whisper.
+I transcribe the audio recordings with a locally installed version of OpenAI's Whisper.
 I use Python and bash scripts to reformat the text with one sentence per line for easier downstream editing.
 
-I am still using this device daily as of early March 2025.
+I am still using this device daily as of early May 2025.
 It is the best $85 investment I have made in a long time.
 It is worth ten times as much. 
 
@@ -711,6 +711,41 @@ I plan to spend more time rewriting, so you can expect the new words generated i
 The slump from November to February was due to switching laptop computers.
 The new computer does not run Whisper correctly, dramatically reducing my conversion of audio files to text.
 
+The surge in March-April 2025 was likely due to several causes.
+First, I discovered the `write file' command in `the whisper.el` package of Emacs.
+This package uses the C++ version of whisper.
+This version is about 100 times faster than the Python version, and it is far easier to install.
+It is not susceptible to the dependency issues that plague Python.
+
+I run this command in a directory where I have moved the audio file.
+This directory is the default directory whenever I log into Emacs.
+I am prompted for the audio file, which is easy to select because it starts with today's date.
+Audio files are then transcribed in a few seconds into one long line.
+I select this line in Emacs to make it an active region.
+I apply a custom-made command (found in the mooerslabfunctions.el) that splits the line by sentences so that I have one sentence per line.
+I either manually parse the text, or I have a chatbot parse the text for me.
+
+Because the final destination of the text will be LaTeX document, I use the following prompt before I supply the transcript:
+
+```bash
+Parse this transcript into paragraphs and subsubsections by topic. Include index keys below the subsubsection headline. Extract the TODO items into an org-mode style checklist starting (e.g., - [ ]). Enclose this list in a LaTeX minted block between \begin{minted}{org} and \end{minted}. Return the text in LaTeX. Here is the transcript:
+```
+
+I have a chatbot fill in the index keys and reorganize the prose by its identified categories.
+These categories become the titles of subsections.
+The addition of index keys is another distracting chore.
+These are low-level tasks that I do not really like doing and that I neglect doing.
+Having the chatbot do this labor has been liberating.
+
+Someday, I will take the time to direct a chatbot to go through my old entries in my diary and clean up the text in a similar fashion.
+For example, I have a folder of 365 tex documents for the prior year.
+I could direct it to review each document and clean up the text in response to the prompt above.
+I must go back through the rewritten text to correct errors and misinterpretations.
+
+I also have the chatbot extract to-do items and put these into a list in org-mode.
+I dictate the term `to-do' to mark the beginning of a task for my to-do list.
+I then copy and paste the list into my daily entry in an org-mode document where I keep my daily plans.
+
 
 ### What about Mac's Dictation and Voice Control software?
 One alternative is to use the built-in Dictation software for Mac.
@@ -729,22 +764,21 @@ Its error rate is too high to use for dictation.
 The advantage of Voice Control is that it supports customized commands and commands that can be used to run GUI-based software.
 
 ### Whisper and a Digital Voice Recorder
-We use open-AI's whisper software via the Python openai-whisper package to transcribe my audio recordings recorded with the DVR for almost a year. 
-I had a three-month break after I switched to an Apple Silicon base computer in December 2024 on which this Python package was tough to install due to complex dependencies. 
+We use Open-AI's whisper software via the Python openai-whisper package to transcribe my audio recordings with the DVR for almost a year. 
+I had a three-month break after I switched to an Apple Silicon computer in December 2024, on which this Python package was tough to install due to complex dependencies. 
 I finally found that I could compile and run whisper.cpp, which is 100 times faster than the Python-based software.
 
 An alternate approach is to play the DVR with Voice In Plus on Google Chrome and the cursor in a text area in the browser to carry out the transcription and have the text written to the text area.
 This ties up the computer for the duration of the recording.
 
-
-I wrote some Python code that reformats the transcript from whisper to make it easier to edit.
+I wrote some Python code that reformats the transcript from Whisper to make it easier to edit.
 I use Python to make my text replacements in the transcript via `regex`.
 The approach I am taking with this software is more cumbersome than the straightforward approach taken by Voice In Plus.
 
-In addition, I reformat the text such that each sentence is written on its line.
+In addition, I reformat the text so that each sentence is written on its own line.
 This format eases the deletion of lines containing rubbish.
 You can advance to the following line with the down arrow key in most text editors.
-If the current line is to be deleted, you enter control k.
+If the current line is to be deleted, you enter control-K.
 
 I have used the dictated text transcribed by Whisper to a lesser extent than that generated with Voice-In Plus.
 Whisper often inserts garbage during long pauses.
