@@ -157,6 +157,10 @@ Tools to support protein and nucleic acid crystallization.
 
 - [aimless summary table extraction](https://github.com/MooersLab/aimless-summary-table-extraction)
 
+### Wilson plots
+
+- [Wilson plot with Python and truncate log file](https://github.com/MooersLab/wilson-plots)
+  
 ### CCTBX related
 
 <a id="cctbxsnips-for-notebooks"><h4>For use in notebooks</h4></a>
