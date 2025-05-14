@@ -157,6 +157,7 @@ Tools to support protein and nucleic acid crystallization.
 ### Diffraction-image-processing
 
 - [aimless summary table extraction](https://github.com/MooersLab/aimless-summary-table-extraction)
+- [collection of SSRL-SMB bash functions](https://github.com/MooersLab/smb-bash-functions)
 
 ### Wilson plots
 
