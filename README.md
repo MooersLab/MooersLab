@@ -250,9 +250,11 @@ Org-mode's table editor is reason enough to adopt its use because it makes assem
 For example, you can draft a table in org-mode, drop it into co-pilot, and ask it to reformat it LaTeX.
 
 #### Org-mode templates
+- [Book project in org-mode](https://github.com/MooersLab/bookInOrg)
 - [Writing log template in Org-mode](https://github.com/MooersLab/writingLogTemplateInOrg) Template for tracking your actions, decisions, and plans for any serious writing project that takes more than one session to finish. The LaTeX version is listed in the LaTeX section for use on Overleaf or in Emacs.
 - [Org-mode manuscript template](https://github.com/MooersLab/manuscriptInOrg) The manuscript will be exported to PDF after being run through LaTeX. This is for the first submission. This is for the lovers of org-mode. The export from org to PDF is fast and painless in Emacs.
-- [Annotated bibliography in org-mode](https://github.com/MooersLab/annotated-bibliography-org)
+- [Basic modular annotated bibliography in org-mode](https://github.com/MooersLab/barebones-modulated-annotated-bibliography-orgmode)
+- [Full-featured annotated bibliography in org-mode](https://github.com/MooersLab/annotated-bibliography-org)
 
 ### LaTeX related
 See the section about LaTeX for more repositories.
