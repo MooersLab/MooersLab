@@ -13,6 +13,7 @@ How is it work![Version](https://img.shields.io/static/v1?label=mooerslab&messag
 - [Crystallization](https://github.com/MooersLab#crystallization)
 - [Crystallographic computing](https://github.com/MooersLab#crystallographic-computing)
   + [Diffraction image processing](https://github.com/MooersLab#diffraction-image-processing)
+  + [SSRL-SMB bash functions](https://github.com/MooersLab/smb-bash-functions)
   + [Wilson plots](https://github.com/MooersLab#wilson-plots)
 - [Emacs](https://github.com/MooersLab#emacs-related)
   + [Talks about Emacs](https://github.com/MooersLab#my-talks-about-emacs)
