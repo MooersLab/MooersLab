@@ -933,7 +933,7 @@ Progress tracking can support momentum and enthusiasm for writing tasks that can
 - [TimeSpent](https://github.com/MooersLab/timeSpent) Hourly time tracking by project with Google Sheets. This is useful for making monthly time reports and learning how much various writing projects take. It requires updating every several hours throughout the day. Updating the record can be painful if you fall behind by a day or more. Only some people have the discipline to do time-tracking. If you cannot do it, you are "regressing towards the mean" as Sir Francis Galton would say.
 - [Writing contract template](https://github.com/MooersLab/writingContract) This contract is in Microsoft Word, Markdown, LaTeX, and org-mode. This accountability system works only if your partner is similarly committed to daily writing. I had a good run of four years with one person from out of state. I would consider doing this again.
 
-![Here is an example](https://github.com/MooersLab/writing-time-spent-heatmap/blob/main/images/hmj.png)
+![Here is an example](https://github.com/MooersLab/writing-time-spent-heatmap/blob/main/images/hmgj.png)
 
 
 ## Update History
