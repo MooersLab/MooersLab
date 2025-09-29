@@ -946,12 +946,6 @@ Progress tracking can support momentum and enthusiasm for writing tasks that can
 - NIH P20GM103640 and P30GM145423 (PI: A. West)
 
 
-## Contribution Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MooersLab&theme=github-compact)
-
-
-
 **MooersLab/MooersLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on his GitHub profile 👋.
 
 <!--
