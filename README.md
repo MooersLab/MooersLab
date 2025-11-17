@@ -18,6 +18,8 @@ How is it work![Version](https://img.shields.io/static/v1?label=mooerslab&messag
   + [Wilson plots](https://github.com/MooersLab#wilson-plots)
 - [Emacs](https://github.com/MooersLab#emacs-related)
   + [Talks about Emacs](https://github.com/MooersLab#my-talks-about-emacs)
+  + [elfeedorg](https://github.com/MooersLab#elfeedorg)
+  + []()
 - [Experimental design](https://github.com/MooersLab#experimental-design)
 - [Grant writing](https://github.com/MooersLab#grant-writing)
 - [Jupyter and Colab](https://github.com/MooersLab#jupyter-and-colab-related)
