@@ -6,6 +6,7 @@ How is it work![Version](https://img.shields.io/static/v1?label=mooerslab&messag
 ## Quick Links
 
 - [ACA Structural Sciences Society talks](https://github.com/MooersLab#aca-talks)
+- [Awesome lists of interest](https://github.com/MooersLab#awsome)
 - [bash](https://github.com/MooersLab#bash-related)
 - [Bayesian Data Analysis](https://github.com/MooersLab#bayesian-data-analysis)
 - [Clojure](https://github.com/MooersLab#clojure)
