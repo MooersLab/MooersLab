@@ -1,4 +1,4 @@
-How is it work![Version](https://img.shields.io/static/v1?label=mooerslab&message=0.7.3&color=brightcolor)
+![Version](https://img.shields.io/static/v1?label=mooerslab&message=0.7.3&color=brightcolor)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 # MooersLab
