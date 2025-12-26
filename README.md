@@ -718,7 +718,7 @@ Sufficient time has to be scheduled for it.
 I plan to spend more time rewriting, so you can expect the new words generated in the following bimonthly reports to decline.
 
 The slump from November to February was due to switching laptop computers.
-The new computer does not run Whisper correctly, dramatically reducing my conversion of audio files to text.
+The new computer did not run Whisper correctly initially, dramatically reducing my conversion of audio files to text.
 
 The surge in March-April 2025 was likely due to several causes.
 First, I discovered the `write file` command in `the whisper.el` package of Emacs.
@@ -755,6 +755,12 @@ I also have the chatbot extract to-do items and put these into a list in org-mod
 I dictate the term `to-do' to mark the beginning of a task for my to-do list.
 I then copy and paste the list into my daily entry in an org-mode document where I keep my daily plans.
 
+I broke my lower right leg in two places September 30, 2025. 
+A metal plate and nine screws were used to hold the bones together.
+This hosptial visits and recovery periods knocked off my writing schedule.
+The inital orthopedica surgery wound got infected.
+The infected tisses were removed in five subsequent operations.
+This prevented me from commuting.
 
 ### What about Mac's Dictation and Voice Control software?
 One alternative is to use the built-in Dictation software for Mac.
