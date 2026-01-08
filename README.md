@@ -757,10 +757,32 @@ I then copy and paste the list into my daily entry in an org-mode document where
 
 I broke my lower right leg in two places September 30, 2025. 
 A metal plate and nine screws were used to hold the bones together.
-This hosptial visits and recovery periods knocked off my writing schedule.
-The inital orthopedica surgery wound got infected.
-The infected tisses were removed in five subsequent operations.
-This prevented me from commuting.
+They were inserted through a 20 cm incision.
+The inital orthopedic surgery wound became infected during the first two weeks.
+The infected tisses were removed in five subsequent operations over the next six weeks.
+
+The subsequent surgeries delayed my recovery.
+I was not able to put any weight on my right leg for 10 weeks.
+By being forced to be very sedentary, my physical stamina diminished greatly.
+This in turn impacted on my mental stamina.
+
+I was able to keep up my daily entries in 750 Words, but I was not able to stick to my writing schedule during most of my recovery. 
+I would start up my writing schedule multiple times only to have it interrupted by medical related matters.
+The daily entries included summaries of what I accomplished the day before and reflections on my medical condition.
+I also kept the record of my drug use.
+At one point I had to ingest three antibiotics seven times a day on a schedule.
+
+Part the problem was the painkillers that I was taking interfered with my sleep.
+There were many days where I was only able to get 2 to 4 hours of sleep during the first 10 weeks.
+Once I was able to put some weight on my right leg and move around more, the fatigue from doing so forced me to sleep several hours more than I normally do.
+Receiving medical treatment actually involved a lot more time than I had expected.
+I had weekly doctor office visits because of the seriousness of my infections and I had multiple weekly visits from in-home care people.
+One week, I tallied up having to spend 50 hours on matters related to my injury.
+The recovery process was essentially a full-time job.
+
+You would think that being forced to be sedentary would be a wonderful opportunity to get a lot of writing done.
+I had that expectation, but it turned out to be very unrealistic in presence of serious physical trauma.
+Although I was on extended sick leave, I did keep up with many of my professional obligations in terms of reviewing manuscripts and serving on committees via zoom.
 
 ### What about Mac's Dictation and Voice Control software?
 One alternative is to use the built-in Dictation software for Mac.
