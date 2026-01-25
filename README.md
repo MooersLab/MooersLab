@@ -1,4 +1,4 @@
-![Version](https://img.shields.io/static/v1?label=mooerslab&message=0.7.3&color=brightcolor)
+![Version](https://img.shields.io/static/v1?label=mooerslab&message=0.7.4&color=brightcolor)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 # MooersLab
@@ -973,6 +973,7 @@ Progress tracking can support momentum and enthusiasm for writing tasks that can
 |Version   | Changes                                                                                                     | Date             |
 |:---------|:------------------------------------------------------------------------------------------------------------|:-----------------|
 | 0.7.3    | Added a highlights subsection to the PyMOL section. Made clarifications to the voice computing section.     | 2024 September 28 |
+| 0.7.3    | Made more clarifications to the voice computing section.                                                    | 2026 January 25 |
 
 ## Sources of funding
 
