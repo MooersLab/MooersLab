@@ -685,7 +685,7 @@ This decrease may reflect more effort focused on editing text.
 
 In November-December 2024, I spent 80 hours preparing a talk for the Data Science Workshop and 140 hours preparing an Emacsconf talk.
 This would explain some of the decline in word count in November.
-I started posting the daily writing effort in December,
+I started posting the daily writing effort in December.
 This might have changed my behavior by trying to finish a manuscript.
 In any event, the total word count for 2024 was 1,090,627 words.
 This would be equivalent to the content of 12 long novels.
@@ -697,7 +697,7 @@ The DVR can record a Zoom meeting when lying on a table or a seminar from the ba
 I transcribe the audio recordings with a locally installed version of OpenAI's Whisper.
 I use Python and bash scripts to reformat the text with one sentence per line for easier downstream editing.
 
-I am still using this device daily as of early May 2025.
+I am still using this device daily as of late January 2026.
 It is the best $85 investment I have made in a long time.
 It is worth ten times as much. 
 
@@ -717,7 +717,7 @@ Text written for grant applications and articles will take even more time becaus
 Sufficient time has to be scheduled for it.
 I plan to spend more time rewriting, so you can expect the new words generated in the following bimonthly reports to decline.
 
-The slump from November to February was due to switching laptop computers.
+The slump from November to February 2025 was due to switching laptop computers.
 The new computer did not run Whisper correctly initially, dramatically reducing my conversion of audio files to text.
 
 The surge in March-April 2025 was likely due to several causes.
@@ -756,10 +756,14 @@ I dictate the term `to-do' to mark the beginning of a task for my to-do list.
 I then copy and paste the list into my daily entry in an org-mode document where I keep my daily plans.
 
 I broke my lower right leg in two places September 30, 2025. 
-A metal plate and nine screws were used to hold the bones together.
+I sheared the tibia and fibula below the knee and smashed into many parts the shin bone further down my leg.
+The second site has been the origin of a lot of trouble.
+Two metal plates and fourteen screws were used to hold the bones together.
 They were inserted through a 20 cm incision.
 The inital orthopedic surgery wound became infected during the first two weeks.
 The infected tisses were removed in five subsequent operations over the next six weeks.
+Three and half months after the accident, the metal was removed because the incision wound was not closing.
+One thick plate as making the skin on my
 
 The subsequent surgeries delayed my recovery.
 I was not able to put any weight on my right leg for 10 weeks.
@@ -776,7 +780,7 @@ Part the problem was the painkillers that I was taking interfered with my sleep.
 There were many days where I was only able to get 2 to 4 hours of sleep during the first 10 weeks.
 Once I was able to put some weight on my right leg and move around more, the fatigue from doing so forced me to sleep several hours more than I normally do.
 Receiving medical treatment actually involved a lot more time than I had expected.
-I had weekly doctor office visits because of the seriousness of my infections and I had multiple weekly visits from in-home care people.
+I had weekly doctor office visits because of the seriousness of my infections, and I had multiple weekly visits from in-home care people.
 One week, I tallied up having to spend 50 hours on matters related to my injury.
 The recovery process was essentially a full-time job.
 
