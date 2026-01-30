@@ -734,10 +734,26 @@ I select this line in Emacs to make it an active region.
 I apply a custom-made command (found in the mooerslabfunctions.el) that splits the line by sentences so that I have one sentence per line.
 I either manually parse the text, or I have a chatbot parse the text for me.
 
-Because the final destination of the text will be LaTeX document, I use the following prompt before I supply the transcript:
+Because the final destination of the text will be LaTeX document, I use the following prompt before I supply the transcript.
+The list of todos in org allows me to paste these todos into an org-mode file.
 
 ```bash
 Parse this transcript into paragraphs and subsubsections by topic. Include index keys below the subsubsection headline. Extract the TODO items into an org-mode style checklist starting (e.g., - [ ]). Enclose this list in a LaTeX minted block between \begin{minted}{org} and \end{minted}. Return the text in LaTeX. Here is the transcript:
+```
+
+Here is my current variant that exports the to-dos in LaTeX:
+
+```bash
+Parse this transcript into paragraphs and subsubsections by topic in LaTeX.
+Include index keys below the subsubsection headline.
+Extract the TODO items into an LaTeX-style itemized list with the following frist line: \begin{itemize}[label=\unchecked].
+Enclose this list in a LaTeX \end{itemize}
+Return the parsed text in LaTeX without the preamble and the \begin{document} and \end{document}.
+Correct the grammar and return one sentence per line.
+Return with the index keys in the format of \index{<keyword or phrase>}.
+Replace all English contractions with their expansions.
+Return the index keys one per line.
+Here is the transcript:
 ```
 
 I have a chatbot fill in the index keys and reorganize the prose by its identified categories.
@@ -762,8 +778,9 @@ Two metal plates and fourteen screws were used to hold the bones together.
 They were inserted through a 20 cm incision.
 The inital orthopedic surgery wound became infected during the first two weeks.
 The infected tisses were removed in five subsequent operations over the next six weeks.
-Three and half months after the accident, the metal was removed because the incision wound was not closing.
-One thick plate as making the skin on my
+Three and half months after the accident, the metal was removed January 14 because the incision wound was not closing.
+One thick plate as making the skin on my shin too taut.
+
 
 The subsequent surgeries delayed my recovery.
 I was not able to put any weight on my right leg for 10 weeks.
@@ -774,19 +791,20 @@ I was able to keep up my daily entries in 750 Words, but I was not able to stick
 I would start up my writing schedule multiple times only to have it interrupted by medical related matters.
 The daily entries included summaries of what I accomplished the day before and reflections on my medical condition.
 I also kept the record of my drug use.
-At one point I had to ingest three antibiotics seven times a day on a schedule.
+I have had to take three sets of 3 to 4 antibiotics, each set for six weeks.
+The second set was injected via a PICC line.
 
 Part the problem was the painkillers that I was taking interfered with my sleep.
 There were many days where I was only able to get 2 to 4 hours of sleep during the first 10 weeks.
 Once I was able to put some weight on my right leg and move around more, the fatigue from doing so forced me to sleep several hours more than I normally do.
 Receiving medical treatment actually involved a lot more time than I had expected.
 I had weekly doctor office visits because of the seriousness of my infections, and I had multiple weekly visits from in-home care people.
-One week, I tallied up having to spend 50 hours on matters related to my injury.
+One week, I tallied up 50 hours spent on matters related to my injury.
 The recovery process was essentially a full-time job.
 
 You would think that being forced to be sedentary would be a wonderful opportunity to get a lot of writing done.
 I had that expectation, but it turned out to be very unrealistic in presence of serious physical trauma.
-Although I was on extended sick leave, I did keep up with many of my professional obligations in terms of reviewing manuscripts and serving on committees via zoom.
+Although I was on extended sick leave, I did keep up with many of my professional obligations in terms of reviewing manuscripts and serving on committees via Zoom.
 
 ### What about Mac's Dictation and Voice Control software?
 One alternative is to use the built-in Dictation software for Mac.
@@ -912,8 +930,8 @@ It may be a good bridge between Voice In Plus and Talon Voice.
 
 
 ### Whisper related
-- [Bash function to transcribe audio files with whisper](https://github.com/MooersLab/bash-whisper-transcription)
-
+- [Bash function to transcribe audio files with the Python version of whisper](https://github.com/MooersLab/bash-whisper-transcription)
+- [Emacs package to read audio files directly off DVR during transcriptioin](https://github.com/MooersLab/whisper-dvr)   
 
 ### Voice computing-related talks
 I have given three talks on this topic: two at the regional level and one at the international level.
