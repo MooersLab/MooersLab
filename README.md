@@ -991,7 +991,7 @@ Progress tracking can support momentum and enthusiasm for writing tasks that can
 |Version   | Changes                                                                                                     | Date             |
 |:---------|:------------------------------------------------------------------------------------------------------------|:-----------------|
 | 0.7.3    | Added a highlights subsection to the PyMOL section. Made clarifications to the voice computing section.     | 2024 September 28 |
-| 0.7.3    | Made more clarifications to the voice computing section.                                                    | 2026 January 25 |
+| 0.7.3    | Added further clarification to the voice computing section.                                                    | 2026 January 25 |
 
 ## Sources of funding
 
