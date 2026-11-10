@@ -203,11 +203,11 @@ Elisp was first used in Emacs 19 in 1985, with the GNU Emacs 19.3, about ten yea
 
 It should be noted that Emacs is single-threaded.
 This is a significant limitation when it comes to loading large embedded images.
-The developers have and continue to optimize the part of the code base that relies on C for speed so single treading is generally not a hindrance for most uses.
+The developers have optimized and continue to optimize the part of the codebase that relies on C for speed, so single-threading is generally not a hindrance for most uses.
 
 One group has started a 'lem' project that uses Common Lisp to build a multithreaded text editor similar to Emacs. 
 Unfortunately, `lem` is not user-ready in our experience. 
-Perhaps, Emacs users will migrate to `lem` someday. 
+Perhaps Emacs users will migrate to `lem` someday. 
 In the meantime, it is worth continuing to use Emacs, knowing that a multithreading alternative is under development.
 
 The Emacs project is open-source and run by several hundred volunteer core developers.
@@ -217,7 +217,7 @@ The project's benevolent dictator for life stepped down about 15 years ago.
 After doing so, an explosion of creativity occurred.
 
 According to the [Lindy effect](https://www.sciencedirect.com/science/article/abs/pii/S0378437117305964?via%3Dihub), it is likely that Emacs will remain in use for another 50 years.
-Exposure to elisp coding in Emacs leads some to pick up other languages in the Lisp family, including Clojure.
+Exposure to Elisp coding in Emacs leads some to pick up other languages in the Lisp family, including Clojure.
 This, in turn, leads them to understand programming more deeply.
 
 ### Tools to support the mastery of Emacs
@@ -228,7 +228,7 @@ Total mastery is impossible with >5000 packages.
 - [Popup menus of GNU Emacs core commands you want to master](https://github.com/MooersLab/emacs-learning-spiral-hydra)
 - [Configuration for Emacs30 to support structured editing](https://github.com/MooersLab/emacs30venturatreesitterconfig)
 - [Some simple hydras in Codeberg repo](https://codeberg.org/MooersLab/emacs-hydra-examples)
-- [Quizzes about Emacs to improve recall of keybindings](https://github.com/MooersLab/qemacs) Ten minutes boosting your recall on a particular topic can save 10, 100, or 1000 hours of Google searches, especially if you are prone to getting side-tracked in the Google-verse.
+- [Quizzes about Emacs to improve recall of keybindings](https://github.com/MooersLab/qemacs) Ten minutes boosting your recall on a particular topic can save 10, 100, or 1000 hours of Google searches, especially if you are prone to getting sidetracked in the Google-verse.
 
 ### Sample configurations
 
@@ -241,18 +241,18 @@ You probably just want to copy bits of configuration to integrate into your own 
 - [Compiling Emacs30 on Ubuntu22.04 LTS with tree-sitter](https://github.com/MooersLab/emacs30ubuntu22) This protocol compiles Emacs with tree-sitter support on Ubuntu.
 - [crafted-emacs user config](https://github.com/MooersLab/crafted-emacs-config) My user configuration file (config.el) for the crafted-emacs profile. I did install use-package and used it to install several packages. The base profile has the Doom theme, Vertico completion stack, and eglot. I added my org-agenda config and my favorite key bindings. I am currently *luvin* it.
 - [latex-emacs29 configuration](https://github.com/MooersLab/latex-emacs) A configuration file enhancing the use of LaTeX in Gnu Emacs version 29.0.5. Includes org-mode configuration.
-- [latex-emacs28 configuration](https://github.com/MooersLab/latexemacs28) Similar to above but for Gnu Emacs version 28.
-- [latex-emacs30 configuration](https://github.com/MooersLab/latexemacs30) Similar to above but for Gnu Emacs version 30.
-- [scimax user.el](https://github.com/MooersLab/scimaxuserconfig) Scimax is the Emacs configuration that Dr. John Kitchin of Carniege-Mellon University is developing to support reproducible research by scientists with Gnu Emacs. The *user.el* file for Scimax enables Scimax users to add keybindings and packages. I added features from latex-emacs and config.org.
+- [latex-emacs28 configuration](https://github.com/MooersLab/latexemacs28) Similar to above but for GNU Emacs version 28.
+- [latex-emacs30 configuration](https://github.com/MooersLab/latexemacs30) Similar to above but for GNU Emacs version 30.
+- [scimax user.el](https://github.com/MooersLab/scimaxuserconfig) Scimax is the Emacs configuration that Dr. John Kitchin of Carniege-Mellon University is developing to support reproducible research by scientists with GNU Emacs. The *user.el* file for Scimax enables Scimax users to add keybindings and packages. I added features from latex-emacs and config.org.
 - [config.org](https://github.com/MooersLab/configorg) My default GNU Emacs version 30 configuration file.
 
 ### Document templates and workflows in LaTeX and Org-mode
 
-Org-mode is a blend of the best features of markdown and LaTeX.
+Org-mode is a blend of the best features of Markdown and LaTeX.
 Although you can use org-mode without knowledge of LaTeX, you do not have to give up any of your skills and knowledge of using LaTeX to use org-mode.
 You gain powerful tools for navigating the file, making major rearrangements of its sub-trees, and interfacing with many other programs, such as Gnuplot, for generating data plots from tables.
 Org-mode's table editor is reason enough to adopt its use because it makes assembling a table easy.
-For example, you can draft a table in org-mode, drop it into co-pilot, and ask it to reformat it LaTeX.
+For example, you can draft a table in Org mode, drop it into Copilot, and ask it to reformat it in LaTeX.
 
 #### Org-mode templates
 - [Book project in org-mode](https://github.com/MooersLab/bookInOrg)
@@ -281,10 +281,11 @@ As an advanced beginner, I find the pressure of assembling a talk an effective w
 - [emacsconf 2022 talk about using Emacs to edit Jupyter cells via GhostText and atomic-chrome](https://emacsconf.org/2022/talks/jupyter/) Video and comments.
 - [emacsconf 2023 talk about using voice-computing with Emacs to enhance productivity](https://emacsconf.org/2023/talks/voice/) Video, transcript, and comments.
 - [DSW November 2024: A Science Writing Workflow in Org Mode: slides and link to talk](https://github.com/MooersLab/DSW24-org-mode-slides)
-- [emacsconf 2024 talk about managing science writing metadata](https://emacsconf.org/2024/talks/project/)  
+- [emacsconf 2024 talk about managing science writing metadata](https://emacsconf.org/2024/talks/project/)
+- [emacsconf 2026 talk about developing an antifragile writing habit](https://emacsconf.org/2026/talks/writing/)
 
 ### Voice computing for Emacs
-- [Voice-In library for emacs](https://github.com/MooersLab/emacs-voice-in)
+- [Voice-In library for Emacs](https://github.com/MooersLab/emacs-voice-in)
 - [Voice-In library for org-mode](https://github.com/MooersLab/org-mode-voice-in)
 
 
@@ -298,7 +299,7 @@ PyMOL can be run in Jupyter via PyMOL's Python API.
 #### Snippet libraries for direct use in Jupyter
 
 Multiple extensions for Jupyter support the use of snippets.
-However, the support does not include tab stops nor tab triggers, two standard features of snippet support in modern text editors.
+However, the support does not include tab stops or tab triggers, two standard features of snippet support in modern text editors.
 The libraries with `plus` at the end of their name have a second copy of the code in a comment.
 This copy is marked with the sites of the tab stops where you might want to change the parameter value from its default value.
 
