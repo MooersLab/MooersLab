@@ -1,4 +1,4 @@
-![Version](https://img.shields.io/static/v1?label=mooerslab&message=0.7.4&color=brightcolor)
+![Version](https://img.shields.io/static/v1?label=mooerslab&message=0.7.5&color=brightcolor)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 # MooersLab
@@ -626,9 +626,9 @@ This code also supports inserting simple commands like `new paragraph` during di
 A very new use of **Whisper** for me is inside Emacs.
 After my third attempt, I finally figured out how to run **Whisper** in Emacs via the [**whisper.el** package](https://github.com/natrys/whisper.el?tab=readme-ov-file).
 The package automates compiling the *whisper.cpp* software and downloading the Whisper LLM.
-You record a local audio file of your dictation, then transcribe it into text that appears in the current buffer in Emacs.
+You record a local audio file of your dictation, then transcribe it into text that appears in the current Emacs buffer.
 The `M-H r` keybinding starts the audio recording, and the `C-u M-x r` keybinding transcribes the audio file.
-Here, `H` is for the Hyper key; I have it mapped to the right-hand command key (alt-key) on a non-Mac keyboard.
+Here, `H` is for the Hyper key; I have it mapped to the right-hand command key (Alt key) on a non-Mac keyboard.
 
 The natural unit of dictation with `whisper.el` seems to be the paragraph.
 This form of dictation is less interactive than Voice In Plus, where you can use the keyboard to edit the sentence being dictated.
@@ -665,7 +665,7 @@ You can give your body and eyes a break from sitting and staring at the computer
 
 ### Word Counts before (orange) and after (magenta) adopting Voice Computing
 
-I saw a three-fold increase in the total number of words captured in September and October 2023 compared to June and July 2023, after I took up speech-to-text in mid-August 2023.
+I saw a three-fold increase in the total number of words captured in September and October 2023 compared to June and July 2023 after I started using speech-to-text in mid-August 2023.
 I have had the same amount of out-of-town travel during the first two periods.
 I did not make a conscious effort to capture more words per day.
 
@@ -718,8 +718,8 @@ The slump from November to February 2025 was due to switching laptop computers.
 The new computer did not run Whisper correctly at first, which dramatically reduced my ability to convert audio files to text.
 
 The surge in March-April 2025 likely resulted from several factors.
-First, I discovered the `write file` command in `the whisper.el` package of Emacs.
-This package uses the C++ version of whisper.
+First, I discovered the `write file` command in the whisper.el` package of Emacs.
+This package uses the C++ version of Whisper.
 This version is about 100 times faster than the Python version and much easier to install.
 It is not susceptible to the dependency issues that plague Python.
 
@@ -731,11 +731,11 @@ I select this line in Emacs to make it an active region.
 I apply a custom-made command (found in mooerslabfunctions.el) that splits the line by sentences, so I have one sentence per line.
 I either parse the text manually or have a chatbot parse it for me.
 
-Because the final destination of the text will be LaTeX document, I use the following prompt before I supply the transcript.
+Because the final destination of the text will be a LaTeX document, I use the following prompt before I supply the transcript.
 The to-do list in org lets me paste these to-dos into an org-mode file.
 
 ```bash
-Parse this transcript into paragraphs and subsubsections by topic. Include index keys below the subsubsection headline. Extract the TODO items into an org-mode style checklist starting (e.g., - [ ]). Enclose this list in a LaTeX minted block between \begin{minted}{org} and \end{minted}. Return the text in LaTeX. Here is the transcript:
+Parse this transcript into paragraphs and subsubsections by topic. Include index keys below the subsubsection headline. Extract the TODO items into an Org-mode-style checklist starting (e.g., - [ ]). Enclose this list in a LaTeX minted block between \begin{minted}{org} and \end{minted}. Return the text in LaTeX. Here is the transcript:
 ```
 
 Here is my current variant that exports the to-dos in LaTeX:
@@ -834,20 +834,20 @@ My approach with this software is more cumbersome than the straightforward appro
 In addition, I reformat the text so that each sentence is written on its own line.
 This format eases the deletion of lines containing rubbish.
 You can advance to the following line with the down arrow key in most text editors.
-If the current line is to be deleted, you enter control-K.
+If the current line is to be deleted, you enter Control-K.
 
-I have used the dictated text transcribed by Whisper to a lesser extent than that generated with Voice-In Plus.
+I have used the text transcribed by Whisper less than text generated with Voice-In Plus.
 Whisper often inserts garbage during long pauses.
 It takes a lot of effort to parse the transcribed text.
 
 It is easier to redo the dictation via Voice In and make corrections as you go.
 Dictating the first draft during the morning commute is analogous to generating a verbal rough draft.
 If I leave the DVR at home, I will still compose some prose by speaking aloud.
-Once the initial draft has been composed verbally, it is easier to redo it with better word choices after I reach my office.
+Once I've composed the initial draft verbally, it is easier to revise it with better word choices after I reach my office.
 
 Of course, generative writing is a small part of writing.
 Rewriting, data analysis, figure-making, reading the literature, and managing co-author input take up most of the time.
-You can attempt to rewrite a small part of a manuscript before a commute by re-reading the part in question immediately before the commute.
+You can try rewriting a small part of a manuscript before a commute by re-reading the part in question immediately before you leave.
 This sounds boring, but exciting new ideas often emerge during this exercise.
 
 Below are links to programming tools to aid the adoption of voice computing.
@@ -857,7 +857,7 @@ Below are links to programming tools to aid the adoption of voice computing.
 - [Run bash commands in the terminal by voice command](https://github.com/MooersLab/talon-iterm)
 - [Open favorite web pages by voice commands](https://github.com/MooersLab/talon-webpages)
 - [Master Talon Voice phonetic alphabet with interactive quiz written in Python](https://github.com/MooersLab/talon-voice-quizzes)
-- [Master Talon Voice with interactive quiz written in elisp for Emacs](https://github.com/MooersLab/talon-voice-quiz.el)
+- [Master Talon Voice with interactive quiz written in Elisp for Emacs](https://github.com/MooersLab/talon-voice-quiz.el)
 
 
 ### Voice In Plus related
@@ -902,7 +902,7 @@ Nonetheless, this software is superior to Mac dictation software, which will onl
 - [Markdown in Jupyter notebooks](https://github.com/MooersLab/markdown-jupyter-voice-in/tree/main)
 
 #### Emacs related
-- [Voice-In library for emacs](https://github.com/MooersLab/emacs-voice-in)
+- [Voice-In library for Emacs](https://github.com/MooersLab/emacs-voice-in)
 - [Voice-In library for org-mode](https://github.com/MooersLab/org-mode-voice-in)
 
   
@@ -927,8 +927,8 @@ It may be a good bridge between Voice In Plus and Talon Voice.
 
 
 ### Whisper related
-- [Bash function to transcribe audio files with the Python version of whisper](https://github.com/MooersLab/bash-whisper-transcription)
-- [Emacs package to read audio files directly off DVR during transcriptioin](https://github.com/MooersLab/whisper-dvr)   
+- [Bash function to transcribe audio files with the Python version of Whisper](https://github.com/MooersLab/bash-whisper-transcription)
+- [Emacs package to read audio files directly off DVR during transcription](https://github.com/MooersLab/whisper-dvr)   
 
 ### Voice computing-related talks
 I have given three talks on this topic: two at the regional level and one at the international level.
@@ -958,27 +958,27 @@ It is analogous to a project-specific laboratory notebook.
 - [Annotated bibliography Template in LaTeX](https://github.com/MooersLab/annotatedBibliography) Classic and boring variant.
 - [Modular annotated bibliography with BibTeX in LaTeX](https://github.com/MooersLab/modular-annotated-bibliography-bibtex-latex) Modular annotation files for reuse and to evade mangling by BibTeX. Can be fully illustrated and include multiple paragraphs. Includes index, glossaries, and Literature Cited for references outside the annotated bibliography. Drag and drop zip file available for instant gratification on Overleaf.
 - [Modular annotated bibliography with BibLaTeX in LaTeX](https://github.com/MooersLab/modular-annotated-bibliography-biblatex-latex) Modular annotation files for reuse and to evade mangling by biber. Can be fully illustrated and include multiple paragraphs. Includes index, glossaries, and Literature Cited for references outside the annotated bibliography. Drag and drop the zip file, which is available for instant gratification on Overleaf.
-- [bib2item3](https://github.com/MooersLab/bib2item3) Python script to convert bibtex.bib file to bibitems in the tex file format. Bibitems are required by some publishers. They are tedious to create manually.
+- [bib2item3](https://github.com/MooersLab/bib2item3) Python script to convert bibtex.bib file to bibitems in the TeX file format. Bibitems are required by some publishers. They are tedious to create manually.
 - [Emacsconf 2022 talk about GhostText on YouTube, December 2022](https://www.youtube.com/watch?v=2NPUDYAOgW0&t=3s) Includes a demonstration of using Emacs to edit a document stored in Overleaf.
 - [LaTeX Voice In Plus library of speech-to-text commands](https://github.com/MooersLab/latex-voice-in)
 
 ### Writing log for planning manuscripts
 
-- [Writing Log template in LaTeX](https://github.com/MooersLab/writingLogTemplate). This is the favored format. LaTeX beginning users can easily use this document on Overleaf without any configuration.
+- [Writing Log template in LaTeX](https://github.com/MooersLab/writingLogTemplate). This is the favored format. LaTeX beginners can easily use this document on Overleaf without any configuration.
 - [Writing log template in Org-mode](https://github.com/MooersLab/writingLogTemplateInOrg) Has all of the features of the LaTeX variant. Favored by many Emacs users. Org-mode is a powerful analog of Markdown that can interpret LaTeX code blocks. If you are a LaTeX user, you can view org-mode as LaTeX with extensions that ease the assembly of tables, support time management via org-agenda, support knowledge management via org-roam, and support interactive computing. 
 - [Writing log template in typst](https://github.com/MooersLab/writing-log-typst) Typst is a new alternative to LaTeX. It is built on Rust and instantly compiles small documents like this writing log.
 - [Writing log template in reStructuredText](https://github.com/MooersLab/writing-log-rst) reStructuredText is used by programmers for documentation.
 - [Writing log template in Markdown](https://github.com/MooersLab/writing-log-md) Markdown variant. Rendered to PDF by most good text editors.
-- [Writing log template in ODT](https://github.com/MooersLab/writing-log-odt) ODT can be read by Open Office, LibreOffice, and MS Word.
-- [Writing log template in DOCX for MS Word](https://github.com/MooersLab/writing-log-docx) MS Word variant--the least suitable format for this task, in my opinion.
+- [Writing log template in ODT](https://github.com/MooersLab/writing-log-odt) ODT can be read by OpenOffice, LibreOffice, and MS Word.
+- [Writing log template in DOCX for MS Word](https://github.com/MooersLab/writing-log-docx) MS Word variant—the least suitable format for this task, in my opinion.
 
 ### Progress tracking
 Progress tracking can support momentum and enthusiasm for writing tasks that cannot be completed in one sitting.
 
 - [Autogenerated GitHub-style calendar-based heatmap of time spent writing](https://github.com/MooersLab/writing-time-spent-heatmap)
 - [Track writing progress in 2024 and 2025](https://github.com/MooersLab/writing-progress-2024-25) Enables tracking effort on separate projects and generates plots of cumulative effort across projects in bar plots. Updating the records at the end of the day takes only several minutes. Required tracking start and stop times, 
-- [TimeSpent](https://github.com/MooersLab/timeSpent) Hourly time tracking by project with Google Sheets. This is useful for making monthly time reports and learning how much various writing projects take. It requires updating every several hours throughout the day. Updating the record can be painful if you fall behind by a day or more. Only some people have the discipline to do time-tracking. If you cannot do it, you are "regressing towards the mean" as Sir Francis Galton would say.
-- [Writing contract template](https://github.com/MooersLab/writingContract) This contract is in Microsoft Word, Markdown, LaTeX, and org-mode. This accountability system works only if your partner is similarly committed to daily writing. I had a good run of four years with one person from out of state. I would consider doing this again.
+- [TimeSpent](https://github.com/MooersLab/timeSpent) Hourly time tracking by project with Google Sheets. This is useful for making monthly time reports and learning how much various writing projects take. It requires updating every several hours throughout the day. Updating the record can be painful if you fall behind by a day or more. Only some people have the discipline to do time-tracking. If you cannot do it, you are "regressing towards the mean," as Sir Francis Galton would say.
+- [Writing contract template](https://github.com/MooersLab/writingContract) This contract is in Microsoft Word, Markdown, LaTeX, and Org-mode. This accountability system works only if your partner is similarly committed to daily writing. I had a good run of four years with one person from out of state. I would consider doing this again.
 
 ![Here is an example](https://github.com/MooersLab/writing-time-spent-heatmap/blob/main/images/hmgj.png)
 
@@ -988,7 +988,8 @@ Progress tracking can support momentum and enthusiasm for writing tasks that can
 |Version   | Changes                                                                                                     | Date             |
 |:---------|:------------------------------------------------------------------------------------------------------------|:-----------------|
 | 0.7.3    | Added a highlights subsection to the PyMOL section. Made clarifications to the voice computing section.     | 2024 September 28 |
-| 0.7.3    | Added further clarification to the voice computing section.                                                    | 2026 January 25 |
+| 0.7.4    | Added further clarification to the voice computing section.                                                    | 2026 January 25 |
+| 0.7.5    | Minor edits.                                                                                                  | 2026 November 10 |
 
 ## Sources of funding
 
