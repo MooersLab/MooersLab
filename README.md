@@ -65,22 +65,22 @@ We grow crystals using advanced experimental design methods and collect X-ray di
 We also do structure-based drug design using supercomputers.
 
 We are not computer scientists; we leave the heavy-duty coding to the professionals.
-However, we write code occasionally to help advance our science and the science of others.
-We have developed software tools to ease the writing of PyMOL scripts to make molecular images.
+However, we write code occasionally to help advance our science and others'.
+We have developed software tools to occasionally ease the writing of PyMOL scripts to make molecular images.
 These tools are available for the top 19 text editors and the Jupyter, Colab, and R Markdown notebooks.
 These text editors can make your work lighter and have many excellent features, but Emacs is our favorite because, thanks to Emacs Lisp, it is the most customizable text editor.
 However, we caution that one must take a disciplined approach to Emacs because it is a tinker's paradise.
 
 We often use the web service called *Overleaf* to write manuscripts, grant applications, slideshows, posters, and lab notebooks in LaTeX.
-We spent five years trying the alternative Markup languages.
-This was before I became aware of Overleaf, which made working with LaTeX much easier.
+We spent five years trying alternative Markup languages.
+This was before I learned about Overleaf, which made working with LaTeX much easier.
 Some of our LaTeX templates are in the repositories found here (see the section on [LaTeX](https://github.com/MooersLab#latex-related) below).
 
 Overleaf is a great way to get started with LaTeX.
-However, Emacs provides access to more powerful editing features.
+However, Emacs offers more powerful editing features.
 You can use GhostText to send a page from Overleaf to Emacs for editing.
 Nonetheless, Overleaf is excellent for collaborative writing. 
-When using Chrome or Microsoft Edge, you can use the Voice In plugin for Google Chrome to dictate prose in Overleaf.
+In Chrome or Microsoft Edge, you can use the Voice In plugin to dictate prose in Overleaf.
 
 We are also fans of Jupyter Notebooks.
 Something inexplicable about Jupyter Notebooks makes coding in them fun.
@@ -92,28 +92,28 @@ Those who lack this awareness will run into a lot of trouble.
 We also like R Markdown notebooks.
 Although somewhat less interactive than Jupyter notebooks, these are simpler to put under version control, and they support custom libraries of code snippets with tab triggers and tab stops.
 The RStudio IDE provides excellent support for R Markdown notebooks.
-You can have the best of both worlds by editing R Markdown notebooks in Emacs and using the reticulate package to harness Jupyter kernels to run Python inside the notebook.
+You can have the best of both worlds by editing R Markdown notebooks in Emacs and using the reticulate package to run Python in Jupyter kernels inside the notebook.
 
-We code in mainly in Python but sometimes in Bash, R, Clojure, Elisp, Julia, Fortran, and C/C++.
-It is hard to be a polyglot programmer due to limitations on mental bandwidth.
+We code mainly in Python but sometimes in Bash, R, Clojure, Elisp, Julia, Fortran, and C/C++.
+Being a polyglot programmer is hard due to limited mental bandwidth.
 
 Our repositories are grouped by category.
 Some repositories are listed in several categories.
 This listing is still a work in progress.
 Some repositories still need to be added to this page.
-Seventeen repos are forks to other people's repositories.
+Seventeen repos are forks of other people's repositories.
 Visit the [repositories tab](https://github.com/MooersLab?tab=repositories) to see the complete list of repositories.
 
 In the spring of 2023, I started a [MooersLab](https://codeberg.org/MooersLab) site on Codeberg.
-A foundation runs Codeberg and has 13 years of funding.
-Some repositories on GitHub get mirrored on Codeberg.
+Codeberg is funded by a foundation and has 13 years of funding.
+Some GitHub repositories are mirrored on Codeberg.
 
 If you like a repository, please click on the star in the upper right.
 
 <!--
-(PS The ultimate text editor for writing prose and code is Emacs.
+(PS: The ultimate text editor for writing prose and code is Emacs.
 All paths through text editors lead to Emacs.
-Some people get stuck all too long in Vim or NeoVim, which are also great editors.)
+Some people get stuck all cccccccccccccccccccc long in Vim or NeoVim, which are also great editors.)
 -->
 
 # Index of repositories
@@ -150,7 +150,7 @@ Tools to enhance success at cryopreserving protein and nucleic acid crystals.
 Tools to support protein and nucleic acid crystallization.
 
 - [Crystal scoring key](https://github.com/MooersLab/crystal-score-key)
-- [Crystallization drop observation record for 24 well tray](https://github.com/MooersLab/crystallization-observation-record-24wells)
+- [Crystallization drop observation record for 24-well tray](https://github.com/MooersLab/crystallization-observation-record-24wells)
 - [Vary One-Factor-at-a-Time (OFAT) experimental designs](https://github.com/MooersLab/ofat4xtals)
 - [Definitive Screening Designs](https://github.com/MooersLab/dsd4xtals)
 
@@ -172,8 +172,8 @@ Tools to support protein and nucleic acid crystallization.
 
 - [Jupyterlab cctbx snippets](https://github.com/MooersLab/jupyterlabcctbxsnips) CCTBX snippets for JupyterLab with the *jupyterlab-snippets* extension or the jupyterlab-snippets-mutlimenus extension.
 - [Jupyterlab cctbx plus snippets](https://github.com/MooersLab/jupyterlabcctbxsnipsplus) The variant of the *jupyterlabcctbxsnips* library with comments to guide editing of the snippets.
-- [Tagged cctbx snippets](https://github.com/MooersLab/taggedcctbxsnips) The variant for the Elyra-snippet extension for Jupyterlab. The snippets have tags in their metadata that can be used to retrieve code snippets.
-- [Tagged cctbx plus snippets](https://github.com/MooersLab/taggedcctbxsnipsplus) The variant for the Elyra-snippet extension for Jupyterlab. The tab stops in a comment block to guide the editing of the live snippet. The snippets have tags in their metadata that can be used to retrieve snippets.
+- [Tagged cctbx snippets](https://github.com/MooersLab/taggedcctbxsnips) The variant for the Elyra-snippet extension for JupyterLab. The snippets have tags in their metadata that you can use to retrieve code snippets.
+- [Tagged cctbx plus snippets](https://github.com/MooersLab/taggedcctbxsnipsplus) The variant for the Elyra-snippet extension for Jupyterlab. The tab stops in a comment block guide editing the live snippet. Snippets have tags in their metadata that can be used to retrieve them.
 - [Colab cctbx snippets](https://github.com/MooersLab/colabcctbxsnips) Colab snippets.
 
 
@@ -184,7 +184,7 @@ Tools to support protein and nucleic acid crystallization.
 - [cctbxsnips-VSC](https://github.com/MooersLab/cctbxsnips-VSC) CCTBX snippets for Visual Studio Code (VSC).
 - [cctbxsnips-UltiSnips](https://github.com/MooersLab/cctbxsnips-Ultisnips) CCTBX snippets for Vim or NeoVim via UltiSnips plugin.
 - [cctbxsnips-neosnippets](https://github.com/MooersLab/cctbxsnips-neosnippets) CCTBX snippets for Vim or NeoVim via neosnippets plugin.
-- [cctbxsnips-Snipmate](https://github.com/MooersLab/cctbxsnips-snipmate) CCTBX snippets for Vim or NeoVim via snipmate plugin.
+- [cctbxsnips-Snipmate](https://github.com/MooersLab/cctbxsnips-snipmate) CCTBX snippets for Vim or NeoVim via the snipmate plugin.
 - [cctbxsnips-Atom](https://github.com/MooersLab/cctbxsnips-Atom) CCTBX snippets for Atom. Have the same format required for Pulsar.
 
 
@@ -197,17 +197,17 @@ Tools to support protein and nucleic acid crystallization.
 
 ## Emacs related
 Today's Emacs is not your grandfather's Emacs.
-The median age of an Emacs user is 32, not 77, as you might expect for a text editing program who is about 40 years old.
-This is due to a very active community of young users centered around several YouTube channels, Emacs Lisp being well-designed to customize Emacs, an online annual international conference (emacsconf), the popularity of org-mode, and a welcoming community of developers.
+The median age of an Emacs user is 32, not 77, as you might expect for a text editing program that is about 40 years old.
+This is due to a very active community of young users centered around several YouTube channels, Emacs Lisp being well-designed for customizing Emacs, an annual international conference (emacsconf), the popularity of org-mode, and a welcoming community of developers.
 Elisp was first used in Emacs 19 in 1985, with the GNU Emacs 19.3, about ten years after the project's start.
 
-It should be noted that Emacs is single-threaded.
-This is a significant limitation when it comes to loading large embedded images.
+Emacs is single-threaded.
+This is a significant limitation when loading large embedded images.
 The developers have optimized and continue to optimize the part of the codebase that relies on C for speed, so single-threading is generally not a hindrance for most uses.
 
 One group has started a 'lem' project that uses Common Lisp to build a multithreaded text editor similar to Emacs. 
 Unfortunately, `lem` is not user-ready in our experience. 
-Perhaps Emacs users will migrate to `lem` someday. 
+Perhaps Emacs users will migrate to `lem` vcccccccv. 
 In the meantime, it is worth continuing to use Emacs, knowing that a multithreading alternative is under development.
 
 The Emacs project is open-source and run by several hundred volunteer core developers.
@@ -237,20 +237,20 @@ You probably just want to copy bits of configuration to integrate into your own 
 
 - [A simpler approach to using org in place of the init.el file](https://github.com/MooersLab/emacs-simple-init-org/tree/main)
 - [Compiling Emacs29 on Sequoia (macOS 15.01) with tree-sitter](https://github.com/MooersLab/compile-emacs-29/)
-- [Compiling Emacs30 on Ventura (macOS 13.2) with tree-sitter](https://github.com/MooersLab/emacs30macos13treesitter) This protocol compiles Emacs from source with tree-sitter support for structured editing of computer code on macOS.
+- [Compiling Emacs30 on Ventura (macOS 13.2) with tree-sitter](https://github.com/MooersLab/emacs30macos13treesitter). This protocol compiles Emacs from source with tree-sitter support for structured code editing on macOS.
 - [Compiling Emacs30 on Ubuntu22.04 LTS with tree-sitter](https://github.com/MooersLab/emacs30ubuntu22) This protocol compiles Emacs with tree-sitter support on Ubuntu.
-- [crafted-emacs user config](https://github.com/MooersLab/crafted-emacs-config) My user configuration file (config.el) for the crafted-emacs profile. I did install use-package and used it to install several packages. The base profile has the Doom theme, Vertico completion stack, and eglot. I added my org-agenda config and my favorite key bindings. I am currently *luvin* it.
-- [latex-emacs29 configuration](https://github.com/MooersLab/latex-emacs) A configuration file enhancing the use of LaTeX in Gnu Emacs version 29.0.5. Includes org-mode configuration.
+- [crafted-emacs user config](https://github.com/MooersLab/crafted-emacs-config) My user configuration file (config.el) for the crafted-emacs profile. I installed use-package and used it to install several packages. The base profile has the Doom theme, Vertico completion stack, and eglot. I added my org-agenda config and my favorite key bindings. I am currently *luvin* it.
+- [latex-emacs29 configuration](https://github.com/MooersLab/latex-emacs) A configuration file enhancing the use of LaTeX in GNU Emacs version 29.0.5. Includes org-mode configuration.
 - [latex-emacs28 configuration](https://github.com/MooersLab/latexemacs28) Similar to above but for GNU Emacs version 28.
 - [latex-emacs30 configuration](https://github.com/MooersLab/latexemacs30) Similar to above but for GNU Emacs version 30.
-- [scimax user.el](https://github.com/MooersLab/scimaxuserconfig) Scimax is the Emacs configuration that Dr. John Kitchin of Carniege-Mellon University is developing to support reproducible research by scientists with GNU Emacs. The *user.el* file for Scimax enables Scimax users to add keybindings and packages. I added features from latex-emacs and config.org.
+- [scimax user.el](https://github.com/MooersLab/scimaxuserconfig) Scimax is the Emacs configuration that Dr. John Kitchin of Carniege-Mellon University is developing to support reproducible research by scientists with GNU Emacs. The *user.el* file for Scimax lets users add keybindings and packages. I added features from latex-emacs and config.org.
 - [config.org](https://github.com/MooersLab/configorg) My default GNU Emacs version 30 configuration file.
 
 ### Document templates and workflows in LaTeX and Org-mode
 
-Org-mode is a blend of the best features of Markdown and LaTeX.
-Although you can use org-mode without knowledge of LaTeX, you do not have to give up any of your skills and knowledge of using LaTeX to use org-mode.
-You gain powerful tools for navigating the file, making major rearrangements of its sub-trees, and interfacing with many other programs, such as Gnuplot, for generating data plots from tables.
+Org-mode blends the best features of Markdown and LaTeX.
+Although you can use Org mode without knowing LaTeX, you don't have to give up any of your LaTeX skills and knowledge to use Org mode.
+You gain powerful tools for navigating the file, making major rearrangements of its subtrees, and interfacing with many other programs, such as Gnuplot, to generate data plots from tables.
 Org-mode's table editor is reason enough to adopt its use because it makes assembling a table easy.
 For example, you can draft a table in Org mode, drop it into Copilot, and ask it to reformat it in LaTeX.
 
@@ -277,7 +277,7 @@ As an advanced beginner, I find the pressure of assembling a talk an effective w
 - [emacsconf 2021 talk about rendering molecular graphics with PyMOL in org literate programming files](https://emacsconf.org/2021/talks/molecular/) Video and comments.
 - [EmacsATX Meetup Talk, 4 May 2022: functional programming in Emacs lisp](https://github.com/MooersLab/EmacsATX4May2022) Slides.
 - [Video link to talk about GhostText, Oklahoma Data Science Workshop, July 2022](https://mediasite.ouhsc.edu/Mediasite/Channel/python/watch/4da0872f028c4255ae12935655e911321d)
-- [Slides from talk about GhostText, Data Science Workshop, July 2022](https://github.com/MooersLab/DSW22ghosttext) GhostTexT rocks! It enables Emacs to edit textboxes on websites. You can use GhostText to bring the full power of Emacs to Overleaf (*Important:*  use the legacy version rendering of the text area in Overleaf to get text imported into a LaTeX buffer).
+- [Slides from talk about GhostText, Data Science Workshop, July 2022](https://github.com/MooersLab/DSW22ghosttext) GhostText rocks! It enables Emacs to edit text boxes on websites. You can use GhostText to bring the full power of Emacs to Overleaf (*Important:*  use the legacy version rendering of the text area in Overleaf to get text imported into a LaTeX buffer).
 - [emacsconf 2022 talk about using Emacs to edit Jupyter cells via GhostText and atomic-chrome](https://emacsconf.org/2022/talks/jupyter/) Video and comments.
 - [emacsconf 2023 talk about using voice-computing with Emacs to enhance productivity](https://emacsconf.org/2023/talks/voice/) Video, transcript, and comments.
 - [DSW November 2024: A Science Writing Workflow in Org Mode: slides and link to talk](https://github.com/MooersLab/DSW24-org-mode-slides)
@@ -293,15 +293,14 @@ As an advanced beginner, I find the pressure of assembling a talk an effective w
 ## Jupyter and Colab related
 
 ### Jupyter and PyMOL
-
-PyMOL can be run in Jupyter via PyMOL's Python API.
+ You can run PyMOL in Jupyter via PyMOL's Python API.
 
 #### Snippet libraries for direct use in Jupyter
 
-Multiple extensions for Jupyter support the use of snippets.
+Multiple Jupyter extensions support snippets.
 However, the support does not include tab stops or tab triggers, two standard features of snippet support in modern text editors.
-The libraries with `plus` at the end of their name have a second copy of the code in a comment.
-This copy is marked with the sites of the tab stops where you might want to change the parameter value from its default value.
+Libraries with `plus` at the end of their name include a second copy of the code in a comment.
+This copy is marked with the tab-stop locations where you might want to change the parameter value from its default.
 
 ##### Classics Notebook
 PyMOL Python snippets for use in the Classic Jupyter Notebook with the `snippets_menu` notebook extension.
@@ -311,13 +310,13 @@ PyMOL Python snippets for use in the Classic Jupyter Notebook with the `snippets
 
 ##### JupyterLab
 
-PyMOL Python snippets for use in JupyterLab with the jupyterlab-snippets extension.
+PyMOL Python snippets for JupyterLab using the jupyterlab-snippets extension.
 
 - [jupyterlabpymolpysnips](https://github.com/MooersLab/jupyterlabpymolpysnips) PyMOL Python snippets for use in JupyterLab with the jupyterlab-snippets extension.
 - [jupyternbclassicpymolpysnipsplus](https://github.com/MooersLab/jupyternbclassicpymolpysnipsplus)
 
 PyMOL Python snippets for use with the elyra-snippets extension and with PyMOL.
-These snippets can be retrieved with tags in the elyra-snippet GUI.
+You can retrieve these snippets using tags in the elyra-snippet GUI.
 
 - [taggedpymolpysnips](https://github.com/MooersLab/taggedpymolpysnips)
 - [taggedpymolpysnipspymolpysnipsplus](https://github.com/MooersLab/taggedpymolpysnipspymolpysnipsplus)
@@ -352,19 +351,19 @@ These editors work in Jupyter Notebooks via the GhostText browser plugin.
 ### Experimental designs for crystal growth
 We provide easy and fast-to-deploy experimental designs for crystallization setups in Excel workbooks.
 These designs take three minutes to customize for your experimental needs.
-Plots of the results against factor level for each factor are automatically generated, thereby saving the users many hours of tedious coding of the data plots for each crystallization tray.
+Plots of the results against each factor level are automatically generated, saving users many hours of tedious coding for each crystallization tray.
 These workbooks could be adapted to other kinds of experiments.
 
 The OFAT experiments are often used to screen for active factors.
 The active factors can then be used in DSD designs to find the optimal conditions to return large crystals.
 OFAT experiments are inappropriate for this objective because they do not measure interactions between factors.
-Factor interactions are quite common in the crystallization of proteins.
+Factor interactions are common in protein crystallization.
 
-The DSDs tend to be limited to three active factors because of their small size and weaker statistical power.
-Larger traditional response surface method designs (RSM) should be used if more factors are suspected of being active or if two or more interactions are expected.
+DSDs are typically limited to three active factors because of their small sample size and weaker statistical power.
+Use larger traditional response surface method designs (RSM) if more factors are suspected to be active or if two or more interactions are expected.
 DSD can be thought of as a subset of RSMs.
 Their small size is attractive for protein crystallization, where the sample is expensive and scarce.
-The small size of DSD experiments opens up the possibility of replicating them to measure the variance.
+The small size of DSD experiments makes it possible to replicate them to estimate variance.
 
 
 - [Vary One-Factor-at-a-Time (OFAT) experimental designs](https://github.com/MooersLab/ofat4xtals)
@@ -380,19 +379,19 @@ The small size of DSD experiments opens up the possibility of replicating them t
 
 ## LaTeX related
 Until recently, I wrote a lot in Emacs on 750words.com via GhostText.
-I configured the atomic-chrome package for Emacs to go into LaTeX mode when GhostText connects to 750words.
+I configured the atomic-chrome package in Emacs to switch to LaTeX mode when GhostText connects to 750words.
 I can also use Emacs to write and edit text in Overleaf via atomic-chrome and GhostText.
-This is a very cool way to extend Emacs to websites with weaker support for editing text.
+This is a very cool way to extend Emacs to websites with weaker text-editing support.
 
 Now I use voice-to-text to dictate in 750words.com or Overleaf.
 I use voice commands to insert snippets containing LaTeX code.
 See the [](https://github.com/MooersLab/MooersLab/blob/main/README.md#voice-computing-for-enchanced-productivity) section below.
 
-If you do not have extensive experience writing in a markup language like HTML or Markdown, start with one of the Markdown flavors to become productive as quickly as possible.
+If you don't have extensive experience writing in a markup language like HTML or Markdown, start with a Markdown flavor to become productive as quickly as possible.
 Many ideas behind the typesetting program Markdown will transfer to LaTeX.
 Markdown is easy to use and highly intuitive.
-Mastery of Markdown will provide a fallback system if you get stuck debugging the errors in your LaTeX document.
-The latter is a common experience for beginning users of LaTeX.
+Mastering Markdown provides a fallback system if you get stuck debugging errors in your LaTeX document.
+This is a common experience for beginning LaTeX users.
 
 ### What about MyST?
 
@@ -401,10 +400,10 @@ The latter is a common experience for beginning users of LaTeX.
 You can export files to LaTeX, MS Word, and PDF.
 
 *MyST* is part of the dream of converting Jupyter into a literate programming platform and supporting the conversion of scientific Publications into highly extensible documents.
-You can edit *MyST* files in the newer versions of Jupyter Lab and any text editor.
+You can edit *MyST* files in the newer versions of JupyterLab and any text editor.
 
 It provides a preview in your default browser that is updated each time you save the `main.md` file.
-The lovers of HTML are wowed by this feature.
+HTML lovers are wowed by this feature.
 
 Live preview extensions are available for Emacs, Vim, and VS Code.
 It feels like an underdeveloped version of org-mode, which had all the export capabilities over a decade ago.
@@ -413,10 +412,10 @@ It may be more analogous to the well-planned, lean, and efficient R Markdown for
 
 ### What about RestructuredText and Typst?
 
-These markup languages are more potent than markdown.
+These markup languages are more potent than Markdown.
 However, very few publishers will accept the source files for these markup languages.
 You may be able to submit the PDF generated by one of these systems on your first submission.
-However, you will be stuck transferring the contents of your file to MS Word or LaTeX.
+However, you will still need to transfer the contents of your file to MS Word or LaTeX.
 
 A nice introduction to Typst in October 2024 by Dr. Chase Brown of the University of Central Florida is found [here](https://mediasite.ouhsc.edu/Mediasite/Channel/python/browse/null/most-recent/null/0/null).
 
@@ -425,7 +424,7 @@ A nice introduction to Typst in October 2024 by Dr. Chase Brown of the Universit
 
 This typesetting language uses BibTeX and LaTeX Math.
 *RestructuredText* is used by some in the Python world to generate documentation.
-The annual SciPy Proceedings have been prepared with it for many years.
+The annual SciPy Proceedings have used it for many years.
 It harnesses indentation, for better or worse.
 It is not hard to use for a LaTeX user.
 
@@ -438,13 +437,13 @@ This may be the main reason to use it for simple documents.
 
 *Typst* also utilizes a more computer programmer-oriented approach to typesetting by using functions.
 *Typst* also provides boilerplate styling templates similar to classes in LaTeX.
-The typesetting of math equations is similar to that for LaTeX, so LaTeX users will find it easy to adopt.
+Math typesetting is similar to LaTeX, so LaTeX users will find it easy to adopt.
 *Typst* set out to replace LaTeX but retains many features.
 
 ##### Typst is ready for writing scientific manuscripts
 
 It is easy to write a generic manuscript in *typst* for the [first submission PDF](https://github.com/MooersLab/manuscriptInTypst).
-The upside is the speed at which the document is compiled.
+The upside is how quickly the document compiles.
 The corresponding writing project log file template in *typst* is found [here](https://github.com/MooersLab/writingLogInTypst).
 The corresponding modular annotated bibliography template in *typst* is found [here](https://github.com/MooersLab/modular-annotated-bibliography-typst).
 
@@ -456,19 +455,19 @@ The corresponding modular annotated bibliography template in *typst* is found [h
 You can use a `#+typst:` keyword to start lines with *typst* commands.
 There is even a *typst* submenu for exporting to PDF or *typ* files.
 
-There is an abandoned `typst-mode` project on GitHub.
+An abandoned `typst-mode` project exists on GitHub.
 The author shifted his efforts to the `typst-ts-mode` project.
 Unfortunately, `typst-ts-mode` package is harder to install.
 
 Oh well, `typst-mode` is much easier to install and use.
-It provides syntax highlighting and entering `C-c C-p` compiles the document to PDF and instantly displays it in your default PDF viewer.
+It provides syntax highlighting, and entering `C-c C-p` compiles the document to PDF and instantly displays it in your default PDF viewer.
 That is all of the support that I need most of the time.
 
 
-##### Who is typst for?
-It might still be more accessible for computer programmers to adopt *typst* than nonprogrammers.
+##### Who is typst for?               
+It might still be easier for computer programmers to adopt *typst* than for nonprogrammers.
 Writers who are not computer programmers will quickly master Common Markdown.
-The next step in markup systems will probably still be the LyX editor, which offers a `what you see is what you get` approach to using LaTeX.
+The next step in markup   will probably still be the LyX editor, which offers a `what you see is what you get` approach to using LaTeX.
 
 
 ### Links to LaTeX-related repositories
@@ -476,25 +475,24 @@ The next step in markup systems will probably still be the LyX editor, which off
 - [LaTeX bare-bones template file](https://github.com/MooersLab/barebonesLaTeX/tree/main) This template is for people who want to make a simple document without a lot of bells and whistles.
 - [LaTeX tips](https://github.com/MooersLab/latextips)
 - [Configuration for Emacs30 to support structured editing](https://github.com/MooersLab/emacs30venturatreesitterconfig)
-- [latex-emacs29 configuration](https://github.com/MooersLab/latex-emacs) A configuration file enhancing the use of LaTeX in Gnu Emacs version 29. This is the current release version of Gnu Emacs. Includes org-mode configuration.
-- [latex-emacs28 configuration](https://github.com/MooersLab/latexemacs28) Similar to above but for Gnu Emacs version 28.
-- [latex-emacs30 configuration](https://github.com/MooersLab/latexemacs30) Similar to above but for Gnu Emacs version 30.
+- [latex-emacs29 configuration](https://github.com/MooersLab/latex-emacs) A configuration file enhancing the use of LaTeX in GNU Emacs version 29. This is the current release version of GNU Emacs. Includes org-mode configuration.
+- [latex-emacs28 configuration](https://github.com/MooersLab/latexemacs28) Similar to above but for GNU Emacs version 28.
+- [latex-emacs30 configuration](https://github.com/MooersLab/latexemacs30) Similar to above but for GNU Emacs version 30.
 - [Slides about workflow in LaTeX](https://github.com/MooersLab/BerlinEmacsAugust2022) presented to the Berlin Emacs Meetup August 2022. Not recorded. It was a 90-minute lecture.
-- [slideshowTemplateInLaTeX](https://github.com/MooersLab/slideshowTemplateLaTeX) Slideshow template with use with the LaTeX package Beamer that supports the making of slides. Our templates make slides that do not look like they were made in LaTeX because we hide the navigation icons that no one ever uses and replace the triangles in bulleted lists with round bullets. Our slides look like they were made in PowerPoint.
-- [posterInLaTeX](https://github.com/MooersLab/posterInLaTeX) uses Beamer to make a poster with a simple design. This enables whipping together a poster in a few hours. It is much easier than using a Gaint slide in PowerPoint. Our approach is also saner than the default approach to making a poster with Beamer.
+- [slideshowTemplateInLaTeX](https://github.com/MooersLab/slideshowTemplateLaTeX) Slideshow template to use with the LaTeX package Beamer that supports the making of slides. Our templates make slides that don't look like they were made in LaTeX because we hide the navigation icons no one uses and replace the triangles in bulleted lists with round bullets. Our slides look like they were made in PowerPoint.
+- [posterInLaTeX](https://github.com/MooersLab/posterInLaTeX) uses Beamer to make a poster with a simple design. This lets you whip up a poster in a few hours. It is much easier than using a Gaint slide in PowerPoint. Our approach is also simpler than the default way to make a poster with Beamer.
 - [LaTeX manuscript template](https://github.com/MooersLab/manuscriptInLaTeX) Generic template for the first submission as a PDF.
 - [Writing log template in LaTeX](https://github.com/MooersLab/writingLogTemplate) Place to track progress and plans behind a manuscript.
-- [Annotated bibliography template in LaTeX](https://github.com/MooersLab/annotatedBibliography) Every writing project needs one of these. These should be utilized more. They are good for recalling the relevant features of a paper.
+- [Annotated bibliography template in LaTeX](https://github.com/MooersLab/annotatedBibliography) Every writing project needs one of these. These should be utilized more. They are good for recalling a paper's relevant features.
 - [ditto but for org-mode](https://github.com/MooersLab/annotated-bibliography-org/blob/main/README.md)
-- [Diary for 2024 in LaTeX](https://github.com/MooersLab/diary2024inLaTeX) Designed for use on Overleaf.com but can compile locally. Each day is a section. Each month is a chapter. Has an automatically generated index (most markdowns cannot generate indices). Very feature-rich and ready to use. Makes a great electronic scientific notebook because it is searchable and indexed. > 1000-page document at the end of the year compiles to PDF in under a minute on Overleaf.
+- [Diary for 2024 in LaTeX](https://github.com/MooersLab/diary2024inLaTeX) Designed for use on Overleaf.com but can compile locally. Each day is a section. Each month is a chapter. Has an automatically generated index (most Markdown cannot generate indices). Very feature-rich and ready to use. Makes a great electronic scientific notebook because it is searchable and indexed. > A 1000-page document at the end of the year compiles to PDF in under a minute on Overleaf.
 - [snippets for latex-mode in Emacs](https://github.com/MooersLab/snippet-latex-mode) My LaTeX code snippets for yasnippets.
 - [The writer's creed](https://github.com/MooersLab/thewriterslaw) Guidelines for greater productivity as a writer.
-- [bib2item3](https://github.com/MooersLab/bib2item3) Python script to convert bibtex.bib file to bibitems in `tex` file format. Bibitems are required by some publishers. They are a pain to create manually.
-- [LaTeX Voice In Plus library](https://github.com/MooersLab/latex-voice-in) Speech-to-text commands for inserting LaTeX markup.
+- [bib2item3](https://github.com/MooersLab/bib2item3) Python script to convert bibtex.bib file to bibitems in `tex` file format. Bibitems are required by some publishers. They are a pain to create manually.                                                                                                                     - [LaTeX Voice In Plus library](https://github.com/MooersLab/latex-voice-in) Speech-to-text commands for inserting LaTeX markup.
 
 ## Literate Programming
 
-See the sections on Org-mode and Jupyter and Colab.
+See the sections on Org-mode, Jupyter, and Colab.
 
 ## Molecular Graphics Related
 [Collection of links for a 15-hour course on Molecular Graphics](https://mooerslab.github.io/MolecularGraphicsLinks/index.html)
@@ -508,19 +506,19 @@ Coming soon. Includes Structure-based Drug Design.
 ### Highlights:
 
 - **EasyPyMOL**: go here for an easy start for interactive horizontal scripting on the command line in PyMOL and for the roundview.py function. YouTube videos show how to install the software on various operating systems.
-- **pymolshortcuts**: These are very popular. You do not need to be a code writer to use these. This is what most people will want to install. The README.md explains the installation and use.
+- **pymolshortcuts**: These are very popular. You don't need to be a coder to use them. This is what most people will want to install. The README.md explains the installation and use.
 - **pymolsnips**: For people writing traditional vertical *.pml PyMOL scripts in a text editor. The README.md describes how to install each of the 17 supported text editors. It then shows how to install the snippet library in each editor. Animations show the snippet library in use in each text editor.
-- **pymolpysnips**: For people wanting to run PyMOL in one of these computational notebooks: Jupyter, Colab, RStudio, and org-mode.
+- **pymolpysnips**: For people wanting to run PyMOL in one of these computational notebooks: Jupyter, Colab, RStudio, and Org-mode.
 - **PyMOL wall hangings**: Protocol to convert molecular artwork into large images for framing and hanging on a wall.
 
 ### Links
 - [pymolrc](https://github.com/MooersLab/pymolrc) My pymolrc file.
-- [pymolsnips](https://github.com/MooersLab/pymolsnips) A large collection of PyMOL macro language (pml) code snippets. It contains a link to a webpage with extensive instructions on installing 19 text editors.
-- [pymolshortcuts](https://github.com/MooersLab/pymolshortcuts) A large collection of functions mapped to aliases or shortcuts. This collection of functions is very useful for non-coders.
+- [pymolsnips](https://github.com/MooersLab/pymolsnips) A large collection of PyMOL macro language (pml) code snippets. It links to a webpage with extensive instructions on installing 19 text editors.
+- [pymolshortcuts](https://github.com/MooersLab/pymolshortcuts) A large collection of functions mapped to aliases or                                                                                         . This collection of functions is very useful for non-coders.
 - [EasyPyMOL](https://github.com/MooersLab/EasyPyMOL) Support for horizontal scripting in PyMOL.
 - [orgpymolpysnips](https://github.com/MooersLab/orgpymolpysnips) Support for generating computational narratives (literate programming plus interactive computing) in org-mode with PyMOL.
-- [rstudiopymolpysnips](https://github.com/MooersLab/rstudiopymolpysnips) Support for literate programming in Rstuido with PyMOL.
-- [taggedpymolpysnips](https://github.com/MooersLab/taggedpymolpysnips) Support for literate programming in JuptyerLab with tagged snippets with the elyra-snippets extension and with PyMOL.
+- [rstudiopymolpysnips](https://github.com/MooersLab/rstudiopymolpysnips) Support for literate programming in RStudio with PyMOL.
+- [taggedpymolpysnips](https://github.com/MooersLab/taggedpymolpysnips) Support for literate programming in JupyterLab with tagged snippets with the elyra-snippets extension and with PyMOL.
 - [jupyterlabpymolpysnips](https://github.com/MooersLab/jupyterlabpymolpysnips) PyMOL Python snippets for use in JupyterLab with the jupyterlab-snippets extension.
 - [jupyternbclassicpymolpysnips]() PyMOL Python snippets for use in the Classic Jupyter Notebook (invoked with `jupyter nbclassic` with Jupyter Notebook version 7).
 - [colabOpenSourcePyMOLpySnips](https://github.com/MooersLab/colabOpenSourcePyMOLpySnips) PyMOL Python snippets for use in Colab with open source PyMOL.
@@ -536,7 +534,7 @@ See the sections on PyMOL, CCTBX, and Jupyter and Colab. Python is in many repos
 - [PyTexas talk: Voice computing with Python in Jupyter notebooks (slides and audio), 2024 Apr. 21](https://github.com/MooersLab/voice-computing-with-python-in-jupyter-notebooks)
 
 ## R statistical program
-- [rstudiopymolpysnips](https://github.com/MooersLab/rstudiopymolpysnips) Support for literate programming in Rstuido with Python code for PyMOL.
+- [rstudiopymolpysnips](https://github.com/MooersLab/rstudiopymolpysnips) Support for literate programming in RStudio with Python code for PyMOL.
 
 ## RNA structure
 - [Count atoms in RNA by element](https://github.com/MooersLab/RNA-atom-counter)
@@ -582,12 +580,12 @@ Voice computing can be divided into three activities:
 
 Speech-to-text is the easiest to master, the most widely applicable, and the most effective way of enhancing academic productivity.
 
-The video below exemplifies using a voice trigger to insert a chunk of LaTeX code I use to plan each day.
-It is inserted after saying `insert start day`.
-You can easily make a markdown variant customized to meet your needs.
-I am using the Voice In Plus software in Google Chrome.
+The video below shows how to use a voice trigger to insert a chunk of LaTeX code I use to plan each day.
+It inserts after you say `insert start day`.
+You can easily make a Markdown variant customized to meet your needs.
+I use Voice In Plus in Google Chrome.
 It also works in Microsoft Edge.
-It uses the built-in Speech-to-text software in the web browser on your local machine, so latency is not much of an issue.
+It uses the browser's built-in Speech-to-text software on your local machine, so latency isn't much of an issue.
 
 
 
@@ -599,7 +597,7 @@ It uses the built-in Speech-to-text software in the web browser on your local ma
 - [Voice In Plus for dictation and voice control in the web](https://github.com/MooersLab#voice-in-plus-related)
 - [Whisper for dictation, includes my text replacements](https://github.com/MooersLab#whisper-related)
 - [Voice Typing in Google Docs for dictation](https://github.com/MooersLab#voice-typing-in-google-docs-related)
-- [Words counts before and after adopting ](https://github.com/MooersLab#Word-Counts-before-and-after-adopting-Voice-Computing)
+- [Words counts before and after adopting](https://github.com/MooersLab#Word-Counts-before-and-after-adopting-Voice-Computing)
 - [Voice computing-related talks](https://github.com/MooersLab#voice-computing-related-talks)
 
 
@@ -607,14 +605,14 @@ It uses the built-in Speech-to-text software in the web browser on your local ma
 
 My sampling of the available -related software is highly skewed towards the Mac operating system and Google Chrome.
 I have yet to complete a comprehensive survey of the software available for Windows, Linux, and other browsers.
-If you are a user of such systems, the review below will give you a taste of what may be available for these other operating systems.
+If you use these systems, the review below will give you a taste of what may be available for these other operating systems.
 
 **Voice Typing** is widely available through Google Docs.
 **Voice Typing** supports almost 100 voice commands but does not support custom commands.
 
-**Voice In Plus** has similar accuracy to **Voice Typing** with the addition of custom commands.
+**Voice In Plus** has accuracy similar to **Voice Typing**, with the addition of custom commands.
 I use the latter every day to dictate the first drafts.
-I do the rewriting using the keyboard.
+I rewrite using the keyboard.
 
 OpenAI's **Whisper** may be an order of magnitude more accurate.
 It has a latency issue, so live transcription and interactive editing are difficult.
@@ -628,13 +626,13 @@ This code also supports inserting simple commands like `new paragraph` during di
 A very new use of **Whisper** for me is inside Emacs.
 After my third attempt, I finally figured out how to run **Whisper** in Emacs via the [**whisper.el** package](https://github.com/natrys/whisper.el?tab=readme-ov-file).
 The package automates compiling the *whisper.cpp* software and downloading the Whisper LLM.
-You record a local audio file of your dictation, and then you transcribe that audio file into text that appears in the current buffer in Emacs.
+You record a local audio file of your dictation, then transcribe it into text that appears in the current buffer in Emacs.
 The `M-H r` keybinding starts the audio recording, and the `C-u M-x r` keybinding transcribes the audio file.
 Here, `H` is for the Hyper key; I have it mapped to the right-hand command key (alt-key) on a non-Mac keyboard.
 
 The natural unit of dictation with `whisper.el` seems to be the paragraph.
-This form of dictation is less interactive than Voice In Plus, where you can use the keyboard to edit the currently dictated sentence.
-I have yet to figure out the Elisp code to apply my text replacements in the transcription step.
+This form of dictation is less interactive than Voice In Plus, where you can use the keyboard to edit the sentence being dictated.
+I haven't figured out the Elisp code to apply my text replacements during transcription.
 
 The **Superwhisper.** **app** for the Mac is interesting.
 It supports dictation in e-mail and elsewhere.
@@ -642,34 +640,32 @@ Its support for custom commands is limited; it still needs to support bulk uploa
 You have to pay a subscription fee to access all its features.
 Its features may appeal to people with numerous electronic devices that must be synchronized with their primary computer.
 
-Macs with a newer Silicon chip have a local LLM that runs the conversion of your voice into words.
+Macs with a newer Silicon chip have a local LLM that converts your voice to text.
 There are two programs, **Dictation** and **Voice Control**.
 The latter program is more interesting because you can add custom voice snippets.
-On my old Intel-based MacBook Pro, **Voice Control** did not do accurate dictations.
-It was also slower because it utilizes a remote LLM.
+On my old Intel-based MacBook Pro, **Voice Control** did not do accurate dictation.
+It was also slower because it utilized a remote LLM.
 
 However, with a new M4 chip-based MacBook Pro, **Voice Control**  does a very accurate dictation job.
-Compared to **Voice In Plus**, its lag time is longer.
-**Voice Control**  will operate anywhere you can put a cursor.
-I did have it working for a while inside of Emacs, but then some package I introduced started interfering with it.
+Compared to **Voice In Plus**, it has longer lag.
+**Voice Control**  works anywhere you can place a cursor.
 
-**Talon Voice** supports all three activities, but speech-to-text accuracy needs to catch up to **Voice Typing** and **Voice In Plus** in my experience.
+**Talon Voice** supports all three activities, but in my experience, speech-to-text accuracy still needs to catch up to **Voice Typing** and **Voice In Plus**.
 I have been using **Talon Voice** for the last two activities.
-I plan to increase my use of **Talon Voice** for dictation.
-
-The **Talon Voice** software is designed to be used by non-coders.
-It can be configured with Talonscript files that have a simple syntax that is a subset of Python.
+I plan to use **Talon Voice** more for dictation.
+The **Talon Voice** software is designed for non-coders.
+It can be configured with Talonscript files that use a simple syntax, a subset of Python.
 You can extensively customize **Talon Voice** using the Talonscript files without writing any Python code.
 
 Voice computing supports extending your productivity when you get tired of typing.
-Voice computing also supports issuing commands and dictating text while standing.
-Voice computing could be a cure for the envy of those colleagues who have standing desks.
+Voice computing also lets you issue commands and dictate text while standing.
+Voice computing could cure the envy of colleagues with standing desks.
 You can speak commands to your computer while standing 20 feet away from it and looking out the window.
 You can give your body and eyes a break from sitting and staring at the computer screen while remaining productive.
 
 ### Word Counts before (orange) and after (magenta) adopting Voice Computing
 
-I have seen a three-fold increase in the total number of words captured in September and October 2023 compared to June and July 2023 before I took up speech-to-text in mid-August 2023.
+I saw a three-fold increase in the total number of words captured in September and October 2023 compared to June and July 2023, after I took up speech-to-text in mid-August 2023.
 I have had the same amount of out-of-town travel during the first two periods.
 I did not make a conscious effort to capture more words per day.
 
@@ -680,51 +676,51 @@ From that point to just before Christmas, I made a concerted effort to generate 
 Then family obligations reduced my daily word generation.
 Nonetheless, I had a five-fold increase in the total word count for November and December 2023.
 
-A three-fold increase is more realistic with all of the disruptions from doing experiments, administration, teaching, service, and work-related travel.
+A three-fold increase is more realistic given the disruptions from experiments, administration, teaching, service, and work-related travel.
 The slight decrease in word count after the new year 2024 may reflect a shift in my focus toward turning more of my writing into publishable products.
 This decrease may reflect more effort focused on editing text.
 
 In November-December 2024, I spent 80 hours preparing a talk for the Data Science Workshop and 140 hours preparing an Emacsconf talk.
-This would explain some of the decline in word count in November.
+This helps explain the decline in word count in November.
 I started posting the daily writing effort in December.
-This might have changed my behavior by trying to finish a manuscript.
+This might have changed my behavior as I tried to finish a manuscript.
 In any event, the total word count for 2024 was 1,090,627 words.
-This would be equivalent to the content of 12 long novels.
+That's equivalent to 12 long novels.
 Too bad my words are not so golden!
 
 I may have compensated by using a digital voice recorder (DVR) in mid-January 2024 while away from my computer.
-The DVR is superior to a cell phone for recording speech because it does not need to be held next to your mouth.
-The DVR can record a Zoom meeting when lying on a table or a seminar from the back of a room: Use it ethically.
+The DVR is better than a cell phone for recording speech because you don't have to hold it next to your mouth.
+The DVR can record a Zoom meeting while lying on a table or a seminar from the back of a room. Use it ethically.
 I transcribe the audio recordings with a locally installed version of OpenAI's Whisper.
-I use Python and bash scripts to reformat the text with one sentence per line for easier downstream editing.
+I use Python and bash scripts to reformat the text so each sentence is on its own line for easier downstream editing.
 
-I am still using this device daily as of late January 2026.
+I've been using this device daily since late January 2026.
 It is the best $85 investment I have made in a long time.
 It is worth ten times as much. 
 
 Some of my mutterings are rubbish that I cut from the transcripts.
 I occasionally harvest valuable thoughts that are worth retaining.
-I also use the DVR to paraphrase some technical documents that otherwise are tedious to read.
+I also use the DVR to paraphrase technical documents that would otherwise be tedious to read.
 The DVR has extended my generative writing time by 15-30 minutes daily.
 
-Spending more time on rewriting will lead to fewer new words generated if the time spent on writing is constant.
-Rewriting is very time-consuming; it can take as much or more time than generating the text initially.
+Spending more time on rewriting will generate fewer new words if the time spent writing stays constant.
+Rewriting is very time-consuming; it can take as long as, or longer than, generating the text initially.
 AI-powered writing assistants make suggestions, but they are not a silver bullet.
-You still have to spend a lot of time making the appropriate selections; otherwise, your writing will often be degraded.
+You still have to spend a lot of time making the right selections; otherwise, your writing will often suffer.
 These assistants have not saved me time, and they have often wasted it.
 But if they keep you engaged in rewriting, they can be helpful.
 
 Text written for grant applications and articles will take even more time because it needs to be highly polished.
 Sufficient time has to be scheduled for it.
-I plan to spend more time rewriting, so you can expect the new words generated in the following bimonthly reports to decline.
+I plan to spend more time rewriting, so you can expect the number of new words generated in the following bimonthly reports to decline.
 
 The slump from November to February 2025 was due to switching laptop computers.
-The new computer did not run Whisper correctly initially, dramatically reducing my conversion of audio files to text.
+The new computer did not run Whisper correctly at first, which dramatically reduced my ability to convert audio files to text.
 
-The surge in March-April 2025 was likely due to several causes.
+The surge in March-April 2025 likely resulted from several factors.
 First, I discovered the `write file` command in `the whisper.el` package of Emacs.
 This package uses the C++ version of whisper.
-This version is about 100 times faster than the Python version, and it is far easier to install.
+This version is about 100 times faster than the Python version and much easier to install.
 It is not susceptible to the dependency issues that plague Python.
 
 I run this command in a directory where I have moved the audio file.
@@ -732,11 +728,11 @@ This directory is the default directory whenever I log into Emacs.
 I am prompted for the audio file, which is easy to select because it starts with today's date.
 Audio files are then transcribed in a few seconds into one long line.
 I select this line in Emacs to make it an active region.
-I apply a custom-made command (found in the mooerslabfunctions.el) that splits the line by sentences so that I have one sentence per line.
-I either manually parse the text, or I have a chatbot parse the text for me.
+I apply a custom-made command (found in mooerslabfunctions.el) that splits the line by sentences, so I have one sentence per line.
+I either parse the text manually or have a chatbot parse it for me.
 
 Because the final destination of the text will be LaTeX document, I use the following prompt before I supply the transcript.
-The list of todos in org allows me to paste these todos into an org-mode file.
+The to-do list in org lets me paste these to-dos into an org-mode file.
 
 ```bash
 Parse this transcript into paragraphs and subsubsections by topic. Include index keys below the subsubsection headline. Extract the TODO items into an org-mode style checklist starting (e.g., - [ ]). Enclose this list in a LaTeX minted block between \begin{minted}{org} and \end{minted}. Return the text in LaTeX. Here is the transcript:
@@ -747,24 +743,24 @@ Here is my current variant that exports the to-dos in LaTeX:
 ```bash
 Parse this transcript into paragraphs and subsubsections by topic in LaTeX.
 Include index keys below the subsubsection headline.
-Extract the TODO items into an LaTeX-style itemized list with the following frist line: \begin{itemize}[label=\unchecked].
+Extract the TODO items into a LaTeX-style itemized list with the following first line: \begin{itemize}[label=\unchecked].
 Enclose this list in a LaTeX \end{itemize}
 Return the parsed text in LaTeX without the preamble and the \begin{document} and \end{document}.
 Correct the grammar and return one sentence per line.
-Return with the index keys in the format of \index{<keyword or phrase>}.
+Return the index keys in the format \index{<keyword or phrase>}.
 Replace all English contractions with their expansions.
 Return the index keys one per line.
 Here is the transcript:
 ```
 
 I have a chatbot fill in the index keys and reorganize the prose by its identified categories.
-These categories become the titles of subsections.
-The addition of index keys is another distracting chore.
-These are low-level tasks that I do not really like doing and that I neglect doing.
+These categories become the subsection titles.
+Adding index keys is another distracting chore.
+These are low-level tasks I don't really like and tend to neglect.
 Having the chatbot do this labor has been liberating.
 
-Someday, I will take the time to direct a chatbot to go through my old entries in my diary and clean up the text in a similar fashion.
-For example, I have a folder of 365 tex documents for the prior year.
+Someday, I will take the time to direct a chatbot to go through my old diary entries and clean up the text in a similar fashion.
+For example, I have a folder of 365 TeX documents for the prior year.
 I could direct it to review each document and clean up the text in response to the prompt above.
 I must go back through the rewritten text to correct errors and misinterpretations.
 
@@ -772,40 +768,40 @@ I also have the chatbot extract to-do items and put these into a list in org-mod
 I dictate the term `to-do' to mark the beginning of a task for my to-do list.
 I then copy and paste the list into my daily entry in an org-mode document where I keep my daily plans.
 
-I broke my lower right leg in two places September 30, 2025. 
-I sheared the tibia and fibula below the knee and smashed into many parts the shin bone further down my leg.
-The second site has been the origin of a lot of trouble.
+I broke my lower right leg in two places on September 30, 2025. 
+I sheared the tibia and fibula below the knee and smashed into many parts of the shin bone further down my leg.
+The second site has caused a lot of trouble.
 Two metal plates and fourteen screws were used to hold the bones together.
 They were inserted through a 20 cm incision.
-The inital orthopedic surgery wound became infected during the first two weeks.
-The infected tisses were removed in five subsequent operations over the next six weeks.
-Three and half months after the accident, the metal was removed January 14 because the incision wound was not closing.
-One thick plate as making the skin on my shin too taut.
+The initial orthopedic surgery wound became infected during the first two weeks.
+They removed the infected tissue in five subsequent operations over the next six weeks.
+Three and a half months after the accident, the metal was removed on January 14 because the incision wound was not closing.
+One thick metal plate was making the skin on my shin too taut.
 
 
 The subsequent surgeries delayed my recovery.
 I was not able to put any weight on my right leg for 10 weeks.
 By being forced to be very sedentary, my physical stamina diminished greatly.
-This in turn impacted on my mental stamina.
+This, in turn, impacted my mental stamina.
 
-I was able to keep up my daily entries in 750 Words, but I was not able to stick to my writing schedule during most of my recovery. 
-I would start up my writing schedule multiple times only to have it interrupted by medical related matters.
+I was able to keep up my daily entries at 750 Words, but I couldn't stick to my writing schedule during most of my recovery. 
+I would start my writing schedule multiple times, only to have it interrupted by medical matters.
 The daily entries included summaries of what I accomplished the day before and reflections on my medical condition.
-I also kept the record of my drug use.
+I also kept a record of my drug use.
 I have had to take three sets of 3 to 4 antibiotics, each set for six weeks.
 The second set was injected via a PICC line.
 
-Part the problem was the painkillers that I was taking interfered with my sleep.
-There were many days where I was only able to get 2 to 4 hours of sleep during the first 10 weeks.
-Once I was able to put some weight on my right leg and move around more, the fatigue from doing so forced me to sleep several hours more than I normally do.
+Part of the problem was that the painkillers I was taking interfered with my sleep.
+During the first 10 weeks, there were many days when I was only able to get 2 to 4 hours of sleep.
+Once I could put some weight on my right leg and move around more, the fatigue from doing so forced me to sleep several hours more than I normally do.
 Receiving medical treatment actually involved a lot more time than I had expected.
-I had weekly doctor office visits because of the seriousness of my infections, and I had multiple weekly visits from in-home care people.
+I had weekly doctor's office visits because of the seriousness of my infections, and I had multiple weekly visits from in-home care people.
 One week, I tallied up 50 hours spent on matters related to my injury.
 The recovery process was essentially a full-time job.
 
 You would think that being forced to be sedentary would be a wonderful opportunity to get a lot of writing done.
-I had that expectation, but it turned out to be very unrealistic in presence of serious physical trauma.
-Although I was on extended sick leave, I did keep up with many of my professional obligations in terms of reviewing manuscripts and serving on committees via Zoom.
+I had that expectation, but it turned out to be very unrealistic in the presence of serious physical trauma.
+Although I was on extended sick leave, I kept up with many of my professional obligations by reviewing manuscripts and serving on committees via Zoom.
 
 ### What about Mac's Dictation and Voice Control software?
 One alternative is to use the built-in Dictation software for Mac.
@@ -815,25 +811,25 @@ The error rate was reduced enough to make it competitive.
 
 Its advantage is that it can operate anywhere.
 It works inside Emacs and on webpages, including webmail applications like Outlook and Gmail.
-The Dictation software relies on an internet connection for older Intel chip-based Macs.
-The generated sound waves are sent to a server run by Apple and then returned as text.
+Dictation relies on an internet connection on older Intel-based Macs.
+The generated sound waves are sent to an Apple-run server and then returned as text.
 I found the delay caused by this transfer to be unnoticeable.
 
-The Voice Control software provided by the Mac OS has not improved since I last tried it.
+The Voice Control software provided by macOS has not improved since I last tried it.
 Its error rate is too high to use for dictation.
-The advantage of Voice Control is that it supports customized commands and commands that can be used to run GUI-based software.
+The advantage of Voice Control is that it supports custom commands that can run GUI-based software.
 
 ### Whisper and a Digital Voice Recorder
-We use Open-AI's whisper software via the Python openai-whisper package to transcribe my audio recordings with the DVR for almost a year. 
-I had a three-month break after I switched to an Apple Silicon computer in December 2024, on which this Python package was tough to install due to complex dependencies. 
+We use OpenAI's Whisper software via the Python openai-whisper package to transcribe my audio recordings with the DVR for almost a year. 
+I took a three-month break after I switched to an Apple Silicon computer in December 2024, and this Python package was tough to install because of complex dependencies. 
 I finally found that I could compile and run whisper.cpp, which is 100 times faster than the Python-based software.
 
-An alternate approach is to play the DVR with Voice In Plus on Google Chrome and the cursor in a text area in the browser to carry out the transcription and have the text written to the text area.
+An alternate approach is to play the DVR with Voice In Plus in Google Chrome and use the cursor in a text area in the browser to run the transcription and write the text to the text area.
 This ties up the computer for the duration of the recording.
 
-I wrote some Python code that reformats the transcript from Whisper to make it easier to edit.
+I wrote Python code to reformat the Whisper transcript to make it easier to edit.
 I use Python to make my text replacements in the transcript via `regex`.
-The approach I am taking with this software is more cumbersome than the straightforward approach taken by Voice In Plus.
+My approach with this software is more cumbersome than the straightforward approach in Voice In Plus.
 
 In addition, I reformat the text so that each sentence is written on its own line.
 This format eases the deletion of lines containing rubbish.
